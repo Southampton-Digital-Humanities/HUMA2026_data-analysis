@@ -10,6 +10,7 @@ This repo contains two directories:
 - a second of txt files created by James from those pdfs, totalling 65k words.
   - using the [bash command line](https://programminghistorian.org/en/lessons/intro-to-bash) script `for file in *.pdf; do pdftotext "$file" "${file%.*}.txt"; done`.
   - includes a [zip file for ease of download](https://github.com/Southampton-Digital-Humanities/HUMA2026_data-analysis/blob/main/txt/HUMA2026_climate-docs-txt.zip).
+- use the stopword list at [https://raw.githubusercontent.com/DARIAH-DE/TopicsExplorer/master/data/stopwords/en.txt](https://raw.githubusercontent.com/DARIAH-DE/TopicsExplorer/master/data/stopwords/en.txt).
 
 ### Software Setup
 
