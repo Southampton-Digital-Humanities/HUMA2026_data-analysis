@@ -1,0 +1,594 @@
+Library Briefing
+Net Zero Carbon Emissions Target and Climate Change:
+Role of Technological and Lifestyle Efforts
+Debate on 6 February 2020
+On 6 February 2020, the House of Lords is due to debate a motion moved by Lord Browne of
+Ladyton (Labour) that “this House takes note, further to the report by UK FIRES, Absolute Zero,
+published in November 2019, of technological and lifestyle efforts (1) to address climate change, and
+(2) to meet the 2050 net zero carbon emissions target”.
+Summary
+UK FIRES is a research collaboration between five UK universities, the purpose of which is to
+investigate how to improve resource efficiency in industry. In November 2019 it published Absolute
+Zero, a report that describes how the UK could eliminate all its greenhouse gas emissions by 2050.
+The authors contend that the UK should aim to reduce greenhouse gas emissions to absolute zero,
+rather than the “net zero” target specified in the Climate Change Act 2008 (as amended). This would
+mean not using carbon credits and including international shipping and aviation in the UK’s carbon
+calculations.
+UK FIRES also argues that politicians and other commentators have placed too much confidence in
+technologies that are not proven at scale to significantly reduce greenhouse gas emissions. For
+example, Absolute Zero does not include any role for carbon capture and storage or hydrogen as a
+source of energy in its description of how to reduce greenhouse gas emissions. In contrast, the
+Committee on Climate Change states that these technologies will be key in reducing the UK’s net
+carbon emissions.
+This briefing provides an overview of the Absolute Zero report, background to the UK greenhouse gas
+emissions target and an overview of the Government’s clean growth strategy. It then provides brief
+descriptions of some of the technological and lifestyle measures that have been advocated to reduce
+the UK’s greenhouse gas emissions. It compares assessments by UK FIRES, the Committee on
+Climate Change and the Centre for Alternative Technology about the potential and suitability of these
+measures.
+Further reading on the net zero target, the Clean Growth Strategy, and various technologies is
+suggested in the relevant sections. General further reading is suggested at the end of the document.
+Emily Haves ǀ 30 January 2020
+____________________________________________________________________________
+A full list of Lords Library briefings is available on the research briefings page on the internet. The Library publishes briefings
+for all major items of business debated in the House of Lords. The Library also publishes briefings on the House of Lords
+itself and other subjects that may be of interest to Members. Library briefings are compiled for the benefit of Members of the
+House of Lords and their personal staff, to provide impartial, authoritative, politically balanced briefing on subjects likely to be
+of interest to Members of the Lords. Authors are available to discuss the contents of the briefings with the Members and
+their staff but cannot advise members of the general public.
+Any comments on Library briefings should be sent to the Head of Research Services, House of Lords Library,
+London SW1A 0PW or emailed to purvism@parliament.uk.
+
+2
+
+1. UK FIRES Report
+1.1 What is UK FIRES?
+UK FIRES (UK Future Industrial Resource Efficiency Strategy) is a collaboration between the
+universities of Cambridge, Oxford, Nottingham, Bath and Imperial College London. 1 It is funded by
+the Engineering and Physical Sciences Research Council.
+UK FIRES aims to help the UK achieve its commitment to reach net zero carbon emissions by 2050
+by increasing resource efficiency in industry. It plans to do this by bringing together businesses across
+the UK’s industrial supply chain “to pose strategic challenges to leading academics and test emerging
+solutions in practice”. 2 This will be done in a “living lab”, in which industry representatives will work
+with academics to test proposed solutions and suggest improvements. It also publishes research
+reports on reducing greenhouse gas emissions.
+1.2 What Does the Report Say?
+Absolute Zero, a report by UK FIRES, addresses the question of how best to eradicate the UK’s
+greenhouse gas emissions by 2050. The Climate Change Act 2008 (as amended) sets a UK target of
+“net zero” greenhouse gas emissions by 2050, calculated as the total emissions generated in the UK
+minus any offsets purchased. The report argues that this target is not sufficiently ambitious. 3 This is
+because it allows the Government to purchase carbon credits to offset any remaining emissions, and
+because it restricts the target to emissions that occur in the UK. This means the net zero measure
+excludes emissions from international shipping, international aviation and those generated abroad in
+making products for UK consumers. 4 The report argues that the UK should instead aim for “absolute
+zero” carbon emissions, phasing out aviation and shipping and not relying on carbon credits to offset
+any remaining emissions.
+UK FIRES also argues that politicians and other commentators have placed too much confidence in
+technologies that are not proven at scale to significantly reduce greenhouse gas emissions. Absolute
+Zero argues that “politicians in the UK and internationally talk about climate change as if it can be
+solved by new energy technologies alone, and UK government reports are over-confident about how
+much progress has been achieved”. 5 According to the report, “breakthrough technologies”, which
+would dramatically decrease emissions without requiring major lifestyle changes, cannot be delivered
+at a large enough scale to eradicate all the UK’s greenhouse gas emissions by 2050. The authors write
+that they are “concerned that most plans for dealing with climate change depend on breakthrough
+technologies—so won’t deliver in time”. 6 Instead, they argue, “the only solutions available in the time
+remaining require some change of lifestyle”. 7
+
+1
+
+UK FIRES, ‘About Us’, accessed 22 January 2020.
+ibid.
+3
+UK FIRES, Absolute Zero, 29 November 2019, p 4.
+4
+UK FIRES, Absolute Zero, 29 November 2019, p 4; and Climate Change Act 2008, s 30 (as amended).
+5
+UK FIRES, Absolute Zero, 29 November 2019, p 4.
+6
+ibid.
+7
+ibid, p 10.
+2
+
+3
+
+The report sets out the changes the authors believe will be required to eliminate the UK’s
+greenhouse gas emissions, addressing the industrial sector and individuals separately. The report’s key
+message for the industrial sector highlights challenges for certain industries:
+Absolute Zero creates a driver for tremendous growth in industries related to electrification,
+from material supply, through generation and storage to end-use. The fossil fuel, cement,
+shipping and aviation industries face rapid contraction, while construction and many
+manufacturing sectors can continue at today’s scales, with appropriate transformations. 8
+The report’s key actions for individuals include lifestyle changes such as reducing travel and the
+consumption of meat:
+The big actions are: travel less distance, travel by train or in small (or full) electric cars and stop
+flying; use the heating less and electrify the boiler when next upgrading; lobby for construction
+with half the material for twice as long; stop eating beef and lamb. Each action we take to
+reduce emissions, at home or at work, creates a positive ripple effect. 9
+2. UK’s Emissions Reduction Target and Climate Change
+2.1 Background
+Climate Change Act 2008
+The Climate Change Act 2008 (as enacted) set a target for the UK to reduce its “net carbon account”
+to 80 percent lower than the 1990 baseline by 2050. 10 In the Act, the term “1990 baseline” is defined
+as the aggregate amount of net UK emissions of carbon dioxide in 1990, as well as net UK emissions
+of each of the other targeted greenhouse gases, the base years of which are set out in the Act. 11
+The Act also established the Committee on Climate Change (CCC), an independent body. Its purpose
+is to advise the UK Government and devolved administrations on emissions targets and report to
+Parliament on progress made in reducing greenhouse gas emissions and preparing for climate
+change. 12
+2016 Paris Agreement and Committee on Climate Change Recommendation
+The UK is a party to the United Nations Framework Convention on Climate Change, which
+recognised the existence of anthropogenic climate change and set out a need to reduce greenhouse
+gas emissions. 13 In 2016, the UK signed the Paris agreement, a further UN instrument to tackle
+8
+
+UK FIRES, Absolute Zero, 29 November 2019, p 2.
+ibid, p 3.
+10
+Climate Change Act 2008, s 1(1) (as enacted).
+11
+ibid, s 1(2).
+12
+Committee on Climate Change, ‘About the Committee on Climate Change’, accessed 24 January 2020.
+13
+United Nations Treaty Collection, ‘United Nations Framework Convention on Climate Change’, accessed
+24 January 2020; and United Nations Climate Change, ‘What Is the United Nations Framework Convention on Climate
+Change?’, accessed 24 January 2020.
+9
+
+4
+
+climate change. 14 The overall aim of the Paris agreement is to limit global warming to below 2 degrees
+Celsius (2°C) above pre-industrial levels and to pursue efforts to limit the temperature increase to
+1.5°C. 15 Article 4 of the agreement states that to achieve this the parties must aim “to achieve a
+balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in
+the second half of this century”, ie achieve net zero carbon emissions by 2050. 16
+In October 2016, following the adoption of the Paris agreement, the Committee on Climate Change
+published a report recommending that the then Government not set a target for reducing the UK’s
+greenhouse gas emissions to net zero at that time. 17 The committee wrote:
+We agree with the Government’s intention to set a new target in future that reflects the global
+need to reach net zero emissions. However, to be credible it needs to be evidence-based,
+accompanied by strong policies to deliver existing targets and a strategy to develop greenhouse
+gas removals. 18
+2018 Intergovernmental Panel on Climate Change Report and Updated Committee on
+Climate Change Recommendation
+In October 2018, the Intergovernmental Panel on Climate Change, the United Nations body for
+assessing the science related to climate change, published a special report into the impact of global
+warming of 1.5°C above pre-industrial levels. 19 The report highlighted a number of climate change
+impacts that could be avoided by limiting global warming to 1.5°C rather than 2°C or more:
+For instance, by 2100, global sea level rise would be 10cm lower with global warming of 1.5°C
+compared with 2°C. The likelihood of an Arctic Ocean free of sea ice in summer would be once
+per century with global warming of 1.5°C, compared with at least once per decade with 2°C.
+Coral reefs would decline by 70–90 percent with global warming of 1.5°C, whereas virtually all
+(> 99 percent) would be lost with 2°C. 20
+The report found that limiting global warming to 1.5°C would require global net anthropogenic
+carbon emissions to be zero by 2050. 21 However, the report also found that to limit global warming
+to 1.5°C “would require rapid and far-reaching transitions in energy, land, urban [environments] and
+infrastructure (including transport and buildings) and industrial systems”. 22
+Following the publication of this report, the then Minister of State for Energy and Clean Growth,
+Claire Perry, along with then Scottish Government Cabinet Secretary for Environment, Climate
+14
+
+United Nations Treaty Collection, ‘Paris Agreement’, accessed 24 January 2020.
+ibid.
+16
+United Nations, Paris Agreement, article 4.
+17
+Committee on Climate Change, UK Climate Action Following the Paris Agreement, 13 October 2016, p 7.
+18
+ibid.
+19
+Intergovernmental Panel on Climate Change, ‘Summary for Policymakers of IPCC Special Report on Global Warming of
+1.5°C Approved by Governments’, 8 October 2018.
+20
+ibid.
+21
+ibid.
+22
+Intergovernmental Panel on Climate Change, Summary for Policymakers, 2018, p 15.
+15
+
+5
+
+Change and Land Reform Roseanna Cunningham and then Cabinet Secretary for Energy, Planning and
+Rural Affairs Lesley Griffiths, wrote to the chair of the Committee on Climate Change, Lord Deben,
+to request updated advice on the UK’s greenhouse gas emissions reduction target. 23
+In response to this request, in May 2019 the Committee on Climate Change published a report
+suggesting the UK adopt a target of net zero greenhouse gas emissions by 2050. The report said:
+A net zero [greenhouse gas] target for 2050 will deliver on the commitment that the UK made
+by signing the Paris agreement. It is achievable with known technologies, alongside
+improvements in people’s lives, and within the expected economic cost that Parliament
+accepted when it legislated the existing 2050 target for an 80 percent reduction from 1990.
+However, this is only possible if clear, stable and well-designed policies to reduce emissions
+further are introduced across the economy without delay. Current policy is insufficient for even
+the existing targets. 24
+The committee recommended that the 100 percent reduction target should cover all sectors of the
+economy, including international aviation and shipping. 25 It also stated that “the aim should be to meet
+the target through UK domestic effort, without relying on international carbon units (or credits)”. 26
+Climate Change Act 2008 Amended
+In June 2019, the Government laid before Parliament a statutory instrument to amend the greenhouse
+gas emissions reduction target. 27 The Climate Change Act 2008 (2050 Target Amendment) Order
+2019 changed the target in section 1(1) of the Climate Change Act 2008 from an 80 percent
+reduction in the UK’s “net carbon account” by 2050 to a 100 percent reduction by 2050. 28
+For more information on the UK’s net zero target, see the House of Commons Library briefing Net
+Zero in the UK (16 December 2019).
+3. Government’s Clean Growth Strategy
+In October 2017, the then Government published a clean growth strategy. This document set out the
+actions the Government intended to take to enable it to meet its greenhouse gas emissions reduction
+target, which at that time was 80 percent lower than 1990 levels. The Government stated that its
+approach to reducing emissions had two guiding objectives:
+1.
+23
+
+to meet our domestic commitments at the lowest possible net cost to UK taxpayers,
+
+Minister of State for Energy and Clean Growth, ‘Letter to Chairman of the Committee on Climate Change’, 15 October
+2018.
+24
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 11.
+25
+ibid, p 15.
+26
+ibid.
+27
+UK Parliament, ‘Climate Change Act 2008 (2050 Target Amendment) Order 2019’, accessed 24 January 2020.
+28
+Climate Change Act 2008 (2050 Target Amendment) Order 2019, SI 2019/1056.
+
+6
+
+2.
+
+consumers and businesses; and
+to maximise the social and economic benefits for the UK from this transition. 29
+
+In the strategy the Government set out its policies to reduce the country’s greenhouse gas emissions,
+in eight policy areas:
+•
+•
+•
+•
+•
+•
+•
+•
+
+accelerating clean growth;
+improving business and industry efficiency;
+improving our homes;
+accelerating the shift to low-carbon transport;
+delivering clean, smart, flexible power;
+enhancing the benefits and value of our natural resources;
+leading in the public sector; and
+government leadership in driving clean growth. 30
+
+In September 2019, Lord Duncan of Springbank, Parliamentary Under Secretary of State (Minister for
+Climate Change), responded to a question asked by Lord Teverson (Liberal Democrat) about
+whether the Government was planning to update its clean growth strategy in light of the revised
+emissions reduction target. Lord Duncan said:
+We will have an updated clean growth strategy because it is absolutely vital. We will need to be
+bold about taking ourselves forward to net zero by 2050, because our present initiatives are not
+adequate to deliver that. There will need to be a significant refresh not just of the wider clean
+growth strategy but of all aspects of this covering all government departments. 31
+For more information on the clean growth strategy, see the House of Commons Library briefing
+Energy Efficiency and the Clean Growth Strategy (7 March 2018).
+4. Technology
+This section provides a brief overview of some areas where technology could help reduce greenhouse
+gas emissions, as well as areas where no technological solutions currently exist.
+4.1 Reducing Energy Demand
+All models for significantly reducing the UK’s greenhouse gas emissions and reaching the net zero
+target necessitate significantly reducing energy demand. UK FIRES argues that by 2050 the UK’s
+energy demand will need to be reduced to 60 percent of its current level. 32 The Centre for
+Alternative Technology’s model for meeting the net zero target requires the UK’s energy demand to
+29
+
+Department for Business, Energy and Industrial Strategy, Clean Growth Strategy, April 2018, p 10.
+ibid, pp 12–17.
+31
+HL Hansard, 9 September 2019, col 1288.
+32
+UK FIRES, Absolute Zero, 29 November 2019, p 14.
+30
+
+7
+
+be approximately 49 percent of its current value. 33 The CCC’s scenarios for meeting the net zero
+target include a significant reduction in energy demand, particularly in buildings. 34
+Buildings account for approximately 34 percent of greenhouse gas emissions in the UK. 35
+Technologies for reducing energy demand include heating delivered by heat pumps, improved
+efficiency of appliances, design of new buildings to minimise heating and cooling need, insulation and
+improved lighting efficiency. 36
+4.2 Electricity Generation
+There is disagreement about the required composition of the UK’s future energy supply to enable the
+UK to meet its emissions reduction target. In particular, there is disagreement about the extent to
+which renewable energy, a source of emission-free energy, can be scaled up by 2050. In Absolute Zero,
+UK FIRES states that if current trends continue then the UK can be expected to generate around
+580 terawatt-hours (TWh) of electricity without emissions per year by 2050. This would be
+composed of wind, solar, nuclear and biomass. 37 In contrast, the Centre for Alternative Technology
+has projected a greater role for renewable energy technologies in meeting the net zero target,
+particularly: liquid fuels produced from biomass; wave and tidal electricity generation; and offshore
+wind power. 38 The Centre for Alternative Technology predicts the UK could generate 780 TWh per
+year from renewables, and a further 365 TWh per year from biomass and ambient heat. 39
+In its technical note accompanying its recommendation that the UK adopt a net zero target the CCC
+suggests that renewables and nuclear power together could provide most of the energy needed to
+reduce the UK’s emissions from energy production to “close to zero”. 40 However, it also states that a
+significant proportion of energy generation would need to be provided by gas-fired plants fitted with
+carbon capture and storage.
+4.3 Carbon Capture, Usage and Storage
+Carbon capture and storage (CCS) refers to technologies that can capture carbon dioxide from waste
+gases at industrial facilities, and store it in offshore geological storage sites indefinitely. 41 It could also
+be reused in industrial processes, a process which is referred to as carbon capture and usage (CCU).
+The two technologies are sometimes referred to together as CCUS.
+The Government and the CCC are counting upon significant deployment of CCS technology to meet
+33
+
+Centre for Alternative Technologies, Zero Carbon Britain, 2019, p 39.
+Committee on Climate Change, Net Zero Technical Report, May 2019, pp 23 and 69.
+35
+Committee on Climate Change, Factsheet: Buildings, July 2015.
+36
+UK FIRES, Absolute Zero, 29 November 2019, p 17.
+37
+ibid, p 11.
+38
+UK FIRES, Absolute Zero, 29 November 2019, p 42; and Centre for Alternative Technologies, Zero Carbon Britain, 2019,
+p 56.
+39
+Centre for Alternative Technologies, Zero Carbon Britain, 2019, p 56.
+40
+Committee on Climate Change, Net Zero Technical Report, May 2019, p 40.
+41
+House of Commons Business, Energy and Industrial Strategy Committee, Carbon Capture Usage and Storage: Third Time
+Lucky?, 25 April 2019, HC 1094 of session 2017–19, p 5.
+34
+
+8
+
+the country’s net zero target. The CCC states that “achieving deep emissions reductions in the UK's
+power sector is contingent on CCS infrastructure and deployment support being available by 2030”. 42
+A report by the House of Commons Business, Energy and Industrial Strategy Committee in April
+2019 concluded that “carbon capture usage and storage is necessary to meet national and
+international climate change targets at least cost”. 43 It also contended that not using CCS would
+double the cost to the UK of meeting its previous commitment of an 80 percent reduction of
+greenhouse gas emissions by 2050, and would mean it “could not credibly adopt a ‘net zero emissions’
+target in line with the Paris agreement’s 1.5°C aspiration”. 44
+In contrast, the Absolute Zero report warns against relying on CCS to significantly reduce greenhouse
+gas emissions in the UK by 2050. The report argues that while the technological elements of CCS
+have all been proven at some scale, “until a first fleet of full-scale power-plants are operating, the risks
+and costs of further expansion will remain high and uncertain”. 45
+The Government has stated its support for CCUS, but has said that its commitment to deploying
+CCUS in the UK is “subject to cost reduction”. 46 In its report on CCUS, the House of Commons
+Business, Energy and Industrial Strategy Committee said that the lack of specificity in the
+Government’s ambitions does not indicate a commitment commensurate with the importance of this
+technology. It recommended that the Government “prioritise the development of clear ambitions to
+kick-start CCUS”. 47
+4.4 Electrification
+If the UK is to meet the net zero greenhouse gas emissions target, a significant proportion of future
+energy demand would need to be in the form of electricity as opposed to gas, petrol or other fossil
+fuels. 48 In UK FIRES’ model for eliminating emissions, all energy demand must be in the form of
+electricity; they argue that this is because renewable and nuclear-produced electricity are the only
+proven scalable sources of emission-free energy. 49 The Committee on Climate Change states that to
+meet the target would require “extensive electrification, particularly of transport and heating”. 50 The
+Centre for Alternative Technology’s model requires 66 percent of the UK’s future energy demand to
+be in the form of electricity, with the rest composed of biogas, synthetic gas and liquid fuels. 51 The
+Centre for Alternative Technology maintains that these other fuel types are necessary for industry,
+transport and energy back-up.
+
+42
+
+Committee on Climate Change, Net Zero Technical Report, Map 2019, p 44.
+House of Commons Business, Energy and Industrial Strategy Committee, Carbon Capture Usage and Storage: Third Time
+Lucky?, 25 April 2019, HC 1094 of session 2017–19, p 3.
+44
+ibid, p 5.
+45
+UK FIRES, Absolute Zero, 29 November 2019, p 9.
+46
+Department for Business, Energy and Industrial Strategy, ‘UK Carbon Capture, Usage and Storage’, 1 February 2019.
+47
+House of Commons Business, Energy and Industrial Strategy Committee, Carbon Capture Usage and Storage: Third Time
+Lucky?, 25 April 2019, HC 1094 of session 2017–19, p 3.
+48
+UK FIRES, Absolute Zero, 29 November 2019, p 8.
+49
+ibid, p 14.
+50
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 11.
+51
+Centre for Alternative Technologies, Zero Carbon Britain, 2019, p 55.
+43
+
+9
+
+Heating
+Most homes in the UK are heated with natural gas-powered boilers. 52 These could be replaced by
+electric heat pumps, or heat networks and hydrogen boilers. Heat pumps are already an established
+technology in many other countries. 53 However, the CCC highlights that in the UK installation of heat
+pumps remains at very low levels “despite generous funding under the renewable heat incentive”. 54
+The CCC also notes that “it is not feasible to ramp up installation rates of heat pumps straight away
+to the current level of gas boiler sales (over a million per year) from the current level of 20,000 per
+year, not only due to the lack of market development but also because there are not enough qualified
+heat pump installers”. 55
+Transport
+Almost all transport currently involves the direct combustion of fossil fuels in the vehicle; only
+1 percent of transport is powered by electricity. 56 Transport is currently the largest source of UK
+greenhouse gas emissions, and emissions from transport rose between 2013 and 2017. 57 To
+significantly reduce greenhouse gas emissions, most transport would need to be powered by
+electricity. UK FIRES argues that all transport must either be electrified or phased out. 58 The CCC’s
+scenario for meeting the net zero target would require all cars and vans to be electric and the “vast
+majority” of heavy goods vehicles to be either electric or hydrogen-powered by 2050.
+In 2018, the then Government published a strategy for increasing ownership of electric vehicles,
+entitled Road to Zero. 59 This document set out the Government’s ambition for “almost every car and
+van” to be zero emission by 2050. 60 The Government stated it would offer grants and other
+consumer incentives for certain types of low emission vehicle, support research in the industry and
+invest in charging infrastructure. For more information on the Government’s policy on low emission
+vehicles, see the House of Commons Library briefing Electric Vehicles and Infrastructure (13 January
+2020).
+4.5 Hydrogen
+Some fossil fuels could be replaced with hydrogen. The combustion of hydrogen produces almost no
+greenhouse gases, providing an emission-free source of energy. However, the production of hydrogen
+itself can lead to greenhouse gas emissions, depending on the method used. 61 Hydrogen could be used
+in the UK to replace natural gas and liquid fuels. 62 Hydrogen gas does not currently supply the UK gas
+52
+
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 187.
+ibid, p 178.
+54
+ibid, p 48.
+55
+ibid, p 176.
+56
+UK FIRES, Absolute Zero, 29 November 2019, p 18.
+57
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 48.
+58
+UK FIRES, Absolute Zero, 29 November 2019, p 8.
+59
+Office for Low Emission Vehicles, The Road to Zero, 12 September 2018.
+60
+ibid, pp 2–4.
+61
+Parliamentary Office of Science and Technology, Decarbonising the Gas Network, November 2017, p 2.
+62
+Committee on Climate Change, Hydrogen in a Low-Carbon Economy, November 2018, p 8.
+53
+
+10
+
+network, though it is used by industry in Europe and North America.
+The CCC’s scenario for meeting the net zero target includes the development of a “hydrogen
+economy” to provide energy in sectors where gas or other fuel use cannot be eliminated, such as
+long-distance shipping and some industrial processes. 63 UK FIRES contends that “the hydrogen
+economy”, along with CCUS, is an important development opportunity and may be significant beyond
+2050, but will not play any significant part in national emissions reduction by 2050 because
+implementation at a meaningful scale will take too long. 64
+For more information on hydrogen as a source of energy, see the briefing by the Parliamentary Office
+of Science and Technology, Decarbonising the Gas Network (15 November 2017).
+4.6 Industrial Processes: Cement and Iron
+The Absolute Zero report highlights the greenhouse gas emissions associated with certain industrial
+processes, particularly making cement and iron. In addition to the emissions related to the energy
+required from these processes, blast furnaces making steel from iron ore and coke release carbon
+dioxide, and half of the emissions from cement production come from the chemical reaction as
+limestone is calcined to become clinker. 65 There are currently no proven, scalable alternatives to
+these processes, therefore reducing the UK’s emissions to absolute zero would require no
+cement-based mortar or concrete, and no new steel. 66 UK FIRES states that “the absence of cement
+is the greatest single challenge in delivering absolute zero, as it is currently essential to delivering
+infrastructure, buildings and new energy technologies”. 67
+The CCC acknowledges that greenhouse gas emissions cannot be eliminated from these processes. Its
+scenario for reaching net zero includes using CCS for certain industrial processes, including the
+production of cement and iron. 68
+5. Lifestyle
+This section provides a brief overview of two of the areas where UK FIRES recommends the most
+significant lifestyle changes in order to reduce the country’s greenhouse gas emissions.
+5.1 Air Travel and Shipping
+The net zero target in the Climate Change Act 2008 (as amended) does not include emissions from
+international air travel or shipping. 69 However, UK FIRES argues that for the UK’s efforts to eliminate
+carbon emissions to be meaningful carbon emissions from aviation and shipping cannot be ignored. In
+63
+
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 23.
+UK FIRES, Absolute Zero, 29 November 2019, p 43.
+65
+ibid, p 15. When a material is calcined, it is reduced to quick-lime by burning.
+66
+ibid.
+67
+ibid.
+68
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 146.
+69
+Climate Change Act 2008, s 30 (as amended).
+64
+
+11
+
+his foreword to the CCC’s report on meeting the net zero target, Lord Deben, chair of the
+committee, also stated that it is essential that the commitment cover international aviation and
+shipping. 70
+UK FIRES argues that there are currently no proven technological alternatives to fossil fuels for
+aviation and shipping, and therefore these modes of transport must be phased out entirely. The CCC
+argues that it is possible to reduce emissions from aviation by design and other technical changes, but
+some emissions would remain, and these would need to be removed from the atmosphere. 71 The
+CCC contends that emissions from shipping could be significantly reduced by improved energy
+efficiency and operations and use of alternative fuels. 72
+5.2 Diet and Agriculture
+A key element of UK FIRES’ strategy to eliminate the UK’s greenhouse gas emissions is the phasing
+out of agricultural production of ruminant animals, particularly beef and lamb. 73 There are several
+processes by which the rearing of cows and sheep leads to greenhouse gas emissions:
+•
+•
+•
+•
+•
+
+The way these animals digest food releases methane, a greenhouse gas.
+Converting forestry to agricultural land releases carbon stored in the forest.
+Future carbon storage is lost when trees are destroyed.
+Ploughing land releases carbon stored in the soil.
+Using nitrogen-based fertilisers leads to emissions.
+
+Growing grain to feed to animals is particularly inefficient, as approximately 80 times more grain is
+required to create the same calories for a meal of meat as a meal made from grain. 74 UK FIRES argues
+that because of these processes, reaching zero emissions in 2050 would require “that we refrain from
+eating beef and lamb”. 75
+The CCC identifies agriculture as one of the hardest sectors in which to reduce emissions. It states
+that emissions from agriculture can be somewhat reduced through livestock, soils and waste manure
+management. 76 In addition, its scenario for meeting the net zero target includes a 20 percent
+reduction in consumption of beef, lamb and dairy. 77 The land released could then be converted into
+forest, or used for peatland restoration or the growing of energy crops. The Centre for Alternative
+Technology also recommends a significant reduction in consumption of animal products in favour of
+plant-based foods in order to meet the net zero target. 78
+
+70
+
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 8.
+ibid, p 148.
+72
+ibid, p 146.
+73
+UK FIRES, Absolute Zero 29 November 2019, p 15.
+74
+ibid.
+75
+ibid.
+76
+Committee on Climate Change, Net Zero: The UK’s Contribution to Stopping Global Warming, May 2019, p 142.
+77
+ibid, p 147.
+78
+Centre for Alternative Technologies, Zero Carbon Britain, 2019, p 88.
+71
+
+12
+
+The Government’s Clean Growth Strategy states that the Government will introduce policies to
+improve efficiency in the land and agricultural sectors, including improving biosecurity and encouraging
+the use of low-emissions fertiliser. 79
+The Agriculture Bill, introduced in the current session, includes provisions that would enable the
+secretary of state to provide financial assistance in connection with managing land, water or livestock
+in such a way as to mitigate the causes of climate change. 80 For example, this assistance could be given
+to promote measures that incentivise peatland restoration.
+6. Further Information
+•
+•
+•
+•
+•
+
+79
+80
+
+House of Commons Science and Technology Committee, Clean Growth: Technologies for
+Meeting the UK’s Emissions Reduction Targets, 22 August 2019, HC 1454 of session 2017–19;
+and Government and Ofgem Response, 1 November 2019, HC 287 of session 2017–19
+Committee on Climate Change, Reducing UK Emissions—2019 Progress Report to Parliament,
+10 July 2019
+Office for National Statistics, ‘Net Zero and the Different Official Measures of the UK’s
+Greenhouse Gas Emissions’, 24 July 2019
+House of Commons Library, Brexit: Energy and Climate Change, 5 September 2019
+House of Commons Library, New Nuclear Power, 25 September 2019
+
+Department for Business, Energy and Industrial Strategy, Clean Growth Strategy, April 2018, p 106.
+Explanatory Notes, p 8.
+
+

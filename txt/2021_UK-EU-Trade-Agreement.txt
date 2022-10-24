@@ -1,0 +1,3989 @@
+BRIEFING PAPER
+Number 9190, 20 May 2021
+
+The UK-EU Trade and
+Cooperation Agreement:
+Level Playing Field
+
+By Elena Ares, Dominic
+Carver, Stefano Fella,
+Daniel Ferguson, Ilze
+Jozepa, Antony Seely, Ali
+Shalchi
+Contents:
+1. Overview
+2. Competition policy
+3. Subsidy control
+4. State-owned enterprises and
+designated monopolies
+5. Taxation
+6. Labour and social protection
+7. Environment and climate
+8. Dispute settlement
+
+www.parliament.uk/commons-library | intranet.parliament.uk/commons-library | papers@parliament.uk | @commonslibrary
+
+2
+
+The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Contents
+Summary
+
+4
+
+1.
+1.1
+1.2
+1.3
+1.4
+
+Overview
+Negotiations
+Level playing field in the TCA
+Dispute resolution mechanisms
+Parliamentary scrutiny
+
+6
+6
+7
+10
+11
+
+2.
+2.1
+2.2
+
+Competition policy
+Negotiating positions
+The TCA
+
+13
+13
+14
+
+3.
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+
+Subsidy control
+Negotiating positions
+The TCA: Definitions and scope
+Principles of subsidy control
+Independent enforcement body
+The role of courts
+Dispute settlement and remedies
+Issues and commentary
+
+17
+17
+20
+21
+23
+23
+24
+26
+
+4.
+4.1
+4.2
+
+State-owned enterprises and designated monopolies
+Negotiating positions
+The TCA
+
+31
+31
+32
+
+5.
+5.1
+5.2
+
+Taxation
+Negotiating positions
+The TCA
+
+33
+33
+35
+
+6.
+6.1
+6.2
+6.3
+6.4
+6.5
+
+Labour and social protection
+Negotiating positions
+The TCA
+Multilateral labour standards
+Rebalancing
+Dispute settlement
+
+38
+38
+41
+44
+45
+46
+
+7.
+7.1
+7.2
+7.3
+7.4
+7.5
+7.6
+7.7
+7.8
+
+Environment and climate
+Overview
+The TCA: Definitions and terms
+Trade and sustainable development
+Non-regression from levels of protection
+Enforcement
+Rebalancing
+Issues and commentary
+Climate Change
+Commentary
+
+47
+47
+47
+49
+50
+50
+51
+52
+56
+57
+
+8.
+8.1
+8.2
+8.3
+
+Dispute settlement
+The general governance and dispute settlement mechanisms
+Exceptions and Bespoke Provisions for the Level playing field
+Panel of Experts for Labour, environment and climate, sustainable development
+Panel recommendations and compliance
+Cross-retaliation for non-compliance
+Provisions for subsidies
+Rebalancing mechanism
+Review provisions
+
+60
+60
+61
+61
+63
+63
+65
+65
+68
+
+8.4
+8.5
+8.6
+
+3
+
+Commons Library Briefing, 20 May 2021
+
+Cover page image copyright: Image from Pixabay. No attribution required / image
+cropped.
+
+4
+
+The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Summary
+This briefing covers the outcome of the UK and EU negotiations on commitments to have
+a level playing field – an important part of the UK-EU Trade and Cooperation Agreement
+(TCA). These commitments cover competition policy, subsidy control, state-owned
+enterprises, taxation, labour and social standards, environmental protection and climate
+change.
+Level playing field provisions in trade agreements are there to ensure competition is open
+and fair and that businesses from one trading partner do not gain a competitive
+advantage and undercut rivals from another. The TCA has the most extensive provisions
+seen in any free trade agreement to date.
+Level playing field negotiations
+The divergent positions of the EU and UK Government led to the level playing field being
+one of the most contentious areas of the negotiations.
+Referring to UK-EU geographical and economic proximity, the EU proposed that legally
+binding commitments be included in the agreement, with EU rules and standards as a
+reference point, and a commitment to strong domestic enforcement mechanisms. The UK
+Government said the UK would maintain the highest standards in the level playing field
+areas, but the ability to set its own laws was central to its vision. It would not accept
+alignment with EU rules and obligations that go further than commitments in standard
+free trade agreements.
+The most substantial disagreements arose over subsidies, where the EU proposed that the
+UK follows EU state aid rules as they change over time. The UK proposed to base its
+commitments on World Trade Organization anti-subsidy rules with weaker enforcement
+mechanisms.
+The differences on environmental and climate, labour and social standards, concerned
+how far the parties should remain “dynamically aligned”. The UK and EU disagreed over
+whether they be prohibited from lowering labour and environmental standards (nonregression clause), and whether one party should have to raise its standards if the other
+party raised theirs (the ratchet clause).
+The Agreement
+The resulting provisions in the TCA represent a compromise to find a balance between
+sufficient guarantees that future divergence of regulations would safeguard fair
+competition and the freedom of the parties to set their own rules for social and
+environmental protection and subsidy policy.
+The main level playing field provisions are set out in Title XI of Part Two of the TCA. The
+EU and UK recognise that to prevent distortion of “trade or investment” between the
+parties, conditions are required to ensure a level playing field for open and fair
+competition. The TCA says that while the UK and EU are committed to maintaining and
+improving their respective high standards, they reaffirm their right to regulate and
+recognise that the purpose of the commitments is not to harmonise those standards.
+Subsidies
+The TCA requires both the UK and EU to have an effective system of subsidy control but
+neither has to comply with the rules of the other. Both subsidy control regimes must
+follow common “broad principles”. These principles have to ensure that subsidies are
+proportionate, transparent and contribute to public policy goals.
+
+5
+
+Commons Library Briefing, 20 May 2021
+
+A distinct feature is that one of the parties can take unilateral remedial measures if there is
+evidence that a subsidy of the other party risks creating a “significant negative effect” on
+UK-EU trade and investment.
+The TCA provisions on subsidies do not amend the state aid provisions of the Withdrawal
+Agreement Protocol on Ireland and Northern Ireland. This means that EU state aid rules
+apply to subsidies affecting trade in goods between Northern Ireland and the EU.
+Non-regression
+The Agreement’s provisions on labour and social protection, the environment and climate,
+recognise that both the UK and EU may establish their own levels of protection, without
+harmonising their rules. Non-regression provisions are there to ensure that protections are
+not reduced below the levels at the end of the transition period if that would affect trade
+or investment. The UK and EU both commit to maintaining effective oversight and
+enforcement systems, with administrative or judicial means of challenge and redress.
+In the chapter on competition, both sides agree to maintain a domestic system that
+addresses anti-competitive business behaviours. A chapter on state-owned enterprises
+focuses on preventing anti-competitive practices among companies where governments
+are involved. Provisions on taxation include commitments to have good tax governance.
+Dispute settlement provisions
+The TCA has complex and bespoke provisions for dispute settlement between the parties.
+This involves consultations, recourse to an independent arbitration tribunal, and temporary
+cross-retaliation. The Court of Justice of the EU (CJEU) has no role in the dispute
+settlement provisions. The provisions on competition policy and taxation are excluded
+from the dispute resolution.
+The most innovative aspect of the Agreement’s dispute settlement is a rebalancing
+mechanism for the level playing field. If significant divergence in subsidy policy, labour and
+social policy, or climate and environment policy, arises between the UK and EU, and this
+has material impacts on trade or investment, both parties have the right to take
+countermeasures, subject to arbitration. In simple terms, if one side raises its standards
+and the other does not, the former can take reciprocal action. These rebalancing measures
+could include temporary suspension of parts of the Agreement or tariffs, but are not
+defined beyond that.
+Further provisions allow for a review of the ‘Trade’ heading of the TCA. This is in case of a
+persistent dispute, including on the application of the relevant level playing field
+commitments. This mechanism opens up the possibility of the entire trade part of the
+agreement being suspended.
+
+6
+
+The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+1. Overview
+1.1 Negotiations
+Commitments on Level playing field are among the key elements of the
+UK-EU Trade and Cooperation Agreement. 1 They concern cross-cutting
+provisions for competition, subsidies, taxation, labour and social
+standards, environmental protection and climate policies, which
+are not linked to a particular sector of cooperation. The purpose of
+these provisions is to ensure that competition is open and fair and that
+businesses of one party do not gain a competitive advantage and
+undercut their rivals in another country by avoiding the costs of more
+stringent regulations.
+The negotiations on the level playing field provisions were contentious.
+In the non-binding Political Declaration that accompanied the 2019
+Withdrawal Agreement the EU and UK set out a joint commitment to
+an ambitious economic partnership. The Political Declaration would
+form the departure point for the UK and EU negotiations. In the
+document, referring to the geographical proximity and economic
+interdependence of both markets, the parties agreed to ensure that
+commitments to “a level playing field for open and fair competition”
+will underpin their economic partnership. The precise nature of these
+commitments would be “commensurate with the scope and depth of
+the future relationship”. This would be ensured by “robust
+commitments” – upholding the common high standards applicable at
+the end of the transition period in the areas of state aid, competition,
+social and employment standards, environment, climate change, and
+relevant tax matters. 2
+Following the UK’s withdrawal from the EU on 31 January 2020, the UK
+and EU entered formal negotiations in March 2020, with the aim of
+securing agreement on their new partnership by the end of the year.
+From the start of the negotiations, the UK and EU had fundamentally
+different approaches to the level playing field. The EU said that it would
+agree a free trade deal with zero tariffs and zero quotas only if the UK
+agreed to level playing field commitments. The EU emphasised that the
+UK-EU trading relationship was fundamentally different from that with
+its other trading partners due to geographic and economic proximity.
+This would justify legally binding commitments, with EU rules and
+standards as a reference point, and strong enforcement mechanisms
+domestically.
+The UK Government reiterated the principle of sovereignty and it’s right
+to regulate. It stated that the UK would maintain the highest standards
+in the level playing field areas but could not agree to obligations that go
+further than commitments in standard free trade agreements. The Prime
+
+1
+
+2
+
+Foreign, Commonwealth and Development Office, UK/EU and EAEC: Trade and
+Cooperation Agreement, CP 426, 30 April 2021 (‘TCA’)
+Political Declaration setting out the framework for the future relationship between
+the European Union and the United Kingdom, 19 October 2019
+
+7
+
+Commons Library Briefing, 20 May 2021
+
+Minister’s written statement of 3 February 2020 on UK-EU relations set
+out the Government’s position:
+The Government will not agree to measures in these areas which
+go beyond those typically included in a comprehensive free trade
+agreement. The Government believes therefore that both Parties
+should recognise their respective commitments to maintaining
+high standards in these areas; confirm that they will uphold their
+international obligations; and agree to avoid using measures in
+these areas to distort trade. 3
+
+For the level playing field areas, the EU and UK positions converged on
+competition, state-owned enterprises, and taxation (with an exception
+on tax avoidance). However, substantial divergences appeared with
+regard to subsidy control, social and labour regulation, environmental
+regulations, and the fight against climate change.
+For further analysis of the UK and EU negotiating positions see
+Commons Library briefing 8852, The UK-EU Trade and Cooperation
+Agreement: Level Playing Field, section 1. See also Commons Library
+briefings 8834, The UK-EU future relationship negotiations: process and
+issues, sections 3 and 4.4; and 8977, UK-EU future relationship
+negotiations update: is an agreement possible?, section 3.
+Despite some aspects of the level playing field – future (dis)alignment of
+subsidy rules and the enforcement of non-regression of labour and
+environmental standards – being among the most difficult subjects in
+the negotiations, parties reached an agreement on 24 December 2020.
+
+1.2 Level playing field in the TCA
+Level playing field provisions are set out in Title XI of Part Two [Level
+Playing Field for Open and Fair Competition and Sustainable
+Development] of the Agreement.
+Chapter I of Title XI contains the general provisions. The Parties
+recognise in Article 355 that in order to prevent distortion of 'trade or
+investment' between the EU and UK, conditions are required to ensure
+a level playing field for open and fair competition. The Agreement
+should also contribute to the objectives of sustainable development.
+While the parties commit to maintaining and improving their respective
+high standards, they recognise that the purpose of the commitments is
+not to harmonise these standards.
+Article 365 reaffirms the right of the parties to regulate. It
+acknowledges the precautionary approach to potential threats of
+serious or irreversible damage to the environment or human health (see
+further, section 7.1 below). Parties also commit to following the relevant
+scientific and technical information, and international standards and
+guidelines when they develop new regulations in the area of
+environmental protection and labour conditions.
+Most modern free trade agreements contain provisions of some sort to
+uphold certain (international) labour or environmental standards or
+include pledges to maintain open competition. The TCA has the most
+3
+
+UK/EU relations: Written statement, HCWS86, 3 February 2020
+
+8
+
+The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+extensive provisions on level playing field seen in any free trade
+agreement to date. 4
+Chapter 2 of Title XI covers competition. The positions of the UK and
+EU converged on competition issues during the TCA negotiations. Both
+sides agree to maintain a competition law system that addresses anticompetitive behaviours. The UK and EU now operate separate
+competition regimes. The TCA does not change the UK or EU
+competition law rules, which are substantially the same but may diverge
+in the future. The UK and EU agree to enforce competition law in a
+transparent and non-discriminatory manner, and have competition
+authorities which shall co-operate on their activities. The general
+provisions on dispute settlement do not apply to the competition
+provisions.
+Mutual commitments on subsidy control are set out in Chapter 3.
+Both the UK and EU are required to have an effective system of subsidy
+control and an independent body to oversee it from 1 January 2021.
+However, the Agreement does not require the UK Government to set
+up a control mechanism before any subsidy is paid out, as is required
+under the current EU regime. The UK can itself determine the precise
+nature of its domestic subsidy control regime and the role of any
+independent enforcement body, within the principles and rules agreed
+in the TCA.
+The chapter on subsidies sets out the common “broad principles”
+according to which UK and EU subsidy control would operate. These
+principles have to ensure that subsidies contribute to achieving public
+policy objectives by addressing market failures or social problems. They
+have to be proportionate, necessary, and be the appropriate instrument
+to achieve the objectives. Their positive effect has to outweigh any
+negative impact on mutual trade.
+Some subsidies are partially exempt from the TCA provisions, for
+example, temporary subsidies granted in response to a national
+emergency. Certain subsidies are prohibited if they “have or could have
+a material effect on trade or investment between the Parties”.
+Conditions are created to grant subsidies in some areas, for example
+sustainable energy.
+Chapter 3 further contains provisions on domestic enforcement, a
+bespoke dispute settlement mechanism and unilateral remedial
+measures.
+Besides an independent enforcement body, the subsidy control system
+requires that the courts must be able to hear claims from interested
+parties, review subsidy decisions and grant effective remedies, in
+accordance with each party’s domestic law. A unique feature for
+subsidies is that either side can intervene in the other’s domestic court
+proceedings concerning the subsidy rules if the court permits it to do so.
+Additionally, a mechanism must be in place to recover subsidies which
+4
+
+International Trade Committee, Oral evidence: UK-EU trading relationship, HC 1206,
+22 April 2021, Qq 110, 112
+
+9
+
+Commons Library Briefing, 20 May 2021
+
+are provided unlawfully. However, if a subsidy is granted by an Act of
+Parliament, a recovery will not be required.
+The TCA contains a set of specific provisions to address disputes on the
+application of subsidy provisions.
+The provisions on subsidies in the Agreement do not amend the state
+aid provisions (Article 10) of the Withdrawal Agreement Protocol on
+Ireland and Northern Ireland, meaning that EU state aid rules apply to
+subsidies affecting trade in goods and wholesale electricity between
+Northern Ireland and the EU. 5 The TCA does not explain how the
+provisions of the TCA and Protocol will interact.
+In Chapter 4 of the Agreement the UK and EU commit to ensuring that
+state-owned enterprises, companies with special rights, and
+designated monopolies, do not engage in anti-competitive practices or
+discriminatory and abusive behaviour creating barriers to trade and
+investment. These provisions put private businesses on an equal footing
+with businesses where the governments are involved when the latter
+engage in commercial activities.
+Chapter 5 briefly deals with taxation. The agreement contains a
+commitment to good governance and upholding the taxation standards
+on exchange of tax information, anti-tax avoidance and transparency.
+The common provisions refer to international standards, including OECD
+standards. Finally, this aspect of the agreement is excluded from the
+general arrangements for dispute resolution.
+For provisions on labour and social protection, and the
+environment and climate, the Agreement recognises that both the
+UK and EU may establish their own levels of protection. 6 As a European
+Parliament assessment sets out:
+Standards are not meant to be harmonised, but the parties
+endeavour to maintain and improve their respective high
+standards. The parties affirm each other’s right to set their policies
+and priorities. 7
+
+At the same time, a form of non-regression approach is used which
+requires that the level of protection is not lowered below the level in
+place at the end of the transition period if that would impact trade or
+investment between the UK and EU. This means that in order to
+demonstrate a breach of the non-regression clause either party would
+have to show that any attempt to lower labour or environmental
+standards affects UK-EU trade or investment. The Institute for Public
+Policy Research has described this qualification as “setting a very high
+bar for proof”. 8
+
+5
+
+6
+7
+
+8
+
+HM Government, Agreement on the withdrawal of the United Kingdom of Great
+Britain and Northern Ireland from the European Union and the European Atomic
+Energy Community, 19 October 2019, [Protocol on Ireland/Northern Ireland, p292]
+
+TCA, Chapter 6 [Labour and Social Standards], Chapter 7 [Environment and Climate]
+European Parliament note, First appraisal of the EU-UK Trade and Cooperation
+Agreement, PE 662.902, March 2021, p10
+Marley Morris, The agreement on the future relationship: first analysis, IPPR, p7
+
+10 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+The UK and EU both commit to maintaining effective oversight and
+enforcement systems, with administrative or judicial means of challenge
+and redress.
+Chapter 8 sets out the foundations and broad objectives for trade and
+sustainable development. This is based primarily on the principles of and
+commitments to international agreements such as the Rio Declaration
+and the Sustainable Development Goals. The parties also commit to
+promote and implement the core labour standards recognised in the
+International Labour Organisation’s (ILO) eight Fundamental
+Conventions.
+
+1.3 Dispute resolution mechanisms
+The dispute settlement mechanisms are central to the TCA architecture
+and must ensure the enforcement of the level playing field. The
+mechanisms deployed in this area are complex and the procedures vary
+between policy areas. Both the main TCA dispute settlement
+mechanisms apply, and additional bespoke mechanisms are set out for
+subsidies, labour standards, environment and climate. These are
+discussed in more detail in section 8 below. Provisions on competition
+policy and taxation are excluded from the dispute settlement
+mechanisms altogether.
+The most innovative aspect of the agreement dispute resolution process
+is a rebalancing mechanism for the level playing field set out in
+Article 411. In certain circumstances, both parties have the right “to
+take countermeasures if they believe they are being damaged by
+measures taken by the other party in subsidy policy, labour and social
+policy, or climate and environment policy”, subject to arbitration. 9
+This would be the case if significant divergences between the UK and
+EU in those areas would arise and have material impacts on trade or
+investment. In simple terms, if one side raises its standards and the
+other does not, it can take reciprocal action, subject to independent
+assessment by an arbitration tribunal.
+The mechanism in the agreement foresees that, if consultations
+between the UK and EU are unsuccessful, either party can take
+unilateral temporary and proportionate “rebalancing measures,” based
+on “reliable evidence” and not on “conjecture or remote possibility”.
+Exactly what measures may be taken, or how connected they must be
+to the area of divergence, is not specified, suggesting that they need
+not be limited to the precise matter at dispute. The other party may
+challenge any such measures before an arbitration tribunal. This
+rebalancing mechanism is reciprocal, as opposed to the unilateral
+mechanisms initially proposed by the EU.
+As the UK Government’s summary document notes, if the rebalancing
+mechanism is triggered too frequently either side can initiate a review of
+the relevant provisions and the trade aspects of the TCA more broadly
+
+9
+
+HM Government, UK-EU Trade and Cooperation Agreement: Summary, December
+2020, para 81
+
+11 Commons Library Briefing, 20 May 2021
+
+and this may lead to adjustment of the balance of rights and
+obligations.
+There is uncertainty as to how the level playing field provisions of the
+Agreement will be applied in practice and what effect they will have on
+specific sectors and on the UK-EU trading relationship in general.
+During the negotiation of the TCA, there were significant differences in
+the UK and EU positions on labour and social standards, and
+environmental protection. They concerned the extent to which the
+parties should remain “dynamically aligned” and be prohibited from
+lowering labour and environmental standards (non-regression), and
+whether one party should have to raise its standards if the other party
+chose to raise theirs (ratchet clause). There was also a discussion on
+dynamic alignment with EU state aid rules. The resulting TCA does not
+require that the UK follows EU rules as they evolve. However, Sussex
+University UK Trade Policy Observatory researchers argue that the
+rebalancing mechanism included in the TCA constitutes a defensive
+version of dynamic alignment, in that rather than focussing on
+cooperation and harmonisation it provides alternative means for one
+side to coerce the other. But triggering the rebalancing mechanism of
+Article 411 repeatedly could have a rather destabilising effect on the
+overall cooperation:
+… if there is a series of rebalancing episodes, if either party
+triggers the review provided for in [Article 411], or anyway in the
+standard five-yearly review, there are likely to be high feelings on
+both sides of the table. That is, far from smoothing the path to
+cooperation, stability and certainty, the dispute settlement
+processes of the LPFs Title could have exactly the opposite effect.
+That, inevitably, will discourage investment in anything that
+depends on the smooth flow of UK-EU trade. 10
+
+1.4 Parliamentary scrutiny
+UK Parliament
+The UK Parliament passed legislation enabling the ratification and
+domestic implementation of the TCA on 30 December 2020 and the
+Agreement entered into provisional application on 1 January 2021.
+Since then parliamentary select committees have scrutinised aspects of
+the TCA on several occasions, including provisions on the level playing
+field.
+•
+
+Committee on the Future Relationship with the European Union,
+Oral evidence: Progress of the negotiations on the UK’s future
+relationship with the EU, HC 203, 6 January 2021
+
+•
+
+HL European Union Committee, Uncorrected oral evidence: Future
+UK-EU relations: governance, 2 February 2021
+
+•
+
+HL European Union Committee, 21st Report of Session 2019-21
+Beyond Brexit: the institutional framework, HL 246, 22 March 2021
+
+10
+
+Emily Lydgate, Erika Szyszczak, L. Alan Winters, Chloe Anthony, Taking Stock of the
+UK-EU Trade and Cooperation Agreement: Governance, State Subsidies and the
+Level Playing Field, UKTPO, Briefing Paper 54, January 2021
+
+12 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+•
+
+HL European Union Committee, EU Environment Sub-Committee,
+22nd Report of Session 2019–21: Beyond Brexit: food, environment,
+energy and health, HL 247, 23 March 2021
+
+•
+
+International Trade Committee, Oral evidence: UK-EU trading
+relationship, HC 1206, 22 April 2021
+
+European Parliament resolution
+The European Parliament gave its consent to the TCA on 28 April 2021,
+paving the way for its full entry into force on 1 May 2021. Parliament’s
+Resolution welcomed the agreement’s “modern” level playing field
+provisions which “should be considered as a model for other future Free
+Trade Agreements negotiated by the EU”. The Parliament also
+emphasised its key concerns for the level playing field:
+─
+
+The need to ensure that significant divergence with material
+impact on trade or investment is broadly interpreted and
+can be demonstrated in a practical manner to ensure that
+the ability to use such measures is not unduly restricted.
+
+─
+
+The need to monitor the new UK State aid regime and
+assess the efficacy of the mechanism to address unjustified
+subsidies;
+It recalled that provisions on the level playing field apply in a
+general manner, including in so-called special economic
+zones. This is a reference to the UK Government’s plans to
+finance a number of new Freeports, “hubs for global trade
+and investment,” across the UK.
+
+─
+
+Regretting the limited provisions on taxation, the EP
+requested the Commission remain vigilant on questions of
+taxation and money laundering. It suggested a possibility to
+review this relationship four years after the entry into force
+of the Agreement should imbalances arise. 11
+
+─
+
+How a future possible unilateral lowering of social and
+labour standards by the UK would be addressed and
+contested under the Agreement. 12
+
+During the debate, MEPs from all major political groups stressed the
+importance of having enforceable level playing field provisions,
+including for social and environmental standards.
+
+11
+
+12
+
+European Parliament Resolution of 28 April 2021 on the outcome of EU-UK
+negotiations, para 18
+European Parliament Resolution of 28 April 2021 on the outcome of EU-UK
+negotiations, para 32
+
+13 Commons Library Briefing, 20 May 2021
+
+2. Competition policy
+2.1 Negotiating positions
+The positions of the UK and EU converged on competition issues during
+the TCA negotiations. Other EU and UK free trade agreements contain
+comparable provisions and adhere to similar principles of transparency,
+non-discrimination, and procedural fairness.
+
+UK position
+The UK’s negotiating objectives (Chapter 21), which were published on
+27 February 2020, highlighted a desire for both parties “to maintain
+effective competition laws, covering merger control, anticompetitive
+agreements and abuse of dominance, while maintaining the right to
+provide for public policy exemptions”. The document argued that there
+is no need for legal or regulatory alignment. Rather, it promoted
+“regulatory freedom to respond to new and emerging challenges in
+these areas.” 13
+It argued for “transparent, non-discriminatory rules and enforcement
+procedures” and “effective cooperation”.
+With one exception, chapter 22 of the May 2020 UK draft
+Comprehensive Free Trade Agreement was if anything more general
+than the provisions set out in the earlier negotiating objectives, referring
+generally to principles of “free and undistorted competition” and the
+importance to all of taking action against “anti-competitive business
+conduct”. 14
+But paragraph 3 of Article 22.2 included a new emphasis on the
+importance of “cooperation and coordination” between competition
+authorities to achieve this, going as far as admitting the possibility of “a
+separate agreement” on effective competition law.
+The proposed approach would reflect recent agreements with Canada,
+Japan and South Korea in excluding competition issues from the wider
+dispute resolution mechanism.
+
+EU position
+The EU’s negotiating directives adopted on 25 February proposed that:
+97. The envisaged partnership should provide that anticompetitive
+agreements, abuses of dominant position and concentrations of
+undertakings that threaten to distort competition are prohibited,
+unless remedied, in so far as they affect trade between the Union
+and the United Kingdom. The Parties should also commit to
+effective enforcement via a competition law and domestic
+administrative and judicial proceedings, permitting the effective
+
+13
+
+14
+
+HM Government, The Future Relationship with the EU: The UK’s Approach to
+Negotiations, CP 211, 27 February 2020, Chapter 16
+HM Government, Draft working text for a Comprehensive Free Trade Agreement
+between the United Kingdom and the European Union (CFTA), 19 May 2020,
+Chapter 22
+
+14 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+and timely action against violations of competition rules, and to
+effective remedies. 15
+
+Section 2 of the EU draft Agreement of 18 March 2020 elaborates on
+commitments in competition set out in the negotiating directives. Anticompetitive practices are prohibited as far as those affect trade between
+the UK and the EU. There is no direct reference to EU competition law,
+but much of the text is “derived from EU law (largely copied from the
+EU treaties) and enforceable in the courts of each party”, which would
+by extension require the UK “to apply competition rules essentially
+identical to those in force in the EU”. 16
+There are provisions regarding cooperation on policy development and
+cooperation between competition authorities. Provisions on competition
+would not be covered by the Agreement dispute settlement mechanism
+(Part Five, Title II), except for the requirement to have an enforcement
+body.
+
+2.2 The TCA
+The TCA only briefly deals with competition policy in Chapter 2, Articles
+358-362.
+In it, the EU and the UK “recognise the importance of free and
+undistorted competition”. Both agree to maintain a competition law
+system that addresses
+•
+
+agreements and practices that seek to prevent, restrict or distort
+competition
+
+•
+
+abuses of dominant positions, and
+
+•
+
+mergers or acquisitions (for the EU, “concentrations”) which have
+anti-competitive effects. This competition law system must apply to
+all economic actors regardless of nationality or ownership status.
+
+The TCA does not change the substance of UK or EU competition law
+rules, which are substantially the same. So currently, what is likely to be
+unlawful under EU competition rules is also likely to be unlawful under
+UK competition rules. In the future, however, UK courts are not
+required to follow EU competition case-law. Divergences are likely to
+emerge over time. There is also the potential for parallel European
+Commission and UK Competition and Markets Authority investigations
+of the same conduct, if that conduct impacts trade both between EU
+Member States and, separately, in the UK. 17
+The UK and EU now operate separate competition regimes. The EU
+Merger Regulation, with its one-stop shop rule that allowed the
+European Commission to review mergers across national borders, no
+
+15
+
+16
+
+17
+
+EU General Affairs Council, Directives for the negotiation of a new partnership with
+the United Kingdom of Great Britain and Northern Ireland, 5870/20, 25 Feb 2020
+Institute for Government, UK–EU future relationship negotiations: key flashpoints
+(accessed May 2021)
+See William Fry, The impact of Brexit on State Aid, Public Procurement, Merger
+Control and Competition Rules (accessed May 2021)
+
+15 Commons Library Briefing, 20 May 2021
+
+longer applies in the UK. Transactions now need to satisfy merger
+control rules in both the UK and EU. 18
+Each party is allowed an exemption from such competition law for
+“legitimate public policy objectives”, so long as these exemptions are
+transparent and proportionate to those objectives.
+The UK and EU agree to enforce competition law in a transparent and
+non-discriminatory manner, and have competition authorities which
+shall co-operate on their activities. This includes the exchange of
+information. In future, the UK and EU may enter into a separate
+agreement on co-operation and co-ordination between the European
+Commission, the competition authorities of the EU Member States and
+the UK’s competition authority, which may include conditions for the
+exchange and use of confidential information. Officials from the UK and
+EU have indicated that they are keen for such an agreement to be
+finalised soon. It might include enhanced co-operation, mutual
+notifications and coordination of enforcement. 19
+Consistent with the negotiation positions of both sides, the general
+provisions on dispute settlement (Title I of Part Six) do not apply to the
+competition provisions.
+
+Standards in other EU trade agreements
+Other EU trade agreements contain provisions on competition that are
+comparable to the TCA.
+Canada
+Chapter 17 of the Comprehensive Economic and Trade Agreement
+(CETA) sets out arrangements for competition, highlighting “the
+principles of transparency, non-discrimination, and procedural fairness”.
+Any exclusions will be transparent and both parties will share relevant
+information about such exclusions. There are no arrangements for
+dispute settlement. CETA also refers to a more detailed 1999 agreement
+between the EU and Canada on the application of competition laws.
+Japan
+Chapter 11 of the EU-Japan Economic Partnership Agreement, which
+builds on a 2003 agreement on anti-competitive activities, promotes
+similar principles. It permits exemptions, “provided that such
+exemptions are transparent and are limited to those necessary for
+securing public interest. Such exemptions shall not go beyond what is
+strictly necessary to achieve the public interest objectives that have been
+defined by that Party”. The agreement is not subject to wider
+arrangements for dispute resolution.
+South Korea
+Chapter 11 of the EU-South Korea Free Trade Agreement of 2010 also
+highlights general principles of the type mentioned above. In
+18
+
+19
+
+See Norton Rose Fulbright, The impact of Brexit on antitrust and competition
+(accessed May 2020)
+EU Relations Law, A missing piece of the puzzle: a Competition Law Cooperation
+Agreement between the UK and EU (accessed May 2021)
+
+16 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+comparison with the Canadian and Japanese agreements, it discusses
+the role (and protection) of public monopolies and enterprises in more
+detail. The agreement is not subject to wider arrangements for dispute
+resolution.
+The “continuity” trade agreements the UK has signed with Canada,
+Japan and South Korea largely replicate the competition provisions in
+the EU agreements. 20
+
+20
+
+For Canada, see UK-Canada Trade Continuity Agreement, 9 December 2020, p18
+Ch17; for Japan, see House of Lords EU Committee, Scrutiny of international
+agreements: UK-Japan Comprehensive Economic Partnership Agreement, 19
+November 2020, p26 para 80; for South Korea, see Continuing the UK’s trade
+relationship with the Republic of Korea, September 2019, p32 para 111
+
+17 Commons Library Briefing, 20 May 2021
+
+3. Subsidy control
+3.1 Negotiating positions
+Background
+Subsidy control was one of the most controversial areas during
+negotiations over the TCA and one of the last issues to be resolved.
+Both the EU and UK have a mutual interest in robust controls of state
+support to businesses, which could ensure fair competition and trade
+with the other party. Despite this, both sides adopted different
+approaches to future cooperation on state aid/subsidies. 21 The UK
+sought to protect its regulatory autonomy and avoid provisions in this
+area that would go further than free trade agreements “normally” do.
+The EU saw alignment on state aid rules as essential to prevent UK
+subsidies to industries from threating to undercut EU businesses in the
+future.
+
+UK position
+As an EU Member State, the UK was part of the EU regime for state aid
+(see box 1 below). While Theresa May’s Government was considering
+some form of incorporation of EU state aid rules in the UK rulebook,
+Boris Johnson’s Government rejected any form of alignment with the EU
+in this area. Referring to the principle of sovereignty it rejected EU
+influence over UK domestic policy through state aid controls. The
+government also chose to use the term ‘subsidies’ instead of ‘state aid’,
+which is an EU law term. 22
+Box 1: EU State aid rules
+As an EU Member State, the UK was part of the EU regime for state aid. The EU state aid controls are
+specifically aimed at creating a level playing field for businesses in the Single Market. Under Article 107
+of the Treaty on the Functioning of the European Union, state aid is prohibited, if it threatens to distort
+competition and trade between EU Member States. 23 State aid refers to national public authorities
+offering grants, tax reliefs and various other forms of support, which favour specific businesses or
+industries. Member States are required to get European Commission clearance before making state aid
+available to businesses (ex-ante assessment). In practice, more than 90% of EU state aid is exempted
+from this procedure.
+See further Commons Library briefing 6775, EU State Aid Rules and WTO Subsidies Agreement
+
+As set out in its statement of 3 February 2020 on UK/EU relationships,
+the UK Government did not believe that to secure future cooperation it
+was necessary to be bound by an international treaty or guided by
+shared institutions in subsidies policy. Such commitments could hamper
+its aspirations to develop “separate and independent policies” on state
+aid. It was seeking a regime that is WTO-compliant and does not go
+
+21
+
+22
+
+23
+
+HL European Union Committee, Internal Market Sub-Committee, Uncorrected oral
+evidence: The level playing field and state aid, 27 February 2020, Q8
+For background on (dynamic) alignment with evolving EU state aid rules see
+Commons Library briefing 8852, The UK-EU future relationship negotiations: Level
+Playing Field, 19 June 2020, section 2
+Consolidated version of the Treaty on the Functioning of the European Union [2012]
+OJ C326, Art. 107-108
+
+18 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+beyond the provisions included in other free trade agreements, such as
+CETA.
+The Government’s negotiating objectives, The future relationship with
+the EU. The UK’s approach to negotiations of 27 February (Chapter 20)
+stated that reciprocal commitments on subsidies should be in line with
+the WTO Agreement on Subsidies and Countervailing Measures (SCM) 24
+and could go beyond it regarding transparency, which would be
+comparable to the EU-Japan Economic Partnership Agreement. While
+the SCM Agreement covers only trade in goods, the government was
+willing to extend its commitments to cover trade in services too. This
+was a concession to the EU position as EU state aid rules cover all trade
+and do not distinguish between goods, services or movements of
+capital.
+The EU’s proposal was to base the UK state aid regime on EU state aid
+law. That would involve a role for the Court of Justice of the EU (CJEU)
+which has an exclusive competence to interpret EU law. The UK
+Government consistently ruled out “any jurisdiction for the CJEU over
+the UK’s laws”, or “any supranational control in any area”. 25
+The UK’s draft UK-EU Comprehensive Free Trade Agreement (CFTA),
+had a separate chapter on subsidies (Chapter 21). The proposal referred
+to WTO anti-subsidy rules as basis for cooperation on subsidies. Under
+the proposed terms, both sides would agree to notify each other biannually of their subsidies. A party concerned about a subsidy adversely
+affecting its interests would be able to request a consultation. The other
+party would give “full and sympathetic consideration” to that request
+and would use its “best endeavours” to address the adverse effects. The
+provisions would not be subject to the dispute settlement procedures of
+the Agreement.
+
+EU position
+From the outset of the negotiations the EU indicated that the
+enforcement of state aid rules was one of its main concerns among the
+level playing field obligations. Following the approach set out in the
+Political Declaration, the EU’s negotiating directives required upholding
+“the common high standards” with regard to state aid and other areas.
+But they added a request for “corresponding high standards over time
+with Union standards as a reference point”. The EU requested that EU
+state aid rules apply “to and in the UK”. 26
+The EU draft Agreement on the New Partnership with the United
+Kingdom operationalised the positions set out in the Council’s
+24
+
+25
+
+26
+
+The WTO rules on state aid/ subsidies are laid out in the Agreement on Subsidies
+and Countervailing Measures (SCM). This agreement frames the use of subsidies and
+the actions countries can take to protect their markets from the effects of another
+country’s subsidies.
+UK / EU relations: Written statement, HCWS86, 3 February 2020; see also
+Cabinet Office, PM meeting with EU Commission President Ursula von der Leyen, 8
+January 2020.
+EU General Affairs Council, Directives for the negotiation of a new partnership with
+the United Kingdom of Great Britain and Northern Ireland, 5870/20, 25 Feb 2020,
+para 96
+
+19 Commons Library Briefing, 20 May 2021
+
+negotiating directives. 27 The draft text on state aid required the UK to
+give effect to EU state aid law including future amendments in its
+domestic law.
+Further, the UK would be required to establish an independent
+enforcement authority.
+The UK would also have been required to ensure that its courts could
+apply state aid rules and could refer questions of interpretation of EU
+state aid law to the CJEU. In addition, the European Commission would
+have legal standing before UK courts to bring cases in respect of state
+aid measures adopted by UK authorities and would have a right to
+intervene in cases. These provisions would give EU law an
+unprecedented extra-territorial effect in a third country. 28
+Disagreements would be settled through a consultation mechanism
+within the Specialised Committee on Level Playing Field and
+Sustainability (SCLPF) and the agreement’s overarching dispute
+settlement mechanism would apply.
+The EU would be able to take “interim measures” if, for example,
+consultations failed or the SCLPF could not come to an agreement on
+whether the UK had adopted new EU state aid provisions. 29
+Agreements between the EU and third countries include varying degrees
+of commitments on state aid/subsidy controls. Generally, the closer the
+market integration, the more state aid or anti-subsidy rules form part of
+the agreement. 30 The EU’s initial proposal compared to the EU-Ukraine
+Association Agreement, with the trading partner having its own
+independent regime which is based on full application of EU state aid
+rules. As stated above, the UK proposal was to follow the agreements
+building on the WTO rules-based systems such as CETA and the EUJapan Economic Partnership Agreement which have relatively week
+enforcement provisions. 31
+
+Seeking a compromise
+Throughout the first months of negotiations the UK and EU positions on
+state aid remained deadlocked. However in July 2020 the EU signalled
+willingness to drop its demand that the UK accepts future EU state aid
+rules (dynamic alignment) and CJEU oversight. 32 In exchange it expected
+the UK to sign up to a “shared philosophy” on future subsidy policy in
+combination with some form of equivalence mechanism where the UK
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+European Commission, Draft text of the Agreement on the New Partnership
+between the European Union and the United Kingdom, UKTF(2020)14, 18 March
+2020, Title III, Chapter Two, Section 1
+Nikos Lavranos, EU UK agreement: an analysis of the EU’s proposed dispute
+settlement provisions, Borderlex, 23 March 2020
+The text did not explain the nature of such interim measures, but common
+understanding was that they would refer to tariffs on goods or (partial) suspension
+of the agreement. This is similar to ‘remedial measures’ included in the TCA.
+Morris Schonberg, “Continuity or change? State aid control in a post-Brexit United
+Kingdom”, Competition Law Journal, 47, 2017, p54
+See further Commons Library briefing 9025, UK subsidy policy: first steps, 19
+October 2020, section 4
+“The hard Brexit choices that could yet deliver a deal,” Financial Times, 27 July 2020
+
+20 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+would have a solid framework and an independent institution to
+oversee it.
+The UK Government reiterated in a statement on subsidy policy on 9
+September 2020, that from 2021, the UK will no longer follow EU state
+aid rules but the WTO rules on subsidies. It will honour its obligations
+regarding subsidies included in its future free trade agreements. The
+government also reassured that it did not intend to adopt “1970s
+policies” of bailing out unsustainable companies. 33
+The government’s statement of 9 September sat alongside the UK
+Internal Market Bill which was introduced in Parliament on the same
+day. The Bill as presented would empower Ministers to unilaterally
+reinterpret and disapply provisions on state aid in the Withdrawal
+Agreement Protocol on Ireland/Northern Ireland. It appeared that these
+controversial provisions could break the UK’s legal obligations under the
+Withdrawal Agreement and international law to enact the Protocol. In
+response, the European Commission launched infringement
+proceedings against the UK. The provisions were eventually removed
+from the Bill, which has now become the UK Internal Market Act, but
+these developments put further pressure on the negotiations. See for
+background Commons Library Briefing United Kingdom Internal Market
+Bill 2019-21, 14 September 2020, Sections 6.5 and 6.8.
+On 7 October, The UK’s Chief negotiator David Frost confirmed to the
+House of Lords EU Committee that the EU had dropped the request of
+dynamic alignment with EU state aid rules. He disclosed that the UK had
+submitted a proposal on basic principles on subsidy policy. These
+principles focussed on transparency and proportionality of subsidies and
+would have regard for the effect of subsidies on trade and investment.
+Frost confirmed that the UK was willing to commit to such common
+principles, which are “important parts of a good subsidy system”. But
+the level of detail on domestic policy, that the EU had been asking for,
+was to be decided after a domestic consultation followed by a possible
+legislative process. 34 Thus, the domestic setup of the UK subsidy system
+could not be part of the negotiation. A path to a compromise was
+emerging.
+
+3.2 The TCA: Definitions and scope
+Subsidy control provisions are covered in Chapter 3, Articles 363-375.
+The Agreement requires both UK and EU to have an effective system of
+subsidy control with an independent body to oversee it from 1 January
+2021. Crucially, the UK has the right to regulate; it may determine the
+precise scope of its regime, within the principles and rules agreed in the
+TCA.
+
+33
+
+34
+
+The Department for Business, Energy and Industrial Strategy (BEIS), Government sets
+out plans for new approach to subsidy control, 9 September 2020
+HL Committee on the European Union, Uncorrected oral evidence: Progress of
+negotiations on the future UK-EU relationship, 7 October 2020, Q8
+
+21 Commons Library Briefing, 20 May 2021
+
+The TCA defines a subsidy in Article 363 without referring to concepts
+of EU law, but it is seen by many as generally similar in scope. 35 A
+subsidy concerns financial assistance paid from the public purse, in
+various forms, including grants, loans or guarantees, foregone revenue
+or provision of goods and services. Also tax measures can be subsidies in
+some circumstances. A subsidy confers economic advantage and is
+specific – it benefits certain economic actors above others. A subsidy
+must have actual or potential effect on trade or investment between the
+Parties (Article 363 (1) (b)).
+Article 364 limits the scope of a “subsidy”, exempting compensations
+for the damage caused by natural disasters. Lesser conditions apply to
+other exceptional non-economic occurrences, such as a pandemic, and
+focussed responses to global economic emergencies. It is also made
+clear that subsidies of a social nature to consumers, rather than
+businesses, are allowed.
+There is a new de minimis threshold of roughly £335,000 below which
+a subsidy is exempt. Further, the rules do not apply to agricultural and
+fisheries sectors, and the audio-visual sector, which includes film,
+broadcasting, and multimedia.
+Article 365 provides that the principles of subsidy control do not apply
+to subsidies for services of public economic interest, such as social
+housing or public transport services to remote areas, if they would
+obstruct the delivery of such services. Generally, authorities
+compensating an entity for the service provision should be transparent,
+avoid overcompensation and prevent cross-subsidising other activities
+outside the scope of public interest. The subsidy control chapter of the
+TCA does not apply to compensations which amount to less than
+£795,000 over a period of three years.
+
+3.3 Principles of subsidy control
+Mutually agreed principles of subsidy control are covered in
+Article 366, and should be applied to determine the legality of an
+individual subsidy where this could have a material effect on trade or
+investment between the parties. See box 2 below.
+Box 2: TCA principles of subsidy control (Article 366)
+Each party must have an effective system of subsidy control that ensures that the granting of a subsidy
+respects the following principles:
+(a) subsidies pursue a specific public policy objective to remedy an identified market failure or to
+address an equity rationale such as social difficulties or distributional concerns (“the objective”)
+(b) subsidies are proportionate and limited to what is necessary to achieve the objective
+(c) subsidies are designed to bring about a change of economic behaviour of the beneficiary that
+is conducive to achieving the objective and that would not be achieved in the absence of
+subsidies being provided
+(d) subsidies should not normally compensate for the costs the beneficiary would have funded in
+the absence of any subsidy
+
+35
+
+Phedon Nicolaides, One Agreement, Two Parallel Systems: Subsidies in the Trade
+and Cooperation Agreement between the EU and the UK, lexxion.eu, 5 January
+2021
+
+22 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+(e) subsidies are an appropriate policy instrument to achieve a public policy objective and that
+objective cannot be achieved through other less distortive means
+(f) subsidies’ positive contributions to achieving the objective outweigh any negative effects, in
+particular the negative effects on trade or investment between the parties.
+
+Certain subsidies that have or could have material effect on UKEU trade, are prohibited and others are subject to conditions
+(Article 367). The prohibited subsidies include unlimited state
+guarantees, and state support to rescue ailing or insolvent businesses
+without a realistic restructuring plan. However, such subsidies would be
+permitted in order to avoid social hardship, job losses or service
+disruption. Subsidies to banks and credit institutions are allowed subject
+to a credible restructuring plan and a prospect of long-term viability.
+Exports subsidies for goods and services are prohibited, with some
+exceptions such as export credit guarantees. Also subsidies conditional
+on domestic content are prohibited. Subsidies to air carriers are allowed
+in exceptional circumstances.
+Article 367 (13) sets out specific rules for large cross-border or
+international cooperation projects. Article 367 (14) regulates subsidies
+to sustainable energy and environmental sustainability.
+Phedon Nikolaides, Professor of European economic law at Maastricht
+University has noted that the TCA allows subsidies that contribute to
+public policy objectives:
+Without explicitly stating so, [the TCA] allows subsidies that
+pursue a public policy objective, comply with certain principles,
+such as those of necessity and proportionality, and generate
+positive effects that outweigh their negative effects on trade and
+investment. 36
+
+In sum, “any subsidy in any form escapes from the obligations laid
+down in the Agreement if it has no ‘material effect’ on trade or
+investment”. 37
+An additional Joint Declaration on Subsidy Control Policies covers
+subsidies for the development of disadvantaged areas, transport, and
+research and development. The Joint declaration provides non-legally
+binding guidance on what “appropriate subsidy policies” in these areas
+would entail. For example, beneficiaries of subsidies for the
+development of disadvantaged or deprived areas should be required to
+provide substantial contribution to the investment costs of a project.
+Also, the main purpose of regional aid should not be attracting
+businesses to relocate from the EU to the UK or vice versa. George
+Peretz QC of Monckton Chambers assesses:
+The value of these latter declarations is largely to make it clear
+that the UK government, committed to major investment in both
+transport and R&D, can do so within the framework of the
+
+36
+
+37
+
+Phedon Nicolaides, One Agreement, Two Parallel Systems: Subsidies in the Trade
+and Cooperation Agreement between the EU and the UK, lexxion.eu, 5 January
+2021
+Ibid
+
+23 Commons Library Briefing, 20 May 2021
+
+Agreement – though it will be observed that it could also have
+done so within the framework of EU State aid rules. 38
+
+Transparency
+The Parties commit to principles of transparency around subsidy
+controls (Article 369), agreeing to make information on individual
+subsidies and the names of recipients available on a public database or
+website. For this purpose, the UK Government has set up a new
+transparency database on gov.uk. The UK has also agreed to ensure
+that an interested party – for example a competitor of the beneficiary or
+a trade association – which intends to apply for a court review of a
+subsidy, has access to the relevant information about the subsidy. This
+would enable it to assess the application of the subsidy control
+principles of Article 366 and make an informed decision about its claim
+and the issues at stake. The transparency provisions are more profound
+than the commitments in FTA’s like CETA.
+Box 3: UK Guidance and future Subsidy Control Bill
+On 31 December 2020, the government published guidance for public authorities which award
+subsidies, explaining their responsibility for the assessment of compliance with the UK’s international
+commitments on subsidy control. 39
+A consultation about the design of a bespoke approach to UK domestic subsidy control ran from 3
+February until 31 March 2021.
+The UK Internal Market Act (Section 52) reserves to the UK Parliament the exclusive ability to legislate
+for a subsidy control regime. Later this year, the government is expected to bring forward a Subsidy
+Control Bill to establish a subsidy control system in domestic law.
+
+3.4 Independent enforcement body
+The TCA subsidy provisions require that the UK establishes an
+“operationally independent” enforcement authority (Article 371)
+with an “appropriate role”. The Agreement does not require the
+government to assess subsidies in advance, or introduce a standstill
+period until a subsidy is cleared, as the EU state aid regime requires. So
+far the UK Government has not set up a subsidy control authority.
+
+3.5 The role of courts
+Besides an independent enforcement body, Article 372 requires that the
+courts are competent
+•
+
+to review subsidy decisions taken by granting authorities or the
+independent body,
+
+•
+
+to hear claims from interested parties, and
+
+•
+
+to impose effective remedies, in accordance with either party’s
+domestic law.
+
+38
+
+George Peretz, The subsidy control provisions of the UK-EU trade and cooperation
+agreement: a framework for a new UK domestic subsidy regime, Monckton
+Chambers, 28 December 2020
+HM Government, Guidance Complying with the UK’s international obligations on
+subsidy control, 31 December 2021, para 3.2
+
+39
+
+24 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+That means a case can be brought through the domestic legal system of
+either side rather than through an arbitration procedure of the TCA. A
+unique feature is that, with the permission of the court, either party can
+intervene in the other’s domestic court proceedings. This is a weakened
+down provision from the EU’s initial proposal to have legal standing to
+bring cases before UK courts. Further, both parties must put a
+mechanism in place to recover subsidies which have been successfully
+challenged before a court. However, if a subsidy is granted by an Act of
+Parliament, recovery will not be required (Article 373).
+
+3.6 Dispute settlement and remedies
+The Agreement contains a complex set of bespoke provisions to address
+disputes on subsidies. First, there is the option of a consultation. If a
+consultation does not solve the dispute, a complaining party can take
+unilateral remedial measures, subject to arbitration. When a dispute
+relates to concerns over significant divergence of the subsidy control
+policy, parties can take rebalancing measures.
+A consultation procedure is established under Article 370. It allows a
+party to request information on how the subsidy control principles of
+Article 366 have been respected in an individual case, if it considers that
+a subsidy (potentially) has a negative effect on trade or investment
+between the UK and EU. The party can escalate the case, requesting
+consultations within the Trade Specialised Committee on Level Playing
+Field for Open and Fair Competition and Sustainable Development
+which “shall make every attempt to arrive at a mutually satisfactory
+resolution of the matter”. This consultation procedure, notes Kotsonis,
+“should also help flush out any potential concerns over the compliance
+of a subsidy that could otherwise escalate into a dispute”. 40
+In more concerning instances, if either party considers that the other’s
+individual subsidy presents a serious risk of causing “a significant
+negative effect on trade or investment between the parties,” it can
+request information and consultations under the Article 374 Remedial
+measures procedure. 41
+If there is evidence to that serious risk, a party can “unilaterally take
+appropriate remedial measures.” These measures have to be limited to
+what is strictly necessary and proportionate. Articles 374 (5) and 374 (6)
+stipulate that the existence of a serious risk of a significant negative
+effect must be backed by facts and reliable evidence, and not merely
+based on “allegation, conjecture or remote possibility”.
+The other party can challenge the complainant’s remedial measures if it
+considers them excessive, and request a ruling of an arbitration tribunal
+in accordance with the Part Six provisions on dispute settlement. The
+tribunal will assess whether the remedial measure of the complainant is
+proportionate. If the complainant fails to comply with the arbitration
+40
+
+41
+
+Totis Kotsonis, “The Squaring of the Circle: Subsidy Control Under the UK-EU Trade
+and Cooperation Agreement”, European State Aid Law Quarterly, Volume 20, Issue
+1, 2021, pp561-575
+The Partnership Council may maintain an illustrative list of what might amount to a
+significant negative effect on trade or investment (Article 374 (7)).
+
+25 Commons Library Briefing, 20 May 2021
+
+ruling, the other party can take remedial action in response. The
+arbitration tribunal will conduct its proceedings in accordance with
+Article 760 which sets outs an expedited process for establishing the
+tribunal and for the delivery of the tribunal’s final ruling. 42
+Article 375 sets out that if one of the parties more generally fails to
+comply with the subsidy commitments of the TCA, the other may refer
+the matter to the horizontal dispute settlement procedure of the TCA
+(Title 1, Part Six). This does not apply to provisions on the independent
+body (Article 371) and courts (Article 372). An arbitration tribunal under
+the TCA will have no jurisdiction over the assessment and recovery of
+individual subsidies.
+The rebalancing mechanism (Article 411) applies to the TCA
+commitments on subsidies (see section 8.5 below), in a similar manner it
+applies to labour and social, environmental standards or climate
+protection. The rebalancing mechanism provides that the parties can
+take “rebalancing measures” where significant divergence between the
+UK and the EU on subsidy control gives rise to “material impacts on
+trade and investment between the parties”. A remedial measure and a
+rebalancing measure cannot be applied at the same time to remedy the
+impact of the same subsidy (Article 374 (15)).
+Both remedial measures and rebalancing procedures for subsidies
+require that the assessment of a subsidy’s impacts must be based on
+“reliable evidence and not merely on conjecture or remote possibility.”
+Kotsonis summarises the differences between the remedies under the
+two procedures:
+In terms of substance, there would not appear to be any material
+differences between what might count as ‘remedial’ or ‘rebalancing’
+measure; both might involve the imposition of tariffs or quotas or the
+suspension of certain other preferential access commitments. However,
+on the basis that significant divergence in subsidy control policies would
+herald a systemic divergence in the way in which Parties approach
+subsidy control, this is likely to lead to longer term and wider distortive
+effects on level playing field conditions than the grant of any one or
+more time-limited subsidies. Accordingly, where a rebalancing measure
+is justified, this would seem to permit, in principle, the adoption of more
+draconian trade defence measures than that which would seem
+justifiable in the context of a remedial measure. 43
+In critique of the dispute settlement mechanism for subsidies, Nicolaides
+has pointed out that the system of remedial measures available to a
+
+42
+
+43
+
+For a detailed description of the subsidy dispute resolution procedure see Commons
+Library briefing 9139, The UK-EU Trade and Cooperation Agreement: governance
+and dispute settlement, section 5.1
+Totis Kotsonis, “The Squaring of the Circle: Subsidy Control Under the UK-EU Trade
+and Cooperation Agreement,” European State Aid Law Quarterly, Volume 20, Issue
+1, 2021, p571
+
+26 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+party in response to the other’s harmful subsidies is “an inefficient
+system because it counters one distortion by creating another”. 44
+The review mechanism described in section 8.8 below also applies to
+subsidies, making it possible to review or ultimately suspend the Trade
+title of the agreement if rebalancing measures have been taken too
+frequently.
+In addition to the above dispute resolution procedures, with regard to
+trade in goods, Article 32 contains provisions on anti-dumping and
+countervailing measures which can be used to remedy the effects of
+harmful subsidies of the other party. 45 Article 32 states that antidumping and countervailing measures are to be applied in accordance
+with the provisions of the WTO SCM Agreement, which allows for
+investigations into the effects of subsidised imports on the domestic
+prices and industry. Countervailing measures can be introduced to
+offset the injury caused to domestic industry.
+
+3.7 Issues and commentary
+A compromise solution
+There is a consensus among state aid/subsidy law specialists that the UK
+has done well in the negotiations in achieving independence from EU
+state aid rules and the jurisdiction of the CJEU. 46
+At the same time, the TCA subsidy provisions are, as professor Kenneth
+Armstrong puts it, a “delicately balanced” compromise with the EU
+objectives. The provisions are not as thin as the UK sought in terms of
+the WTO SCM Agreement. Instead, “the Agreement itself is the direct
+source of detailed substantive definitions of what constitutes a subsidy,
+certain prohibitions and any exceptions.”47 The resulting regime is
+substantially more robust than if the system was based merely on the
+WTO anti-subsidy commitments, and imports the EU approach to
+assessment of subsidies, argues subsidy law expert Totis Kotsonis.
+[I]n providing that subsidies should be granted only when they are
+consistent with the Subsidy Principles, the TCA imports an
+approach which is aligned with the assessment which the
+European Commission itself carries out in determining State aid
+compatibility with the internal market under EU law. 48
+
+44
+
+45
+46
+
+47
+
+48
+
+Phedon Nicolaides, One Agreement, Two Parallel Systems: Subsidies in the Trade
+and Cooperation Agreement between the EU and the UK, lexxion.eu, 5 January
+2021
+TCA, Title I Trade in Goods, Chapter 1, Article 32 Trade remedies
+See for example, Emily Lydgate et al., Phedon Nicolaides, James Webber, George
+Peretz, Marley Morris
+Kenneth Armstrong, An Uneven ‘Level Playing Field’ – the EU/UK Trade Agreement,
+University of Cambridge, 19 January 2021 (accessed May 2021)
+Totis Kotsonis, “The Squaring of the Circle: Subsidy Control Under the UK-EU Trade
+and Cooperation Agreement”, European State Aid Law Quarterly, Volume 20, Issue
+1, 2021, p574
+
+27 Commons Library Briefing, 20 May 2021
+
+While consciously avoiding direct reference to concepts of EU law, the
+resulting regime is in substance, if not in form, rather similar to the
+structure under the EU State aid rules. 49
+The resulting TCA provisions are a new model of managing divergence,
+unprecedented in any other free trade agreement. International Trade
+Committee was told that the TCA would not limit the UK’s freedom to
+negotiate new free trade agreements with third countries. The TCA sets
+a high bar, which the UK would have no intension to surpass with third
+countries. 50
+Flexibility in deciding policy priorities
+The UK has achieved significant freedom in various policy areas
+previously regulated by specific EU state aid rules. The Sussex University
+Trade Policy Observatory (UKTPO) notes:
+The UK […] has negotiated for higher de minimis and public
+service subsidy thresholds, for special provisions to allow for a
+post-COVID19 special recovery programme to level up regions
+and to be able to keep a check on how the Member States of the
+EU use public money to stimulate their economies. It has also
+ensured that general provisions relating to tax and infrastructure
+projects will not be caught by the subsidy rules and that the
+dispute mechanisms that address problems with EU state aid and
+UK subsidies are independent of the European Commission and
+the European Courts. 51
+
+In policy areas such as environment and energy, research &
+development, or support for SMEs, where the UK has strong interests
+and towards which it has directed state aid in the past, the provisions of
+the TCA are general or absent, whereas the corresponding provisions in
+EU rules are much more complex. It can be argued that the UK will be
+able to grant larger subsidies to its companies without breaching the
+TCA in comparison to those which are allowed in the EU . 52 The
+threshold to demonstrate that a subsidy harms trade and investment is
+higher under the TCA than under EU rules.
+Independence from the EU regime could present an opportunity to the
+UK to make its domestic subsidy controls more permissive and
+efficient. 53 James Webber, partner at Shearman & Sterling writes in
+Taking advantage of the opportunity presented by the UK’s new subsidy
+control regime (27 January 2021) that the UK can now, for example:
+
+49
+
+50
+
+51
+
+52
+
+53
+
+George Peretz, The subsidy control provisions of the UK-EU trade and cooperation
+agreement: a framework for a new UK domestic subsidy regime, Monckton
+Chambers, 28 December 2020
+International Trade Committee, Oral evidence: UK-EU trading relationship, HC 1206,
+22 April 2021, Q119-120
+E. Lydgate, E. Szyszczak, L. A. Winters, C. Anthony, Taking Stock of the UK-EU Trade
+and Cooperation Agreement: Governance, State Subsidies and the Level Playing
+Field, UKTPO, Briefing Paper 54, January 2021; See also
+Phedon Nicolaides, One Agreement, Two Parallel Systems: Subsidies in the Trade
+and Cooperation Agreement between the EU and the UK, lexxion.eu, 5 January
+2021 (accessed May 2021)
+George Peretz, The subsidy control provisions of the UK-EU trade and cooperation
+agreement: a framework for a new UK domestic subsidy regime, Monckton
+Chambers, 28 December 2020
+
+28 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+•
+
+simplify and speed up approvals for productivity-enhancing projects,
+helping to attract globally mobile inward investment,
+
+•
+
+improve research and development collaboration, enhancing the
+UK’s competitiveness, and
+
+•
+
+enable regional fiscal policy to support regional investment and the
+Government’s levelling up agenda.
+
+The bar of demonstrating that a subsidy has “material effect” on trade
+under the TCA and is therefore out of bounds, is high. The Government
+would therefore consider the effects of a subsidy within the UK when
+deciding whether to spend the money in the first place. 54
+Uncertainty about domestic effects
+TCA subsidy provisions leave much of the internal settlement open to
+the UK Government’s discretion. There’s a degree of uncertainty about
+how the new UK commitments on subsidies will be implemented in
+practice and what these changes will mean for specific policy areas.
+Finding the balance between flexibility under the TCA and certainty for
+public authorities and businesses benefitting from subsidies may not be
+easy. 55
+For example, the TCA does not require the UK independent authority to
+assess the compliance of individual support measures – a role which was
+previously performed by the European Commission. The resulting
+uncertainty about individual subsidies could be addressed by introducing
+general block exemptions for certain types of subsidies. Experts argue
+that without such guidance, the burden on granting authorities would
+require resources and expertise to assess compliance and would still
+leave authorities open to legal challenge. 56
+Kotsonis notes that the current UK subsidy system “lack[s] any
+consideration for a subsidy’s potentially distortive effects on competition
+in the UK internal market,” or the UK internal subsidy competition, as
+opposed to competition with the EU. This issue may be clarified in the
+government’s legislative proposals for UK subsidy control which are
+expected after the results of the recent consultation have been
+published. 57
+See box 3 above and Commons Library Briefing 9139, UK subsidy
+policy: first steps for the issues facing the independent UK state aid
+regime.
+Mutual controls of implementation
+While TCA provisions are bound to constrain UK domestic policy to
+some extent, the UK Government has mechanisms to monitor EU
+54
+
+55
+
+56
+
+57
+
+James Webber, Taking advantage of the opportunity presented by the UK’s new
+subsidy control regime, Shearman & Sterling, January 2021 (accessed May 2021)
+Fiona Wishlade, Where is the UK on State Aid and Subsidy Control Post Brexit?
+University of Strathclyde Publishing, February 2021, Chapter 10
+Totis Kotsonis, The Squaring of the Circle: Subsidy Control Under the UK-EU Trade
+and Cooperation Agreement, European State Aid Law Quarterly, Volume 20, Issue
+1, 2021, pp573-4; Jonathan Branton and Alexander Rose have made similar
+proposals in UK Government launches consultation on new Subsidy Control rules, 4
+February 2021 (accessed May 2021)
+Prime Minister’s Office, The Queen’s speech 2021, p72
+
+29 Commons Library Briefing, 20 May 2021
+
+subsidies. As described above in section 1.4, the European Parliament is
+seeking assurances that “significant divergence with material impact on
+trade or investment is broadly interpreted” and that the enforcement
+mechanisms work in practice. It has specifically noted that provisions on
+the level playing field apply to UK Government’s plans such as the
+freeports programme. But, as the International Trade Committee heard
+from James Webber, if EU subsidies have an adverse effect on the UK,
+the EU will have to consider that to a much greater degree than it
+would have to consider it in respect of any other third country. 58
+The effect on the Northern Ireland Protocol
+The TCA provisions on subsidies in the Agreement do not amend the
+state aid provisions (Article 10) of the Withdrawal Agreement Protocol
+on Ireland and Northern Ireland. Under the Protocol, in order to prevent
+undue distortion of competition and trade, EU state aid rules continue
+to apply to subsidies that affect goods and the wholesale electricity
+market, insofar as these can affect trade between Northern Ireland and
+the EU. Experts generally agree that the application of Article 10 of the
+Protocol alongside the TCA can create legal and practical issues in the
+future.
+State aid/subsidy experts have pointed out that under EU state aid rules,
+the Northern Ireland Protocol could also be interpreted as applying
+further than just Northern Ireland and covering business support in
+Great Britain. George Peretz QC & Alfred Artley have explained:
+EU state aid rules do not simply bite upon acts of the devolved
+and local government bodies in Northern Ireland, and those
+measures adopted by the UK government that are Northern
+Ireland-specific; rather they also catch all-UK measures (or
+measures affecting only part of the UK), whatever UK authority
+takes those measures, as long as they meet the test. 59
+
+For example, a UK-wide tax measure, benefitting a NI business might be
+caught by the EU state aid enforcement regime as it could potentially
+affect trade between NI and the EU. 60 This is often referred to as
+“reach-back” of EU state aid rules.
+The EU sought to address UK concerns about the “reach-back” of the
+Protocol’s state aid provisions, by giving a clarification in a unilateral
+declaration in the Withdrawal Agreement Joint Committee on Article
+10(1) of the Protocol. However, the issue is not settled and the UK and
+EU views of the extent of “reach-back” appear to diverge. The UK
+Government’s Technical Guidance on subsidy control (paragraph 7.1)
+points out that the “reach-back” situation could arise in certain, limited
+circumstances. But the European Commission’s Notice to Stakeholders
+on state aid after the departure of the UK from shows a wide
+
+58
+
+59
+
+60
+
+International Trade Committee, Oral evidence: UK-EU trading relationship, HC 1206,
+22 April 2021, Q126
+George Peretz QC, Alfred Artley, State aid under the Northern Ireland Protocol, Tax
+Journal, 15 May 2020
+EU powers to review UK state aid under Irish Border Protocol to be assessed 'case by
+case', MLex, 24 January 2020; G.Peretz QC in “Boris Johnson’s efforts to escape EU
+state aid rules ‘mistaken’”, Financial Times, 9 February 2020;
+
+30 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+interpretation of which measures can “affect trade” between Northern
+Ireland and the EU. 61
+Experts have argued that co-existence of the two subsidy regimes in the
+UK may cause confusion and uncertainty for UK public authorities and
+companies. Some have called for the Protocol’s state aid provisions to
+be replaced for the TCA regime during the negotiations or at some
+point in the future. 62
+See Commons Library Briefing UK subsidy policy: first steps, section 2.3
+for further detail on state aid provisions in the Northern Ireland Protocol.
+
+61
+
+62
+
+European Commission Notice to stakeholders, Withdrawal of the United Kingdom
+and EU rules in the field of state aid, 18 January 2021
+See for example George Peretz, The UK’s new subsidy regime: a marsh of
+uncertainty, Monckton Chambers, 1 January 2021;
+James Webber, International Trade Committee, Oral evidence: UK-EU trading
+relationship, HC 1206, 22 April 2021, Q119
+
+31 Commons Library Briefing, 20 May 2021
+
+4. State-owned enterprises and
+designated monopolies
+4.1 Negotiating positions
+The issues around state owned enterprises were not contentious during
+the negotiations as both the UK and EU agree that state-owned
+enterprises and companies with special rights should not engage in anticompetitive practices or discriminatory and abusive behaviour creating
+barriers to trade and investment. Provisions on state-owned enterprises
+and designated monopolies put private businesses on an equal footing
+with businesses where the governments are involved. They ensure that
+provisions on fair competition in the agreement are not undermined by
+the unfair behaviour of such companies when they engage in
+commercial activities.
+In their draft agreement texts, both the UK and EU proposed largely
+similar commitments on state-owned enterprises, which were in line
+with existing EU FTAs, including CETA (Chapter 18) and the EU-Japan
+Economic Partnership Agreement (Chapter 13).
+The proposed obligations would address anti-competitive behaviours of
+state-owned enterprises, designated monopolies (sole suppliers of a
+particular service) and commercial enterprises to which public bodies
+have granted special rights in order to perform particular services. The
+latter can refer to services such as energy, water, public transport or
+certain social services, which public authorities contract out to private
+businesses but financially support their provision.
+
+Background
+With growing global participation of state-owned enterprises (SOEs) in
+cross-border trade and investment, various countries have moved to
+support effective competition among all market participants, both
+publicly and privately owned. There are, for example, initiatives in the
+framework of the Organisation for Economic Co-operation and
+Development (OECD). The principle of competitive neutrality, central to
+this policy area, implies that companies are not advantaged (or
+disadvantaged) on the market solely because of their ownership or
+nationality. In the recent years, stand-alone chapters on state-owned
+enterprises have been included in free trade agreements. 63
+The EU has its own rules on state-owned enterprises and entities
+entrusted with certain public services. Their core principle is that such
+enterprises are subject to competition and state aid rules in the same
+way as any other business to the extent these rules do not obstruct their
+ability to perform the services entrusted to them. 64
+
+63
+
+64
+
+Minwoo Kim, Regulating the Visible Hands: Development of Rules on State-Owned
+Enterprises in Trade Agreements, Harvard International Law Journal, Vol. 58, No 1,
+2017
+OECD, Competitive Neutrality and state-owned enterprises: challenges and policy
+options, OECD Corporate governance working papers, 2011, p12
+
+32 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+4.2 The TCA
+In line with the proposals brought forward during the negotiations,
+Chapter 4, Articles 376-382, of the TCA covers state-owned enterprises,
+enterprises granted special privileges, and designated monopolies
+(‘covered entities’). When carrying out commercial activities these
+enterprises must act in accordance with commercial considerations and
+may not discriminate against goods, services or entities of the other
+party (Article 380).
+The TCA refers back to relevant international standards, including the
+OECD Guidelines on Corporate Governance of State-Owned Enterprises,
+which each party shall respect (Article 381).
+Chapter 4 does not apply to enterprises if the size of their revenues
+derived from commercial activities is below a defined threshold. 65 In
+addition, the provisions do not apply when covered enterprises
+(Article 377):
+•
+
+act as procuring entities, that is, buyers in government procurement,
+
+•
+
+supply services in exercise of government authority,
+
+•
+
+provide certain financial services (for example offering export and
+investment support, mandated by the government), or
+
+•
+
+provide audio-visual services or some other services.
+
+Each party commits to having an independent and impartial regulatory
+body (Article 381).
+Article 382 sets out the mechanism to exchange information between
+the parties in case one has reasons to believe that its interests are being
+adversely affected by the commercial activities of a covered entity.
+Relevant to fair competition between publicly owned and commercial
+enterprises are the provisions on subsidy control that apply to services of
+public economic interest (Article 365). They limit market-distorting
+advantages such as excessive government subsidies for a public service,
+which a company could use to boost its commercial activities.
+The UK Government’s assessment of the provisions is that they make
+the best use of international standards when regulating them, in line
+with provisions in other FTAs.
+Recognising the increasing impact on trade of state-owned companies
+in a number of countries, both sides also support new or improved
+international trade rules to capture any market-distorting behaviour of
+state-owned enterprises and promote competitive neutrality.66
+
+65
+
+66
+
+100 million Special Drawing Rights in any one of the three previous consecutive
+fiscal years
+Department for International Trade Press Release Britain is back: Liz Truss calls for
+new rules at WTO to tackle unfair trade practices, 3 March 2020; European
+Commission Communication, Trade Policy Review - An Open, Sustainable and
+Assertive Trade Policy, Annex COM(2021) 66 final, 18 February 2021, pp8-9
+
+33 Commons Library Briefing, 20 May 2021
+
+5. Taxation
+5.1 Negotiating positions
+Background
+While the TCA was being negotiated it was generally assumed that any
+future UK-EU agreement would not contain any substantive provisions
+regarding tax.
+Historically, taxation has remained largely a Member State competence.
+The major exception to this generalisation is indirect tax: primarily VAT –
+for which there is a substantive body of EU law establishing common
+rules across Member States – and, to a lesser extent, excise duties. There
+are no equivalent provisions with regard to other taxes, though all
+national legislation has to comply with the overarching provisions of the
+Treaty guaranteeing the free movement of goods, persons, services and
+capital across the Single Market and prohibiting discrimination. 67
+Concerns about the scale of tax avoidance and evasion, both across the
+EU and internationally, have resulted in the introduction of a number of
+EU instruments relating to administrative cooperation to exchange
+information and help tackle tax evasion.
+The Protocol on Ireland/Northern Ireland in the draft Withdrawal
+Agreement agreed in November 2018 included level playing field
+commitments regarding taxation, though, in comparison to other areas,
+these were relatively brief and appear to have been uncontroversial.
+Both parties committed to implementing the principles of good
+governance in the area of taxation, including global standards on
+transparency and exchange of information, fair taxation and OECD
+standards against Base Erosion and Profit Shifting (BEPS). 68 The UK
+stated that it would continue to apply its domestic law which transposes
+EU Directives on the exchange of information on taxation (Directive
+2011/16), anti-tax avoidance rules (Directive 2016/1164), and countryby-country-reporting by credit institutions and investment firms
+(Directive 2013/36). Finally the UK reaffirmed its commitment to curb
+harmful tax measures as defined in the EU Code of Conduct for
+business taxation (a political agreement, as opposed to a legal
+instrument, agreed in 1997). 69
+The revised Political Declaration, agreed in October 2019, mentioned
+taxation in its discussion of level playing field provisions, noting that the
+parties should “commit to the principles of good governance in the area
+of taxation and to the curbing of harmful tax practices”. 70
+
+67
+
+68
+
+69
+70
+
+For more details see, HM Government, Taxation report: review of the balance of
+competences, 28 November 2012
+For more details see, Commons Library briefing 5945, Corporate Tax Reform 20102020, 2 April 2021, section 6.2
+Withdrawal Agreement and Political Declaration, 25 November 2018, pp353-4
+Political Declaration setting out the framework for the future relationship between
+the European Union and the United Kingdom, 19 October 2019, para 77. An
+overview of the EU initiatives to tackle harmful tax competition is provided on the
+Commission’s site (accessed May 2021).
+
+34 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+EU position
+The EU’s draft future relationship agreement confirmed its view that a
+commitment to “implement the principles of good governance in the
+area of taxation” should feature in a future UK-EU agreement, and that
+at the end of the transition period the UK should apply common
+standards to those applicable in the EU in a number of tax-related areas:
+•
+
+the exchange of information on income, financial accounts, crossborder tax rulings, country-by-country reports between tax
+administrations, beneficial ownership and potential cross-border tax
+planning arrangements,
+
+•
+
+rules against tax avoidance practices, and
+
+•
+
+public country-by-country reporting by credit institutions and
+investment firms.
+
+The EU proposed that the Partnership Council (see section 8) could
+modify the common standards in order to include additional areas or to
+lay down higher standards. 71
+
+UK position
+The Government’s draft Comprehensive Free Trade Agreement set out
+the UK’s general commitment to good tax governance (not subject to
+any dispute resolution mechanism), omitting the EU’s supplementary
+requirement for non-regression on certain aspects of tax. 72
+There was little material change in either party’s position on this issue
+following the Commission’s draft negotiating directive in February
+2020, 73 and the UK Government’s negotiating objectives which
+followed it. In the latter case the negotiating objectives simply noted
+that “the Agreement could include commitments to the principles of
+good tax governance as reflected in international standards,” but
+“should not constrain tax sovereignty in any manner”. 74
+In his assessment of the level playing field published in March 2020, the
+IPPR’s Marley Morris took the view that in the area of tax, the UK
+“would probably seek to water down the proposals for the UK to follow
+specific areas of EU law, given this conflicts with the UK’s position of
+regulatory autonomy” although “there is most likely greater scope for
+compromise than in competition and state aid policy, given any
+disagreement here would relate to a relatively limited area of EU law”. 75
+
+71
+
+72
+
+73
+
+74
+
+75
+
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, UKTF (2020) 14, 18 March 2020 pp32-3
+HM Government, Draft UK-EU Comprehensive Free Trade Agreement (CFTA), 19
+May 2020, p259
+See European Commission, Recommendation for a Council Decision authorising the
+opening of negotiations for a new partnership with the United Kingdom of Great
+Britain and Northern Ireland, COM(2020) 35, 3 February 2020, paras. 94-5
+HM Government, The Future Relationship with the EU: The UK’s Approach to
+Negotiations, CP211, 27 February 2020 p17
+Marley Morris, Negotiating the level playing field, IPPR, 5 March 2020, p14
+
+35 Commons Library Briefing, 20 May 2021
+
+David Frost, the UK’s chief Brexit negotiator, gave evidence to the
+House of Lords EU Select Committee on 28 May 2020. Asked what the
+EU proposes beyond non-regression, regarding taxation he said:
+Tax is a bit different; it is not normally part of an FTA in quite this
+way. [The EU] are proposing commitment to good governance
+and OECD standards, where we do not have a big difference
+between us, of course. They are proposing non-regression on
+three specific tax measures about anti-avoidance, which really
+equate to EU directives, again policed by a dispute settlement
+mechanism that involves the European Court of Justice. We have
+some problems with that aspect of this. Generally on tax we have
+similar principles, as you would expect. 76
+
+5.2 The TCA
+As anticipated the TCA only briefly deals with taxation (Chapter 5:
+Articles 383-5). The agreement retained the commitment to good
+governance (Article 383), although the Commission’s proposal that this
+refer to EU Code of Conduct, as well as the relevant OECD provisions,
+was dropped. The agreement retained provision with regard to nonregression, but referred to standards agreed at OECD level, and not EU
+directives (Article 384). Finally provision to exclude this aspect of the
+agreement from the general arrangements for dispute resolution was
+retained (Article 385).
+The European Commission’s Q&A document on the TCA provides a
+summary of this section:
+How will you ensure that taxation isn’t used as a means to
+distort competition?
+The Parties agreed on a good governance clause and
+commitments to uphold the taxation standards on exchange of
+tax information, anti-tax avoidance, and public tax transparency.
+These provisions are based on international standards, including
+OECD standards, related to the exchange of tax information; rules
+on interest limitation, controlled foreign companies and hybrid
+mismatches, as well as on the Party’s domestic standards related
+to public country-by-country reporting.
+In addition to that, the EU and the UK set out, in a separate jointdeclaration, specific principles on the countering of harmful tax
+regimes and affirmed jointly their commitment to apply these
+principles. They also agreed to hold an annual dialogue on their
+application of these principles. 77
+
+The joint declaration on countering harmful tax regimes is one of the
+series of declarations accompanying the TCA. 78
+In their overview of the TCA, the Institute for Government note, “the
+commitments for taxation do not in any way prohibit the choice to
+lower or raise taxes. They refer to international standards on preventing
+76
+
+77
+
+78
+
+HL European Union Committee, Uncorrected oral evidence: Progress of UK-EU
+future relationship negotiations, 28 May 2020, Q4
+European Commission, Questions & Answers: EU-UK Trade and Cooperation
+Agreement, 24 December 2020
+See, Foreign, Commonwealth and Development Office, UK/EU and EAEC: Trade and
+Cooperation Agreement, CP 426, 30 April 2021 (Declarations, p2523)
+
+36 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+tax avoidance”, adding, “the commitments are not enforceable and are
+similar to what is found in other EU free trade agreements”. 79
+Writing on the prospect of future tax competition between the UK and
+the EU, Alison Dickie and David Haworth (Freshfields Bruckhaus
+Deringer) underline that in these provisions “the key is that in each
+instance it is the OECD rather than the EU understanding of these rules
+that the UK has committed to maintain”. They go on to observe, in
+relation to the joint declaration that, “it is understood that the EU’s
+aim” in concluding this “was to replicate the EU code of conduct on
+business taxation”:
+This is not currently binding on EU Member States which would
+seem to explain the rationale for including this as a less onerous
+commitment in a political declaration separate to the TCA.
+Nonetheless, it is expected that this will be sufficient to ensure the
+UK does not undo BEPS related changes to its patent box regime
+in a bid to attract IP heavy businesses to the UK. 80
+
+The writers concluded that part from the restrictions imposed by the
+TCA “opportunities remain” for the UK to make its tax regime more
+competitive but that it seemed “likely that divergences” between the
+two regimes “will in any event develop over time”. 81
+In its summary document on the TCA the Government made a few
+observations on these provisions (emphasis added):
+Chapter 5: Taxation
+88. The Agreement commits both Parties to uphold global
+standards on tax transparency and fighting tax avoidance (which
+the UK has played a leading role in developing and implementing
+through the G20 and OECD). It contains commitments to specific
+tax standards as they stand at the end of the transition period,
+including the international standards on exchange of information,
+anti-tax avoidance, as well as relevant standards in legislation on
+public country by country reporting by credit-institutions and
+investment firms.
+89. The commitments on tax between the UK and the EU are also
+captured in a stand-alone Joint Political Declaration on Countering
+Harmful Tax Regimes. This is a political commitment to the
+principles of countering harmful tax regimes, and reflects the
+work done by the OECD in this area.
+90. There are no provisions constraining our domestic tax
+regime or tax rates. 82
+
+79
+
+80
+
+81
+
+82
+
+Institute for Government, UK–EU future relationship: the deal - Level playing field
+(accessed May 2021)
+“Brexit: tax competition between the UK and the EU27”, Tax Journal, 12 February
+2021. For more on the UK’s patent box rules and the changes made to ensure it was
+BEPS-compliant see, Helen Miller & Thomas Pope, Corporation Tax Changes and
+Challenges, Institute for Fiscal Studies, February 2015 pp5-6, 13-; Budget 2016,
+HC901, March 2016, para 2.99; and, PQ30815, 21 March 2016.
+“Brexit: tax competition between the UK and the EU27”, Tax Journal, 12 February
+2021
+HM Government, UK-EU Trade and Cooperation Agreement: Summary, December
+2020, p19
+
+37 Commons Library Briefing, 20 May 2021
+
+Writing in the British Tax Review Alice Pirlot (Research Fellow (Law) at
+the Oxford University Centre for Business Taxation) argued that “this
+statement should be nuanced”:
+The UK Government is right that the taxation chapter does not
+add any substance to the UK commitments in terms of standards
+and rules agreed in the OECD.
+However, the taxation chapter provides an additional legal basis
+for these commitments. The taxation chapter also carries a
+symbolic value, which is in line with the EU Good Tax Governance
+Agenda. Article 5.1 of the TCA on “[g]ood governance” almost
+reproduces the EU standard provision on good tax governance for
+agreements with third countries issued by the Council of the
+European Union in June 2018. 83
+From this perspective, the EU–UK TCA could pave the way for the
+integration of similar provisions in future trade agreements
+concluded by the EU. 84
+
+83
+
+84
+
+Council conclusions on the EU standard provision on good governance in tax
+matters for agreements with third countries [2018] OJ C193/5 (6 June 2018).
+Alice Pirlot, “Some observations on the tax-related provisions in the EU-UK Trade
+and Cooperation Agreement”, British Tax Review, issue 1, 2021 pp1-14
+
+38 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+6. Labour and social protection
+6.1 Negotiating positions
+It is common for free trade agreements (FTAs) to contain provisions on
+labour and social standards. The extent to which an agreement should
+protect labour standards was one of the key areas of dispute during the
+negotiation of the Trade and Cooperation Agreement (TCA).
+The EU has adopted a wide range of instruments, mostly directives, on
+workers’ rights. As a Member State of the EU, the UK was required to
+implement these directives in domestic law. As a result, a large portion
+of UK employment law is derived from EU law. For an overview, see
+Commons Library briefing 9099, End of Brexit transition: Workers’
+rights.
+During the negotiation of the TCA, there were significant differences in
+the UK and EU positions on labour and social standards. They concerned
+the extent to which the parties should be prohibited from lowering
+labour standards (non-regression) and whether one party should have to
+raise its standards if the other party chose to raise theirs (ratchet clause).
+
+Background
+As noted above, trade agreements typically contain some provisions on
+labour standards. Since 2008, the EU has included such provisions in all
+their FTAs with third countries. The provisions are typically contained in
+the ‘Trade and Sustainable Development’ chapter of an FTA.
+A typical EU trade agreement contains the following types of provisions:
+•
+
+Commitments to certain multilateral standards (e.g. International
+Labour Organisation conventions)
+
+•
+
+Obligations not to waive or fail to enforce domestic labour laws in
+order to encourage trade or investment, and
+
+•
+
+Commitments to seek to ensure high levels of labour protection
+
+On the whole, provisions tend to be aspirational or only create soft
+(non-enforceable) obligations. For example, most EU FTAs do not
+actually prohibit parties from reducing their domestic labour standards.
+The enforcement mechanisms for labour provisions in EU FTAs are also
+relatively weak. Dispute settlement takes the form of arbitration before
+a panel of experts whose decisions are not binding. The parties cannot
+normally impose trade sanctions for breaches of labour provisions. 85
+The Political Declaration for the future UK-EU agreement, signed in
+October 2019, said that the agreement should ensure that both parties
+uphold labour standards set out in EU law at the end of the transition. 86
+
+85
+
+86
+
+For a detailed discussion of labour protections under EU and international FTAs, see:
+HL European Union Committee, Internal Market Sub-Committee, Uncorrected oral
+evidence: The level playing field and state aid, 27 February 2020
+
+Political Declaration setting out the framework for the future relationship between
+the European Union and the United Kingdom, October 2019, para 77
+
+39 Commons Library Briefing, 20 May 2021
+
+UK position
+The UK’s February 2020 negotiating objectives said that a UK-EU
+agreement should contain provision on labour standards that were
+similar to those in EU trade agreements with other countries, such as
+Japan and Canada. It said that this would involve a provision that
+prevented parties from reducing their labour standards in order to
+encourage trade or investment. 87
+The UK published its draft text for a UK-EU free trade agreement (CFTA)
+on 19 May 2020. The provisions on trade and labour were extremely
+similar to the EU-Canada Comprehensive Economic and Trade
+Agreement (CETA).
+Article 27.4 of the UK draft (upholding levels of protection) was, in fact,
+a word-for-word copy of Article 23.4 of CETA. It stated:
+1. The Parties recognise that it is inappropriate to encourage trade
+or investment by weakening or reducing the levels of protection
+afforded in their labour law and standards
+2. A Party shall not waive or otherwise derogate from, or offer to
+waive or otherwise derogate from, its labour law and standards,
+to encourage trade or the establishment, acquisition, expansion or
+retention of an investment in its territory.
+3. A Party shall not, through a sustained or recurring course of
+action or inaction, fail to effectively enforce its labour law and
+standards to encourage trade or investment. 88
+
+This provision contained only a soft obligation on reducing domestic
+labour standards (“recognise that it is inappropriate”). By contrast, it
+would have prohibited the parties from waiving or failing to enforce
+their labour standards to encourage trade or investment (“shall not”).
+The UK draft also contained a soft obligation (“shall strive to”) to
+continue to improve labour standards in the future.
+Like CETA, the enforcement provisions in the UK draft included dispute
+settlement through a panel of experts whose decisions would not be
+binding. Parties would have been unable to impose trade sanctions in
+response to breaches of the provisions on labour standards.
+Domestic legal context
+In domestic law, the European Union (Withdrawal) Act 2018 ensured
+that “EU-derived domestic legislation” would continue to have force
+even after the European Communities Act 1972 ceased to have effect at
+the end of the transition period. This meant most EU-derived workers’
+rights would continue to be protected in UK law, although they could
+be amended or repealed by future legislation. 89
+
+87
+
+88
+
+89
+
+HM Government, The Future Relationship with the EU: The UK’s Approach to
+Negotiations, CP 211, 27 February 2020, para 75
+HM Government, Draft working text for a Comprehensive Free Trade Agreement
+between the United Kingdom and the European Union, 19 May 2020, Art. 27.4
+Commons Library briefing 9099, End of Brexit transition: Workers’ rights, 22
+December 2020
+
+40 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+The Government also stressed that in various areas UK employment law
+went further than was required by EU law. 90
+
+EU position
+The EU’s negotiating directives were published on 25 February 2020.
+They said that due to the geographic proximity and economic
+interdependence between the UK and the EU, firm commitments were
+needed.
+The EU mandate said any agreement should prevent the parties from
+reducing their labour standards below the level set by EU law at the end
+of the transition period. It also said parties should uphold high standards
+“over time with [EU] standards as a reference point”. 91
+The EU published its draft text for a UK-EU free trade agreement on 18
+March 2020. The provisions on labour standards were similar to those in
+the November 2018 Withdrawal Agreement (agreed by Theresa May).
+Article LPFS 2.27 of the EU draft set out a non-regression clause. It said:
+1. A Party shall not adopt or maintain any measure that weakens
+or reduces the level of labour and social protection provided by
+the Party’s law and practices and by the enforcement thereof,
+below the level provided by the common standards applicable
+within the Union and the United Kingdom at the end of the
+transition period, and by their enforcement. 92
+
+This provision was very similar to Article 4 of Annex 4 to the Protocol on
+Ireland/Northern Ireland in the 2018 Withdrawal Agreement. That
+provision was understood as preventing the UK from reducing its labour
+standards below the level set by EU law at the end of transition. 93
+In addition, Article LPFS 2.28 of the EU draft contained a new “ratchet
+clause”. It said:
+1. Each Party shall seek to increase, through its relevant law and
+practices and through the enforcement thereof, the level of
+labour and social protection above the level of protection referred
+to in Article LPFS.2.27 [Non-regression of the level of protection].
+2. Where both Parties have increased, through their relevant law
+and practices and through the enforcement thereof, the level of
+labour and social protection above the level referred to in Article
+LPFS.2.27 [Non-regression of the level of protection], neither Party
+shall weaken or reduce its level of labour or social protection
+below a level of protection which is at least equivalent to that of
+the other Party’s increased level of labour and social protection. 94
+
+The effect of this provision was that if both parties raised their labour
+standards after the end of the transition period, it would have created a
+90
+91
+
+92
+
+93
+
+94
+
+See for example HC Deb 29 October 2019 c203
+EU General Affairs Council, Directives for the negotiation of a new partnership with
+the United Kingdom of Great Britain and Northern Ireland, 5870/20, 25 Feb 2020,
+paras. 94 and 101
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, UKTF (2020) 14, 18 March 2020, Art. LPFS 2.27
+HM Government, EU Exit: Legal position on the Withdrawal Agreement, Cm 9747,
+December 2018, para 54
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, UKTF (2020) 14, 18 March 2020, Art. LPFS 2.28
+
+41 Commons Library Briefing, 20 May 2021
+
+new baseline of standards below which regression was prohibited.
+However, if only one party raised its standards, there would have been
+no hard obligation on the other party to follow.
+The EU draft said that the provisions on labour standards would be
+subject to the ordinary rules on dispute settlement that applied to the
+whole agreement. This meant dispute settlement would take the form
+of arbitration and that a party could impose trade sanctions in response
+to a breach of the labour standards provisions.
+Overall, the EU draft contained significantly stricter obligations than
+those normally included in EU FTAs. It contained a hard obligation on
+non-regression (“shall not”) and a ratchet clause and these provisions
+were subject to stronger dispute settlement procedures.
+
+Negotiations
+In December 2020, several media organisations reported that the level
+playing field was one of the key remaining areas of disagreement in the
+UK-EU negotiations. Reporting suggested that one of the sources of
+disagreement was the so-called “ratchet clause” and the question of
+whether one party should have to align with the other if it decides to
+raise its labour standards. The Irish broadcaster RTE summarised:
+The European Commission was still looking for some way to
+ensure that there was a level playing field, that it remained level
+over time, and that there was a binding mechanism to ensure that
+was the case.
+Officials say that because the UK was still not engaging in the
+idea, the Commission on its own was forced to come up with
+suggestions. Combined with the impact of the IMB, and the
+whole question of trust, what it came up with appeared to
+toughen up the so-called "ratchet" clause, whereby if the EU
+raised its standards, the UK should as well.
+If they didn’t, and British firms gained an edge over European
+ones competing within the same market, there should be the
+ability for the EU to retaliate with tariffs, or in another sphere. 95
+
+Neither side made public statements on this issue. However, the dispute
+was resolved and a provision on “rebalancing” was included in the TCA.
+
+6.2 The TCA
+The provisions on labour standards are contained in Title XI of the TCA
+(‘Level Playing Field’). There are three key provisions:
+•
+
+Non-regression from levels of protection (Article 387)
+
+•
+
+Multilateral labour standards and agreements (Article 399)
+
+•
+
+Rebalancing (Article 411)
+
+Overall, the obligations on labour standards are stricter than those
+normally contained in EU FTAs. Most of the provisions are hard
+
+95
+
+“The level playing field: Brexit for slow learners”, RTE [online], 12 December 2020
+(accessed May 2021)
+
+42 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+(enforceable) obligations. Furthermore, the parties can take “temporary
+remedies” (trade remedies) if some of these obligations are breached. 96
+
+Non-regression
+Article 387 of the TCA sets out a non-regression provision on labour
+and social protections:
+2. A Party shall not weaken or reduce, in a manner affecting trade
+or investment between the Parties, its labour and social levels of
+protection below the levels in place at the end of the transition
+period, including by failing to effectively enforce its law and
+standards. 97
+
+There are several points that should be noted about this provision.
+First, like the EU draft, there is a hard obligation (“shall not”) preventing
+either party from reducing its labour protections. If one of the parties
+reduces its labour protections in breach of this provision, it could lead to
+dispute settlement and the imposition of trade remedies (see below).
+Second, like the UK draft, the obligation only applies where a reduction
+in protection affects trade or investment between the parties. This
+means that not every reduction in standards will necessarily be a breach
+of this provision.
+Third, as was common between the UK and EU drafts, the parties are
+prohibited not only from reducing but also from failing to enforce their
+laws in a manner that affects trade and investment.
+Fourth, the term “labour and social levels of protection” has a specific
+definition. It is defined as a party’s laws and standards relating to:
+•
+
+Fundamental rights at work
+
+•
+
+Occupational health and safety standards
+
+•
+
+Fair working conditions and employment standards
+
+•
+
+Information and consultation rights at company level, and
+
+•
+
+Restructuring of undertakings
+
+For the UK, this captures all domestic legislation in these areas, even if it
+is not derived from EU law. For the EU, it only captures EU legislation. 98
+“In a manner affecting trade or investment”
+As noted, the non-regression clause only prohibits the parties from
+reducing labour protections in a manner that affects trade or investment
+between the parties. This is similar to other EU and international FTAs.
+However, the use of the term “in a manner affecting” (TCA) rather than
+“to encourage” (CETA) suggests intent on its own may not be a breach.
+There have been relatively few arbitration decisions on the meaning of
+these phrases in the context of provisions on labour standards. The most
+96
+
+97
+
+98
+
+See Committee on the Future Relationship with the European Union, Oral evidence:
+Progress of the negotiations on the UK’s future relationship with the EU,
+HC 203, 6 January 2021, Q1173
+Foreign, Commonwealth and Development Office, UK/EU and EAEC: Trade and
+Cooperation Agreement, CP 426, 30 April 2021 (‘TCA’)
+Ibid, Article 386
+
+43 Commons Library Briefing, 20 May 2021
+
+detailed discussion to date is in the final report of the arbitration panel
+in US-Guatemala CAFTA dispute. 99
+In the US-Guatemala case, the arbitration panel concluded that to
+“affect” meant to have some “material” impact:
+We begin by considering the plain meaning of “affecting trade”.
+Both disputing Parties acknowledge that to “affect” is to
+“influence” or “make a material impression”. We agree. Action
+or inaction that is in a manner “affecting trade” must influence or
+make a material impression upon some aspect of trade, that is,
+upon the cross-border exchange of goods and services.
+This means that an interpretation of Article 16.2.1(a) that treated
+as a violation every failure, through a sustained or recurring
+course of action or inaction, to effectively enforce labor laws
+simply because it occurred in a traded sector, or with respect to
+an enterprise engaged in trade, would not be consistent with its
+wording. It would require no proof of influence or material
+impression upon the cross-border exchange of goods and services.
+It would simply require proof of some effect on an employer or
+economic sector engaged in trade. This is not the same thing as
+an effect on trade. Had the CAFTA-DR Parties wished to cover
+every failure to enforce through a sustained or recurring course of
+action occurring in a traded sector or with respect to enterprise
+engaged in trade, they could easily have done so using clearer
+language. A failure to effectively enforce labor laws must affect
+some aspect of trade. The question is which effects on trade bring
+a matter within the scope of Article 16.2.1(a). 100
+
+The panel found that this meant that the measure had to produce some
+competitive advantage. However, it rejected an interpretation that
+would require evidence of an impact on prices or trade flows (which it
+concluded could be impossible to produce). The panel summarised:
+Thus our enquiry into whether a failure to enforce labor laws is
+such as to confer a competitive advantage in trade between the
+CAFTA-DR Parties focused principally on (1) whether the
+enterprise or enterprises in question export to CAFTA-DR Parties in
+competitive markets or compete with imports from CAFTA-DR
+Parties; (2) identifying the effects of a failure to enforce; and (3)
+whether these effects are sufficient to confer some competitive
+advantage on such an enterprise or such enterprises. 101
+
+It should be noted that the decision of the panel in the US-Guatemala
+arbitration does not bind a panel of experts convened under the TCA.
+As such, it is possible that a panel of experts may interpret provisions in
+the TCA in a different way.
+Effective enforcement of labour standards
+As can be seen above, Article 387 of the TCA prohibits the parties from
+weakening their labour standards by failing to effectively enforce them
+in a manner that affects trade or investment.
+For a discussion of this case see Phillip Paiement, “Leveraging Trade Agreements for
+Labor Law Enforcement: Drawing Lessons from the US-Guatemala CAFTA Dispute”,
+Georgetown Journal of International Law, [2017] 49(2), 675
+100
+In the Matter of Guatemala – Issues Relating to the Obligations Under Article
+16.2.1(a) of the CAFTA-DR FINAL REPORT OF THE PANEL June 14, 2017, June 2017,
+paras 167-168
+101
+Ibid, para 192
+99
+
+44 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Article 388 clarifies that for this purpose enforcement means having an
+effective system of labour inspections. Parties must also have judicial
+and administrative routes for individuals to seek redress for breaches of
+labour laws, including interim relief.
+
+6.3 Multilateral labour standards
+In Article 399, the parties commit to promote and implement the core
+labour standards recognised in the International Labour Organisation’s
+(ILO) eight Fundamental Conventions. These include:
+•
+
+freedom of association and the right to collective bargaining,
+
+•
+
+the elimination of all forms of forced or compulsory labour,
+
+•
+
+the abolition of child labour, and
+
+•
+
+the elimination of discrimination in employment.
+
+The parties commit to promote the ILO’s Decent Work Agenda. Each
+party also commits to implement all the ILO Conventions they have
+ratified, as well as the Council of Europe’s European Social Charter.
+The importance of this type of provisions was recently evidenced by a
+dispute settlement between the EU and the Republic of Korea.
+In Article 13.4.3 of the EU-Korea FTA the parties “commit to respecting,
+promoting and realising, in their laws” the ILO’s core labour standards.
+Before a panel of experts, the EU argued that Korea was in breach of
+this provision due to various deficiencies in its trade union legislation
+and its failure to implement four of the ILO Fundamental Conventions.
+Before the panel, Korea argued that the phrase “commit to” meant the
+provision was aspirational. However, the panel found that the phrase
+did create binding legal obligation to respect, promote and realise the
+ILO conventions. The term “respect” meant not interfering with a right
+and the term “promote” meant ensuring third parties did not interfere
+with a right. By contrast, the panel decided the term “realise” did not
+create a requirement to comply with the ILO Conventions but, rather,
+an obligation to realise the principle of the freedom of association. 102
+The wording of Article 13.4.3 of the EU-Korea FTA is broadly similar to
+Article 399 of the TCA. In fact, under the TCA the parties commit to
+“effectively implementing” the core labour standards. However, the
+provisions on multilateral standards in the EU-Korea FTA and the TCA
+cannot be enforced by trade remedies. Professor Steve Peers explains:
+However, one similarity between the UK/EU and UK/S Korea
+treaties is crucial: the relevant provisions are both subject to a
+relatively limited form of dispute settlement, consisting of
+consultation followed by expert panels. No trade remedies can
+result, even if the panel finds a breach of the treaty. On the weak
+legal effect of a panel report, the EU/UK treaty is even blunter
+than the ‘best efforts’ clause in the EU/Korea treaty: ‘the Parties
+share the understanding that if the Panel makes
+102
+
+European Commission, Panel of Experts proceeding constituted under Article 13.15
+of the EU-Korea Free Trae Agreement: Report of the Panel of Experts, 20 January
+2021, paras 123-141
+
+45 Commons Library Briefing, 20 May 2021
+
+recommendations in its report, the responding Party does not
+need to follow these recommendations in ensuring conformity
+with the Agreement.’ 103
+
+6.4 Rebalancing
+As noted above, one of the key areas of dispute during the negotiation
+of the TCA was the question of whether the agreement should contain
+a “ratchet clause”. Under the EU draft text, if both parties raised their
+labour standards after the end of the transition period, it could set a
+new common baseline below which parties could not fall.
+Ultimately, the TCA did not include this sort of ratchet clause. However,
+Article 411 sets out rules on “rebalancing”. It provides that if future
+divergences between UK and EU standards on labour, environment,
+climate change or subsidy control cause “material impacts on trade and
+investment between the parties”, the parties can take “rebalancing
+measures”, which can include trade remedies.
+More detailed information on rebalancing measures and the process for
+implementing and challenging them are set out below. However, in the
+context of labour standards, there are several points to note.
+First, the threshold for triggering rebalancing measures is different from
+the threshold for triggering the non-regression provisions. A party will
+be in breach of the non-regression rules if it reduces its labour standards
+in a “manner affecting” trade or investment. By contrast, rebalancing
+measures can only be taken if divergence causes “material impacts” on
+trade and investment.
+Second, for a number of reasons it is not clear exactly how divergence
+between the UK and the EU will be assessed.
+In the first instance, the EU only has limited competence in the field of
+labour and social standards, meaning many issues are left to individual
+Member States. 104 This would suggest that divergence can only arise in
+areas where the EU has the competence to act.
+In addition, it is not clear whether divergence can only arise from future
+acts of the parties or whether existing divergences can trigger the
+obligation, such as in areas where the UK has gone further than EU law.
+More broadly, as with the non-regression provisions, it may be difficult
+to show that a particular divergence has impacted trade or investment.
+Professor Catherine Barnard noted this issue in oral evidence to the
+Committee on the Future Relationship with the European Union:
+Going forward, which is where the rebalancing kicks in, when
+might the rebalancing mechanism apply to future developments
+in labour law? The question is what happens if the EU, as it might
+do, starts legislating a bit more enthusiastically in the field of
+labour law, because it has this European pillar on social rights and
+Steve Peers, Free trade v freedom of association? The EU/South Korea free trade
+agreement and the panel report on the EU challenge to South Korean labour law,
+EU Law Analysis, 26 January 2021
+104
+Consolidated version of the Treaty on the Functioning of the European Union [2012]
+OJ C326, Art. 153
+103
+
+46 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+it is going to use it; it has shown signs of using it. The most
+interesting provision coming out under that is on minimum wage.
+It is not actually setting a minimum wage, but requiring states to
+think about minimum wages.
+Will that suggest that there is a disequilibrium, because the EU
+has this and the UK does not? On the other hand, we would say,
+“Look, we already have minimum wage legislation, which is
+regularly reviewed over time”. It is not clear to me quite how
+these provisions will be triggered, if you think about concrete
+examples, because, as I have said, in respect of the nonregression, it is quite hard to argue that some smaller changes,
+significant for employees, will in and of themselves be enough to
+trigger the threshold of affecting trade or investment, even
+without the criterion of materiality. 105
+
+Ultimately, these issues will need to be addressed on a case-by-case
+basis with the potential of resorting to dispute settlement.
+
+6.5 Dispute settlement
+The level playing field provisions, including those on labour and social
+standards, are subject to their own separate dispute settlement process.
+This involves consultation between the parties and, ultimately, the
+establishment of a panel of experts. As in other EU FTAs, these are
+relatively weak provisions as the recommendations of the panel are not
+binding. 106
+However, there is one significant difference between the TCA and other
+EU FTAs. Specifically, Article 410 of the TCA provides that if a panel of
+experts finds that a party has breached a non-regression provision, and
+the respondent party has not taken steps to comply with the panel’s
+report, the complaining party can take “temporary remedies”. As a
+result, the provisions on non-regression from labour standards has a far
+stronger enforcement mechanism than in typical FTAs.
+The provisions on dispute settlement are discussed in more detail in
+section 8 below.
+
+Committee on the Future Relationship with the European Union, Oral evidence:
+Progress of the negotiations on the UK’s future relationship with the EU, HC 203,
+6 January 2021, Q1169
+106
+TCA, Article 409(9)
+105
+
+47 Commons Library Briefing, 20 May 2021
+
+7. Environment and climate
+7.1 Overview
+On environment and climate change, the TCA provides for both existing
+environmental standards and climate change measures to be
+maintained by both sides, together with more specific requirements for
+different sectors. A central theme of the TCA is the principle of nonregression, which commits both sides to not lowering environmental
+standards.
+Both sides compromised somewhat during the negotiations. Whilst both
+the EU and UK are now free to introduce and enforce their own
+environmental and climate laws, they must do so in a way that doesn’t
+gain an advantage in trade or investment. If either party feels a
+competitive advantage has been gained, they have the option to take
+rebalancing measures to address this.
+Both Parties have agreed to continue respecting existing international
+environmental commitments, including the requirements of the Paris
+Climate Change Agreement, and to the sharing of information on the
+ratification, implementation and negotiation of existing or new
+multilateral environmental agreements.
+
+7.2 The TCA: Definitions and terms
+Environmental levels of protection
+Chapter 7 of the TCA covers environment and climate. Article 390 sets
+out the definition of ‘environmental levels of protection’ as:
+…the levels of protection provided overall in a Party's law which
+have the purpose of protecting the environment, including the
+prevention of a danger to human life or health from
+environmental impacts, including in each of the following areas:
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+
+h)
+
+industrial emissions;
+air emissions and air quality;
+nature and biodiversity conservation;
+waste management;
+the protection and preservation of the aquatic environment;
+the protection and preservation of the marine environment;
+the prevention, reduction and elimination of risks to human
+health or the environment arising from the production, use,
+release or disposal of chemical substances; or
+the management of impacts on the environment from agricultural
+or food production, notably through the use of antibiotics and
+decontaminants.
+
+Climate level of protection
+Climate level of protection is defined within the TCA as:
+…the level of protection with respect to emissions and removals
+of greenhouse gases and the phase-out of ozone depleting
+substances. With regard to greenhouse gases, this means:
+a)
+
+for the Union, the 40 % economy-wide 2030 target, including the
+Union's system of carbon pricing;
+
+48 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+b)
+
+for the United Kingdom, the United Kingdom's economy-wide
+share of this 2030 target, including the United Kingdom's system
+of carbon pricing.
+
+Environmental and climate principles
+Article 393 sets out the Environmental and climate principles of the
+Trade and Cooperation Agreement. This states that:
+… each Party commits to respecting the internationally recognised
+environmental principles to which it has committed, such as in the
+Rio Declaration on Environment and Development, adopted at Rio
+de Janeiro on 14 June 1992 (the "1992 Rio Declaration on
+Environment and Development") and in multilateral
+environmental agreements, including in the United Nations
+Framework Convention on Climate Change, done at New York on
+9 May 1992 ("UNFCCC") and the Convention on Biological
+Diversity, done at Rio de Janeiro on 5 June 1992 (the "Convention
+on Biological Diversity"), in particular:
+a)
+
+the principle that environmental protection should
+be integrated into the making of policies,
+
+b)
+
+including through impact assessments;
+
+c)
+
+the principle of preventative action to avert
+environmental damage;
+
+d)
+
+the precautionary approach referred to in Article
+356 (2);
+
+e)
+
+the principle that environmental damage should as a
+priority be rectified at source; and
+
+f)
+
+the polluter pays principle.
+
+Box 4: UK Draft Environmental Policy Statement and consultation
+On 10 March the government published a Draft Environmental Policy Statement and launched a
+consultation seeking views on it which closes on 2 June 2021.
+The environmental principles set out in the draft policy statement “operate as a set of overarching
+principles in the development of all relevant policy with an impact on the environment”. 107 They closely
+match those set out in the TCA and their meanings are explained in the draft policy statement as
+follows:
+•
+The integration principle is the principle that policy-makers should look for opportunities to
+embed environmental protection in other fields of policy that have impacts on the environment.
+It is an overarching objective which is relevant in all circumstances where the legal duty to have
+due regard to the policy statement applies.
+•
+The prevention principle means that government policy should aim to prevent, reduce or
+mitigate environmental harm.
+•
+The rectification at source principle means that if damage to the environment cannot be
+prevented it should be tackled at its origin.
+•
+The polluter pays principle is the principle that those who cause pollution or damage to the
+environment should be responsible for mitigation or compensation.
+•
+The precautionary principle states that where there are threats of serious or irreversible
+environmental damage, a lack of full scientific certainty shall not be used as a reason for
+postponing cost-effective measures to prevent environmental degradation 108
+The policy statement is a statutory document and the Environment Bill requires that “a Minister of the
+Crown to have ‘due regard’ to this policy statement when making policy”. 109
+
+Defra, Draft Environmental Principles Policy Statement, 10 March 2021
+Ibid
+109
+Ibid
+107
+108
+
+49 Commons Library Briefing, 20 May 2021
+
+7.3 Trade and sustainable development
+Article 397 of the TCA sets out the foundations and broad objectives for
+trade and sustainable development. This is based primarily on the
+principles of and commitments to international agreements such as the
+Rio Declaration and the Sustainable Development Goals. Article 397
+states that:
+The Parties recall the Agenda 21 and the 1992 Rio Declaration on
+Environment and Development, the Johannesburg Plan of
+Implementation of the World Summit on Sustainable
+Development of 2002, the International Labour Organization (ILO)
+Declaration on Social Justice for a Fair Globalization, adopted at
+Geneva on 10 June 2008 by the International Labour Conference
+at its 97th Session (the "2008 ILO Declaration on Social Justice for
+a Fair Globalization"), the Outcome Document of the UN
+Conference on Sustainable Development of 2012 entitled "The
+Future We Want", endorsed by the UN General Assembly
+Resolution 66/288 adopted on 27 July 2012, and the UN 2030
+Agenda for Sustainable Development, adopted by the UN General
+Assembly Resolution 70/1 on 25 September 2015 and its
+Sustainable Development Goals.
+In light of paragraph 1 of this Article, the objective of this Chapter
+is to enhance the integration of sustainable development, notably
+its labour and environmental dimensions, in the Parties' trade and
+investment relationship and in this respect to complement the
+commitments of the Parties under Chapters 6 and 7. 110
+
+Article 400 sets out the commitment of both Parties to implementing
+multilateral environmental agreements:
+The Parties recognise the importance of the UN Environment
+Assembly of the UN Environment Programme and of multilateral
+environmental governance and agreements as a response of the
+international community to global or regional environmental
+challenges and stress the need to enhance the mutual
+supportiveness between trade and environment policies, rules and
+measures. 111
+
+To facilitate this commitment, the TCA requires both Parties to regularly
+exchange information on aspects of the ratification, implementation
+and negotiation of existing or new multilateral environmental
+agreements.
+Subsequent articles in the TCA (401 to 406) set out the commitment of
+both Parties to international agreements in relation to specific areas of
+trade and sustainability. These are arranged under the following
+headings:
+•
+
+Article 401 - Trade and climate change
+
+•
+
+Article 402 - Trade and biological diversity
+
+•
+
+Article 403 - Trade and forests
+
+•
+
+Article 404 - Trade and sustainable management of marine
+biological resources and aquaculture
+
+110
+111
+
+TCA, Art. 397
+TCA, Art. 400
+
+50 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+•
+
+Article 405 – Trade and investment favouring sustainable
+development
+
+•
+
+Article 406 - Trade and responsible supply chain management
+
+7.4 Non-regression from levels of protection
+During the negotiations the EU wanted the UK to ensure its laws
+matched EU environmental legislation. It pushed for “dynamic
+alignment” with a “ratchet clause” whereby if one party raised its
+environmental standards the other party could not then drop below this
+new minimum level. The UK however argued that as it was no longer
+part of the EU and unable to influence EU regulations it should have
+freedom to legislate independently.
+The final TCA allows each party “to determine the environmental levels
+of protection and climate level of protection it deems appropriate and
+to adopt or modify its law and policies in a manner consistent with each
+Party's international commitments”. 112 However, the TCA also aims to
+prevent either party weakening environmental legislation below the
+levels in place at the end of the transition period. Article 391 of the TCA
+states that:
+A Party shall not weaken or reduce, in a manner affecting trade or
+investment between the Parties, its environmental levels of
+protection or its climate level of protection below the levels that
+are in place at the end of the transition period, including by failing
+to effectively enforce its environmental law or climate level of
+protection. 113
+
+The TCA also states that the individual parties are able to make
+discretionary choices over the allocation of resources for ensuring levels
+of environmental protection are maintained.
+The Parties recognise that each Party retains the right to exercise
+reasonable discretion and to make bona fide decisions regarding
+the allocation of environmental enforcement resources with
+respect to other environmental law and climate policies
+determined to have higher priorities, provided that the exercise of
+that discretion, and those decisions, are not inconsistent with its
+obligations under this Chapter. 114
+
+In addition to the principle of non-regression, Article 391 of the TCA
+also encourages both parties to increase levels of environmental and
+climate protection. This states that:
+The Parties shall continue to strive to increase their respective
+environmental levels of protection or their respective climate level
+of protection referred to in this Chapter. 115
+
+7.5 Enforcement
+The TCA sets out how each party should enforce its relevant
+environmental and climate legislation. Article 394 states that:
+
+TCA, Art. 391 (1)
+TCA, Art. 391 (2)
+114
+TCA, Art. 391 (3)
+115
+TCA, Art. 391 (5)
+112
+113
+
+51 Commons Library Briefing, 20 May 2021
+
+For the purposes of enforcement as referred to in Article 391,
+each Party shall, in accordance with its law, ensure that:
+a)
+
+b)
+
+domestic authorities competent to enforce the relevant law with
+regard to environment and climate give due consideration to
+alleged violations of such law that come to their attention; those
+authorities shall have adequate and effective remedies available to
+them, including injunctive relief as well as proportionate and
+dissuasive sanctions, if appropriate; and
+national administrative or judicial proceedings are available to
+natural and legal persons with a sufficient interest to bring actions
+against violations of such law and to seek effective remedies,
+including injunctive relief, and that the proceedings are not
+prohibitively costly and are conducted in a fair, equitable and
+transparent way. 116
+
+The establishment of the Office for Environmental Protection (OEP)
+under the Environment Bill will fill the enforcement gap left by the UK’s
+departure from the EU. The OEP will “provide scrutiny and advice on the
+implementation of environment law and will receive and investigate
+complaints on alleged breaches of environment law by public
+authorities, with the ability to take legal action in serious cases”. 117
+However, delays to the Environment Bill’s passage through Parliament
+have prevented the OEP from being fully established.
+The OEP will have a statutory role in England and in Northern Ireland,
+subject to the approval of the Northern Ireland Assembly. In Scotland,
+Environmental Standards Scotland will fulfil this role and the Welsh
+Government plans to install an independent commissioner to carry out a
+similar role.
+Further information on the Environment Bill and the establishment of
+the OEP is in the Commons Library briefing 9119 covering the
+Committee and Remaining stages in the Commons.
+The TCA requires that the enforcement bodies of the UK must regularly
+meet with the European Commission to cooperate on monitoring and
+enforcement of Environmental and Climate law. However, the
+frequency with which these meetings must occur is not specifically
+mentioned in the agreement.
+The Parties shall ensure that the European Commission and the
+supervisory bodies of the United Kingdom regularly meet with
+each other and co-operate on the effective monitoring and
+enforcement of the law with regard to environment and climate
+as referred to in Article 391. 118
+
+7.6 Rebalancing
+Rebalancing measures set out in Article 411 of the TCA are designed to
+prevent either side gaining an advantage in trade or investment if the
+other party introduces higher standards of environmental or climate
+protections. While recognising the right of each party to determine its
+future priorities with respect to environmental or climate protection,
+TCA, Art. 394
+HL European Union Committee, Beyond Brexit: food, environment, energy and
+health, HL 247, 23 March 2021
+118
+TCA, Art. 395
+116
+117
+
+52 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Article 411 provides that if future divergences between UK and EU
+standards causes “material impacts on trade and investment between
+the parties”, the parties can take “rebalancing measures”, which can
+include trade remedies. For further detail see section 8.5 below.
+
+7.7 Issues and commentary
+EU Environment Sub-Committee Inquiry
+On 23 March 2021, the House of Lords EU Environment Sub-Committee
+(part of the European Union Committee) published Beyond Brexit: food,
+environment, energy and health. This report followed an inquiry into the
+provisions in the TCA and looked at any challenges that could arise,
+how to resolve them an where UK-EU relations should progress from
+here. As part of the inquiry, the EU Environment Sub-Committee took
+evidence from a range of organisations in the fields of agriculture and
+food, fishing, environment and climate change, energy, chemicals, and
+health. Some of the key information from the inquiry and analysis from
+additional sources is set out below.
+Enforcement
+In written evidence to the EU Committee, Greener UK, a coalition of 12
+major environmental organisations, questioned the enforceability of the
+environmental provisions in the TCA stating that:
+…the majority of the environmental provisions are not
+enforceable and while sanctions are available in relation to
+disputes about non-regression, the value of this is limited by the
+narrow focus on trade and investment impact. 119
+
+Greener UK went on to criticise the dispute mechanisms for dealing
+with environmental disputes stating that neither the environment nor
+trade and sustainable development were covered by the full dispute
+mechanism. Dispute settlement is covered in more detail in section 8
+below however the comments from Greener UK stated that:
+For environment-related provisions to have a real impact, they
+must be supported by well-designed and effective governance
+mechanisms that enable meaningful enforcement where
+appropriate. However, the full horizontal dispute settlement
+mechanism applying to the core of the TCA does not apply to the
+environment or trade and sustainable development chapters.
+Instead, the agreement provides for a weaker mechanism
+involving consultations between the parties and the convening of
+a panel of experts. 120
+
+The House of Lords European Union Committee expressed similar
+concerns over the enforceability of some of the provisions in the TCA
+stating that:
+We are glad that the Government and the EU were able to find
+compromises on the environment and climate change Chapter of
+the TCA, though we share the concerns voiced by witnesses
+about the enforceability of some provisions. 121
+Written evidence from Greener UK (EEH0030)
+Written evidence from Greener UK (EEH0030)
+121
+HL European Union Committee, Beyond Brexit: food, environment, energy and
+health, HL 247, 23 March 2021
+119
+120
+
+53 Commons Library Briefing, 20 May 2021
+
+Non-regression
+In giving evidence to the European Union Committee, Greener UK
+outlined its disappointment at the inclusion of a trade and investment
+test when assessing any weakening of environmental and climate
+standards. However, the group also welcomed the fact that it provided
+a stronger enforcement mechanism than other areas of the TCA.
+The inclusion of a trade and investment test is disappointing –
+providing proof of damaging economic impacts on the other party
+will be difficult and potentially a protracted undertaking. It is
+therefore not clear to what extent this provision will act as an
+effective safeguard against lower standards in the future. A nonregression mechanism that was broader in scope and applied
+irrespective of possible impacts on trade or investment should
+have been included in the TCA. However, it is welcome that the
+provision has a better enforcement mechanism attached,
+compared to the rest of the environment and sustainable
+development chapters. Either party can take action via temporary
+remedies if the other party does not conform to the assessment of
+a panel of experts in relation to a dispute. 122
+
+Brexit and the environment, a website funded by the Economic and
+Social Research Councill, provides analysis and commentary on how
+Brexit affects the environment. A recent article highlighted limitations in
+the non-regression elements of the TCA:
+Whilst the TCA concluded between the UK and EU does include
+non-regression and environmental progression, it does so in a
+limited way. For example, the commitment to non-regression is a
+limited environmental policy with direct trade and investment
+implications.
+The 2019 Political Declaration that the EU and the UK signed
+committed both sides to establish ‘appropriate mechanisms’’ to
+ensure environmental policy is adequately implemented and
+enforced. However, the UK Government was eventually forced to
+concede that the OEP – will not be fully up and running until at
+least the second half of 2021. In January 2021, the environment
+ministry (DEFRA) announced that because of COVID-19, the Bill
+would not receive Royal Assent until the Autumn. Even if it is
+adopted by 1 January 2022 (by then it would be a year late),
+environmental groups remain fearful that it will not be sufficiently
+independent to hold the Government fully to account. 123
+
+Devolved Policy
+The environment is a devolved policy competence and as such concern
+has been raised by some analysts from Brexit & Environment over
+whether there will be a UK-wide level playing field and whether
+different UK nations will want to or be able to have different
+environmental standards to each other:
+…the Environment Bill is mainly England facing, leaving Scotland,
+Wales and Northern Ireland scope to develop their own bespoke
+systems. The Scottish Government has expressed its determination
+to dynamically align with EU rules. However, the highly
+contentious Internal Market Bill, which seeks to create a new UK122
+123
+
+Written evidence from Greener UK (EEH0030)
+Brexit & Environment, Environmental Regulation in the Post-Brexit Era, 23 March
+2021
+
+54 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+wide level playing field, may limit the freedom of action of the
+devolved nations. They have voiced their fear that the rules of the
+largest market, England, will drive standards across the whole of
+the UK. 124
+
+The same concern was also raised by Colin T. Reid, professor of Law at
+the University of Dundee who gave evidence to the European Union
+Committee and stated that it represented a major challenge:
+There is a major challenge created by the UK Government
+agreeing such a far-reaching Agreement when responsibility for
+many of the matters covered lies in the hands of the devolved
+administrations. 125
+
+On 31 December 2020 the Scottish Government published an early
+assessment of what the outcome of the EU-UK negotiations means for
+Scotland. Commenting on the impact of UK’s deal on Scotland, the
+Scottish Government stated its intention to remain aligned with EU rules
+where possible but highlighted the potential threat to environmental
+protections posed by the Internal Market Act 2020.
+Scotland is committed to maintaining high environmental
+standards through the UK Withdrawal from the European Union
+(Continuity) (Scotland) Bill, and intends to stay aligned with EU
+rules where possible and practicable to do so. However,
+protections risk being impaired by both the loss of participation in
+EU frameworks, systems and collaborative programmes, and by
+the threat to devolved competency in these areas posed by the
+United Kingdom Internal Market Act 2020. 126
+
+The Welsh Government has also expressed concerns about the
+complexity of certain aspects of the TCA. On 12 February 2021
+(updated 11 March 2021) it published ‘The new relationship with the
+EU: What it means for Wales’ which examined the implications of the
+TCA for citizens, business, and communities in Wales. The section of the
+report covering ‘Labour and Environmental Rights’ questioned how the
+non-regression principle of the TCA would work and be enforced in
+practise, stating that:
+The intention is to eliminate any possible competitive advantage
+by either party through a reduction in the costs of production as a
+result of such changes. As a concept, it has precedents in other
+trade agreements. However, the nature of the high and complex
+regulatory standards of the EU Single Market, combined with the
+very large volume of existing EU-UK trade in goods, including
+integrated crossborder supply chains, makes this a particularly
+difficult issue to address. It is not immediately clear how this will
+operate in practice or how it will be enforced. The TCA provides
+for further work between the EU and the UK to oversee this issue.
+In any event, the legal nature and enforcement of these issues is
+now of a more complex nature. The precise nature of legal
+obligations in either jurisdiction may diverge over time. This could
+cause a lack of clarity and ultimately discrepancies, in interpreting
+issues such as social and environmental rights.
+
+Brexit & Environment, Environmental Regulation in the Post-Brexit Era, 23 March
+2021
+125
+Written evidence from Prof Colin Reid (EEH0004)
+126
+Gov.scot, EU-UK negotiations: outcome analysis, 31 December 2020
+124
+
+55 Commons Library Briefing, 20 May 2021
+
+In any event, the whole TCA has an inherent vulnerability because
+of this. It provides for so-called “rebalancing”, when either party
+believes that regulatory changes have led to divergence in a
+manner that gives one party a competitive advantage in trade or
+investment. This could lead to either party taking remedial action
+to address such imbalances, pending their review by an
+independent arbitration panel; and could ultimately lead to the
+termination of the trade provisions in the TCA. 127
+
+The House of Lords European Union Committee has also recognised the
+potential policy implications of the TCA for the devolved nations and
+has urged the government to fully address them as soon as possible:
+The TCA negotiated by the Government will affect the policy
+choices available to devolved administrations and legislatures in
+areas of devolved competence including the environment. There
+are already diverging environment and climate change goals
+across the UK, which could indicate challenges ahead. We urge
+the Government to address any concerns raised by the devolved
+administrations regarding the TCA’s environment and climate
+change provisions - via the Common Frameworks programme or
+other routes - as fully and promptly as possible. 128
+
+Rebalancing
+The rebalancing measures in the TCA were welcomed by a number of
+witnesses giving evidence to the House of Lords European Union
+Committee. However, several witnesses questioned how the
+rebalancing measures would be implemented in practise. Greener UK
+commented that:
+This process [rebalancing] should be a useful tool given much
+greater environmental ambition will be needed in the coming
+years, although the effectiveness of this novel mechanism remains
+to be seen.
+It is not yet clear how provisions such as rebalancing will work in
+practice … Early cases will be important in determining how terms
+are interpreted—for example, it will be for the arbitration tribunal
+to decide what is a material impact, significant divergence and
+reliable evidence. 129
+
+The European Union Committee welcomed the inclusion of rebalancing
+measures in the TCA citing the UK’s leading role in climate change
+policies as an example of where a competitive advantage might be
+gained by the EU:
+We welcome the fact that the rebalancing measures help mitigate
+the threat of competitive disadvantage that could otherwise have
+limited the Parties’ ambitions on environment and climate change
+protections. There are policies—especially in relation to climate
+change—where the UK’s progress exceeds the EU’s. 130
+
+Gov.wales, The new relationship with the EU: What it means for Wales, 12 February
+2021
+128
+HL European Union Committee, Beyond Brexit: food, environment, energy and
+health, HL 247, 23 March 2021 p37
+129
+Written evidence from Greener UK (EEH0030)
+130
+HL European Union Committee, Beyond Brexit: food, environment, energy and
+health, 23 March 2021, p37
+127
+
+56 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Environmental Principles
+The Environmental Principles set out by the government to replace those
+set out in EU treaties and law have received some criticism from the
+independent think tank Green Alliance. Writing for the think tank,
+Professor Maria Lee highlighted that UK faces “a necessarily complex
+legal situation, with a maze of retained provisions and inherited case
+law within which the principles will need to operate”. She also
+“emphasised that this new legislation does not enforce the principles
+systemically or in the same legally binding way as the previous EU
+framework. They will apply only at a high level and ministers only need
+to pay them ‘due regard’.” 131 Further analysis from contributors to the
+Green Alliance blog were also set out:
+Professor Eloise Scotford of UCL described in greater detail the
+draft policy statement emphasising the scale of the challenge that
+Defra faces, given the multi-faceted nature of the principles and
+the multiple functions they serve. She said there was an
+unanswered need for the principles to influence thinking right
+from the earliest inception of a policy, not just to be bolted onto
+the end of the process.
+David Wolfe QC offered the benefit of his experience within the
+courts, in interpreting and applying the public sector equality
+duty. He noted that the Environment Bill set up the principles as
+process obligations for policy making in a similar way, but both
+the legislation and the policy statement lack the same clarity and
+strength of the equality duty. 132
+
+7.8 Climate change
+The TCA sets out a range of principles covering the level playing field
+and environment, including climate change, as set out above. There are
+also some provisions and language that are specific to climate change,
+both in the area of non-regression and future collaboration.
+The European Commission’s Q&A document on the TCA called the
+provisions included on climate change “an ambitions framework for
+cooperation”:
+The Agreement also establishes an ambitious framework for
+cooperation in the fight against climate change, as well as
+provisions for cooperation in the development of offshore energy,
+with a clear focus on the North Sea. 133
+
+The Summary document published by the UK Government in December
+2020, does not refer to the framework but does highlight the high
+standards on climate change (and environment) embedded in the TCA:
+The Government has embedded into this Agreement our
+manifesto commitment to high labour environment and climate
+standards without giving the EU any say over our rules. 134
+
+Green Alliance, The government is on the brink of making a mistake over
+environmental principles, 30 April 2021
+132
+Green Alliance, The government is on the brink of making a mistake over
+environmental principles, 30 April 2021
+133
+European Commission, Q&A: EU-UK Trade and Cooperation Agreement, 24
+December 2020
+134
+Gov.uk, UK-EU Trade and Cooperation Agreement Summary, 24 December 2020
+131
+
+57 Commons Library Briefing, 20 May 2021
+
+The TCA refers to climate change as “an existential threat to humanity”.
+Article 764 (the fight against climate change), under the heading setting
+out the basis for cooperation between the parties. It also commits both
+Parties to uphold the Paris Agreement and do nothing to “materially
+defeat the object and purpose” of the Paris Agreement.
+Specific provisions related to climate change include Article 392 on
+carbon pricing which requires both parties to have an effective carbon
+pricing scheme in place, covering certain sectors. It also requires existing
+levels of coverage to be maintained, as set out in Article 391 on nonregression.
+Article 401 on trade and climate change (under the trade and
+sustainable development heading) states support for the Paris
+Agreement, including reference to the ambition to keep global
+temperature increases below 1.5oC, and sets a basis for trade that
+supports a green transition:
+(a) commits to effectively implementing the UNFCCC, and the
+Paris Agreement of which one principal aim is strengthening the
+global response to climate change and holding the increase in the
+global average temperature to well below 2 ºC above preindustrial levels and pursuing efforts to limit the temperature
+increase to 1,5 ºC above pre-industrial levels;
+(b) shall promote the mutual supportiveness of trade and climate
+policies and measures thereby contributing to the transition to a
+low greenhouse gas emission, resource-efficient economy and to
+climate-resilient development; and
+(c) shall facilitate the removal of obstacles to trade and investment
+in goods and services of particular relevance for climate change
+mitigation and adaptation, such as renewable energy, energy
+efficient products and services, for instance through addressing
+tariff and non-tariff barriers or through the adoption of policy
+frameworks conducive to the deployment of the best available
+solutions. 135
+
+Climate change is also listed in Article 770 on global cooperation on
+issues of shared economic, environmental and social interest which
+states that “parties shall endeavour to cooperate on current and
+emerging global issues of common interest”.
+The TCA also refers in several places to areas to support the reduction in
+greenhouse gas emissions. Article 319 and 320 specifically provide for
+the promotion and support of renewable energy. Article 367 (14) refers
+to subsidies that are allowed subject to conditions, if aimed at
+“delivering a secure, affordable and sustainable energy system and a
+well-functioning and competitive energy market or increasing the level
+of environmental protection”.
+
+Commentary
+An article by UK in a Changing Europe, The EU-UK Agreement is the
+first to make climate change a make or break issue, published 25
+January 2021 considers the language on climate change in the TCA is
+“one of the strongest in any trade agreement”:
+135
+
+TCA, Art. 401 (2)
+
+58 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Among the most important provisions is Article [764], which
+declares the fight against climate change as a one of the bases for
+cooperation, alongside democracy, the rule of law, human rights
+and the non-proliferation of WMDs.
+Further, Article [771] affirms that Article [764(1)] is an ‘essential
+element’ of the partnership established by the TCA as well as ‘any
+supplementing agreement.’
+Essential elements are important when determining suspension or
+termination of a treaty in international law under the law of
+treaties.
+This language is one of the strongest found in any trade
+agreement, declaring that ‘climate change represents an
+existential threat to humanity’. 136
+
+The article also highlights the requirement for both parties to have
+effective carbon pricing in place:
+Article [392] obliges both parties to ‘have in place an effective
+system of carbon pricing’ and suggests that they give serious
+thought on linking their respective carbon pricing systems to
+preserve the system’s integrity and possibly increase its
+effectiveness and avoids major differences with Northern Ireland
+which will still apply the emissions trading scheme for some
+sectors under the Withdrawal Agreement. 137
+
+Analysis by Chris Papanicolaou of law firm JonesDay of the climate
+change provisions in the TCA, focused on implications for business,
+concluded that a movement away from net zero commitments by both
+Parties was unlikely given the provisions included in the TCA:
+The TCA includes tools and mechanisms for the enforcement of
+the level playing field commitments, including the ability of either
+party to impose duties unilaterally, subject to review by an
+arbitration panel, where a change creates a significant negative
+effect on trade or investment between the EU and the UK. If such
+measures are used too frequently, either side can trigger a review
+of these provisions and the trade aspects of the TCA more
+broadly, aiming to end with a different balance of rights and
+obligations.
+As an international treaty, the TCA does not give businesses the
+direct right to challenge a party's noncompliance. Equally,
+divergence from the commitments only becomes an issue where
+the impact distorts trade and investment between the parties. In
+the short term, it is difficult to assess the immediate impact on
+businesses in the context of environmental and climate change
+regulation, but a move by either the EU or UK away from rules
+designed to achieve climate neutrality by 2050 is unlikely, given
+the express provisions of the TCA designed to prevent this. 138
+
+The Energy and Climate Intelligence Unit (ECIU), in its analysis of the
+TCA supported this view and predicted the commitments to net-zero in
+the Agreement set a precedent for their inclusion in future trade deals:
+
+UK in a Changing Europe, The EU-UK Agreement is the first to make climate change
+a make or break issue, 25 January 2021
+137
+Ibid
+138
+Chris Papanicolaou, Climate Change Provisions of the EU-UK Trade and Cooperation
+Agreement, 3 March 2021
+136
+
+59 Commons Library Briefing, 20 May 2021
+
+For the first time in a trade agreement, and perhaps setting a
+precedent for future deals for example with the US and China, the
+net zero carbon emissions by 2050 target is embedded within the
+text.
+Specifically, the phrase ‘each party reaffirms its ambition of
+achieving economy-wide climate neutrality by 2050’ has many
+climate experts singing the praises of the deal, as a regression –
+going back on the net zero goal – could now result in the TCA
+being terminated, suspended or presumably causing tariffs to be
+imposed between the two trading blocs. It therefore appears that
+climate change and net zero is now a make-or-break issue for the
+success of the deal. 139
+
+Greener UK concluded about the agreement overall that it has “the
+potential to be dynamic and adjust over time to reflect new cooperative
+arrangements between the UK and EU”. On climate change specifically
+it welcomed the provisions but expressed concern about the threshold
+for proof of any breach:
+The fight against climate change is explicitly specified in Article
+[771] as constituting an ‘essential element’ of the agreement.
+Furthermore, 'materially defeating the object and purpose of the
+Paris Agreement’ is explicitly specified in Article [772] as
+constituting a serious and substantial failure to fulfil an essential
+element of this agreement. This is a very welcome provision, and
+means any serious breach can lead to the suspension or
+termination of all or parts of the agreement. However, we note
+that the threshold of demonstrating that a party has defeated the
+object and purpose of the agreement may be a high threshold to
+meet. 140
+
+The ECIU also highlighted that the TCA did not set out what would
+constitute a breach of the agreement on climate grounds:
+Actions that would constitute a breach of the deal in terms of
+climate change are not explicit in the TCA’s text. Although Marley
+Morris, an expert that recently published a report on the Brexit
+deal, explains that to be directly in breach of the TCA, there
+would have to be a renouncement of the Paris Agreement from
+one side, or clarity that one party is not delivering. 141
+
+For further detailed analysis, Carbon Brief produced a detailed Q&A on
+the negotiations and the TCA in January 2021, which is available on
+their website.
+
+ECIU, Brexit: implications for energy and climate change (accessed May 2021)
+Greener UK, Initial environmental analysis of the EU-UK Trade and Cooperation
+Agreement, 29 December 2020
+141
+ECIU, Brexit: implications for energy and climate change (accessed May 2021)
+139
+140
+
+60 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+8. Dispute settlement
+8.1 The general governance and dispute
+settlement mechanisms
+Governance provisions for the TCA and supplementing agreements are
+set out in Title III of Part One of the Agreement. This includes a UK-EU
+Partnership Council to supervise the operation of the Agreement at a
+political level, providing strategic direction chaired by a UK Government
+Minister and European Commissioner. 142 Decisions will be taken by
+mutual consent and will be binding on the two parties. Either party can
+refer any issue relating to the implementation or interpretation of the
+TCA and supplementing agreements to the Partnership Council. It will
+have the power to adopt decisions and recommendations in relation to
+the application of the Agreement. The Partnership Council is supported
+by a set of committees. These include a Trade Partnership Committee
+covering the trade aspects of the TCA. This in turn is supported by
+several Specialised Committees including the Specialised Committee on
+Level Playing Field for Open and Fair Competition.
+Title I, Part Six of the TCA set out mechanisms for “avoiding and settling
+disputes” between the parties in relation to interpretation and
+application of the TCA and supplementing agreements. This involves
+recourse to an independent arbitration tribunal if consultations
+between the two parties fail to reach a solution. These provisions are
+similar to those found in other international agreements, including the
+WTO agreement. The arbitration tribunal consists of a UK nominee, an
+EU nominee and a jointly agreed chair, drawn from a list of potential
+arbitrators established by the Partnership Council. All arbitrators need to
+be independent of the EU and Member States’ and UK Governments.
+Where one party feels that the other party is in breach of the TCA it can
+request consultations. These can take place in the Partnership Council
+or Specialised Committee. If the matter is not resolved within 30 days,
+the two parties can extend the consultation period or refer it to an
+arbitration tribunal. The tribunal has up to 160 days to make a ruling.
+Various timelines are set out in Part Six, although these are halved
+where the tribunal agrees that the matter is urgent.
+Certain parts of the TCA are exempted from these provisions but they
+apply to most of Part Two (trade, transport, fisheries and other
+arrangements).
+In cases of non-compliance with an arbitration tribunal hearing, certain
+treaty obligations can be suspended. This includes the possibility of
+cross-retaliation in certain parts of Part Two of the TCA, so that treaty
+obligations could be suspended in one area for a breach of obligations
+in another part of Part Two. Any such suspension must be proportionate
+and appropriate and can be challenged before an arbitration tribunal.
+142
+
+The UK has appointed Lord Frost, Minister of State in the Cabinet Office, as its cochair in the Partnership Council. The EU co-chair is Vice-President of the European
+Commission Maroš Šefčovič.
+
+61 Commons Library Briefing, 20 May 2021
+
+The suspension should be withdrawn if the responding party then
+complies with the initial ruling. The tribunal can be asked to rule on
+whether compliance has been achieved.
+Unlike the Withdrawal Agreement there is no role for the Court of
+Justice of the EU (CJEU) in the dispute settlement provisions. The CJEU
+provides binding interpretations of questions EU law to arbitration
+panels in the WA dispute settlement process, where a matter raises such
+questions. The EU sought a similar role for the CJEU in the TCA, but this
+was opposed by the UK. Provisions of the TCA will be interpreted in line
+with public international law including the Vienna Convention on the
+Law on Treaties 1969.
+
+8.2 Exceptions and Bespoke Provisions for
+the Level playing field
+Article 735 (2) sets out exceptions to the Part Six dispute settlement
+provisions. These include the following provisions in the level playing
+field title (Title XI of Heading One of Part Two):
+•
+
+Article 355(1), (2) and (4), setting out general principles and
+objectives in the general provisions of the level playing field title (see
+section 1.2)
+
+•
+
+Article 356(1) and (3) covering right to regulate, precautionary
+approach and scientific and technical information in the general
+provisions (see section 7.2 above)
+
+•
+
+Chapter 2 (Competition Policy) (see section 2.2 above)
+
+•
+
+Article 371 (which provides that both parties establish an
+operationally independent authority with an appropriate role in its
+subsidy control regime) and Article 372 (which provides for domestic
+courts to hear claims, review decisions and grant remedies in
+Chapter 3 (subsidy control) (see sections 3.4 and 3.5 above)
+
+•
+
+Chapter 5 (Taxation) (see section 5.2 above), and
+
+•
+
+Article 411(4) to (9) in Chapter 9 (horizontal and institutional
+provisions) which enables either party to request a review of the
+trade heading (Heading One of Part Two) and for the parties to add
+other headings to the review. This is described further in section 8.6.
+
+8.3 Panel of Experts for Labour, environment
+and climate, sustainable development
+Chapter 6 (labour and social standards), chapter 7 (environment and
+climate) and chapter 8 (other instruments for trade and sustainable
+development) of Title XI have derogations from the Part Six dispute
+settlement provisions although these are not specified under Article 735
+(2).
+For each of these chapters, provisions for consultation (Article 408) and
+for a panel of experts rather than an arbitration tribunal (Article 409) are
+set out under chapter 9 (horizontal and institutional provisions) of Title
+XI.
+
+62 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Article 408 provides that a party may request consultations with the
+other regarding any matter arising under Article 355 (3) in chapter 1
+(the mutual commitment to climate neutrality by 2050) and chapters 6,
+7 and 8. Consultations have to begin within 30 days of the request with
+the aim of reaching a mutually satisfactory resolution of the matter.
+Article 409 provides that where consultations do not reach a satisfactory
+resolution, a party may request that a panel of experts be convened to
+examine that matter. This can be done 90 days after the original request
+for consultations. This is longer than the minimum 30 day consultation
+period in the Part Six dispute settlement mechanism.
+The panel of experts will be established and operate in a similar way to
+the arbitration tribunal outlined in the Part Six mechanism. It will be
+composed of three panellists. These will be selected from a list of at
+least 15 individuals established by The Trade Specialised Committee on
+the Level Playing Field at its first meeting after the entry into force of the
+TCA. 143 The list will consist of at least five nominations from each party
+and five individuals able to serve as chair. The list of potential chairs will
+not include nationals of either party. The experts will have specialised
+knowledge of the fields covered by these chapters, or in international
+dispute resolution, and meet similar criteria for independence from
+either party as the arbitration tribunal members.
+The panel can seek information from other international bodies and
+experts where relevant (for example from the International Labour
+Organization or other relevant bodies). It will issue an interim report
+setting out findings within 100 days of its establishment. This can be
+extended to up to 125 days if the panel notifies the parties that it
+cannot meet the 100 day deadline. The parties can request that the
+panel of experts review particular aspects of the report within 25 days
+of its delivery. If there is no request to review, then the interim report
+becomes the final report. If there is a review, then the panel of experts
+needs to deliver a final report within 175 days of its initial
+establishment. This can be extended to up to 195 days if the chair
+notifies the parties that the earlier deadline cannot be met. These
+timelines are longer than those set out in Part Six, Title One for
+arbitration tribunals. The deliberations of tribunals can be extended to a
+maximum of 160 days.
+The final report of the Panel of Experts will be made public. The interim
+and final reports will set out the findings of fact and whether the
+responding party has complied with its obligations, together with
+reasoning behind the findings.
+Article 409 (19) provides that provisions of Title I of Part Six, relating to
+the establishment and workings of the arbitration tribunals, will apply to
+the work of the panel of experts unless otherwise provided by the
+Article.
+143
+
+Following a period of provisional application, the TCA fully entered into force on
+1 May 2021. The various bodies set up in the Part One governance provisions had
+not met during the period of provisional application, but were expected to become
+fully operational once the TCA was fully applied.
+
+63 Commons Library Briefing, 20 May 2021
+
+Panel recommendations and compliance
+Article 409 (9) states that the parties “share the understanding that if
+the Panel makes recommendations in its report, the respondent party
+does not need to follow these recommendations in ensuring conformity
+with the Agreement”. This contrasts with Article 754 relating to the
+arbitration tribunal’s rulings which “shall be binding” on the EU and
+UK.
+Subsequent paragraphs in Article 409 nevertheless provide for further
+recourse to the panel of experts where the parties disagree on how the
+responding party should conform with its obligations. Under Article
+410, the complaining party can then revert to the Part Six provisions for
+temporary remedies (including suspension of obligations) where the
+responding party does not comply with obligations. 144
+Article 409 (16) provides that if the final report of the panel determines
+that a party has not conformed with its obligations under the relevant
+chapter, the parties shall, within 90 days of the delivery of the final
+report, discuss appropriate measures to be implemented. The
+respondent party has to inform the complaining party, and its domestic
+advisory groups, within 105 days of the report being delivered of its
+decision on any measures to be implemented.
+Article 409 (18) provides that where the parties disagree on measures to
+be taken the complaining party may request that the panel of experts
+decide on the matter. The panel of experts will deliver its findings within
+45 days of this request.
+Article 410 provides that the provisions for temporary remedies (Article
+749) and for review of measures to comply with temporary remedies
+(Article 750) as set out in Part Six will apply (mutatis mutandis) 145 to
+disputes in Chapter 6 (labour and social standards) and Chapter 7
+(environment and climate). Furthermore it states that the parties
+recognise that the remedies (including suspension of obligations and
+potentially cross-retaliation) authorised under Article 749 are available
+to the complaining party where the responding party does not conform
+with the report of the panel of experts. Article 749 and 750 are
+explained in more detail below.
+
+Cross-retaliation for non-compliance
+Under Article 749 a complaining party may suspend certain provisions
+of the Agreement if a respondent party does not comply with an
+arbitration tribunal. The complaining party also has the option of
+requesting “temporary compensation”. It can then suspend obligations
+under the Agreement where there is no agreement between the two
+parties on what the compensation should be. It can also decide not to
+
+The Government’s summary explainer on the TCA explains the Article as “tailored
+provisions” in relation to which “(a)ny recommendations made by the Panel of
+Experts are not binding on the Parties”.
+145
+Article 410 (2) states that Articles 749 and 750 shall apply mutatis mutandis. Mutatis
+mutandis can be understood as meaning with the necessary changes having been
+made or with consideration of the respective differences.
+144
+
+64 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+request compensation and instead notify the responding party that it is
+suspending treaty obligations.
+The notification shall specify the level of intended suspension of
+obligation. This can involve cross-retaliation across the trade, aviation,
+road transport and fisheries headings of Part Two, although retaliation
+should initially be considered within the same heading.
+Article 749 (6) states that if the arbitration tribunal has ruled that there
+has been a violation in Heading One (trade) or Heading Three (road
+transport) of Part Two, the suspension may be applied in another title of
+the same heading “in particular if the complaining party is of the view
+that such suspension is effective in inducing compliance”.
+Furthermore Article 749 (8) provides that in Heading One (trade),
+Heading Two (aviation), Heading Three (road transport) or Heading Five
+(fisheries) of Part Two:
+if the complaining party considers that it is not practicable or
+effective to suspend obligations within the same Heading as that
+in which the arbitration tribunal has found the violation, and that
+the circumstances are serious enough, it may seek to suspend
+obligations under other covered provisions.
+
+The complaining party needs to state the reasons for its decision. The
+suspension of obligations can commence 10 days after the complaining
+party has sent the notification of intended suspension.
+Certain parts of the Agreement cannot be suspended under this Article.
+These are those parts of the TCA not covered by the Part Six provisions
+(for example the Part Three law enforcement and judicial cooperation
+provisions) and the social security coordination provisions. Suspension of
+obligations in relation to EU programmes or financial services
+commitments can only be applied in relation to disputes under those
+provisions (cross-retaliation does not apply). 146
+Arbitration on suspension of obligations
+The suspension of obligations “shall not exceed the level equivalent to
+the nullification or impairment caused by the violation”. If the
+respondent party considers that the notified level of suspension of
+obligations exceeds this level or that any proposed cross-suspension
+under the aviation heading or across the different headings identified in
+does not meet the principles or follow the procedures allowing for such
+cross-suspension then it can request an arbitration tribunal ruling on the
+matter. This needs to be done within the 10 day period following
+notification of the intended suspension. The arbitration tribunal will
+deliver its decision on this within 30 days. Obligations cannot be
+suspended until the arbitration tribunal has delivered its decision (Article
+749 (11)).
+The arbitration tribunal will rule on whether the intended suspension of
+obligations meets the equivalence criteria and, where applicable, the
+principles and procedures allowing for cross-suspension (Article 749
+146
+
+See sections 4.2 and 4.3 of Commons Library briefing 9139, The UK-EU Trade and
+Cooperation Agreement: governance and dispute settlement for more detail.
+
+65 Commons Library Briefing, 20 May 2021
+
+(12)). Its decision will be final, and suspension of obligations shall be
+consistent with the decision. This may require the complaining party to
+adjust its proposed suspension measures.
+Compliance following temporary remedies
+The suspension of obligations or the compensation initially referred to is
+intended to be temporary. They will apply until one of the following
+occurs:
+•
+
+the parties have “reached a mutually agreed solution”
+
+•
+
+the parties have agreed that a measure taken brings the
+respondent party into compliance with the covered provisions, or
+
+•
+
+relevant measures have been withdrawn or amended in order to
+bring the respondent party into compliance (Article 749 (13)).
+
+Article 750 provides for review of measures taken to comply after the
+adoption of temporary remedies. Where a respondent party has taken
+measures to comply following the suspension of obligations or
+application of temporary compensation, it needs to notify the
+complaining party. The complaining party will then terminate the
+suspension of obligations within 30 days. It may also terminate the
+application of compensation. However, if the parties do not reach
+agreement on whether compliance has been achieved within 30 days of
+the responding party notifying that is has taken the measures to
+comply, then the complaining party will request a decision from the
+arbitration tribunal on this. The tribunal will deliver its decision on this
+within 46 days of this request. If the tribunal finds that compliance has
+been achieved, then the suspension of obligations or compensation
+shall be terminated. The level of suspension of obligations or of
+compensation can also be adjusted in light of the tribunal decision.
+
+8.4 Provisions for subsidies
+As described in further detail in section 3.6 above, the Agreement
+contains some bespoke provisions to address any disputes on subsidies.
+Disputes about compliance with the requirements may be addressed by
+consultation (Article 370) or engaging the Trade Specialised Committee
+on Level Playing Field. In addition, the Article 374 dispute settlement
+mechanism allows for temporary unilateral remedies taken in response
+to individual subsidies which have a significant negative effect on UK-EU
+trade and investment. These remedies are subject to arbitration. The
+related Article 411 rebalancing and review mechanisms described in the
+following sections also apply.
+
+8.5 Rebalancing mechanism
+The key to resolving differences between the UK and EU over the
+enforcement of commitments on the level playing field was the
+rebalancing mechanism.
+
+66 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+Agreement on this mechanism
+While other governance and dispute settlement provisions in the TCA
+can be compared to those found in other trade agreements, Dr Holger
+Hestermeyer has described the rebalancing mechanism as “utterly novel
+and remarkable”. 147
+In her press conference announcing the TCA, Commission President
+Ursula von der Leyen stated that the agreed level playing field measures
+would mean “the EU´s rules and standards will be respected” and it
+would “have effective tools to react if fair competition is distorted and
+impacts our trade”. 148
+Article 411 (1) to (3) sets out the mechanism. It recognises the right of
+either party to determine their own future policies in relation to labour,
+environmental and climate protection and subsidy control (Article 411
+(1)). But it provides for a mechanism for either party to take
+“appropriate rebalancing measures” if there are “material impacts” on
+trade or investment between the parties arising as a result of significant
+divergences between the parties in these areas (Article 411 (2)). These
+measures should be restricted in scope and duration to “what is strictly
+necessary and proportionate in order to remedy the situation” with
+priority given to measures that least disturb the functioning of the
+Agreement.
+Where a party wishes to impose a rebalancing measure, the following
+procedure set out in Article 411 (3) applies:
+a.
+
+The concerned party notifies the other party through the
+Partnership Council of the rebalancing measures it intends
+to take, providing all relevant information. Consultations
+then commence and are deemed concluded within 14 days
+from the notification.
+
+b.
+
+If no mutually acceptable solution is found, the concerned
+party may adopt rebalancing measures no sooner than five
+days from the conclusion of the consultations, unless the
+notified party requests the establishment of an arbitration
+tribunal within the same five day period. This would be
+based on the Part Six dispute settlement provisions for
+establishment of a tribunal, but Article 760 which sets out a
+bespoke expedited process for establishing an arbitration
+tribunal for the purposes of Article 374 (remedial measures
+in the subsidy control chapter) and Article 411 applies here.
+This includes a two day period to appoint a tribunal, and a
+further two day period deadline to hold its first meeting
+(rather than seven) and a seven day deadline for the
+complaining party to submit its case (rather than 20). 149
+
+See HL European Union Committee, Uncorrected oral evidence: Future UK-EU
+relations: governance, 2 February 2021, Q8
+148
+See also European Commission Press release, 24 December 2020
+149
+See Commons Library briefing 9139, The UK-EU Trade and Cooperation Agreement:
+governance and dispute settlement, section 4.4
+147
+
+67 Commons Library Briefing, 20 May 2021
+
+c.
+
+The tribunal shall deliver its final ruling within 30 days of its
+establishment. If it does not deliver its final ruling within this
+time period, the concerned party may adopt the rebalancing
+measures from three days after the expiry of the 30 day
+period. The other party can then take proportionate
+countermeasures until the tribunal delivers its ruling. Priority
+shall be given to such countermeasures as will least disturb
+the functioning of this Agreement.
+
+d.
+
+Where the arbitration tribunal finds that the rebalancing
+measure by the concerned party is consistent with the
+“material impact” criteria set out in Article 411 (2), then the
+concerned party can adopt the rebalancing measure.
+
+e.
+
+If the arbitration tribunal has found the rebalancing
+measures to be inconsistent with the “material impact”
+criteria, then the concerned party will need to withdraw or
+adjust its proposed measure and notify the other party what
+it intends to do within three days.
+
+In relation to compliance or non-compliance with the tribunal ruling,
+relevant articles of the Part Six dispute settlement provisions apply in the
+same way. These are:
+•
+
+Article 748 (2) [Compliance review] enabling the complaining party
+(in this case the party that has been notified of rebalancing
+measures and had requested the tribunal ruling) to seek a further
+ruling on whether the notified measures are in compliance with
+tribunal ruling.
+
+•
+
+Article 749 [Temporary remedies] allowing the complaining party to
+request “temporary compensation” or suspend certain provisions of
+the Agreement. This includes the possibility of cross-retaliation
+across different parts of the Agreement, and provisions allowing the
+responding party to seek a ruling from the tribunal on whether
+these measures are proportionate (see explanation of Article 749 in
+section 8.3).
+
+•
+
+Article 750 [Review of any measure taken to comply after the
+adoption of temporary remedies] allowing the complaining party to
+seek another ruling from the arbitration panel on whether
+compliance has been achieved.
+
+When applied in Article 411 (3) these procedures “shall have no
+suspensive effect on the application of the notified measures pursuant
+to this paragraph”.
+f.
+
+Where rebalancing measures were adopted prior to the
+arbitration ruling in accordance with point (c), any
+countermeasures adopted pursuant to that point shall be
+withdrawn immediately, and in no case later than five days
+after delivery of the tribunal ruling.
+
+g.
+
+Neither of the parties can invoke the WTO Agreement or
+any other international agreement to preclude the other
+party from taking rebalancing measures or countermeasures
+under this Article.
+
+68 The UK-EU Trade and Cooperation Agreement: Level Playing Field
+
+h.
+
+If the notified party has not requested a ruling from an
+arbitration panel in the time period set out under point (b)
+then it can initiate the arbitration procedure set out in Part
+Six but without the need for prior consultations in the
+Partnership Council, and Article 744 [Urgent proceedings]
+will be applied. This means the tribunal would need to
+deliver a ruling within 65 days, and an interim report within
+50 days.
+
+Also of relevance to this article is Article 762 which states that where a
+party takes a measure under treaty articles including Article 411, then
+the measure shall only be applied in respect of covered provisions within
+the meaning of Article 735 (those parts of the Agreement covered by
+the Part Six dispute settlement provisions) and shall comply in the same
+way (mutatis mutandis) with the conditions set out in Article 749 (3).
+The latter exempts certain parts of the TCA from cross-retaliation,
+meaning that cross-retaliation would be possible across the areas not
+exempt (see section 8.3 for explanation of covered and exempt
+provisions for the purpose of cross-retaliation).
+
+8.6 Review provisions
+Paragraphs 4 to 11 of Article 411 provide for a possible review of the
+Trade heading of the TCA. This review mechanism opens up the
+possibility of the entire trade part of the agreement being suspended in
+case of a persistent dispute. The road transport would be terminated
+alongside the trade provisions. The aviation heading could also possibly
+be terminated.
+Under Article 411 (4) a review can take place no sooner than four years
+after the entry of force of the TCA at a party’s request. Under Article
+411 (5) a review can take place sooner than four years at the request of
+a party under more specific circumstances: this would be if the party
+feels that measures under the rebalancing mechanism have been taken
+too frequently or if a measure with a material impact on trade or
+investment between the parties has been applied for a period of 12
+months or more. The parties can agree that other Agreement headings
+be added to the review.
+There can be repeated reviews, but these need to be at least four years
+apart (Article 411 (7)). Reviews will address whether the TCA “delivers
+an appropriate balance of rights and obligations between the Parties”
+and whether there is a need for the terms of the Agreement to be
+modified.
+Where a party considers that following the review there is a need for a
+treaty amendment then the parties “shall use their best endeavours to
+negotiate and conclude an agreement making the necessary
+amendments”. The negotiations will be limited to matters identified in
+the review. If an amending agreement has not been concluded after
+one year of these negotiations, then either party may give notice to
+terminate Heading One (trade) or any other Agreement heading that
+had been added to the review. Alternatively, the parties may decide to
+
+69 Commons Library Briefing, 20 May 2021
+
+continue negotiations. If a party terminates Heading One (trade)
+following this process, then Heading Three (road transport) shall be
+terminated on the same date. The termination will take place three
+months after notice has been given. Where the trade heading has been
+terminated, Heading Two (aviation) will also be terminated unless the
+parties agree to integrate the relevant parts of the Title XI level playing
+field provisions into the aviation heading.
+For further detail on the governance and dispute settlement
+mechanisms in the TCA, and the bespoke provisions for the level playing
+field, see Commons Library briefing 9139, The UK-EU Trade and
+Cooperation Agreement: governance and dispute settlement.
+
+About the Library
+The House of Commons Library research service provides MPs and their staff
+with the impartial briefing and evidence base they need to do their work in
+scrutinising Government, proposing legislation, and supporting constituents.
+As well as providing MPs with a confidential service we publish open briefing
+papers, which are available on the Parliament website.
+Every effort is made to ensure that the information contained in these publicly
+available research briefings is correct at the time of publication. Readers should
+be aware however that briefings are not necessarily updated or otherwise
+amended to reflect subsequent changes.
+If you have any comments on our briefings please email papers@parliament.uk.
+Authors are available to discuss the content of this briefing only with Members
+and their staff.
+If you have any general questions about the work of the House of Commons
+you can email hcenquiries@parliament.uk.
+
+Disclaimer
+This information is provided to Members of Parliament in support of their
+parliamentary duties. It is a general briefing only and should not be relied on as
+a substitute for specific advice. The House of Commons or the author(s) shall
+not be liable for any errors or omissions, or for any loss or damage of any kind
+arising from its use, and may remove, vary or amend any information at any
+time without prior notice.
+
+BRIEFING PAPER
+Number 9190
+20 May 2021
+
+The House of Commons accepts no responsibility for any references or links to,
+or the content of, information maintained by third parties. This information is
+provided subject to the conditions of the Open Parliament Licence.
+
+

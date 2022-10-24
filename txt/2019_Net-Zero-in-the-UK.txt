@@ -1,0 +1,1061 @@
+BRIEFING PAPER
+Number CBP8590, 16 December 2019
+
+Net zero in the UK
+
+By Sara Priestley
+
+Contents:
+1. Net zero recommendations
+and commitments
+2. Amending the Climate
+Change Act 2008
+3. Commentary and analysis
+4. Policy actions to meet net
+zero
+5. Further reading
+
+www.parliament.uk/commons-library | intranet.parliament.uk/commons-library | papers@parliament.uk | @commonslibrary
+
+2
+
+Net zero in the UK
+
+Contents
+Summary
+
+3
+
+1.
+1.1
+1.2
+1.3
+
+Net zero recommendations and commitments
+International context
+Committee on Climate Change recommendation
+Political support
+
+4
+4
+4
+5
+
+2.
+2.1
+2.2
+
+Amending the Climate Change Act 2008
+Climate Change Act 2008 (2050 Target Amendment) Order 2019
+Devolved Administrations
+
+7
+7
+8
+
+3.
+3.1
+3.2
+3.3
+3.4
+
+Commentary and analysis
+An earlier target?
+International credits
+International aviation and shipping
+Potential costs of net-zero
+
+10
+10
+11
+12
+13
+
+4.
+4.1
+4.2
+4.3
+4.4
+
+Policy actions to meet net zero
+Progress so far
+Commentary and debate
+Citizens’ Assembly
+Removing emissions
+Natural solutions
+Technologies
+
+16
+16
+16
+18
+18
+18
+19
+
+5.
+
+Further reading
+
+20
+
+Contributing Authors:
+
+David Hirst, Business and transport section, Box 2;
+Paul Bolton, Social and general statistics section, UK net
+emissions chart
+
+Cover page image copyright Earth (portrait) by Belltobias Apc / image cropped. Licensed
+under Pixabay License – no attribution required.
+
+3
+
+Commons Library Briefing, 16 December 2019
+
+Summary
+On 12 June 2019 the Government laid the draft Climate Change Act 2008 (2050 Target
+Amendment) Order 2019 to amend the Climate Change Act 2008 by introducing a
+target for at least a 100% reduction of greenhouse gas emissions (compared to 1990
+levels) in the UK by 2050. This is otherwise known as a net zero target because some
+emissions can remain if they are offset by removal from the atmosphere and/or by trading
+in carbon units. The Order came into force on 27 June 2019.
+This legislation broadly puts into effect a May 2019 recommendation from the Committee
+on Climate Change (the independent statutory body set up to monitor and advise on
+progress towards the UK’s emission targets). However, it diverges from the
+recommendation that the target be achieved by domestic action only by retaining the
+ability to use international carbon credits. The new target was announced by then Prime
+Minister Theresa May in a Downing Street Press release in June 2019 and was widely
+welcomed by the Committee on Climate Change and other stakeholders including
+industry and environmental groups.
+If met, this target would effectively mean that the UK will end its contribution to global
+emissions by 2050. Before this amendment, the UK had a long-term emissions reduction
+target of reducing greenhouse gas emissions by 80% by 2050, compared to 1990 levels,
+set by the Climate Change Act 2008.
+Since passing this legislation, the Government has announced a HM Treasury Net Zero
+Review. This included a priority to ensure a fair balance of contributions from all those
+who will benefit, including considering how to reduce costs for low income households.
+The Review will also consider how to avoid offshoring emissions i.e. how to reduce UK
+emissions without causing those emissions to be created by another country. A final
+report is expected in Autumn 2020.
+More information on existing decarbonisation targets and progress against them is
+available in the House of Commons Library briefing paper on UK Carbon Budgets (20
+February 2019). Background on net zero is available in the Library’s October
+2018 insight Net zero emissions: A new UK climate change target?
+
+4
+
+Net zero in the UK
+
+1. Net zero recommendations and
+commitments
+1.1 International context
+The UK is a Party to the UN Framework Convention on Climate Change
+(UNFCCC) and has signed and ratified the Paris Agreement: an
+international agreement on climate change. The key aim of the Paris
+Agreement is to hold the increase in the global average temperature to
+well below 2°C above pre-industrial levels and pursue efforts to limit the
+temperature increase to 1.5°C. The Agreement also included a widelyacknowledged net zero global greenhouse gas emissions aim for the
+second half of this century. 1
+Following the Paris Agreement, the Intergovernmental Panel on Climate
+Change (IPCC) published a Special Report in October 2018 which found
+that limiting global warming to 1.5°C is possible but would require
+unprecedented “rapid and far reaching” changes in all aspects of
+society, including a need to reach ‘net zero’ by around 2050. 2
+The UK will host the UN climate change conference (COP26) at the end
+of 2020 in Glasgow, which will focus on implementing the Paris
+Agreement’s aims. Claire Perry is the UK nominated President for
+COP26.
+Further background and information on international climate change
+action is available in the Library Briefing paper on the Climate change
+conference (COP24): Katowice, Poland.
+
+1.2 Committee on Climate Change
+recommendation
+On 15 October 2018, following the publication of the IPCC Special
+Report, the then Minister for Energy and Clean Growth (Claire
+Perry) wrote to the Committee on Climate Change (CCC) to ask for
+updated advice on a date by which the UK should achieve a net zero
+greenhouse gas emissions target (including whether now is the right
+time for the UK to set such a target). 3 The Scottish and Welsh Cabinet
+Secretaries co-signed the letter.
+Prior to this, the UK Government had requested and followed CCC
+advice on UK action following the Paris Agreement from October 2016:
+that it was then too early to set a UK net zero target but to keep it
+under review. 4 In a further commitment to keep the approach under
+1
+
+2
+
+3
+
+4
+
+Article 4 includes an aim “to achieve a balance between anthropogenic emissions by
+sources and removals by sinks of greenhouse gases in the second half of this
+century”
+IPCC, Summary for policymakers of IPCC special report on global warming of 1.5˚C
+approved by governments, 8 October 2018
+Gov.uk, UK climate targets: request for advice from the Committee on Climate
+Change, 15 October 2018
+See: PQ 34423 [on Climate Change Convention: Paris] 22 April 2016 and
+Committee on Climate Change, UK climate action following the Paris Agreement,
+October 2016
+
+5
+
+Commons Library Briefing, 16 December 2019
+
+review, Prime Minister May’s June 2019 announcement on legislating
+for net zero retained a review mechanism by including a commitment
+that the UK will conduct a further assessment within five years to
+confirm that other countries are taking similar action and to ensure that
+UK industries do not face unfair competition. 5
+On 2 May 2019, the CCC published its Report on Net Zero: the UK’s
+contribution to stopping global warming which recommended the
+Government legislate for a new emissions target for the UK of net-zero
+greenhouse gases by 2050. The executive summary included the
+following:
+The UK should set and vigorously pursue an ambitious target to
+reduce greenhouse gas emissions (GHGs) to 'net-zero' by 2050,
+ending the UK's contribution to global warming within 30 years.
+Reflecting their respective circumstances, Scotland should set a
+net-zero GHG target for 2045 and Wales should target a 95%
+reduction by 2050 relative to 1990.
+A net-zero GHG target for 2050 will deliver on the commitment
+that the UK made by signing the Paris Agreement. It is achievable
+with known technologies, alongside improvements in people's
+lives, and within the expected economic cost that Parliament
+accepted when it legislated the existing 2050 target for an 80%
+reduction from 1990.
+However, this is only possible if clear, stable and well-designed
+policies to reduce emissions further are introduced across the
+economy without delay. Current policy is insufficient for even the
+existing targets.
+A net-zero GHG target for 2050 would respond to the latest
+climate science and fully meet the UK's obligations under the Paris
+Agreement […]. 6
+
+1.3 Political support
+Prior to her announcement, more than 192 cross-party MPs and 53
+members of the House of Lords had signed a letter calling on Prime
+Minister May to back a net zero emissions target ahead of 2050. 7
+A net zero target was also backed by opposition parties in the lead up
+to the new target. An announcement at the Labour Party conference
+2018 stated a Labour government would back a net zero emissions by
+2050 target, while the Liberal Democrats would legislate for net zero by
+2050. The SNP agreed that a net zero target for 2050 or sooner is “the
+right goal” but that statutory targets must be credible and responsible.
+There have also been calls for earlier targets: the Green Party policy on
+climate change calls for net zero by 2030.
+
+5
+
+6
+
+7
+
+Gov.uk press release, PM Theresa May: we will end UK contribution to climate
+change by 2050, 12 June 2019 (updated 19 June 2019) [accessed 24 June 2019]
+Committee on Climate Change, Net Zero – The UK’s contribution to stopping global
+warming, 2 May 2019
+The Climate Coalition, cross-party MP joint letter: let’s create a future where the UK
+no longer contributes to climate change [accessed 24 June 2019]
+
+6
+
+Net zero in the UK
+
+Furthermore, each of these parties committed to achieving net zero in
+their 2019 manifestos (see Box 1), albeit that some aimed for an earlier
+date than 2050.
+Box 1: 2019 manifesto commitments to net zero
+The Conservative Party pledged to lead the global fight against climate change by delivering on its
+world-leading target of Net Zero greenhouse gas emissions by 2050, as advised by the independent
+Committee on Climate Change. Pledges included: investment in clean energy solutions and green
+infrastructure; consulting on the earliest date by which the sale of new conventional petrol and diesel
+cars can be phased out; and a £640 million Nature for Climate fund with an additional 75,000 acres of
+trees a year by the end of the next Parliament. 8
+The Labour Party pledged to put the UK on track for a net zero carbon energy system within the
+2030s; to achieve net zero carbon food production in Britain by 2040; and to phase out combustion
+engine vehicles by 2030. 9 The Labour Party also pledged to plant two billion trees by 2040 in its Plan for
+Nature.
+The Liberal Democrats pledged to deliver a ten-year emergency programme to cut emissions
+substantially straight away, and phase out emissions from the remaining hard-to-treat sectors by 2045
+at the latest. Priorities included: insulating all Britain’s homes by 2030; achieving at least 80% of UK
+electricity being generated from renewables by 2030; planting 60 million trees a year; electrifying
+Britain’s railways and ensuring all new cars are electric by 2030. 10
+The Scottish National Party pledged to demand that the UK accelerates its action to meet Scotland’s
+climate change targets of a 75% reduction in emissions by 2030, net zero carbon emissions no later
+than 2040 and net zero of all emissions by 2045. 11
+Plaid Cymru pledged to create tens of thousands of new jobs throughout Wales by kick-starting a
+multi-billion investment programme in renewable energy, transport infrastructure and digital
+technology, with the goal of making Wales a carbon free nation by 2030. 12
+The Green Party introduced a “Green new deal” with a combined investment of over £100 billion a
+year and pledged that it would get the UK on track to achieve net zero by 2030. 13
+
+8
+
+9
+10
+11
+12
+13
+
+Conservative and Unionist Party Manifesto 2019: Get Brexit Done, Unleash Britain’s
+Potential
+The Labour Party Manifesto 2019: It’s time for real change
+Liberal Democrats Manifesto 2019: Stop Brexit, Build a brighter future
+Scottish National Party manifesto 2019: Stronger for Scotland
+Plaid Cymru manifesto 2019: Wales, it’s us
+Green Party manifesto 2019: If not now, when?
+
+7
+
+Commons Library Briefing, 16 December 2019
+
+2. Amending the Climate Change
+Act 2008
+2.1 Climate Change Act 2008 (2050 Target
+Amendment) Order 2019
+The Climate Change Act 2008 (2050 Target Amendment) Order
+2019 (the 2019 amendment Order) amends Section 1 of the Climate
+Change Act 2008 to change the target for the net UK carbon account
+from at least 80% lower than the 1990 baseline to at least 100%
+lower. It came into force on 27 June 2019. It is accompanied by an
+Explanatory Memorandum. The Government did not produce an
+accompanying impact assessment for the draft Order. The then interim
+Minister for Energy and Clean Growth (Chris Skidmore) explained the
+reason for this as follows:
+The way that the legislation from the Climate Change Act 2008
+has been framed means that impact assessments are not needed
+specifically for the SI. We did not have an impact assessment
+when we moved from 60% to 80%, because the risk is
+incumbent on Government in making the legislation. The impact
+assessments that are needed under the framework of the Act
+arise through the carbon budgets themselves. 14
+
+The House of Lords Secondary Legislation Scrutiny Committee published
+a report which drew special attention of the House of Lords to the draft
+Order and stated that the economic and societal changes that will be
+required should have been acknowledged by the Government:
+Given the significant economic and wider societal changes that
+will be required to meet the zero emissions target, the Committee
+believes that the Department should have acknowledged in the
+Explanatory Memorandum this far-reaching impact and
+summarised the work that is underway to assess the significant
+costs and wider implications of the transition. 15
+
+These points were picked up in the subsequent debate on the draft
+Order in the House of Lords and are discussed further in section 4 of
+this paper.
+Section 2(1) of the Climate Change Act 2008 gives the Secretary of
+State the power to amend the target (either by amending the
+percentage or the baseline year) through secondary legislation. The
+target can only be amended if certain conditions are met. In this case
+the following are relevant:
+The power in subsection (1)(a) may only be exercised—
+(a) if it appears to the Secretary of State that there have been
+significant developments in—
+(i) scientific knowledge about climate change, or
+(ii) European or international law or policy,
+14
+15
+
+HC Deb 24 June 2019 Col 509
+House of Lords Secondary Legislation Scrutiny Committee, 53rd Report of Session
+2017-19, 20 June 2019, HL Paper 838
+
+8
+
+Net zero in the UK
+
+that make it appropriate to do so 16
+
+The 2019 amendment Order states that “there have been significant
+developments in scientific knowledge about climate change” since the
+Act was passed that make it appropriate to amend the percentage set
+out in section 1(1) of the Act.
+This power has not been used before. When the target was previously
+increased from 60% to 80% in 2008 under the then Labour
+Government, the Climate Change Bill was still progressing through
+Parliament. 17
+Section 2(6) of the Climate Change Act 2008 states that an order to
+amend the target for the net UK carbon account will be subject to the
+affirmative resolution procedure, meaning it must be approved by both
+Houses of Parliament. The draft instrument was debated and approved
+by the House of Commons on 24 June 2019; 18 and by the House of
+Lords (with a Labour amendment to the motion being agreed) on 26
+June 2019. 19 The key areas of debate in both Houses are discussed
+further in section 4 of this paper below.
+
+2.2 Devolved Administrations
+The 2019 amendment Order amends the Climate Change Act 2008
+which applies to the whole of the UK. The Explanatory Memorandum
+confirmed that the Government had taken into account representations
+from the devolved Administrations who had not raised any issues with
+the amendment proposed. 20 In its net zero report, the CCC
+recommended a UK wide target, but suggested that, in order to reflect
+their respective circumstances, Scotland should set an earlier target (net
+zero by 2045) and Wales should target 95% emissions reduction by
+2050. The CCC’s report noted that in the absence of a Minister,
+Northern Ireland officials indicated their support for the advice being
+sought. Northern Ireland does not currently have its own long-term
+target for emissions but is included within UK targets. 21
+In addition to the Climate Change Act 2008, Wales and Scotland have
+their own legislation on decarbonisation targets. Shortly after the CCC
+published its report, the Scottish Ministers proposed amendments to the
+Scottish Climate Change Bill which would set a 2045 target for net-zero
+in Scotland. 22 The resulting Climate Change (Emissions Reduction
+Targets) (Scotland) Act 2019 amends the Climate Change (Scotland) Act
+2009 and set new targets for Scotland to reduce Scotland's emissions of
+all greenhouse gases to net zero by 2045 at the latest, with interim
+
+16
+17
+
+18
+19
+20
+
+21
+
+22
+
+Section 2(2) Climate Change Act 2008
+HC Deb 16 October 2008, Col 939. The Climate Change Act 2008 received Royal
+Assent on 26 November 2008.
+HC Deb 24 June 2019
+HL Deb 26 June 2019 Col 1084
+Explanatory Memorandum to the Climate Change Act 2008 (2050 Target
+Amendment) Order 2019
+Committee on Climate Change, Net Zero – The UK’s contribution to stopping global
+warming, 2 May 2019, footnote 2
+Scottish Government, Policy: climate change [accessed 16 December 2019]
+
+9
+
+Commons Library Briefing, 16 December 2019
+
+targets for reductions of at least 56% by 2020, 75% by 2030, 90% by
+2040.
+The Environment (Wales) Act 2016 places a duty on Welsh Ministers to
+ensure that net emissions are 80% lower than the baseline by 2050.
+The Welsh Government said that it accepts the CCC’s recommendation
+but wants to go beyond it. The Welsh Minister for Environment, Energy
+and Rural Affairs announced in June that the Welsh Government will
+therefore bring regulations before the Assembly in 2020 on a net-zero
+by 2050 target for Wales. 23
+
+23
+
+Welsh Government, Wales accepts Committee on Climate Change 95% emissions
+reduction target, 11 June 2019
+
+10 Net zero in the UK
+
+3. Commentary and analysis
+In its debate on the draft amendment Order, the House of Lords
+approved a Labour amendment to the motion “That the draft Order laid
+before the House on 12 June be approved” (155 Contents; 116 Not
+Contents) as follows:
+“and that this House supports the objective of achieving net-zero
+carbon emissions by 2050, and acknowledges the substantial
+implications of this Order for the United Kingdom; but regrets
+that Her Majesty’s Government have (1) given little detail of how
+the emissions target will be met; (2) made a substantial change in
+policy without the full and proper scrutiny that such a change
+deserves; and (3) not introduced regulations under section 30 of
+the Climate Change Act 2008 to include greenhouse gases from
+(a) international aviation, or (b) international shipping, as part of
+the emissions target” 24
+
+These points, along with some others, are discussed in more detail
+below.
+
+3.1 An earlier target?
+While the net-zero target commitment has widespread support, some
+argue it should be met earlier. For example, the environmental
+charity WWF and the campaign group Extinction Rebellion have both
+suggested that the net zero target could be met by 2045 and 2025
+respectively. See Box 1 for the main political party’s views on when the
+target should be.
+These calls were examined further by the Business Energy and Industrial
+Strategy (BEIS) Committee as part of its Clean Growth Strategy inquiry.
+On 18 June 2019 the BEIS Committee examined the rationale for
+alternative targets proposed by environmental organisations in an
+evidence session with Extinction Rebellion, WWF and the Environmental
+Defense Fund. 25 The Labour Chair of the BEIS Committee summed up
+the views as follows in a subsequent House of Commons debate:
+Our Committee took evidence last week, including from the
+World Wide Fund for Nature, which said that a target of 2045
+was eminently possible. We heard other evidence that by 2050
+we should be looking not at net zero, but at taking carbon out of
+the atmosphere, as my hon. Friend the Member for Southampton,
+Test (Dr Whitehead) said earlier, with a 120% target to do exactly
+that. I hope that when we have the five-year review we can look
+at being more radical and going further, so that we achieve net
+zero before 2050 and continue to be a world leader and ensure
+that we are at the forefront of creating green jobs and taking the
+opportunities that meeting this target will offer. 26
+
+The Committee on Climate Change advised against an earlier target at
+this time and explained 2050 was an appropriate target for the
+following reasons:
+24
+25
+
+26
+
+HL Deb 26 June 2019 Col 1087
+BEIS, Oral evidence: Clean Growth Strategy and International Climate Change
+Targets, HC 871, 18 June 2019
+HC Deb 24 June 2019 Col 524
+
+11 Commons Library Briefing, 16 December 2019
+
+Based on our current understanding, it is the latest date for the
+UK credibly to maintain its status as a climate leader and the
+earliest to be credibly deliverable alongside other government
+objectives. 27
+
+The CCC’s Report goes onto to explain further:
+We have considered whether an earlier date than 2050 should be
+targeted. An earlier date has been proposed by some groups and
+might send a stronger signal internationally to those considering
+increasing their own ambition, but only if it is viewed as credible.
+While our scenarios demonstrate that some sectors (e.g. the
+power sector) could reach net-zero emissions by 2045, for most
+sectors 2050 currently appears to be the earliest credible date. An
+earlier date would also give less time to develop currently
+speculative options as alternatives to make up for any shortfall
+from other measures. That could lead to a need for punitive
+policies and early capital scrappage to stay on track to the
+target. 28
+
+3.2 International credits
+The CCC recommended that the target should be met through UK
+domestic effort only, i.e. that international carbon credits should not be
+used. International carbon credits refer to the international emissions
+trading market, which is explained further by the UNFCCC pages on
+international emissions trading. Counter to the CCC recommendation,
+the Government press release stated that it would “retain the ability to
+use” international carbon credits in meeting the target, explaining that:
+Using international credits within an appropriate monitoring,
+reporting and verification framework is the right thing to do for
+the planet, allowing the UK to maximise the value of each pound
+spent on climate change mitigation. 29
+
+The then Secretary of State for Business, Energy and Industry Strategy
+subsequently reassured the House of Commons that the Government
+did “not intend to use” international credits:
+While we retain the ability in the Act to use international carbon
+credits that contribute to actions in other countries, we want
+them to take their own actions and we do not intend to use those
+credits. 30
+
+However, some commentators, such as Green Party MP Caroline Lucas,
+have called for the use of international credits to be explicitly ruled out,
+in line with the CCC’s recommendation:
+The second door that has been left open is to the offshoring of
+our remaining emissions using international carbon credits. When
+I asked the Business Secretary to close that loophole earlier this
+month, he attempted to reassure me by saying that the
+Government would not be making use of these credits, but I am
+not reassured simply by those words. This Government might
+27
+
+28
+
+29
+
+30
+
+Committee on Climate Change, Net Zero – The UK’s contribution to stopping global
+warming, 2 May 2019, p.17
+Committee on Climate Change, Net Zero – The UK’s contribution to stopping global
+warming, 2 May 2019, p.21
+Gov.uk press release, PM Theresa May: we will end UK contribution to climate
+change by 2050, 12 June 2019 (updated 19 June 2019) [accessed 24 June 2019]
+HC Deb 12 June 2019 Col 663
+
+12 Net zero in the UK
+
+have no intention of using international carbon credits, but who
+can say whether a new Administration in five years’ time—or,
+dare I say it, five weeks’ time—will share such scruples? 31
+
+Cross-bench Peer Baroness Worthington took a different view, arguing
+that international credits could be used to go even further than the
+100% target:
+However, the Government have not fully accepted all the advice
+from the Committee on Climate Change and have said that they
+do not rule out using international offsets to get to our target. I
+do not object to this if they are well done and well regulated, and
+it will make no practical difference in law, because we do not set
+out limits and offsets until 18 months before the start of any
+budgetary period. However, having deviated from the very clear
+advice of the CCC, we can now go even further than the 100%
+reduction target because it will be far cheaper and easier should
+we allow international offsets into this system. In meeting this
+goal, if we want to stay at the costs we have accepted—1% to
+2% of GDP—we can go further. It opens up the opportunity to
+go into minus figures—minus 120% or minus 150%. This is now
+possible, and it would be the right thing to do. 32
+
+3.3 International aviation and shipping
+The CCC recommended that the target should include the UK’s share of
+emissions from international aviation and shipping. To date the UK’s
+legally binding emissions reduction targets have not formally included
+such emissions but they have been taken into account by setting aside
+“headroom” within the carbon budgets. 33
+Box 2: Action on international aviation and shipping emissions
+Together, international shipping (816MtCO2e in 2012 34) and aviation (895MtCO2e in 2018 35) are
+responsible for around 4-5% of global CO2 emissions. Without policies or new technologies to reduce
+emissions, these sectors are forecast to be responsible for an even larger share of total emissions in the
+future.
+Recognising this sizeable contribution to global emissions, the two UN agencies responsible for
+international aviation and shipping have resolved to find ways to reduce emissions in accordance with
+the Paris Agreement.
+•
+In 2016, the International Civil Aviation Organization (ICAO) reached an agreement to implement
+a global Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) system.
+CORSIA stipulates that airlines are obliged to offset their increases in emissions after 2020 by
+purchasing credits from projects that reduce emissions outside the aviation sector.
+•
+In April 2018, the International Maritime Organization adopted an “initial strategy” on the
+reduction of greenhouse gas emissions from ships. 36 This initial strategy set a target of reducing
+GHG emissions by at least 50% by 2050 with a strong emphasis by many countries on reducing
+this to 100% by 2050 wherever possible.
+
+The Government press release was silent on international aviation and
+shipping but a Carbon Brief article analysing the new target quoted the
+31
+32
+33
+34
+35
+
+36
+
+HC Deb 24 June 2019 Col 528
+HL Deb 26 June Col 1098
+See Library Briefing Paper on UK Carbon Budgets for further information.
+IMO, Third IMO Greenhouse Gas Study 2014, p1
+Jocelyn Timperley, Corsia: The UN’s plan to ‘offset’ growth in aviation emissions
+after 2020, CarbonBrief, 4 Feb 2019
+IMO, UN body adopts climate change strategy for shipping, 13 Apr 2018
+
+13 Commons Library Briefing, 16 December 2019
+
+Prime Minister’s office in response to its questions as stating: “this is a
+whole economy target…and we intend for it to apply to international
+aviation and shipping”. 37 The Explanatory Memorandum addressed
+international aviation and shipping as follows (see further Box 2):
+The Government recognises that international aviation and
+shipping have a crucial role to play in reaching net zero emissions
+globally. However, there is a need for further analysis and
+international engagement through the appropriate frameworks.
+For now, therefore, we will continue to leave headroom for
+emissions from international aviation and shipping in carbon
+budgets to ensure that emissions reduction strategies for
+international aviation and shipping can be developed within
+International Maritime Organisation and International Civil
+Aviation Organisation frameworks at the appropriate pace, and so
+that the UK can remain on the right trajectory for net zero
+greenhouse gas emissions across the whole economy. 38
+
+This approach was questioned by opposition MPs in the debate on the
+2019 amendment Order, including the Labour Chair of the BEIS
+Committee:
+Other such areas are international aviation and shipping, which I
+am disappointed are not included in the SI we are debating today.
+The chief executive of the Committee on Climate Change, Chris
+Stark, who gave evidence to our Select Committee, said that it
+was absolutely imperative to include international aviation and
+shipping in our climate change commitments, because they
+contribute 10% of our carbon emissions. I hope the Government
+will look at that evidence again and update our legislation in light
+of it. 39
+
+Labour Peer Lord Grantchester, who moved the Lords amendment to
+the motion referenced above, referred to the Explanatory Memorandum
+explanation as a “hollow commitment”:
+[…] this is a hollow commitment, as the Government are already
+failing to abide with the fourth and fifth carbon budgets, which
+were drawn up within the pathway of reaching 80% carbon
+emissions reduction at 2 degrees of global warming. Let us state it
+again: this order is to reach 100% reductions to reach net zero at
+1.5 degrees of warming. The latest, updated emissions projections
+from the department are that we are some 7% over the
+requirements for the fourth carbon budget and 13% over those
+for the fifth. What urgent steps are the Minister and the
+Government taking to get the UK back on track to meet the
+already-agreed carbon budgets? 40
+
+3.4 Potential costs of net-zero
+The CCC stressed that the overall costs of reaching net zero by 2050 are
+“manageable but must be fairly distributed”. The Committee estimated
+the cost of meeting the net-zero target as 1-2% of GDP, the same as
+the previously predicted cost of the current 80% target, due to rapid
+37
+
+38
+
+39
+40
+
+Carbon Brief, In-depth Q&A: The UK becomes the first major economy to set netzero climate goal, 12 June 2019
+Explanatory Memorandum to the Climate Change Act 2008 (2050 Target
+Amendment) Order 2019, para 10.5
+HC Deb 24 June 2019 Col 524
+HL Deb 26 June 2019 Col 1088
+
+14 Net zero in the UK
+
+cost reductions in key technologies such as offshore wind. It also
+recommended that HM Treasury should review how the transition will
+be funded:
+HM Treasury should undertake a review of how the transition will
+be funded and where the costs will fall. It should develop a
+strategy to ensure this is, and is perceived to be, fair. A broader
+strategy will also be needed to ensure a just transition across
+society, with vulnerable workers and consumers protected. 41
+
+Following the publication of the CCC’s net zero report there were press
+reports of a leaked letter from the then Chancellor of the Exchequer
+(Philip Hammond) warning the Prime Minister the new target would
+hurt public spending and could render key industries economically
+uncompetitive. The article highlighted the Chancellor’s concerns
+about the potential costs of “more than £1trn” to achieve netzero. 42 These concerns were contested as “simply incorrect” by a
+commentary piece by a visiting research fellow at the Grantham
+Research Institute on Climate Change and the Environment, which
+presents the findings of the Report to the Committee on Climate
+Change of the Advisory Group on Costs and Benefits of Net Zero as the
+evidence for this. 43 44
+The potential economic impact of the proposed changes was picked up
+by the House of Lords Secondary Legislation Scrutiny Committee and
+debated in more detail in the House of Lords debate on the amendment
+Order. Some, such as Conservative peer Viscount Ridley, argued that the
+Treasury review should have been run before the amendment Order
+was debated and agreed. 45
+On 2 November 2019, HM Treasury launched a Net Zero Review to
+“assess how the UK can maximise economic growth opportunities from
+its transformation to a green economy”. This included a priority to
+ensure a fair balance of contributions from all those who will benefit,
+including considering how to reduce costs for low income households.
+The Review will also consider how to avoid offshoring emissions i.e.
+how to reduce UK emissions without causing those emissions to be
+created by another country. A final report is expected in Autumn
+2020. 46
+On 5 June 2019, the House of Commons Treasury Committee launched
+an inquiry into the decarbonisation of the UK economy, scrutinising the
+role of HM Treasury, regulators and financial services firms in supporting
+the Government’s climate change commitments. It is also examining the
+41
+
+42
+
+43
+
+44
+
+45
+46
+
+Committee on Climate Change, Net Zero – The UK’s contribution to stopping global
+warming, 2 May 2019, p.15
+Jim Pickard, UK net zero emissions target will ‘cost more than £1trn’, Financial
+Times, 5 June 2019 [subscription only]
+Dmitri Zenghelis (Visiting Research Fellow) Grantham Research Institute on Climate
+Change and the Environment, Why the Chancellor’s statement on the cost of a netzero transition in the UK could imperil the country’s climate ambitions, 6 June 2019
+[accessed 25 June 2019]
+Committee on Climate Change, Report to the CCC of the Advisory Group on costs
+and benefits of net zero [accessed 26 June 2019]
+HL Deb 26 June 2019 Col 1100
+Gov.uk, Net Zero Review launched to support UK’s world leading climate
+commitment, 2 November 2019 [accessed 25 November 2019]
+
+15 Commons Library Briefing, 16 December 2019
+
+economic potential of decarbonisation for the UK economy in terms of
+job creation and growth. 47 Due to the general election on 12 December
+2019, the Committee closed this inquiry.
+
+47
+
+House of Commons Treasury Committee, Inquiry into the decarbonisation of the UK
+economy
+
+16 Net zero in the UK
+
+4. Policy actions to meet net zero
+4.1 Progress so far
+The Chart below shows the UK’s net emissions, performance against
+existing carbon budgets and projections of emissions. The Climate
+Change Act 2008 has been a tool for driving down emissions in the UK
+as it sets a long-term legally binding emissions reduction target, as well
+as requiring interim five-yearly carbon budgets to be set. This Chart
+shows progress and budgets that were achieved and set before the net
+zero target was legislated for. The Committee on Climate Change is
+expected to publish its advice on the sixth carbon budget in September
+2020, which will take into account the new net zero target. 48 Its call for
+evidence is open until 5 February 2020.
+
+Sources: Department for Business, Energy & Industrial Strategy, Updated energy
+and emissions projections: 2018 (16 May 2019); Final UK greenhouse gas
+emissions national statistics: 1990-2017 (28 March 2019)
+
+Further information on carbon budgets and the UK’s progression
+against them is set out in the Library Briefing paper on UK Carbon
+Budgets.
+
+4.2 Commentary and debate
+The CCC emphasised that the target is “just the first step” and needs to
+be reinforced by credible UK policies. 49 The BEIS Secretary of State
+acknowledged this in his statement to the House of Commons on 12
+
+48
+
+49
+
+Committee on Climate Change, CCC to publish Sixth Carbon Budget in September
+2020, 17 October 2019
+Committee on Climate Change, Response to Government plan to legislate for net
+Zero UK emissions target, 11 June 2019
+
+17 Commons Library Briefing, 16 December 2019
+
+June 2019, pointing to existing strategies in place (such as the Clean
+Growth Strategy) that form the foundations for the changes needed:
+In fulfilling the scale of the commitment we are making today, we
+will need technological and logistical changes in the way we use
+our land, with more emphasis, for example, on carbon
+sequestration. We will need to redouble our determination to
+seize the opportunity to support investment in a range of new
+technologies, including in areas such as carbon capture, usage
+and storage, and in hydrogen and bioenergy.
+However, as the committee also found, the foundations for these
+step changes are already in place, including in the industrial
+strategy and the clean growth strategy. Indeed, there is no reason
+whatever to fear that fulfilling this commitment will do anything
+to limit our success in the years ahead—quite the reverse. In our
+industrial strategy, we have backed technology and innovation,
+including the UK’s biggest ever increase in public investment in
+research and development. 50
+
+Calls for concrete action were echoed in the House of Commons debate
+on 24 June 2019, including by Labour MP Ed Miliband: “if you will the
+end, you have to will the means” 51; and Conservative MP Peter Aldous:
+Other pieces of the jigsaw are missing, however, such as a route
+map for decarbonising transport, a flexible policy framework for
+promoting local bespoke heating schemes and a comprehensive
+plan for meeting the domestic energy efficiency targets in the
+clean growth strategy, as put forward by my hon. Friend the
+Member for Truro and Falmouth (Sarah Newton) in her tenminute rule Bill last week. The UK has made significant strides in
+decarbonising the nation’s power supply, with offshore wind
+providing a means of regenerating coastal communities such as
+Lowestoft, but more work needs to be done, including providing
+a clear route to market for other clean energy technologies and
+getting on with delivering those big-ticket items of nuclear power
+and carbon capture, utilisation and storage, which are absolutely
+vital to delivering on the zero carbon goal. It is important for us
+not to be not a one-trick pony and concentrate only on power.
+We must immediately set about making significant strides in
+decarbonising transport and heat, as well as improving our
+performance in relation to energy efficiency. 52
+
+The then interim Minister, Chris Skidmore, committed to an energy
+White Paper and a number of other documents and consultations to
+demonstrate forthcoming actions from the Government:
+My hon. Friend is right that the legislation today is not simply
+about warm words or passing a law. We need to be able to
+demonstrate the action that lies beneath it. Action will come
+relatively quickly with the publication of an energy White Paper in
+the summer that will look at the future of our energy supply, at a
+household level and an industrial level, and the energy network
+itself. The White Paper will demonstrate the action that the
+Government are taking and it will lead to a series of future
+consultations. 53
+
+50
+51
+52
+53
+
+HC Deb 12 June 2019 Col 663
+HC Deb 24 June 2019 Col 522
+HC Deb 24 June 2019 Col 521
+HC Deb 24 June 2019 Col 510
+
+18 Net zero in the UK
+
+The energy White Paper was not published before the general election.
+
+4.3 Citizens’ Assembly
+On 20 June 2019, six Select Committees of the House of Commons 54
+announced plans to hold a Citizen’s Assembly on combatting climate
+change and achieving the pathway to net zero carbon emissions. In
+early November 2019, some 30,000 invitations were sent across the UK
+to randomly selected households inviting people to join Climate
+Assembly UK. The project is being run by the House of Commons, with
+involve, Sortition Foundation and mySociety. The Climate Assembly will
+have over 100 members representative of the UK population and will
+meet over four weekends in early 2020. More information is available
+on the Climate Assembly UK webpages.
+
+4.4 Removing emissions
+Net zero allows for emissions to be removed from the atmosphere to
+reach the 100% target. There are a number of ways that emissions can
+be removed from the atmosphere. Broadly speaking, these can be split
+into natural processes or technologies. A POST Note on Greenhous gas
+removal provides further discussion of the potential options.
+
+Natural solutions
+The best-known natural approach is planting trees. Trees absorb and
+store CO2 from the air as they grow (see Box 1 for manifesto 2019
+pledges to plant trees). Other natural solutions include restoring
+peatlands and restoring natural ecosystems (sometimes referred to as
+rewilding). Avoiding deforestation and destruction of existing
+ecosystems and peatland would also serve to ensure CO2 that is already
+stored in plants and the soil is safeguarded.
+Some natural solutions, such as rewilding and planting trees, can be
+controversial as they have been seen by some as conflicting with
+continued agricultural land use. 55 Farmers can currently voluntarily
+improve practices under an industry Greenhouse Gas Action Plan.
+Financial incentives could support farmers to act further and the
+Committee on Climate Change has called for England’s Farm Emissions
+Reduction Plan (due out in 2020) to include firm policies and an
+implementation plan to reduce greenhouse gas emissions in agriculture.
+The Conservative Government’s Agriculture Bill 2017-19 included
+measures to pay farmers for taking steps like reducing emissions or
+sequestering carbon.
+There was a House of Commons debate on an e-petition to “restore
+nature on a massive scale to help stop climate breakdown” on 28
+October 2019. 56 The Government response to the petition included the
+following:
+
+54
+
+55
+
+56
+
+BEIS; Environmental Audit; Housing, Communities and Local Government; Science
+and Technology; Transport and Treasury
+Civil Society, Rewilding Britain pulls out of £3.4m project after concerns about its
+involvement, 22 October 2019
+HC Deb 28 October 2019
+
+19 Commons Library Briefing, 16 December 2019
+
+Our woodlands and wetlands provide vital services, such as
+carbon sequestration and flood prevention that can help to
+mitigate climate change and help us adapt to its impacts. Tree
+planting is one of the main contributors to nature-based carbon
+sequestration and the Government supports this in a number of
+ways. Our manifesto committed to planting 11 million trees by
+2022, and in addition a further 1 million trees in our towns and
+cities, and we also have a long term aspiration to increase
+woodland cover from 10% to 12% by 2060. To achieve these
+goals, in the Autumn Budget the Chancellor announced £10
+million for an Urban Trees Challenge Fund and £50 million to help
+plant new woodlands through the Woodland Carbon Guarantee.
+Peatlands are our largest terrestrial carbon store. Drained
+peatlands release their carbon, adding greenhouse gases to the
+atmosphere. Organic or peat soils make up 11% of England’s
+total land area, over 70% of which are drained or in poor
+condition. We have committed to publishing an England Peatland
+Strategy. The strategy will set out our vision to reverse decline in
+peatlands and restore them, which is in line with the
+Government's commitment to be the first generation to leave the
+natural environment of England in a better state than we found it.
+Work is underway on four large-scale peatland restoration
+projects across England, to which we have allocated £10 million,
+and will restore 5,851 ha of degraded peatlands. 57
+
+Technologies
+There are a number of emerging technologies which remove emissions
+from the atmosphere which are at various stages of development. The
+most well-known is carbon capture and storage (CCS) which involves
+capturing CO2 and then transporting it to storage in deep geological
+formations. The CCC identify CCS as a “necessity not an option” to
+achieving the UK’s net zero target. 58
+More recently carbon capture and usage (CCU) has been focused on.
+This involves capturing waste CO2 from power production and industrial
+processes, and using it in a broad number of economically productive
+ways such as: the production of chemicals, minerals, synthetic fuels,
+plastics, or as a solvent. Further information is available in the POST
+Briefing on Carbon Capture and Usage (2 November 2018).
+
+57
+
+58
+
+UK Government and Parliament Petitions, Closed petition: Restore nature on a
+massive scale to help stop climate breakdown. Government response published 2
+May 2019.
+CCC, Net Zero – The UK’s contribution to stopping global warming, May 2019, p23
+
+20 Net zero in the UK
+
+5. Further reading
+•
+
+House of Commons Library collection of climate change-related
+publications, Climate change: an overview.
+
+•
+
+Office for National Statistics, Net zero and the different official
+measures of the UK’s greenhouse gas emissions, 24 July 2019
+
+•
+
+The Energy and Climate Intelligence Unit (a non-profit initiative
+aiming to support informed debate on energy and climate issues)
+has a number of briefings on net zero, including a net zero
+scorecard noting the countries, cities, companies and industries
+who have committed to net zero.
+
+•
+
+The UN Environment Programme pages on climate change.
+
+•
+
+Carbon Brief In-depth article: the UK should reach ‘net-zero’
+climate goal by 2050, says CCC, 2 May 2019
+
+About the Library
+The House of Commons Library research service provides MPs and their staff
+with the impartial briefing and evidence base they need to do their work in
+scrutinising Government, proposing legislation, and supporting constituents.
+As well as providing MPs with a confidential service we publish open briefing
+papers, which are available on the Parliament website.
+Every effort is made to ensure that the information contained in these publicly
+available research briefings is correct at the time of publication. Readers should
+be aware however that briefings are not necessarily updated or otherwise
+amended to reflect subsequent changes.
+If you have any comments on our briefings please email papers@parliament.uk.
+Authors are available to discuss the content of this briefing only with Members
+and their staff.
+If you have any general questions about the work of the House of Commons
+you can email hcenquiries@parliament.uk.
+
+Disclaimer
+This information is provided to Members of Parliament in support of their
+parliamentary duties. It is a general briefing only and should not be relied on as
+a substitute for specific advice. The House of Commons or the author(s) shall
+not be liable for any errors or omissions, or for any loss or damage of any kind
+arising from its use, and may remove, vary or amend any information at any
+time without prior notice.
+
+BRIEFING PAPER
+Number CBP8590
+16 December 2019
+
+The House of Commons accepts no responsibility for any references or links to,
+or the content of, information maintained by third parties. This information is
+provided subject to the conditions of the Open Parliament Licence.
+
+

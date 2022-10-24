@@ -1,0 +1,652 @@
+BRIEFING PAPER
+Number 9212, 4 May 2021
+
+The UK Emissions Trading
+Scheme
+
+By Elena Ares
+
+Contents
+1.
+
+The UK in the EU ETS
+
+2
+
+2.
+
+Options for carbon pricing after Brexit
+
+3
+
+3.
+3.1
+
+The UK ETS
+Decision to implement a UK ETS
+Energy White Paper
+Industrial Decarbonisation Strategy
+Commentary
+Judicial review of UK ETS cap
+
+4
+4
+5
+6
+7
+7
+
+4.
+
+UK ETS implementation
+Free allocation review
+
+8
+9
+
+5.
+
+Linking to the EU ETS
+
+9
+
+The Four administrations announced in June 2020 that they would be introducing a UK
+Emissions Trading Scheme (UK ETS) to replace the EU Emissions Trading Scheme (EU ETS)
+after the UK left the EU. This was following a consultation and recommendations from the
+Climate Change Committee.
+The UK government and the devolved administrations collectively constitute the UK ETS
+Authority to oversee the UK ETS. 1 The UK ETS, a cap and trade emissions scheme, is of
+similar design and has similar aims to the EU ETS. However, it will have a 5% reduction in
+the emissions cap that would have been set under that scheme. In addition, the aim is to
+align it with the UK 2050 net zero target by 2024 at the latest. Further details of the UK
+ETS were provided in the Industrial Decarbonisation Strategy published in March 2021.
+The Government also announced the first auction of allowances would take place in May
+2021.
+The UK and EU Trade and Cooperation Agreement committed both parties to explore
+options for linking their schemes but does not go further.
+
+1
+
+Gov.uk, Participating in the UK ETS [website visited 4 May 2021]
+
+www.parliament.uk/commons-library | intranet.parliament.uk/commons-library | papers@parliament.uk | @commonslibrary
+
+2
+
+The UK Emissions Trading Scheme
+
+1. The UK in the EU ETS
+The EU ETS is the largest multi-country, multi-sector greenhouse gas emissions trading
+system in the world covering more than 11,000 power stations and industrial plants across
+EU Member states. Around 1,000 of those were in the UK until it left the EU and the EU
+ETS on 31 December 2020, after the end of the Brexit transition period. 2
+The EU ETS is a mandatory emissions cap-and-trade scheme. It sets an EU-wide cap on the
+total amount of greenhouse gas emissions from energy intensive sectors including power
+stations and industrial plants. The cap decreases over time to reduce overall emissions. 3
+The EU ETS now also includes airlines operating between countries covered byt the EU
+ETS, via a separate cap. Approximately 140 UK-administered aircraft operators take part in
+the EU ETS. 4
+The EU ETS was launched in 2005 and has since undergone a number of reforms. Under
+the scheme, companies either receive EU allowances (EUAs) free or purchase them during
+auctions of allowances issued by Governments. 5 Surplus allowances can also be traded on
+the open carbon market. The number of allowances held by any company that falls under
+the scheme at the end of an EU ETS year must be equal to, or more than, the total volume
+of its emissions, or they are fined. 6
+As a result of the low allowance prices the EU introduced several measures over time to
+reduce allowances, including removing surplus allowances from the market. The UK also
+responded to the issue of the low cost of EUAs by introducing the Carbon Price Floor (or
+CPF) in 2013. This was a UK-only carbon tax which supplemented the price of EUAs. The
+CPF increased the price of carbon for UK participants, by setting a minimum price, and
+helped to drive coal almost completely out of the UK energy mix. 7 Revenue from both the
+EU ETS auctions and the CPF were retained by HM Treasury. There is no equivalent EUwide floor price for EUA auctions.
+In Phase III (2013-2020), power stations purchased all their allowances whereas other
+industries still received some of their EUAs via free allocation. Both sectors were also able
+to buy international credits from emission-saving projects around the world. 8
+The UK participated until the end of Phase III, which aimed for an overall emissions
+reduction of 21% compared to 2005 emissions for power stations and industrial plants.
+Phase IV of the EU ETS runs from 2021-2030, without UK participation. Under this,
+sectors covered by the EU ETS are required to reduce their emissions by 43% compared to
+2005 levels. To increase emissions cuts, the overall number of emission allowances will be
+reduced by 2.2% a year from 2021 onwards, compared to the previous 1.74% annual
+reduction. The amount of surplus allowances that will be held in reserve will also be
+significantly reduced after 2023.
+
+2
+
+3
+4
+5
+
+6
+7
+
+8
+
+The greenhouse gases covered by EU ETS are carbon dioxide (CO2), nitrous oxide (N2O) and
+perfluorocarbons (PFCs).
+European Commission, Climate Action, ‘Emissions cap and allowances’, [accessed: 4 May 2021]
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, 12 October 2018
+Each allowance gives the holder the right to emit one tonne of carbon dioxide or the equivalent of nitrous
+oxide and perfluorocarbons.
+European Commission, Climate Action, ‘The EU Trading System (EU ETS)’, [accessed: 4 May 2021]
+BEIS, Coal Generation In Great Britain The pathway to a low-carbon future: consultation document,
+November 2016
+European Commission, Climate Action, ‘Free allocation’, [accessed: 4 May 2021]
+
+3
+
+Commons Library Briefing, 4 May 2021
+
+Further details of how the EU ETS works can be found on the EU Commission page and
+BEIS page on the EU ETS. Carbon Brief has also published a detailed Q&A on the EU ETS.
+
+2. Options for carbon pricing after Brexit
+The Climate Change Committee (CCC) published a letter to Government in August 2019
+following a request from the Government on its recommendations for the approach to
+carbon pricing after Brexit. It made three key recommendations:
+1.
+
+The Government should not rely on carbon pricing alone. Whilst carbon pricing
+is essential it needs to be used as part of a suite of policy instruments, as
+confirmed by real-world experience internationally.
+
+2.
+
+We agree with the Government’s preference for a linked UK-EU ETS in the case
+of EU exit. Should a linked scheme prove not to be possible, we will offer
+further recommendations.
+
+3.
+
+We recommend that the cap of the linked UK ETS be set based on the costeffective path to the UK’s new net-zero target. We will provide that trajectory
+in our advice on the sixth carbon budget (covering 2033-2037), which is due in
+2020. 9
+
+The CCC examined three options: a linked scheme, a standalone scheme and a carbon
+tax. The Annex to the letter set out its views on all of these and of continuing in the EU
+ETS:
+•
+
+Linking a UK ETS to the EU ETS is the Government’s current preference for a
+scheme:
+
+This would offer access to a liquid market in emissions allowances, incentivising
+decarbonisation at lowest cost across Europe. The EU’s Market Stability Reserve is
+likely to enable price visibility. Additionally, if there were common emissions trading
+arrangements with a large (and geographically close) trading partner this would
+reduce the risk of carbon leakage.
+However, unless and until the EU adopts a net-zero target and amends the EU ETS,
+the scheme is less aligned to the UK’s net-zero target, implying a greater role for
+supplementary policies in the UK. Additionally, under this scheme it is likely that the
+UK will need to mirror the EU ETS scheme as closely as possible. Therefore there may
+be limited room for expanding the sectoral coverage of any scheme in the near term,
+and the UK may have limited input on governance arrangements.
+•
+
+In case a linking agreement with the EU cannot be reached, a standalone UK
+ETS could be an option:
+
+A standalone UK ETS may offer more policy autonomy than a linked ETS, and the
+opportunity to align the scheme more directly to the UK’s current emissions, net-zero
+ambition and directly to carbon budgets.
+However, the scheme risks low liquidity in the long-term unless sectoral coverage is
+expanded. The system would require robust rules and governance around price or
+quantity of permits to ensure that a sensible price prevails, particularly given likely
+volatility in the early years of a new scheme. Furthermore, expansion of a UK scheme
+could impact the possibility of securing linking agreements to other schemes, as
+experience suggests linking of differentiated schemes can be a complex and lengthy
+process.
+•Implementation of a UK carbon tax is the Government’s fall back position in the
+case of leaving the EU without a deal:
+‒ A carbon tax offers less complexity than trading schemes, and lower administrative
+costs potentially expanding the range of actors and sectors to which it can be applied
+9
+
+CCC, Annex to the Letter to the Government on the Future of Carbon Pricing, 7 August 2019
+
+4
+
+The UK Emissions Trading Scheme
+
+in the near-term. A strong and rising tax that offers stability and visibility will give
+greater price certainty than an emissions trading scheme, though less certainty over
+the quantity of emissions.
+‒ However, experience with the Carbon Price Support and Fuel Duty Escalator
+suggests that effective governance arrangements around a carbon tax would be
+required in order to ensure price visibility. Additionally, as taxes do not set a limit on
+quantity, a greater role may be required of other policy instruments if a tax under
+delivers.
+•Remaining a member of the EU ETS would maintain current arrangements.
+We agree with the Government’s preference for a linked UK-EU ETS in the case of UK
+exit. This maintains key benefits of membership of the EU scheme, most notably
+access to a wider market and addressing competitiveness issues by maintaining a level
+playing field across the EU. 10
+
+In addition to its recommendation to Government, the CCC also published a report by
+VIVID economics on the Future of Carbon Pricing in the UK which provides more detailed
+analysis of each option.
+
+3. The UK ETS
+Throughout the Brexit negotiations both the UK and EU had expressed a preference for a
+linked ETS (for further details of the negotiations and how they addressed climate change
+more broadly see the Commons Briefing Paper Brexit: Energy and Climate Change) .
+The Government considered the options of a carbon tax or a UK ETS scheme after the
+transition ends. As part of this, in May 2019, the UK Government and the devolved
+Administrations launched a consultation on The future of UK carbon pricing. 11 The
+consultation set out a number of options. It also identified the establishment of a UK
+national emissions trading system (UK ETS) linked to the EU ETS following the end of
+Phase III as the preferred option of the UK Government and the devolved Administrations.
+This was also the CCC’s preferred option, as set out above.
+
+3.1 Decision to implement a UK ETS
+The consultation was followed by an announcement by the four Administrations on 1
+June 2020, in the consultation response, that Administrations would establish a UK ETS
+and be open to a link with the EU ETS:
+We intend to establish a UK Emissions Trading System with Phase I running from
+2021- 2030, which could operate as either a linked or standalone system. As stated in
+‘The UK’s Approach to Negotiations’ the UK would be open to considering a link
+between any future UK Emissions Trading System (ETS) and the EU ETS (as Switzerland
+has done with its ETS), if it suited both sides’ interests. As announced at Budget 2020,
+the UK Government will publish a consultation later this year on the design of a
+Carbon Emission Tax as an alternative to a UK ETS, to ensure a carbon price remains
+in place in all scenarios. 12
+
+The consultation response also set out the Government’s intention to set a 5% tighter cap
+for UK emissions than was set out in Phase IV of the EU ETS:
+
+10
+11
+12
+
+CCC, Annex to the Letter to the Government on the Future of Carbon Pricing, 7 August 2019,
+Gov.uk consultation, The future of UK carbon pricing, 21 May 2019
+The future of UK carbon pricing UK: Government and Devolved Administrations’ response, June 2020
+
+5
+
+Commons Library Briefing, 4 May 2021
+
+In light of the UK’s commitment to reaching net-zero emissions by 2050, the UK ETS
+will show greater climate ambition from the start. As such, the cap will initially be set
+5% below the UK’s notional share of the EU ETS cap for Phase IV of the EU ETS. 13
+
+Unlike the EU ETS, the Government proposed setting an auction reserve price for the UK
+ETS. This would be £15 “to ensure a minimum level of ambition and price continuity”.
+This was increased to £22 when the scheme was launched (see section 4 below). 14 In
+addition, international credits would “not be permitted at this time”. 15
+An Impact Assessment covering the UK ETS operation from 2021-2024 was published by
+BEIS, alongside the consultation response in June 2020. 16
+The main conclusions of the assessment for introducing a UK ETS, as opposed to
+remaining in the EU ETS, were of an overall benefit to society, higher revenue to
+Government, and potentially higher costs to business (although with a wide range of
+variables that could affect this):
+122. Overall, the analysis in this IA suggests that a standalone UK ETS design, as set
+out in the government response, could deliver a net benefit to society in its initial
+years, compared with the counterfactual of staying in the EU ETS. The analysis
+suggests a positive net present value (NPV) to society.
+123. The main benefits of the UK ETS scenario, compared with the counterfactual, are
+the higher carbon benefit of additional abatement and the higher revenue that the
+government will receive due to higher expected carbon values (partly offset by lower
+estimated number of allowances purchased). There are also non-monetised benefits,
+such as an improvement in air quality and switching to a less carbon-intensive energy
+supply.
+124. The main costs of the UK ETS scenario, compared with the counterfactual, are
+the additional admin costs for the government in setting up the UK ETS and one-off
+cost to businesses of complying with the new scheme, and additional costs to system
+participants due to them facing higher expected carbon values under the UK ETS
+scenario.
+125. Our analysis shows that, despite an overall benefit to society of reduced
+emissions, the costs to businesses of delivering these emissions reductions are higher
+in the UK ETS scenario than the counterfactual. 17
+
+However, these conclusions were caveated with the warning that “the analysis are largely
+driven by our assumptions for how UK participants will behave in the early years, over
+which there is significant uncertainty”. 18 The net cost to business was estimated to be
+between £5m to £11m a year, in 2019 prices.
+The Government implemented the necessary legislation for the creation of a UK ETS
+through regulation in the Finance Act 2020 . The Greenhouse Gas Emissions Trading
+Scheme Order 2020 was made on 11 November 2020.
+
+Energy White Paper
+The Government published the Energy White Paper: Powering our Net Zero future on 14
+December 2020, confirming the decision to go forward with a UK ETS scheme. The paper
+set out proposals that go further than EU ETS scheme, with the UK ETS scheme expanding
+13
+14
+15
+16
+
+17
+18
+
+The future of UK carbon pricing UK: Government and Devolved Administrations’ response, June 2020
+The existing carbon floor price within the EU ETS was set as £18.08 until 2021
+The future of UK carbon pricing UK: Government and Devolved Administrations’ response, June 2020
+The assessment considers the initial years of the UK ETS, based on the design set out in the government
+response: a cap on emissions set based on a 5% reduction on our notional share of the EU ETS, free
+allocation based on our notional share of the EU ETS, and a transitional auction reserve price starting at
+£15 per allowance.
+BEIS, The Future of UK Carbon Pricing Impact Assessment, 1 June 2020
+BEIS, The Future of UK Carbon Pricing Impact Assessment, 1 June 2020
+
+6
+
+The UK Emissions Trading Scheme
+
+to cover wider parts of the economy and aiming for net-zero emissions, as part of
+reaching the UK’s net zero target for 2050. The accompanying Written Statement
+summarised the Government’s approach as follows:
+To support businesses to decarbonise the Government is today confirming a new and
+ambitious UK Emissions Trading Scheme (UK ETS), will be in place from 1 January
+2021. This new UK carbon market will be the foundation on which the UK achieves
+net zero emissions cost effectively.
+The scheme has been designed by the UK Government jointly with the Scottish
+Government, Welsh Government and Northern Ireland Executive and is a crucial step
+towards net zero, and will bring benefits for business, trade, and innovation.
+The UK ETS will replace the UK’s participation in the EU Emissions Trading System (EU
+ETS) and will be a market-based measure which will provide continuity for
+participants. The UK ETS will initially apply to power stations, energy-intensive
+industries, and aviation.
+Our UK ETS is more ambitious than the EU system it replaces - from day one the cap
+on emissions allowed within the scheme will be reduced by 5 per cent, and we will
+consult in due course on aligning it with net zero.
+The UK ETS will also allow us to expand carbon pricing across the economy and
+encourage innovation in emerging decarbonisation technologies. We have committed
+to exploring expanding the UK ETS to the two thirds of uncovered emissions, and will
+set out our aspirations to continue to lead the world on carbon pricing in the run up
+to COP26. This will also include how the UK ETS could incentivise the deployment of
+greenhouse gas removal technologies. In addition to this, the UK is open to linking
+the UK ETS internationally in principle and we are considering a range of options, but
+no decision on our preferred linking partners has yet been made. 19
+
+Industrial Decarbonisation Strategy
+The Government published its Industrial Decarbonisation Strategy on 17 March 2021. The
+summary set out the role the UK ETS would play in the UK achieving its 2050 Net Zero
+target:
+An ambitious UK Emissions Trading Scheme (UK ETS) cap will send a clear signal to
+the market that this government is committed to reaching net zero. While risks
+associated with low carbon investments remain high, or if the carbon price is low,
+targeted government funding mechanisms will pull through investment from the
+private sector for the deployment of technologies. A reformed approach to mitigating
+carbon leakage, adapting over time to reflect a tighter ETS cap alongside increased
+deployment of low carbon technologies, will ensure our global and domestic climate
+goals are met, while supporting the growth of low carbon manufacturing in the UK 20
+
+The Strategy also set out further details on the intention to align the EU ETS with the Net
+Zero target by 2024, and how the scheme will fit in with other UK carbon pricing
+mechanisms; together with plans to examine options on expanding it to cover further
+sectors:
+Action 2.1: Use carbon pricing as a tool to send a clear market signal,
+providing certainty over our net zero ambition for industrial sectors
+Carbon pricing is a cost-effective and technology-neutral tool for getting industry to
+take account of its emissions in business decisions. Pricing policies like the Carbon
+Price Support and EU Emissions Trading System (EU ETS) have helped drive a switch
+from coal to gas generation in the power sector, and the UK ETS will be a key part of
+the framework to reduce emissions from industry.
+In January 2021, we established a UK ETS to replace the UK’s participation in the EU
+ETS. To reflect our ambition on carbon pricing, the cap on allowances – which
+19
+20
+
+BEIS, Energy white paper: Powering our net zero future, 14 December 2020
+BEIS, Industrial Decarbonisation Strategy, 17 March 2021 p28
+
+7
+
+Commons Library Briefing, 4 May 2021
+
+represents the overall limit of emissions allowed in the system – will be aligned with
+the UK’s net zero ambition by January 2024. In 2021, we will carry out a review of the
+UK ETS. This will include consulting on a net zero consistent emissions cap; reviewing
+the long-term role of free allowances; exploring expanding the scope of the scheme
+to cover more sectors of the economy and linking with other schemes internationally;
+and considering the case for a supply adjustment mechanism.
+Some industrial businesses, or facilities within an installation, will remain out of scope
+of the UK ETS at this time. For those businesses, we expect the Climate Change Levy
+(CCL) and action agreed through the Climate Change Agreements (CCA) scheme to
+act as a driver for energy efficiency improvements and decarbonisation. The CCA
+scheme has recently been extended by two years, providing significantly reduced CCL
+rates until March 2025 for participants who meet their targets. We intend to
+undertake further assessment of the purpose and targeting of a long-term scheme
+following the extension, informed by the responses to last year’s consultation. 21
+
+In addition, the Government set out its intention to examine options on how the UK ETS
+could “be developed to incentivise deployment of negative emissions through greenhouse
+gas removal (GGR). 22
+The Strategy also provided estimates of industry spending on the UK ETS of £390m per
+year (based on previous EU ETS costs for 2019) and a cost to Government of £1.05 billion
+per year (based on 2019) of free allowances for energy-intensive industries. Free
+allowances are the “main policy instrument through which carbon leakage risk and
+competitiveness impacts are addressed under the UK ETS”. 23
+
+Commentary
+The BEIS Select Committee held two evidence sessions on the UK ETS framework in
+October and November 2020, before the final announcement to go ahead with the
+scheme.
+Ember, a climate change and energy think tank, published an article in December 2020
+calling for the minimum allowance price to be set at £22 at least, as this was the average
+EU ETS allowance price in the last two years.
+The Energy and Climate Information Unit, a climate think tank, published detailed analysis
+Brexit: moving from the EU Emissions Trading Scheme (ETS) to the UK-only ETS, following
+the announcement of a UK ETS being introduced.
+
+Judicial review of UK ETS cap
+Judicial review proceedings where initiated in 2020 following the publication of the
+consultation response and impact assessment, with the case to be heard on 14 April
+2021. The argument, as set out by Leigh Day solicitors, is that the emissions cap for 2021
+does not comply with existing legislation or targets:
+Represented by Leigh Day solicitors, as well as David Wolfe QC at Matrix chambers
+and Ben Mitchell at 11KBW chambers, Georgia argues that in setting up the UK
+Emissions Trading Scheme (UK ETS), the governments did not consider the short and
+medium-term aspects of the UK’s obligations under the Paris Agreement which
+requires substantial and immediate emission reductions, not just net zero by 2050.
+Georgia’s case is that the Climate Change Act 2008 grants the power to set up the
+UK ETS to limit greenhouse gas emissions, not to set an emissions cap to facilitate a
+smoother withdrawal from the EU.
+
+21
+22
+23
+
+BEIS, Industrial Decarbonisation Strategy, 17 March 2021 p29
+BEIS, Industrial Decarbonisation Strategy, 17 March 2021 p33
+BEIS, Industrial Decarbonisation Strategy, 17 March 2021 p108
+
+8
+
+The UK Emissions Trading Scheme
+
+The cap on the UK ETS in its first year will be 156 mtCO2e, substantially higher than
+the projected ‘business-as-usual’ emissions of 126-131 mtCO2e for 2021. 24
+
+The BEIS Impact Assessment states the following on the cap:
+In 2021 this notional minus 5% cap level equates to around 156 MtCO2e (based on
+the assumed scope of the policy set out earlier). This is higher than our BAU emissions
+projections in that year (ranging from around 126 to 131 MtCO2e). However, there is
+significant uncertainty over these projections and market participant behaviour in this
+initial period could lead to significant demand for allowances above BAU emissions.
+This in turn means there is uncertainty over the level of demand for allowances in
+these years relative to supply, and therefore risk of extreme high or low prices.
+Given these uncertainties we therefore believe it is appropriate to maintain sufficient
+headroom of allowances for a time-limited period at the start of the new system.
+However we believe that initially tightening the cap by 5% provides an appropriate
+balance between climate ambition in the context of the UK’s net zero commitment
+and businesses competitiveness, which may be at risk due to early years’ market
+behaviour.
+
+It Impact Assessment also refers to the policy objective of establishing links with the EU
+ETS scheme:
+We assess the design of the UK ETS set out in the accompanying government
+response document, in its initial years of operation (from 2021 to 2024). This system is
+intended to fulfil the policy objectives outlined above as a standalone system, while
+also providing a platform to negotiate a linked system with the EU ETS, if it is in the
+best interests of both parties.
+
+The case also challenges the decision to exclude energy from waste from the UK ETS,
+arguing that their emissions are “equivalent to approximately 5.4 per cent of the entire
+volume of greenhouse gas emissions covered by the UK Emissions Trading Scheme (UK
+ETS).”
+
+4. UK ETS implementation
+The Government published detailed guidance on participation in the UK ETS on 10 March
+2021. This includes an implementation timetable, details of free allocations and, as for the
+EU ETS, exemptions for hospitals and small emitters. It also sets out that participants in the
+EU Emissions Trading System (EU ETS) must still comply with their obligations under that
+system for the 2020 compliance year which ended April 2021, provides further specific
+guidance on this. The guidance sets the UK ETS Auction Reserve Price (ARP) at £22, which
+is the minimum to be paid at auction, rather than the £15 announced in the consultation
+response.
+As a comparison, EUA prices have risen sharply since the end of 2020 and were over €40
+in April 2010 (around £35). 25 This is a historic high; EUAs cost less than €10 per tonne in
+2011 although by 2018 the price started to rise and reached €28 in 2019. 26
+The Government announced on 17 December 2020 that it had appointed International
+Exchange Inc (ICE) to host UK emissions auctions for the UK Emissions Trading Scheme. It
+is also the host for the EU ETS. This was followed on 26 February 2021 by an
+announcement that the first auction for UK ETS allowances would be on 19 May 2021:
+
+24
+
+25
+26
+
+Leigh Day, Judicial review hearing over carbon emissions levels permitted under UK’s new emissions
+trading scheme, 12 April 2021
+ICE, ICE EUA futures [website visited 13 April 2021]
+CarbonBrief, Q&A will the reformed EU ETS raise carbon prices? 6 December 2017 [accessed 3 September
+2018]
+
+9
+
+Commons Library Briefing, 4 May 2021
+
+“The publication of our ambitious UK Emissions Trading Scheme’s auction calendar is
+another crucial step towards our target of eliminating our contribution to climate
+change by 2050,” said UK Energy Minister Anne-Marie Trevelyan. “Our scheme is
+even more ambitious than the EU system it replaces and today’s publication will give
+businesses and operators clarity over this year’s supply of emissions allowances,
+enabling them to plan ahead, build back greener and better prepare for the transition
+to a low-carbon economy”.
+“We are excited about the addition of a new carbon market and believe the UK ETS
+will be pivotal in supporting the climate ambitions of the four governments of the
+UK”, said Gordon Bennett, Managing Director of Utility Markets at ICE. “UK
+emissions have fallen 41% since 1990, more than any other major developed country
+and this has been driven by the UK’s leadership in promoting market-based
+mechanisms to support climate goals. There is an enormous opportunity for cap and
+trade programs to take an even greater role in supporting the goals of the Paris
+Agreement, whether it is increasing their sector coverage or encouraging international
+linking. 27
+
+Free allocation review
+On 17 March 2021, BEIS launched a call for evidence as part of its UK ETS free allocation
+review, including input on:
+•
+
+key questions the review should consider, and the problems we should be
+looking at
+
+•
+
+how we can make free allocations fairer and more targeted when reducing in
+line with the reduction in the overall cap
+
+•
+
+examples and evidence of carbon leakage to help inform future free allocation
+policy. 28
+
+5. Linking to the EU ETS
+The UK -EU Trade and Cooperation Agreement (TCA) refers to carbon pricing in the
+section dealing with the level playing field, under Part 7.3: Carbon pricing. This requires
+both the UK and EU to have an effective system of carbon pricing in place as of 1 January
+2021 covering emissions from electricity generation, heat generation, industry and
+aviation. The TCA also commits to exploring options to link both schemes:
+The Parties shall cooperate on carbon pricing. They shall give serious consideration to
+linking their respective carbon pricing systems in a way that preserves the integrity of
+these systems and provides for the possibility to increase their effectiveness. 29
+
+The Industrial Decarbonisation Strategy does mention linking emissions trading systems
+under a heading on supporting industrial decarbonisation through trade policy, but does
+not mention the EU ETS specifically:
+Supporting greater collaboration on decarbonisation, such as exploring opportunities
+for practical cooperation on carbon pricing, including through possible linking of
+emissions trading systems, and committing to increased joint information exchanges
+and cooperative working in international forums. 30
+
+In June 2020 the industry trade body, Energy UK, welcomed the Government’s aim of a
+linked UK ETS and the introduction of an auction reserve price:
+
+27
+28
+
+29
+30
+
+ICE, ICE publishes auction calendar for UK’s new Emissions Trading Scheme, 26 February 2021
+EUAs were at EUR 21.06 on 31 August 2018 and EUR 28.99 on 26 July 2019 according to ICE EUA futures
+via Sandbag and Quandl.
+UK/EU Trade and Cooperation Agreement, 24 December 2020
+BEIS, Industrial Decarbonisation Strategy, 17 March 2021
+
+10 The UK Emissions Trading Scheme
+
+We strongly support Government establishing a UK ETS linked to the EU ETS and back
+its efforts to agree this approach with the EU. This is the best long-term carbon
+pricing mechanism to continue driving decarbonisation at the lowest cost to
+consumers, which will allow us to benefit from the liquidity of the world’s largest
+carbon market and help us meet our net zero target by 2050.
+In the event that a linking agreement cannot be secured in time for 1 January 2021,
+we welcome Government’s decision to introduce stability measures such as an
+Auction Reserve Price (ARP) to protect a newly-established stand-alone UK ETS from
+market shocks and volatility due to its smaller size 31
+
+There is a precedent for a linked ETSs. Switzerland is not a participant in the EU ETS but in
+November 2017 it signed an agreement to link its emissions trading system with the EU
+ETS. 32 The agreement entered into force on 1 January 2020. Linking a UK ETS with the EU
+ETS would require agreement between both parties and be subject to negotiation.
+The E3G report on Climate change in the Brexit negotiations , published May 2020, noted
+that although both the UK and EU seem to have significant alignment in their approach,
+linking trading systems can take years of negotiation:
+However, although many of the high-level objectives have significant alignment the
+pathway to achieving this is far from automatic. The experience of linking the Swiss
+emissions trading system to the EU-ETS required years of negotiation to work through
+all the detail. It is therefore vital that substantive negotiations on these issues begin as
+soon as possible. 33
+
+Overall, the process to link the Swiss ETS to the EU ETS took 10 years, partly because it
+was part of wider negotiations on trade. 34
+
+31
+32
+33
+
+34
+
+Energy UK, Energy UK responds to UK Government's ETS proposal, 2 June 2020
+EU, EU and Switzerland sign agreement to link emissions trading systems, 23 November 2017
+E3G Briefing Paper, Climate change in the Brexit negotiations, Shane Tomlinson, May 2020 [accessed 16
+June 2020]
+Council of the EU press release, Linking of Switzerland to the EU emissions trading system - entry into
+force on 1 January 2020, 9 December 2019
+
+About the Library
+The House of Commons Library research service provides MPs and their staff with the impartial briefing and
+evidence base they need to do their work in scrutinising Government, proposing legislation, and supporting
+constituents.
+As well as providing MPs with a confidential service we publish open briefing papers, which are available on the
+Parliament website.
+Every effort is made to ensure that the information contained in these publicly available research briefings is correct
+at the time of publication. Readers should be aware however that briefings are not necessarily updated or
+otherwise amended to reflect subsequent changes.
+If you have any comments on our briefings please email papers@parliament.uk. Authors are available to discuss the
+content of this briefing only with Members and their staff.
+If you have any general questions about the work of the House of Commons you can email hcinfo@parliament.uk.
+
+Disclaimer
+This information is provided to Members of Parliament in support of their parliamentary duties. It is a general
+briefing only and should not be relied on as a substitute for specific advice. The House of Commons or the
+author(s) shall not be liable for any errors or omissions, or for any loss or damage of any kind arising from its use,
+and may remove, vary or amend any information at any time without prior notice.
+The House of Commons accepts no responsibility for any references or links to, or the content of, information
+maintained by third parties. This information is provided subject to the conditions of the Open Parliament Licence.
+
+

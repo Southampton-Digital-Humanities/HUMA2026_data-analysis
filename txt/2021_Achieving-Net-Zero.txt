@@ -1,0 +1,1233 @@
+House of Commons
+Public Accounts Committee
+
+Achieving Net Zero
+Forty-Sixth Report of Session 2019–21
+Report, together with formal minutes relating
+to the report
+Ordered by the House of Commons
+to be printed 1 March 2021
+
+HC 935
+
+Published on 5 March 2021
+by authority of the House of Commons
+
+The Committee of Public Accounts
+The Committee of Public Accounts is appointed by the House of Commons
+to examine “the accounts showing the appropriation of the sums granted by
+Parliament to meet the public expenditure, and of such other accounts laid before
+Parliament as the committee may think fit” (Standing Order No. 148).
+Current membership
+
+Meg Hillier MP (Labour (Co-op), Hackney South and Shoreditch) (Chair)
+Mr Gareth Bacon MP (Conservative, Orpington)
+Kemi Badenoch MP (Conservative, Saffron Walden)
+Shaun Bailey MP (Conservative, West Bromwich West)
+Olivia Blake MP (Labour, Sheffield, Hallam)
+Sir Geoffrey Clifton-Brown MP (Conservative, The Cotswolds)
+Barry Gardiner MP (Labour, Brent North)
+Dame Cheryl Gillan MP (Conservative, Chesham and Amersham)
+Peter Grant MP (Scottish National Party, Glenrothes)
+Mr Richard Holden MP (Conservative, North West Durham)
+Sir Bernard Jenkin MP (Conservative, Harwich and North Essex)
+Craig Mackinlay MP (Conservative, Thanet)
+Shabana Mahmood MP (Labour, Birmingham, Ladywood)
+Sarah Olney MP (Liberal Democrat, Richmond Park)
+Nick Smith MP (Labour, Blaenau Gwent)
+James Wild MP (Conservative, North West Norfolk)
+Powers
+
+Powers of the Committee of Public Accounts are set out in House of Commons
+Standing Orders, principally in SO No. 148. These are available on the Internet via
+www.parliament.uk.
+Publication
+
+© Parliamentary Copyright House of Commons 2021. This publication may be
+reproduced under the terms of the Open Parliament Licence, which is published at
+https://www.parliament.uk/site-information/copyright-parliament/.
+Committee reports are published on the Committee’s website and in print by
+Order of the House.
+Committee staff
+
+The current staff of the Committee are Jessica Bridges-Palmer (Media Officer),
+Ameet Chudasama (Committee Operations Manager), Richard Cooke (Clerk),
+Ben Shave (Chair Liaison), Rose Leach (Committee Operations Officer), Damith
+Rajakaruna (Committee Operations Manager) and Wafia Zia (Second Clerk).
+Contacts
+
+All correspondence should be addressed to the Clerk of the Committee of
+Public Accounts, House of Commons, London SW1A 0AA. The telephone
+number for general enquiries is 020 7219 5776; the Committee’s email address is
+pubaccom@parliament.uk.
+You can follow the Committee on Twitter using @CommonsPAC.
+
+Achieving Net Zero
+
+1
+
+Contents
+Summary3
+Introduction4
+Conclusions and recommendations
+
+5
+
+1
+
+Net zero plans and progress
+
+8
+
+Plans for achieving net zero
+
+8
+
+Progress monitoring
+
+10
+
+Appraising policies and projects
+
+11
+
+Impact on global emissions
+
+12
+
+Wider engagement
+
+14
+
+Engaging with the general public
+
+14
+
+Engaging with local authorities
+
+15
+
+2
+
+Formal minutes
+
+17
+
+Witnesses18
+Published written evidence
+
+19
+
+List of Reports from the Committee during the current Parliament
+
+20
+
+Achieving Net Zero
+
+Summary
+Government lacks a plan for how it will achieve net zero greenhouse gas emissions by
+2050 despite setting the target almost two years ago. At present, there is no coordinated
+plan with clear milestones towards achieving the target, making it difficult for
+Parliament and the general public to understand or scrutinise how the country is doing
+in its efforts to achieve net zero emissions. Government intends to publish a plethora of
+strategies this year setting out how it will reduce emissions in different sectors ranging
+from transport to the heating of buildings culminating in an overall net zero strategy.
+Departments are not yet sufficiently considering the impact on net zero when taking
+forward projects and programmes. The Treasury has changed its guidance for policy
+appraisal to ensure departments place greater emphasis on the environmental impacts
+but has not set out how this will work in practice. Government is not yet ensuring its
+activities to reduce UK emissions are not simply transferring emissions overseas, which
+would undermine global efforts to tackle climate change.
+As much as 62% of the future reduction in emissions will rely on individual choices
+and behaviours, from day to day lifestyle choices to one off purchases such as replacing
+boilers that use fossil fuels or buying an electric vehicle. Government has not yet
+properly engaged with the public on the substantial behaviour changes that achieving
+net zero will require. Local authorities will also play a major role in the move to net
+zero, and Government will need to engage more with local authorities about how they
+can contribute, including ensuring they will have the necessary resources.
+
+3
+
+4
+
+Achieving Net Zero
+
+Introduction
+In June 2019, government committed in law to achieving ‘net zero’ greenhouse gas
+emissions by 2050, requiring the UK’s emissions in 2050 to be equal to or less than what
+is removed from the atmosphere by either the natural environment or carbon capture
+technologies. This target aims to deliver on the commitments it had made by signing
+the Paris Agreement in 2016. Net zero is an increase in ambition from the government’s
+previous target, set in 2008, to reduce net emissions by 80% by 2050 compared with 1990
+levels. Reducing emissions further to achieve net zero is a colossal challenge, requiring
+wide-ranging changes to the UK economy and to the way we all live our lives. This
+includes further investment in renewable electricity generation, as well as changing the
+way people travel, how land is used and how buildings are heated. The all-encompassing
+nature of achieving net zero means that organisations across central and local government,
+as well as the public, all have a role to play. The Department for Business, Energy and
+Industrial Strategy (the Department) has overall responsibility for achieving net zero. It
+also has lead responsibility for decarbonising many of the highest-emitting sectors of the
+economy, such as power and industry. The Department must work with the Devolved
+Administrations and other departments, such as the Ministry of Housing, Communities
+and Local Government, Department for Environment, Food & Rural Affairs and the
+Department for Transport, which each hold responsibility for decarbonisation in their
+respective policy areas. Progress has not been uniform and whilst emissions from power
+have declined by 62% between 2008–2018, surface transport emissions have declined by
+only 3% over the same time period. HM Treasury has a key role to play given it allocates
+budgets to government departments and is central to assessing the relative priority of
+policies across government and in ensuring departments have the funding needed for
+programmes to reduce emissions.
+
+Achieving Net Zero
+
+5
+
+Conclusions and recommendations
+1.
+
+Government has not set out how it plans to achieve net zero despite having set
+the target in 2019. In June 2019, Parliament legislated for ‘net zero’ greenhouse
+gas emissions by 2050. The Department plans to launch a net zero strategy before
+the UK hosts the 26th UN Climate Change Conference of the Parties (COP26)
+conference in November 2021. The Department aims that the strategy will set out
+the government’s vision for transitioning to a net zero economy, providing much
+needed clarity for stakeholders. But this nonetheless means that it will have taken
+Government over two years to set out its plans. Prior to the launch of the strategy,
+departments intend to publish several sector strategies, including for transport,
+heating, tree planting and energy. However, the publication of many of these
+strategies has already been delayed. For example, the Heat and Buildings strategy
+has been delayed from August 2020 to early 2021 at the earliest. The Department
+plans to publish many of the remaining strategies over the next 12 months but has
+not yet confirmed what will be published when.
+Recommendation: The Department should ensure that the key sector strategies,
+and the overarching net zero strategy, are published by September 2021. These
+strategies should include a clear timeline of key net zero milestones and decision
+points, to give Parliament and the public an overview of government’s net zero
+plans, what it plans to achieve and when.
+
+2.
+
+The Department is not yet reporting on the programmes across government that
+are crucial to the delivery of net zero in a way that enables Parliament or the public
+to scrutinise progress. In early 2019, government established new arrangements
+for coordinating the departments involved in achieving net zero. The Department
+has overall responsibility for achieving net zero and for ensuring cross-government
+arrangements are working effectively and that departments are reducing emissions
+over time towards achieving net zero. But there is no single place where information
+is brought together about the overall progress of key net zero policies, or a clear
+set of measures which can be consistently used to judge progress. This limits the
+Department’s ability to identify potential issues with achieving net zero and take
+corrective action if necessary. The Department is working with the Climate Change
+Committee to develop new measures of progress that are more straightforward
+to understand, which it expects could be used both for monitoring as well as in
+public communication of progress towards net zero. The Department must publish
+its plans and targets for all sectors and make clear to the public how government
+actions, such as the recent decision not to intervene over the local granting of
+planning permission to a coal mine in Cumbria, are consistent with its trajectory to
+net zero. Otherwise, government runs the risk of sending the wrong messages to the
+public about its commitment to this goal.
+Recommendation: The Department should develop a clear set of metrics that
+provide a system-wide view of progress towards net zero. These metrics, which
+should include reporting on progress of emissions levels compared to expectations
+within each sector, should be reported regularly from the end of 2021, in as close
+to real time as is feasible and produced in a user-friendly manner for the public.
+
+6
+
+Achieving Net Zero
+
+3.
+
+HM Treasury has not yet clarified how it will ensure net zero is given adequate
+weight in the assessment of government policies and projects. Achieving net
+zero will be an all-encompassing challenge requiring all parts of government to
+contribute to reducing emissions. Therefore, government must build net zero into
+the structures and processes that govern departmental spending and prioritisation.
+For example, by assessing the carbon impact of new projects or programmes to
+consider their impact on achieving net zero. The Treasury’s Green Book guidance
+requires all policy, programme and project proposals to consider environment and
+climate impacts, including UK greenhouse gas emissions. The Treasury has recently
+reviewed this guidance and is now looking to place more emphasis on strategic
+objectives such as net zero in the assessment of proposals. But departments’
+capability to assess climate impacts is varied, with the skills needed concentrated
+in the Department. The requirements as set out in the revised Green Book will
+have less impact than the Treasury intends, and ultimately programmes will not
+contribute to achieving net zero, if a lack of capability across departments means
+they are not put into practice.
+Recommendation: HM Treasury should, within two months, write to us outlining:
+
+4.
+
+•
+
+how it will ensure its guidance, such as the Green Book, will lead to
+departments adequately considering and reporting the impact of policy
+decisions on net zero; how all fiscal stimulus packages and infrastructure
+proposals will be stress tested against net zero and what measures will be
+incorporated into the Green Book to ensure projects are only approved if
+they align with 2050 net-zero target; and
+
+•
+
+how it will ensure the development of skills across Whitehall to assess the
+impact of decisions on net zero.
+
+Government does not have a clear way of determining whether its actions to
+reduce emissions in the UK are transferring emissions to other countries. The
+net zero target applies to emissions generated within the UK and does not include
+emissions from the production of goods that are imported. This approach aligns
+with internationally agreed rules to prevent double counting of emissions. It is
+critical that actions to reduce the UK’s emissions do not result in simply moving
+them abroad, which would undermine global efforts to limit temperature rises. This
+could happen, for example, if UK policies push high-emitting industries (such as
+some manufacturing) abroad rather than ensuring those industries become carbon
+neutral. HM Treasury considers that this risk is lessened as other countries reduce
+their own emissions. But if the UK decarbonises more quickly than other countries
+(particularly countries it imports from), there will be a risk in the short term that
+policies to reduce emissions transfers them abroad instead.
+Recommendation: The Department should review how policies aimed at reducing
+UK-based emissions take into account the risk that emissions are passed to
+other countries and explore how to make the level of emissions generated in the
+manufacture of imported goods more transparent.
+
+5.
+
+Government has not adequately communicated to the general public the changes
+that individuals will need to make in the transition to net zero emissions.
+
+Achieving Net Zero
+
+7
+
+Achieving net zero will depend on individuals choosing to change their behaviour,
+from personal lifestyle choices, as well as decisions that rely to some degree on
+related technological developments such as buying an electric car or changing how
+they heat their homes. The Climate Change Committee estimated in 2019 that 62%
+of remaining emissions reductions will rely to some degree on individual choices
+and behaviours. But there is a disconnect between people’s concern about climate
+change and their understanding of what is required to achieve emissions reductions
+in the UK. There has so far been no coordinated government messaging about the
+changes and choices people will need to make. A key challenge will be engaging
+with, and supporting, those who are currently employed in sectors that will either
+decline as part of the transition to net zero, such as oil and gas extraction, or will
+need to significantly change, such as mechanics who must transition to working
+primarily on electric vehicles. Supporting these people could be complementary
+to the ‘levelling up’ agenda whereby Government aims to create opportunity for
+everyone in all regions and address disparities in economic and social outcomes.
+The Department established a public engagement team to begin work in April 2020
+but accepts that it needs to do more on its communication with the public.
+Recommendation: The Department should, in the next 12 months, develop a
+public engagement strategy that sets out how communications will be coordinated.
+6.
+
+The Department has not sufficiently engaged with local authorities on their role
+in the achievement of net zero across the UK. Local authorities have significant
+scope to influence emissions in their area, both by leading decarbonisation of sectors
+(such as housing and transport) and by influencing local businesses and residents to
+take climate action themselves. However, local government representatives report a
+lack of clarity from central government on the role local authorities should play in
+achieving net zero, what will be expected of them or how they will be supported.
+The Local Government Association’s Climate Change Survey 2020 found that nine
+out of 10 councils have declared a climate emergency and 80% have set a carbon
+neutral target. But local authorities face a wide range of barriers to tackling climate
+change. Ninety-six per cent of local authorities report that funding is a barrier to
+them tackling climate change, and 93% that legislation or regulation is a barrier.
+Lack of workforce capacity or a lack of skills is also a cause for concern, with 88%
+and 78% of local authorities in the survey respectively reporting this as a barrier to
+tackling climate change.
+Recommendation: Government should respond with a coherent National Fiscal
+and Policy Framework. This should set out Government’s national responsibilities.
+Local Authorities local and regional responsibilities and be clear how government
+proposes to work with local authorities to secure the funding, skills, resources and
+outcomes required to deliver Net Zero.
+
+8
+
+Achieving Net Zero
+
+1 Net zero plans and progress
+1. On the basis of a report by the Comptroller and Auditor General, we took evidence
+from the Department for Business, Energy and Industrial Strategy (the Department) and
+HM Treasury about achieving net zero.1
+2. In June 2019, government passed legislation committing it to achieving ‘net zero’
+greenhouse gas emissions by 2050. This means reducing emissions substantially from
+current levels, requiring the UK’s greenhouse gas emissions in 2050 to be equal to or
+less than what is removed from the atmosphere by either the natural environment or
+carbon capture technologies. Government set the net zero target to deliver on the
+commitments it had made by signing the Paris Agreement in 2016. As part of the Paris
+Agreement,189 countries and territories committed to pursuing ways to limit global
+temperature rises this century to well below 2 degrees Celsius above pre-industrial levels
+and to try to limit the temperature increase further to just 1.5 degrees Celsius.2
+3. Net zero is an increase in ambition from the government’s previous target, set in
+2008, to reduce net emissions by 80% by 2050 compared with 1990 levels. In 2018, the
+UK emitted 496 million tonnes of carbon dioxide equivalent (the unified measure of
+greenhouse gas emissions combining all greenhouse gases). Between 2008 and 2018, the
+UK’s emissions reduced by 28%, faster than any other G20 economy. The power sector was
+responsible for 56% of the overall decrease in emissions between 2008 and 2018, industry
+for 22% and waste for 9%. Reducing emissions further to achieve net zero is a colossal
+challenge, requiring wide-ranging changes to the UK economy and to the way we all
+live our lives, including further investment in renewable electricity generation, as well as
+changing the way people travel, how land is used and how buildings are heated.3
+4. The Department has overall responsibility in government for achieving net zero.
+It also has lead responsibility for decarbonising many of the highest-emitting sectors of
+the economy, such as power and industry. HM Treasury has a key role to play given it
+allocates budgets to government departments. It is central to assessing the relative priority
+of policies across government and ensuring that departments have sufficient financial
+resources to manage programmes aimed at reducing emissions. The Department must
+work with devolved administrations and other departments, like the Ministry of Housing,
+Communities and Local Government (MHCLG), Department for Environment, Food &
+Rural Affairs (Defra) and the Department for Transport, which each hold responsibility
+for decarbonisation in their respective policy areas.4
+
+Plans for achieving net zero
+5. Government introduced the net zero target through an amendment to the Climate
+Change Act (2008), which originally set a target of at least an 80% reduction in net
+greenhouse gas emissions in the UK relative to 1990 levels. Government also aimed to
+set an example for other countries to follow in the run-up to hosting the 26th United
+Nations’ Climate Change Conference of the Parties (COP26). The Climate Change Act
+required government to set ‘carbon budgets’, legally binding targets for UK emissions over
+1
+2
+3
+4
+
+C&AG’s Report, Achieving net zero, Session 2019-21, HC 1035, 4 December 2020
+Q 1: C&AG’s Report, paras 1, 1.2-1.3
+C&AG’s Report, paras 2, 1.6, 1.8-1.9, Figure 2 and Figure 4
+C&AG’s Report, paras 3, 1.5, 1.15-1.16, Figure 5
+
+Achieving Net Zero
+
+9
+
+a five-year period. The first five carbon budgets, up to 2032, were set to achieve progress
+towards the 80% reduction target.5 In December 2020, the Prime Minister announced a
+new target to reduce the UK’s emissions by at least 68% by 2030, compared to 1990 levels
+to put it on a pathway to net zero.6 The Climate Change Committee (CCC), which advises
+the UK and devolved administrations on meeting their emissions reductions targets and
+preparing for climate change, has recommended that the UK sets a Sixth Carbon Budget
+to require a reduction in UK greenhouse gas emissions of 78% by 2035 relative to 1990, in
+line with net zero.7
+6. The UK met the first and second carbon budget and the Department currently
+forecasts that it is very likely to achieve the third carbon budget but will fall short against
+carbon budgets 4 and 5, from 2023 to 2027 and 2028 to 2032, respectively. We asked the
+Department how it could be confident that it would achieve the new 68% target when it
+was off track for the less ambitious fourth and fifth carbon budgets and what action it was
+taking to get back on track. The Department explained that it would establish additional
+policies to close the gap by publishing sector strategies over the next year, culminating in
+an overall net zero strategy. The Department told us that its success to date in achieving
+reductions in carbon emissions gave it confidence it could make the huge transformation
+needed. However, the majority of the reductions so far have been achieved in the power
+sector and required less behaviour change by consumers than would be necessary for
+other sectors that need to decarbonise, such as heat and transport.8
+7. The government originally planned to publish many of its strategies during 2020.
+Publication was later than it previously intended, partly because of reprioritisation of
+Government activity in response to the coronavirus crisis.9 For example, the publication
+of the Heat and Buildings strategy was delayed from August 2020 and is yet to be
+published. Publication of the Fuel Poverty strategy was similarly delayed from April 2020
+and did not publish until to February 2021.10 The Department told us that it would like
+to have published many of the sector strategies months earlier than they were likely to
+be published. It asserted that it was now in a good place to publish them and expected
+the strategies to be stronger as a result of the delay and would reflect a greater degree of
+political commitment. It accepted that the strategies would need to be clear, and provide
+detail, about the policies, timing and process that underpinned them. It told us that
+this particularly applied for high-emitting sectors including buildings, transport and
+industry. We asked the Department when the strategies were now due to be published and
+to provide a publication programme for the next 12 months. The Department would not
+provide details of the months that it planned to publish the individual strategies, asserting
+that it would ‘put them out at the right time, when they are ready’. It told us it expected
+the Heat and Building strategy and the fuel poverty strategy very soon, followed by the
+industrial decarbonisation, hydrogen and transport strategies. It expected to publish the
+
+5
+6
+7
+8
+9
+10
+
+Q 8; C&AG’s Report, para 1, 1-2-1.4
+Q 6; GOV.UK, Press release, UK sets ambitious new climate target head of UN Summit, 3 December 2020
+Q 7; C&AG’s Report, para 1.10; Climate Change Committee, The Sixth Carbon Budget, The UK’s path to net zero,
+December 2020, page 13
+Qq 6-8; C&AG’s Report, paras 6-7, 3.26
+Q 18; C&AG’s Report, para 3.2, Figure 9
+C&AG’s Report, Figure 9; Department for Business, Energy & Industrial Strategy, Sustainable Warmth, Protecting
+Vulnerable Households in England, February 2021
+
+10
+
+Achieving Net Zero
+
+nature strategy later in 2021, before the net zero strategy. The Department told us that
+it was ‘very confident’ that it would be able to publish a net zero strategy in advance of
+COP26.11
+
+Progress monitoring
+8. In early 2019, government established new coordination arrangements for the
+departments involved in achieving net zero. The arrangements include: cabinet committees
+for climate action strategy (chaired by the Prime Minister) and implementation; a Climate
+Change National Strategy Implementation Group (NSIG) of senior officials from the main
+departments involved; a net zero steering board for strategy and delivery supporting the
+NSIG; and boards within departments to oversee progress of emissions reductions.12 The
+Department’s overall responsibility for achieving net zero means it is responsible for
+ensuring cross-government arrangements are working effectively. The NAO found that
+while the Department reported actual and forecast greenhouse gas emissions annually
+and progress against the carbon budgets, giving it a high-level view of whether the UK is
+on track to meet net zero, it had not yet embedded performance monitoring into its crossgovernment coordination arrangements. It did not have a consolidated list of policies key
+to achieving net zero, nor did it collate data on how these policies were performing overall.
+This meant that the Department could not identify the key risks and issues emerging
+across government activities to achieve net zero that needed to be escalated to senior
+groups such as the cabinet committees.13
+9. We asked what the Department was doing to ensure that it would be able to track
+progress towards net zero when responsibility was shared across departments. The
+Department told us that the new coordination structures provided it with clarity on total
+emissions and the level of emissions for which each department has responsibility. It asserted
+that this meant each department could be held to account for its area of responsibility
+while the Department was overall accountable for total emissions. It also explained that
+departments would be set an overall emissions ‘envelope’, which all emissions related to
+their policy decisions must come in under and that this envelope would fall over time.
+The Department acknowledged that it needed to enhance its reporting on the different
+net zero delivery programmes across government and told us that it had tasked a net zero
+governance team to work on this issue.14 The Treasury told us that the Department was
+working with the Climate Change Committee (CCC) to develop measures that could be
+used to track progress. It explained, however, that it would take ‘some time’ to develop this
+and make sure that it was designed and implemented in the right way, but that it hoped
+to improve the data and information available to make policy and spending decisions this
+year.15
+10. We asked the Department about the recent decision to allow deep coal mining in
+Whitehaven, Cumbria and how this aligned with the government’s intention to move
+away from depending on fossil fuels and towards cleaner energy sources. The Department
+told us that the mine in question was for coking coal rather than producing power, a
+necessary fuel for steel production for which there is, currently, no green substitute.
+11
+12
+13
+14
+15
+
+Qq 18-19, 23
+C&AG’s Report, para 2.2, Figure 6
+Q 30; C&AG’s Report, paras 3, 16, 3.15-3.16
+Qq 31, 33, 45
+Qq 58-60; C&AG’s Report, para 3.15
+
+Achieving Net Zero
+
+11
+
+The Department stated that the steel industry was expected to decarbonise later than
+other sectors but accepted that the UK nonetheless needed to move to clean steel. More
+broadly, the Department commented that it is not possible simply to “switch off” certain
+high-emitting industries and acknowledged that there is a need to help the public better
+understand that net zero will come in stages with some industries decarbonising later
+than others.16 We asked that the Department ensures it publishes targets and milestones
+encompassing all sectors and that these are brought together and updated regularly so the
+public can see, in one place, what progress has been made.17
+
+Appraising policies and projects
+11. Net zero is an all-encompassing challenge that will affect every part of government.
+It will not be achieved if it is not sufficiently prioritised when departments make decisions
+that could impact on greenhouse gas emissions.18 We asked whether other departmental
+priorities, such as building enough homes, could supersede net zero and if the Department
+had the power to overrule these decisions in favour of net zero. We also asked how net
+zero was being prioritised in decisions like the granting of North Sea oil and gas licences,
+which could send the wrong message to the public about Government’s commitment to net
+zero. The Department explained that achieving net zero relied on its system of collective
+ownership, which should ensure everyone acted in support of the overall goal, rather than
+one department directing all others. The Department expected that where departments
+consistently fall behind, they would be held to account through the new coordination
+arrangements, which run from the Prime Minister and the Cabinet Committees, to the
+relevant secretary of state and the department itself, to ensure necessary action was taken
+to achieve net zero. The NAO found that spending reviews, led by HM Treasury, will be
+crucial to achieving net zero, as they allocate budgets to departments in the medium term
+(typically three to five years) and will provide an opportunity to encourage a coordinated
+approach. The Treasury and Department agreed that an important change in the most
+recent spending review was including officials from the Department to help scrutinise
+departments’ bids to ensure they aligned with the wider net zero strategy.19
+12. The Treasury’s Green Book guidance requires all policy, programme and project
+proposals to consider environment and climate impacts, including UK greenhouse gas
+emissions. The Department noted that this was another means by which the compatibility
+of departments’ decisions with net zero could be taken into account.20 HM Treasury
+has recently reviewed the Green Book guidance, due to concerns that the guidance may
+undermine the Government’s aim to “level up” poorer parts of the UK. The updated Green
+Book emphasises the importance of demonstrating the fit of a proposed intervention with
+government’s strategic objectives, such as net zero, and highlighting whether it supports
+or conflicts with them.21 The Treasury told us that departments, in line with Green Book
+guidance, should be considering the impact of policies on wider strategic objectives, such
+as net zero, even if policies were not directly related to climate change.22
+16
+17
+18
+19
+20
+21
+22
+
+Qq 5-6, 36
+Qq 23, 29
+C&AG’s Report, para 3, 2.11
+Q 31-33, 36; C&AG’s Report para 10, 2.11
+Q 32; C&AG’s Report para 2.12
+HM Treasury, Green Book Review 2020: Findings and response, Box 2.A, para 1.3, 3.5
+Qq 54, 64
+
+12
+
+Achieving Net Zero
+
+13. We asked what impact measures such as the Green Book guidance had on major
+infrastructure projects like High Speed 2. The Department told us that departments
+were each responsible for ensuring that the projects within their areas remained below
+their overall emissions envelope and that it did not micromanage individual projects.
+It explained that in the case of the Department for Transport, the plans to achieve net
+zero would include a range of transport modes, from cycling, walking, cars, trains and
+planes, as well as core infrastructure projects such as HS2. It explained that this provided
+departments flexibility to balance their projects’ greenhouse gas emissions as if they went
+over on one project, the departments would need to find savings elsewhere.23
+14. We asked the Treasury why, in its updated Green Book, it had not introduced a specific
+requirement for policies to explain how they aligned with net zero. The Treasury told us
+that the guidance already required Departments to consider greenhouse gas emissions as
+part of their appraisal process.24 The NAO found, however, that Departments’ adherence
+to guidance, including that in the Green Book, was often inconsistent. The Treasury
+accepted that taking greenhouse emissions into account was “not always happening on a
+consistent basis” and that it needed to do more to set the expectations of Departments.25
+In the most recent spending review, the Treasury asked departments to provide a detailed
+assessment of the climate impact of their capital expenditure plans, but not all departments
+did so. It explained that the main issue was the capability of departments, as much of the
+capability for assessing the climate impact of policies sits within the Department. The
+Treasury recognised that there was more it could do to ensure departments have the tools
+and capabilities to assess the climate impact of policies.26
+
+Impact on global emissions
+15. Limiting global temperature rises to reduce the climate change impacts will require
+a global reduction in greenhouse gas emissions. The net zero target applies to emissions
+generated in the UK and does not include emissions generated in the production of goods
+imported into the UK. This is consistent with internationally-agreed rules around climate
+change targets to prevent double counting of emissions.27 We asked about the potential
+risk that if Government policies reduce emissions in the UK but at the expense of higher
+emissions abroad then the UK’s progress towards net zero could mask the fact that global
+emissions are not reducing.28 The CCC found that the UK’s greenhouse gas emissions were
+69% higher in 2016 if emissions generated in imports were included and that imported
+emissions have risen as a fraction of the UK’s total greenhouse gas emissions. This, it
+reported, reflected the UK’s progress in reducing emissions domestically and that the
+UK imports energy-intensive industrial products like steel. The CCC also emphasised the
+importance of government prioritising actions that reduce both UK-generated emissions
+and imported emissions, such as increasing energy efficiency and reducing waste.29
+16. We asked how the Department would ensure that the impact of the UK’s progress
+towards net zero would not inadvertently result in higher emissions elsewhere. The
+23
+24
+25
+26
+27
+28
+29
+
+Q 45
+Q 62
+Q 54; C&AG’s Report, para 2.13
+Qq 32 & 62
+C&AG’s report, para 1.2; Climate Change Committee, Net Zero, 2019, pp 47, 105
+Q 20
+Climate Change Committee, Net Zero, 2019, pp 47, 104, 105
+
+Achieving Net Zero
+
+13
+
+Department told us that, so far, reductions in the UK’s emissions had been the result of
+real change, particularly in the power and industrial sectors, and not the result of pushing
+emissions abroad, but that it was monitoring this. HM Treasury similarly told us that
+as other countries decarbonise, imports from those countries will have less embedded
+carbon and so the risk of pushing emissions abroad would be reduced. The Department
+told us that emissions generated in imports were difficult to estimate, which is why it was
+not used as an overall target. It noted that preventing the export of emissions in general
+relied on careful policy design. For example, regulating the carbon make-up of products
+on the market, rather than solely regulating how goods are made in this country.30
+17. We asked about the feasibility of a tax based on carbon embedded in imports
+(a carbon border adjustment tax) to reduce the risk of pushing emissions abroad. The
+Treasury told us that it was considering this as part of its net zero review. It explained that
+it needed to further investigate the proposal, particularly whether it would be effective in
+maintaining UK jobs and facilitating decarbonisation in the Global South, how it could
+be implemented and whether it would comply with World Trade Organisation rules. It
+explained that the European Commission was considering a carbon border adjustment
+tax and it expected to learn from this about how the UK could tackle the issue of imported
+carbon in future.31
+
+30
+31
+
+Qq 20-21
+Qq 21-22
+
+14
+
+Achieving Net Zero
+
+2 Wider engagement
+Engaging with the general public
+18. Achieving net zero will depend on people changing their habits and lifestyles, adopting
+new technologies, and in some cases big personal investments. For example, buying zeroemission vehicles, such as electric vehicles, instead of cars that run on petrol or diesel;
+changing the way they heat their homes by replacing domestic gas boilers with renewable
+alternatives, such as electric heat pumps; and lifestyle changes such as consuming fewer
+meat and dairy products. The Climate Change Committee (CCC) estimated in 2019 that
+62% of the remaining emissions reductions will happen either through individual choices
+and behaviours, some of which will require the development of new technologies. But it
+also found that there was a disconnect between people’s concern about climate change
+and their understanding of what is required to achieve emissions reductions in the UK.32
+19. We asked the Department what it was doing to ensure the step change needed by
+members of the public to achieve net zero and how it was communicating to people
+about the decisions or changes they needed to make and when. The Department told us
+that so far, a lot of the changes to reduce emissions reductions have not required major
+behavioural change, but many of those that will be needed in the future will do. It explained
+that, where possible, it would look for solutions that did not require “excessively drastic
+behaviour change” which was why initiatives such as electric vehicles were so important.
+In April 2020, the Department established a behaviour change and public engagement
+team for net zero to begin designing a public engagement strategy and share good practice
+across government. The Department accepted, however, that it was not yet providing an
+integrated picture of public engagement and that there was more work it needed to do to
+address this gap in 2021.33 It told us that it would be important to ensure that its public
+engagement strategy was sufficiently broad to allow the public to understand the wider
+context of its communications and messages. For example, it explained that it would be
+important to enable people to understand the continuing importance in the short term of
+high-emitting industries, such as coal, oil and gas, and their role in employment and the
+resilience of the energy system.34
+20. Government investment in new technologies, such as carbon capture and storage,
+could benefit particular regions of the UK and support the government’s levelling
+up agenda, which aims to create opportunity for everyone in all regions and address
+disparities in economic and social outcomes.35 We asked the Department about ensuring
+the transition to a net zero economy was done in a just way, in particular the planned
+skills and training support for people working in sectors expected to decline or change
+significantly as part of the move to net zero, so that they were prepared for the change. We
+specifically asked about people who will have to move into different kinds of employment,
+such as car manufacturing moving to predominantly electric vehicles or people moving
+from the oil and gas sectors into solar power. The Department confirmed that developing
+these skills would be very important, but told us that while this was a big area of focus,
+there was time before developing sectors such as carbon capture will be employing people
+32
+33
+34
+35
+
+Q 34, C&AG’s Report paras 8, 3.23, Figure 12
+Q 34; C&AG’s Report, para 8
+Qq 36-37
+C&AG’s Report, paras 1.9
+
+Achieving Net Zero
+
+15
+
+at scale. It noted that, as one of the important opportunities for new job creation, it would
+be important to ensure that plans for net zero provided job in the right locations and
+weren’t only concentrated in the south-east. It also recognised that it would need to ensure
+that its plans were integrated into the Department for Education’s work on skills and
+explained it was working with the Department for Education to identify the people and
+skills the industries affected would need.36
+
+Engaging with local authorities
+21. Local authorities have a key role to play in achieving net zero. They have significant
+scope to influence emissions in their area, for example, by leading decarbonisation of sectors
+such as housing and transport. These represent a substantial proportion of UK emissions,
+and where the emissions reduction challenge will vary by location. Local authorities can
+also influence local businesses and residents to take climate action themselves. The NAO
+found that government’s co-ordination arrangements for net zero only extended to central
+government departments.37 We received written evidence from the Local Government
+Association (LGA), which told us that the Government needed to outline national and
+local government responsibilities and commit to working with local government bodies
+to deliver net zero. It also told us that there needed to be an engagement process between
+central and local government to support councils to develop local net zero delivery plans
+and invest in green solutions.38 The Department agreed that local authorities were very
+important partners in delivering decarbonisation schemes such as the green homes grant
+and the local authority delivery scheme. It also recognised that local authorities had a
+lot of the planning capabilities and statutory duties which would be very important for
+example, when thinking about investment in heat networks. It accepted that it would be
+increasingly important to engage with local authorities.39
+22. In written evidence, the LGA told us that there was a long-term funding gap in
+government’s ambitions to decarbonise housing. In February 2020, the LGA’s Climate
+Change Survey 2020 found that nine out of 10 councils had declared a climate emergency
+and 80% had set a carbon neutral target.40 But the survey found that local authorities faced
+numerous barriers to tackling climate change. Ninety-six per cent of respondents reported
+that funding was a barrier to their local authority tackling climate change, and 93% that
+legislation or regulation was a barrier. Lack of workforce capacity or a lack of skills was
+also a cause for concern, with 88% and 78% of local authorities in the survey respectively
+reporting this as a barrier to tackling climate change. Respondents who noted legislation
+or regulation as a barrier highlighted a range of issues including building regulations
+not being environmentally rigorous and that the National Planning Policy Framework or
+planning regulations were insufficiently ambitious.41
+23. The Department acknowledged that it needed to consider place-related aspects to
+achieving net zero and how local authorities could be involved in co-ordinating the
+changes needed in areas such as transport and energy.42 The Department told the National
+36
+37
+38
+39
+40
+41
+42
+
+Qq 52-53, 65-67
+C&AG’s Report, para 2.19-2.21
+Local Government Association submission para 4
+Q 39
+Q 43; Local Government Association submission para 7
+Local Government Association submission para 7; Local Government Association, Climate Change Survey,
+Research report, February 2020 pages 2, 35
+Qq 40-41
+
+16
+
+Achieving Net Zero
+
+Audit Office that it intended to engage with local authorities about their role as part of the
+creation of the net zero strategy.43 During our evidence session, the Department further
+committed to actively engaging with local authorities on how sector strategies will be
+rolled out, as the strategies were published. The Department noted that it had provided
+toolkits to raise the capability and capacity within local authorities and has local energy
+hubs to enable engagement with them. These hubs aimed to help local authorities to
+develop plans to attract investment and fund the development and sharing of best practice
+between local authorities.44
+
+43
+44
+
+C&AG’s Report, paras 11, 2.22
+Qq 39, 44; C&AG’s Report, para 2.22
+
+Achieving Net Zero
+
+17
+
+Formal minutes
+Monday 1 March 2021
+Virtual meeting
+Members present:
+Meg Hillier, in the Chair
+Mr Gareth Bacon
+
+Mr Richard Holden
+
+Olivia Blake
+
+Sarah Olney
+
+Sir Geoffrey Clifton-Brown
+
+James Wild
+
+Peter Grant
+Draft Report (Achieving Net Zero), proposed by the Chair, brought up and read.
+Ordered, That the draft Report be read a second time, paragraph by paragraph.
+Paragraphs 1 to 23 read and agreed to.
+Summary agreed to.
+Introduction agreed to.
+Conclusions and recommendations agreed to.
+Resolved, That the Report be the Forty-sixth of the Committee to the House.
+Ordered, That the Chair make the Report to the House.
+Ordered, That embargoed copies of the Report be made available, in accordance with the
+provisions of Standing Order No. 134.
+[Adjourned till Thursday 4 March at 9:15am
+
+18
+
+Achieving Net Zero
+
+Witnesses
+The following witnesses gave evidence. Transcripts can be viewed on the inquiry publications
+page of the Committee’s website.
+
+Thursday 28 January 2021
+Sarah Munby, Permanent Secretary, Department for Business, Energy and
+Industrial Strategy; Julian Critchlow, Director General, Energy Transformation
+and Clean Growth, Department for Business, Energy and Industrial Strategy;
+Steve Field, Director, Climate, Environment, Energy, HM Treasury
+
+Q1–84
+
+Achieving Net Zero
+
+19
+
+Published written evidence
+The following written evidence was received and can be viewed on the inquiry publications
+page of the Committee’s website.
+ANZ numbers are generated by the evidence processing system and so may not be complete.
+1
+
+Aldersgate Group (ANZ0002)
+
+2
+
+Cadent Gas (ANZ0003)
+
+3
+
+Christian Aid (ANZ0008)
+
+4
+
+Climate Econometrics, Nuffield College, Oxford University (ANZ0005)
+
+5
+
+HP (ANZ0018)
+
+6
+
+Federation of Master Builders (ANZ0012)
+
+7
+
+Green Alliance (ANZ0010)
+
+8
+
+Institution of Civil Engineers) (ANZ0001)
+
+9
+
+Local Government Association (ANZ0007)
+
+10
+
+Marshall Consultancy Limited (ANZ0009)
+
+11
+
+Mineral Products Association (ANZ0004)
+
+12
+
+Natural England (ANZ0017)
+
+13
+
+Policy Connect (ANZ0011)
+
+14
+
+Porterbrook (ANZ0016)
+
+15
+
+Institution of Civil Engineers) (ANZ0001)
+
+16
+
+Road Haulage Association (ANZ0006)
+
+17
+
+SSE (ANZ0014)
+
+18
+
+Smart Energy GB (ANZ0013)
+
+19
+
+London Energy Transformation Initiative (ANZ0015)
+
+20
+
+Achieving Net Zero
+
+List of Reports from the Committee
+during the current Parliament
+All publications from the Committee are available on the publications page of the
+Committee’s website.
+
+Session 2019–21
+Number
+
+Title
+
+Reference
+
+1st
+
+Support for children with special educational needs and
+disabilities
+
+HC 85
+
+2nd
+
+Defence Nuclear Infrastructure
+
+HC 86
+
+3rd
+
+High Speed 2: Spring 2020 Update
+
+HC 84
+
+4th
+
+EU Exit: Get ready for Brexit Campaign
+
+HC 131
+
+5th
+
+University technical colleges
+
+HC 87
+
+6th
+
+Excess votes 2018–19
+
+HC 243
+
+7th
+
+Gambling regulation: problem gambling and protecting
+vulnerable people
+
+HC 134
+
+8th
+
+NHS capital expenditure and financial management
+
+HC 344
+
+9th
+
+Water supply and demand management
+
+HC 378
+
+10th
+
+Defence capability and the Equipment Plan
+
+HC 247
+
+11th
+
+Local authority investment in commercial property
+
+HC 312
+
+12th
+
+Management of tax reliefs
+
+HC 379
+
+13th
+
+Whole of Government Response to COVID-19
+
+HC 404
+
+14th
+
+Readying the NHS and social care for the COVID-19 peak
+
+HC 405
+
+15th
+
+Improving the prison estate
+
+HC 244
+
+16th
+
+Progress in remediating dangerous cladding
+
+HC 406
+
+17th
+
+Immigration enforcement
+
+HC 407
+
+18th
+
+NHS nursing workforce
+
+HC 408
+
+19th
+
+Restoration and renewal of the Palace of Westminster
+
+HC 549
+
+20th
+
+Tackling the tax gap
+
+HC 650
+
+21st
+
+Government support for UK exporters
+
+HC 679
+
+22nd
+
+Digital transformation in the NHS
+
+HC 680
+
+23rd
+
+Delivering carrier strike
+
+HC 684
+
+24th
+
+Selecting towns for the Towns Fund
+
+HC 651
+
+25th
+
+Asylum accommodation and support transformation
+programme
+
+HC 683
+
+26th
+
+Department of Work and Pensions Accounts 2019–20
+
+HC 681
+
+27th
+
+Covid-19: Supply of ventilators
+
+HC 685
+
+Achieving Net Zero
+
+Number
+
+Title
+
+Reference
+
+28th
+
+The Nuclear Decommissioning Authority’s management of
+the Magnox contract
+
+HC 653
+
+29th
+
+Whitehall preparations for EU Exit
+
+HC 682
+
+30th
+
+The production and distribution of cash
+
+HC 654
+
+31st
+
+Starter Homes
+
+HC 88
+
+32nd
+
+Specialist Skills in the civil service
+
+HC 686
+
+33rd
+
+Covid-19: Bounce Back Loan Scheme
+
+HC 687
+
+34th
+
+Covid-19: Support for jobs
+
+HC 920
+
+35th
+
+Improving Broadband
+
+HC 688
+
+36th
+
+HMRC performance 2019–20
+
+HC 690
+
+37th
+
+Whole of Government Accounts 2018–19
+
+HC 655
+
+38th
+
+Managing colleges’ financial sustainability
+
+HC 692
+
+39th
+
+Lessons from major projects and programmes
+
+HC 694
+
+40th
+
+Achieving government’s long-term environmental goals
+
+HC 927
+
+41st
+
+COVID 19: the free school meals voucher scheme
+
+HC 689
+
+42nd
+
+COVID-19: Government procurement and supply of Personal
+Protective Equipment
+
+HC 928
+
+43rd
+
+COVID-19: Planning for a vaccine Part 1
+
+HC 930
+
+44th
+
+Excess Votes 2019–20
+
+HC 1205
+
+45th
+
+Managing flood risk
+
+HC 931
+
+21
+
+

@@ -1,0 +1,702 @@
+POSTNOTE
+Number 594 February 2019
+
+Limiting Global Warming to 1.5°C
+Overview
+
+A 2018 UN Special Report examined how peak
+global warming can be limited to 1.5°C and the
+implications of doing so. The UK has a
+statutory long-term target for reducing
+greenhouse gas emissions, which is expected
+to tighten in future. This POSTnote outlines key
+features of the Special Report and UK
+responses to climate change.
+
+Background
+The Paris Agreement on climate change (Box 1) was
+agreed in 2015. Its main goal is to limit average global
+warming to well below 2°C above pre-industrial
+temperatures, and to ‘pursue efforts’ to limit warming to
+1.5°C.1,2 This is more ambitious than a prior goal of below
+2°C.3 In 2018, scientists working with the UN
+Intergovernmental Panel on Climate Change (IPCC)
+reviewed the evidence base on the impacts and implications
+of a 1.5°C limit. Its resulting Special Report was published in
+Box 1: UN COPs and the 2015 Paris Agreement
+The UN Framework Convention on Climate Change (UNFCCC) was
+established in 1992 with the objective of preventing dangerous climate
+change,4 via international negotiations at annual Conferences of the
+Parties (COPs). The 2015 Paris Agreement, agreed at COP21, was
+the first legally binding global climate deal. It was negotiated and
+agreed by 196 parties in December 2015, and 184 had ratified in
+December 2018. The Agreement has three specific goals:1
+◼ Hold global temperature rise at ‘well below’ 2°C above preindustrial levels and pursue efforts to limit this rise to 1.5°C
+◼ Increase the ability to adapt to adverse climate change impacts
+without threatening food production
+◼ Use international finance for these aims (Box 4).
+Paris signatories are required to submit a ‘Nationally Determined
+Contribution’ (NDC) plan for reducing greenhouse gas emissions
+which takes effect in 2020.5 Current NDCs would result in warming of
+around 3°C or more,6 though the Agreement’s ‘ambition mechanism’
+reviews and seeks to increase NDC ambitions every 5 years.
+
+◼ The Paris Agreement aims to limit average
+global warming to well below 2°C, and
+towards 1.5°C, above pre-industrial levels.
+There has been 1°C of warming to date.
+◼ A 2018 UN assessment examined the
+implications of limiting warming to 1.5°C.
+◼ Global warming of 1.5°C would result in
+risks to natural and human systems, but
+many of these risks would be greater at 2°C.
+◼ Different options for keeping warming below
+this level exist. Global net CO2 emissions
+would likely need to halve by around 2030
+and reach zero around 2050. This entails
+substantial technological and social change.
+CO2 would likely need to be removed from
+the atmosphere at unprecedented levels.
+October 2018 (Box 2).7–12 This POSTnote summarises the
+key messages of the Special Report on approaches to
+meeting the target and impacts of 1.5°C global warming. It
+also examines UK approaches to climate change mitigation
+and adaptation, and potential changes to emissions targets.
+
+Increasing Global Temperature
+Global warming is the increasing trend in global average
+surface temperature which is a key driver of climate change.
+Greenhouse gas (GHG) from human activity have caused
+global warming of 1°C since pre-industrial times, and global
+temperature is currently increasing by 0.2°C per decade.8
+This is measured as an average across long timeframes (30
+years) and across temperatures over land and ocean.8
+Warming has been greater over land than over oceans, and
+has been greatest in Arctic regions.8 The level of warming to
+date is almost entirely caused by human emissions of
+different types:8,13
+◼ Carbon dioxide (CO2) is the GHG emitted in greatest
+quantity by human activity. It is the most dominant GHG
+over long time periods,14 as it is chemically stable and
+can remain in the atmosphere for many thousands of
+years. Although natural CO2 emissions from plants, soils
+and oceans are much greater than human emissions,
+these natural emissions are in equilibrium with removal of
+CO2 by natural ‘sinks’ (such as oceans and plants).
+◼ Non-CO2 GHGs include methane, nitrous oxide and
+hydrofluorocarbons (HFCs), among others. Nitrous oxide
+
+The Parliamentary Office of Science and Technology, Westminster, London SW1A 0AA; Tel: 020 7219 2840; email: post@parliament.uk www.parliament.uk/post
+
+POSTNOTE 594 February 2019 Limiting Global Warming to 1.5 C
+
+Box 2: IPCC Special Report on Global Warming of 1.5°C
+Scientific experts emphasise that no specific temperature target
+should be seen as a safe limit,15 and that “efforts should be made to
+push the defence line as low as possible”.16,17 Climate negotiations
+before COP21 focused on a limit of below 2°C above pre-industrial
+levels.3,18 Interest in a 1.5°C limit increased from 2008, driven by small
+island states’ concerns around risks from sea level rise at 2°C.19 In
+2015 the UNFCCC invited the IPCC to assess the evidence base on
+the implications of limiting warming to 1.5°C relative to 2°C. The IPCC
+assessed over 6000 research papers to produce a 2018 Special
+Report on Global Warming of 1.5°C.7–12
+and some HFCs persist for centuries.20 Others, such as
+methane and black carbon, are ‘short-lived climate
+pollutants’ (SLCPs) (POSTnote 480), which generally
+break down in the atmosphere within decades. SLCPs
+cause greater warming in the short term.21,22
+◼ Aerosols are particles emitted from human and natural
+sources (many industrial and transport pollutants are
+aerosols). They reflect or absorb sunlight and affect cloud
+growth, and are short-lived (persisting for weeks at most).
+They have an overall cooling effect.23
+Long-term temperature rise is primarily dependent on the
+cumulative amount of CO2 emitted by human activity since
+pre-industrial times (as well as some long-lived non-CO2
+GHGs such as nitrous oxide).20,24,25 High annual SLCP
+emissions increase the rate of warming in coming decades,
+which makes limiting warming to 1.5°C more challenging.26
+
+Reducing Emissions for a 1.5°C Limit
+All GHG emissions must be substantially reduced for
+temperature increase to peak at, or close to, 1.5°C.
+Temperature will peak when CO2 emissions are net zero
+and SLCP emissions are constant or declining. Different
+approaches to meeting these aims exist. Slower emissions
+reductions over the next decade require greater use of
+unproven greenhouse gas removal (GGR) in later decades,
+and increase the likelihood that temperature rise temporarily
+‘overshoots’ 1.5°C.
+
+Emissions Reduction Pathways
+Scenarios resulting from ‘integrated assessment models’,
+which describe the global economy, energy and land use
+are used to illustrate pathways of how emissions and
+temperature could develop in the 21st century.9
+CO2 Pathways
+Annual human CO2 emissions are increasing; 2018 global
+emissions were estimated to be 2.7% higher than in 2017. 27
+Most 1.5°C pathways suggest that global CO2 emissions
+would need to peak in the near future, be halved around
+2030, and reach net zero around 2050.24,25,28 Net zero
+occurs when human CO2 emissions are equal to the amount
+removed from the atmosphere by GGR. The ‘remaining
+carbon budget’ (Box 3) for a 1.5°C limit is estimated to be
+equivalent to 10-15 years of CO2 emissions at 2018 levels.9
+Non-CO2 Pathways
+Pathways for 1.5°C generally require deep reductions in
+non-CO2 emissions (nitrous oxide, SLCPs and aerosols),
+but not that net zero is reached for these. For SLCP
+
+Page 2
+
+Box 3: Remaining Carbon Budgets
+Estimates of the amount of the ‘remaining’ CO2 that can be emitted in
+the future, before reaching a given level of warming, are known as
+‘remaining carbon budgets’. They are given in quantities of CO2. The
+IPCC estimates a remaining global carbon budget (from the beginning
+of 2018) for limiting to 1.5°C of 420–580 billion tonnes (Gt) of CO2.9
+This is equivalent to 10-15yr of global CO2 emissions at 2018 levels.27
+This estimate was revised upwards from a 2014 IPCC estimate of
+120Gt,20 due to a better scientific understanding of levels of historical
+warming and the amount of warming caused by additional CO2 and
+non-CO2 emissions.9 There are large uncertainties around these
+factors. Complex ‘feedbacks’ (such as methane release from melting
+permafrost) (POSTnote 454) could reduce the remaining budget.
+emissions such as methane, black carbon and HFCs, a
+constant or declining annual level of emissions is required at
+the time of peak temperature.8,9,26 Reductions in aerosol
+emissions would occur naturally along with many GHG
+emissions reductions measures (for example, closing coal
+power plants reduces CO2 and aerosol emissions).9
+Decreasing aerosol concentrations would act to increase
+temperature, but these would be offset by GHG reductions.9
+
+Reducing Emissions to Meet Pathways
+Reducing global emissions in line with 1.5°C pathways
+would require social and technological changes to: 8,9
+◼ Energy systems, including growth in renewables and
+less power and fuel production from fossil fuel sources
+◼ Transport and buildings, reducing energy demand and
+increasing the proportion of energy from electricity
+◼ Lifestyle and behaviour, reducing demand for high-CO2
+transport, meat or GHG-intensive consumer goods
+◼ ‘Difficult-to-decarbonise’ sectors in which technical
+solutions are challenging, e.g., aviation and agriculture.
+A 1.5°C target can be met using a combination of the above
+and GGR. Pathways involving greater lifestyle change rely
+less on GGR.8 IPCC experts suggest that in any case the
+emissions reductions required imply “rapid, far-reaching
+changes on an unprecedented scale”.29 Current NDC
+pledges for the Paris Agreement (Box 1) could result in
+around 3°C of warming.6,9,30
+
+Greenhouse Gas Removal and Overshoot
+GGR (POSTnote 549) encompasses a range of processes
+that remove CO2 from the atmosphere (there are no proven
+ways of removing non-CO2 GHGs). These include three
+broad categories of GGR:
+◼ Land-based removals enhance natural systems’ ability
+to absorb CO2 from the atmosphere. This includes
+growth, restoration or better management of forest,
+wetlands and soils, among other processes.31,32
+◼ Bioenergy with carbon capture and storage (BECCS)
+converts plant-based fuel (biomass) into other energy
+carriers (such as electricity or hydrogen). It stores the
+waste CO2 using carbon capture and storage (CCS).
+◼ Direct Air Capture with CCS (DACCS) captures CO2
+directly from the atmosphere, and stores it using CCS.33
+All 1.5°C and most 2°C pathways require some level of
+GGR. In many scenarios, temperature rise temporarily
+overshoots and then returns, to 1.5°C, by using GGR to
+make global net CO2 emissions negative.9
+
+POSTNOTE 594 February 2019 Limiting Global Warming to 1.5 C
+
+Most forms of emissions reduction are expected to be less
+costly and more technologically feasible than most forms of
+GGR.34,35 It is unclear how feasible it would be to increase
+GGR at the scales generally required by 1.5°C pathways,
+because of significant technological, economic and social
+challenges.9,11,36,37 All GGR techniques (except increasing
+forest cover) are at early stages of development and all
+result in competition for resources (land, water or energy). 36
+Land-based approaches can only provide a finite amount of
+GGR.11 BECCS needs large inputs of biomass using land
+and water, which could impact biodiversity and food
+production.36–38 DACCS is currently costly and requires a
+high energy input.34
+GGR will be necessary to offset emissions in 2050 and
+beyond from difficult-to-decarbonise sectors.39 Experts
+highlight the risks of relying on future developments in GGR
+techniques which could prove less effective than hoped;40
+the Royal Society and Royal Academy of Engineering
+suggest pursuing a range of GGR approaches to avoid
+this.34 To develop GGR at lowest risk, they and other groups
+recommend focusing on developing CCS technology and
+infrastructure, improving natural carbon sinks (e.g.
+forestation and soils), and increasing R&D.34,35 An £8.6m
+UK research programme examining the feasibility of GGR
+processes launched in 2017.41 In 2018 a pilot BECCS
+project began operating at Drax Power Station in Selby. 42
+
+Global Impacts of Climate Change at 1.5°C
+There is strong evidence that human-induced climate
+change to date has impacted natural ecosystems, human
+systems and human well-being globally.10 Future risks to
+these are expected to be lower at 1.5°C than at 2°C, but
+impacts vary widely across regions.43,44 A larger and longer
+overshoot increases these risks, as some impacts at higher
+temperature, such as ecosystem loss, may be irreversible.10
+Adaptation (the process of addressing climate change risks
+to lower their impact) will be required at any temperature
+increase, but costs of doing so will be lower at 1.5°C.12
+Research on UK climate change impacts at 1.5°C of
+warming relative to 2°C is limited. Met Office UK Climate
+Projections 2018 (UKCP18) provide information on potential
+temperature, rainfall and sea level rise under different future
+emissions scenarios.45
+
+Changes to Natural Systems
+Extreme Weather
+Extreme weather refers to individual extreme events, such
+as temperature (e.g. heatwaves) and rainfall. Extreme
+events amplify the risks of increasing temperature within a
+specific region.46 More frequent and intense extreme
+weather is expected to occur at 2°C average warming than
+at 1.5°C.10,47 Limiting warming to 1.5°C may lead to extreme
+heat being less intense (the hottest days being less hot)
+than at 2°C, particularly in the mid-latitudes, further from the
+equator.10 Around 500m fewer people would be frequently
+exposed to extreme heatwaves at 1.5°C than at 2°C,48 and
+around a fifth of excess heat-related deaths in cities such as
+London may be avoided.49 Limiting to 1.5°C would reduce
+risks from heavy precipitation events, and substantially
+
+Page 3
+
+reduce the probability of extreme drought and other water
+availability risks in certain regions.10 Sub-Saharan Africa is
+projected to be at particular risk of extreme heat and
+drought.50
+Sea Level Rise
+Global warming of 1.5°C is projected to cause sea level rise
+(SLR) (POSTnote 555) of 26-77cm by 2100 – on average
+10cm less than projected for 2°C. SLR at 2°C would affect
+up to 10.4m more people. Regardless of peak temperature,
+SLR will continue well past 2100 and could increase by a
+number of metres after then if polar ice-sheet ‘tipping points’
+are reached and the Greenland or West Antarctic Ice Sheet
+collapse. There is uncertainty around the temperature at
+which this could happen, but the risk will increase
+substantially as temperature rise increases past 1.5°C.10,51
+Impacts on Marine and Arctic Ecosystems
+Warming of 2°C and above makes the Arctic Ocean
+substantially more likely to be ice-free in summer than at
+1.5°C.52 This would make animals such as polar bears,
+whales and seals that depend on Arctic ice, as well as Arctic
+communities, more at risk.10 Oceans have absorbed about
+30% of human-emitted CO2 to date,20 resulting in ocean
+acidification and changes to marine chemistry that are
+unprecedented in 65m years.53,54 Upper ocean
+temperatures have increased and will continue to do so.
+Plankton and fish species are projected to move to higher
+latitudes, whereas less mobile species are more at risk.
+Global warming of 1.5°C is projected to cause a 70-90%
+decline in warm water coral reefs, whereas at 2°C more
+than 99% are expected to disappear.10,55,56
+Impacts on Terrestrial Ecosystems
+Terrestrial ecosystems and organisms would be less at risk
+at 1.5°C than at 2°C.10 The projected area of land affected
+by significant ecosystem change is reduced (from roughly
+13% to 4% of global land area).57 Severe geographic range
+reduction is approximately half under 1.5°C compared to
+2°C for vertebrates and plants, and reduced by two thirds for
+insects.58 Projected increases in wildfire frequency further
+threatens terrestrial ecosystems at 2°C.10
+
+Risks to Human Systems
+Climate-related risks to health, livelihoods, food security,
+water supply and human security make it more challenging
+to meet several UN Sustainable Development Goals (SDGs)
+(Box 4). These risks are greater at 2°C warming, though
+adaptation will be necessary at any level of warming. Small
+island states and economically disadvantaged nations are at
+greater risk as they have less capacity to adapt.
+Food and Water Security
+Climate change affects food availability, quality, access and
+distribution. Although moderately warmer conditions and
+greater atmospheric CO2 concentrations can, in theory, act
+to increase crop yield,59 these effects are complex and do
+not occur for every crop or region. The combination of wider
+climate change effects (extreme weather, increasing
+precipitation and temperature) will have negative effects on
+crop yields.10 Climate change to date has resulted in more
+yield reductions than increases.60 Limiting warming to 1.5°C
+
+POSTNOTE 594 February 2019 Limiting Global Warming to 1.5 C
+
+Box 4: Equity in Meeting Climate Change Targets
+Differentiated Responsibility and Climate Funding
+Developing countries are, in general, less responsible for historical
+climate change and less able to pay for adaptation and mitigation.
+These and other ‘equity’ issues result in disagreement over how much
+responsibility individual countries should have for the remaining global
+carbon budget,61–64 and international climate finance. The Paris
+Agreement contains a commitment to mobilise $100bn annually by
+2020 from a range of public and private sources in developed
+countries to financially assist developing countries for mitigation and
+adaptation measures.1,18 $57bn of public finance was raised in 2017.65
+The UK is the second-largest donor to multilateral UN climate funds.66
+Sustainable Development
+Limiting warming to 1.5°C rather than 2°C would make it easier to
+achieve a number of SDGs.12 Adaptation measures for 1.5°C would
+have benefits for sustainable development, poverty and inequality
+reduction goals. Pathways for 1.5°C would help achieve SDGs 3
+(health), 7 (clean energy) and 11 (cities and communities) among
+others. Some mitigation pathways, if not managed carefully, could
+make it more difficult to achieve SDGs 1 (poverty), SDG 2 (hunger), 6
+(water) and 7 (energy access). Pathways that reduce energy demand
+would decrease these trade-offs.7,12
+is projected to lead to smaller reductions of maize, rice and
+wheat yield, particularly in West and Central Africa,
+Southeast Asia, and Central and South America.10 Greater
+use of GGR increases potential risks to food security. 12 At
+less than 2°C of warming, changes in population have a
+stronger effect on water security than climate change.10
+However, limiting to 1.5°C rather than 2°C could lead to up
+to half the number of additional people (compared to now) at
+risk of water scarcity.10
+Human Health and Wellbeing
+Climate-related negative health outcomes have been
+observed and will increase with future warming.10,20
+Increased transmission of infectious diseases (such as
+malaria or dengue fever), exposure to heatwaves and fires,
+undernutrition and reduced labour productivity in vulnerable
+populations are likely to lead to greater risks of injuries,
+disease and death. Overall, 2°C poses greater risks to
+human health than 1.5°C, with regional differences.
+Adaptation could reduce the magnitude of these impacts.10
+
+UK Climate Change Policy
+The UK Climate Change Act 2008 (CCA) provides the
+framework for climate change mitigation and adaptation in
+the four UK nations.67 The independent Committee on
+Climate Change (CCC), set up under the CCA, advises the
+UK and devolved governments on these issues.
+
+Reducing UK Emissions
+Current UK Emissions and Targets
+Territorial UK CO2 emissions (those produced in the UK) are
+43% lower than in 1990, mainly because most coal power
+(which is highly CO2 emitting) has been replaced by natural
+gas and renewable generation.68 There has been much less
+of a decline in national ‘consumption-based emissions’.
+These include emissions from manufacturing goods and
+services that are imported into the UK.69,70 They are not
+counted towards carbon budgets.
+
+Page 4
+
+Box 5: UK Carbon Budgets
+Statutory UK carbon budgets (which differ from remaining carbon
+budget estimates (Box 3)) are interim GHG emissions targets for fiveyearly periods from 2008 onwards. Budgets decrease in each
+successive period. They are set by the UK Government 12 years in
+advance following advice from the CCC, and cover territorial GHG
+emissions from all sectors except international shipping and aviation.71
+The CCA sets an overall UK GHG emissions reduction
+target of at least 80% by 2050 (compared to 1990), as well
+as interim ‘carbon budget’ targets (Box 5).67 The CCC
+annually reports on UK progress on carbon budgets.72 The
+first and second budgets (2008–2018) have been met.
+However, the CCC has raised concerns that current policies
+for reducing emissions from heating (in buildings and
+industry) and transport will be insufficient to meet the fourth
+(2023–2027) and fifth (2028–2032) budgets.71,72
+Future Changes to Targets
+The UK’s long-term target was designed to contribute to a
+2°C global warming target.39 Because of the raised ambition
+of the Paris Agreement (Box 2), many commentators have
+suggested that current UK targets should be amended.73,74
+Different equity assumptions (Box 4) lead to a UK allocation
+of between 0.8% and 1.5% of the remaining global budget. 75
+The UK Government has indicated that it will legislate for a
+net zero emissions target.76,77 In October 2018 it requested
+that the CCC provide advice on the timing and level of UK
+GHG emissions that would contribute to limiting warming to
+well below 2°C, and to 1.5°C.78 The UK Government has
+indicated it does not currently seek to change the level of
+the fourth and fifth carbon budgets,78 though the CCC is still
+able to advise greater action before 2032 as the least-cost
+pathway.72,79 It plans to publish its advice in spring 2019.78
+
+Adapting to Climate Change in the UK
+Defra assesses potential future impacts in the Climate
+Change Risk Assessment (CCRA) (Box 6) every five
+years.80 The UK Government sets out the responding
+adaptation framework for England in the National Adaptation
+Programme (NAP).82 The CCC will present a formal
+assessment of the NAP in 2019.83,84 Adaptation is also
+addressed under the Scottish Climate Change Adaptation
+Programme,85,86 the Welsh Government National Adaptation
+Strategy and Northern Ireland Adaptation Programme.87,88
+Box 6: The Climate Change Risk Assessment (CCRA)
+The second CCRA, published in 2017, focused on potential climate
+impacts at 2°C and 4°C.80 Greatest risks identified include:80,81
+◼ Flood risk to communities, businesses and infrastructure
+◼ Exposure to high temperature and heatwaves
+◼ Water shortage risk for the public, agriculture and industry
+◼ Risks to natural ecosystems and UK wildlife
+◼ Risks to UK and international food production and trade
+◼ New and emerging pests and diseases.
+It suggests that more action is needed to address these issues, and
+that emerging pests should be a research priority. The CCRA also
+highlights some opportunities for the UK arising from moderate levels
+of climate change, such as prolonged agricultural growing seasons.80
+
+POST is an office of both Houses of Parliament, charged with providing independent and balanced analysis of policy issues that have a basis in science and technology.
+POST is grateful to all contributors and reviewers. For further information on this subject, please contact the author, Jack Miller. Parliamentary Copyright 2019. Image
+(adapted) by NASA Goddard Space Flight Centre, licensed under Creative Commons CC BY 2.0.
+
+POSTNOTE 594 February 2019 Limiting Global Warming to 1.5 C
+
+Endnotes
+1. UNFCCC (2015). The Paris Agreement.
+2. “Pre-industrial” is defined by the IPCC as the period before 18501900.
+3. UNFCCC (2011). The Cancun Agreements.
+4. UNFCCC (1992). United Nations Framework Convention on
+Climate Change.
+5. UNFCCC [online]. INDCs as communicated by Parties. Accessed
+28/11/18.
+6. Rogelj, J. et al. (2016). Paris Agreement climate proposals need a
+boost to keep warming well below 2 °C. Nature, Vol 534, 631–639.
+7. IPCC (2018). Global Warming of 1.5°C: Summary for
+Policymakers.
+8. Allen, M. R. et al. (2018). Chapter 1: Framing and Context. In
+Global Warming of 1.5°C.
+9. Rogelj, J. et al. (2018). Chapter 2: Mitigation Pathways Compatible
+with 1.5°C in the Context of Sustainable Development. In Global
+Warming of 1.5°C.
+10. Hoegh-Guldberg, O. et al. (2018). Chapter 3: Impacts of 1.5°C of
+Global Warming on Natural and Human Systems. In Global
+Warming of 1.5°C.
+11. de Coninck, H. et al. (2018). Chapter 4: Strengthening and
+Implementing the Global Response. In Global Warming of 1.5°C.
+12. Roy, J. et al. (2018). Chapter 5: Sustainable Development, Poverty
+Eradication and Reducing Inequalities. In Global Warming of 1.5°C.
+13. Bindoff, N. et al. Chapter 10: Detection and Attribution of Climate
+Change: from Global to Regional. In Climate Change 2013: The
+Physical Science Basis. WGI contribution to AR5 of the IPCC.
+14. Knutti, R. et al. (2015). The legacy of our CO2 emissions: a clash of
+scientific facts, politics and ethics. Climatic Change, Vol 133, 361–
+373.
+15. Knutti, R. et al. (2016). A scientific critique of the two-degree
+climate change target. Nature Geoscience, Vol 9, 13–18.
+16. IPCC (2018). Global Warming of 1.5°C: Frequently Asked
+Questions.
+17. UNFCCC (2015). Report on the structured expert dialogue on the
+2013–2015 review.
+18. UNFCCC (2010). The Copenhagen Accord.
+19. Warrilow, D (2018). Meeting a global temperature goal of 1.5C:
+Introduction. Presentation to RMetS, London, 14/11/2018.
+20. IPCC (2014). Fifth Assessment Report WGI: Technical Summary.
+21. Fesenfeld, L. P. et al. (2018). Climate policy for short- and longlived pollutants. Nature Climate Change, Vol 8, 933.
+22. Bowerman, N. H. A. et al. (2013). The role of short-lived climate
+pollutants in meeting temperature goals. Nature Climate Change,
+Vol 3, 1021–1024.
+23. Myhre, G. et al (2013). Aerosols and their Relation to Global
+Climate and Climate Sensitivity. Nature Education Knowledge, Vol
+4, 7.
+24. Allen, M. R. et al. (2009). Warming caused by cumulative carbon
+emissions towards the trillionth tonne. Nature, Vol 458, 1163–1166.
+25. Matthews, H. D. et al. (2009). The proportionality of global warming
+to cumulative carbon emissions. Nature, Vol 459, 829–832.
+26. Allen, M. R. et al. (2018). A solution to the misrepresentations of
+CO 2 -equivalent emissions of short-lived climate pollutants under
+ambitious mitigation. npj Climate and Atmospheric Science, Vol 1,
+16.
+27. Le Quéré, C. et al. (2018). Global Carbon Budget 2018. Earth
+System Science Data, Vol 10, 2141–2194.
+28. Seneviratne, S. I. et al. (2016). Allowable CO2 emissions based on
+regional and impact-related climate targets. Nature, Vol 529, 477–
+483.
+29. Rogelj, J. (2018). Options and challenges for achieving scenarios
+related to a 1.5C goal. Presentation to RMetS, London, 14/11/2018.
+30. UN Environment Programme (2018). Emissions Gap Report 2018.
+31. Beerling, D. J. et al. (2018). Farming with crops and rocks to
+address global climate, food and soil security. Nature Plants, Vol 4,
+138–147.
+
+Page 5
+
+32. Griscom, B. W. et al. (2017). Natural climate solutions. PNAS, Vol
+114, 11645–11650.
+33. Keith, D. W. et al. (2018). A Process for Capturing CO2 from the
+Atmosphere. Joule, Vol 2, 1573–1594.
+34. The Royal Society and the Royal Academy of Engineering. (2018).
+Greenhouse gas removal.
+35. EASAC (2018). Negative emission technologies: what role in
+meeting Paris Agreement targets?
+36. Smith, P. et al. (2016). Biophysical and economic limits to negative
+CO2 emissions. Nature Climate Change, Vol 6, 42–50.
+37. Fuss, S. et al. (2014). Betting on negative emissions. Nature
+Climate Change, Vol 4, 850–853.
+38. Heck, V. et al. (2018). Biomass-based negative emissions difficult
+to reconcile with planetary boundaries. Nature Climate Change, Vol
+8, 151.
+39. Committee on Climate Change (2016). UK climate action following
+the Paris Agreement.
+40. Dooley, K. et al. (2018). Land-based negative emissions: risks for
+climate mitigation and impacts on sustainable development. Int
+Environ Agreements, Vol 18, 79–98.
+41. NERC [online]. £8.6 million UK research programme on
+greenhouse gas removal. Accessed 11/01/19.
+42. Cuff, M. [online] Drax flicks switch on Europe’s first Bioenergy
+Carbon Capture and Storage pilot. Business Green. Accessed
+11/01/19.
+43. Arnell, N. W. et al. (2018). The impacts avoided with a 1.5°C
+climate target: a global and regional assessment. Climatic Change,
+Vol 147, 61–76.
+44. Seneviratne, S. I. et al. (2018). The many possible climates from
+the Paris Agreement’s aim of 1.5 °C warming. Nature, Vol 558, 41.
+45. The Met Office (2018). UKCP18 Derived Projections of Future
+Climate over the UK.
+46. Baker, H. S. et al. (2018). Higher CO2 concentrations increase
+extreme event risk in a 1.5°C world. Nature Climate Change, Vol 8,
+604.
+47. Fischer, E. M. et al. (2015). Anthropogenic contribution to global
+occurrence of heavy-precipitation and high-temperature extremes.
+Nature Climate Change, Vol 5, 560–564.
+48. Dosio, A. et al. (2018). Extreme heat waves under 1.5°C and 2°C
+global warming. Environ. Res. Lett., Vol 13, 054006.
+49. Mitchell, D. et al. (2018). Extreme heat-related mortality avoided
+under Paris Agreement goals. Nature Climate Change, Vol 8, 551.
+50. Weber, T. et al. (2018). Analyzing Regional Climate Change in
+Africa in a 1.5, 2, and 3°C Global Warming World. Earth’s Future,
+Vol 6, 643–655.
+51. Pattyn, F. et al. (2018). The Greenland and Antarctic ice sheets
+under 1.5°C global warming. Nature Climate Change,
+52. Screen, J. A. et al. (2017). Ice-free Arctic at 1.5°C? Nature Climate
+Change, Vol 7, 230–231.
+53. Ridgwell, A. et al. (2010). Past constraints on the vulnerability of
+marine calcifiers to massive carbon dioxide release. Nature
+Geoscience, Vol 3, 196–200.
+54. House of Commons Science & Technology Select Committee
+(22/03/17). Ocean Acidification Inquiry. Oral Evidence.
+55. van Hooidonk, R. et al. (2016). Local-scale projections of coral reef
+futures and implications of the Paris Agreement. Scientific Reports,
+Vol 6, 39666.
+56. Hughes, D. J. et al. (2013). Impacts of climate change on deep-sea
+habitats. MCCIP Science Review 2013, 204-210,
+57. Warszawski, L. et al. (2013). A multi-model analysis of risk of
+ecosystem shifts under climate change. Environ. Res. Lett., Vol 8,
+044018.
+58. Warren, R. et al. (2018). The projected effect on insects,
+vertebrates, and plants of limiting global warming to 1.5°C rather
+than 2°C. Science, Vol 360, 791–795.
+59. Abebe, A. et al. (2016). Growth, yield and quality of maize with
+elevated atmospheric carbon dioxide and temperature in north–
+west India. Agriculture, Ecosystems & Environment, Vol 218, 66–
+72.
+
+POSTNOTE 594 February 2019 Limiting Global Warming to 1.5 C
+
+60.
+
+61.
+
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+
+Dokken, D. et al. (2014). Chapter 7: Food Security and Food
+Production Systems. In Climate Change 2014: Impacts, Adaptation,
+and Vulnerability. Part A: Global and Sectoral Aspects. Contribution
+of Working Group II to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change.
+Füssel, H.-M. (2010). How inequitable is the global distribution of
+responsibility, capability, and vulnerability to climate change: A
+comprehensive indicator-based assessment. Global Environmental
+Change, Vol 20, 597–611.
+Kartha, S. et al. (2018). Cascading biases against poorer countries.
+Nature Climate Change, Vol 8, 348.
+Robiou du Pont, Y. et al. (2017). Equitable mitigation to achieve the
+Paris Agreement goals. Nature Climate Change, Vol 7, 38–43.
+Robiou du Pont, Y. et al. (2018). Warming assessment of the
+bottom-up Paris Agreement emissions pledges. Nature
+Communications, Vol 9,
+OECD (2018). Climate finance from developed to developing
+countries: Public flows in 2013-17.
+Timperley and Pearce [online]. Mapped: Where multilateral climate
+funds spend their money. Carbon Brief. Accessed 10/01/19
+Climate Change Act 2008.
+BEIS (2018). Provisional UK greenhouse gas emissions national
+statistics 2017.
+Barrett, J. et al. (2013). Consumption-based GHG emission
+accounting: a UK case study. Climate Policy, Vol 13, 451–470.
+Defra (2018). UK’s Carbon Footprint 1997-2015.
+House of Commons Library (2018). CBP 7555: UK Fifth Carbon
+Budget.
+Committee on Climate Change (2018). Reducing UK emissions:
+2018 Progress Report to Parliament.
+The Climate Coalition (2018). Cross Party MP Joint Letter.
+Vivid Economics (2018). Keeping it cool: How the UK can end its
+contribution to climate change. WWF.
+Pye, S. et al. (2017). Achieving net-zero emissions through the
+reframing of UK national targets in the post-Paris Agreement era.
+Nature Energy, Vol 2, 1–7.
+UK Parliament (2018). Parliamentary written question 137888.
+HMG (2017). The Clean Growth Strategy: Leading the way to a low
+carbon future.
+HMG et al. (2018). UK climate targets: letter to the Committee on
+Climate Change - 15 October 2018.
+UK Parliament (2018). Parliamentary written question 186934.
+HMG (2017). Climate Change Risk Assessment 2017.
+Committee on Climate Change (2016). UK Climate Change Risk
+Assessment 2017: Evidence Report.
+Defra (2018). The National Adaptation Programme and the Third
+Strategy for Climate Adaptation Reporting.
+Brown, K. (2018). The new National Adaptation Programme: Hit or
+miss? Committee on Climate Change.
+Committee on Climate Change [online]. CCC welcomes publication
+of Government’s second National Adaptation Programme.
+Accessed 06/01/19.
+Scottish Government (2014). Climate ready Scotland: Scottish
+climate change adaptation programme.
+Scottish Government (2018). Climate Ready Scotland: Scottish
+climate change adaptation programme - fourth annual progress
+report.
+Welsh Assembly Government (Llywodraeth Cynulliad Cymru)
+(2010). Climate change strategy for Wales: adaptation delivery
+plan.
+Northern Ireland Executive Department of the Environment (2014).
+Northern Ireland Climate Change Adaptation Programme.
+
+Page 6
+
+

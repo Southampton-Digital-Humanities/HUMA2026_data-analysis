@@ -1,0 +1,4357 @@
+House of Commons
+Treasury Committee
+
+Net zero and the Future
+of Green Finance
+Thirteenth Report of Session 2019–21
+Report, together with formal minutes relating
+to the report
+Ordered by the House of Commons
+to be printed 14 April 2021
+
+HC 147
+
+Published on 22 April 2021
+by authority of the House of Commons
+
+The Treasury Committee
+The Treasury Committee is appointed by the House of Commons to examine the
+expenditure, administration, and policy of HM Treasury, HM Revenue and Customs
+and associated public bodies.
+Current Membership
+
+Mel Stride MP (Chair) (Conservative, Central Devon)
+Rushanara Ali MP (Labour, Bethnal Green and Bow)
+Steve Baker MP (Conservative, Wycombe)
+Harriett Baldwin MP (Conservative, West Worcestershire)
+Anthony Browne MP (Conservative, South Cambridgeshire)
+Felicity Buchan MP (Conservative, Kensington)
+Dame Angela Eagle MP (Labour, Wallasey)
+Julie Marson MP (Conservative, Hertford and Stortford)
+Siobhain McDonagh MP (Labour, Mitcham and Morden)
+Alison Thewliss MP (Scottish National Party, Glasgow Central)
+The following was also a Member of the Committee during this session: Mike Hill MP
+(Labour, Hartlepool).
+Powers
+
+The committee is one of the departmental select committees, the powers of which
+are set out in House of Commons Standing Orders, principally in SO No. 152. These
+are available on the internet via www.parliament.uk.
+Publication
+
+© Parliamentary Copyright House of Commons 2021. This publication may be
+reproduced under the terms of the Open Parliament Licence, which is published at
+www.parliament.uk/site-information/copyright-parliament/.
+Committee reports are published on the Committee’s website at
+www.parliament.uk/treascom/ and in print by Order of the House.
+Committee staff
+
+The current staff of the Committee are Jack Dent (Second Clerk), Rachel Edwards
+(on secondment from the Bank of England), Kenneth Fox (Clerk), Dan Lee (Senior
+Economist), Cat Melvin (on secondment from the Financial Conduct Authority),
+Aruni Muthumala (Senior Economist), Moyo Oyelade (on secondment from the
+Bank of England), Matt Panteli (Senior Media and Policy Officer), Tony Verran (on
+secondment from HM Revenue & Customs), Adam Wales (Chief Policy Adviser),
+Maciej Wenerski (Committee Operations Manager), Jesse Williams (Committee
+Operations Officer),and Marcus Wilton (Senior Economist).
+Contacts
+
+All correspondence should be addressed to the Clerk of the Treasury
+Committee, House of Commons, London SW1A 0AA. The telephone number
+for general enquiries is 020 7219 5769; the Committee’s email address is
+treascom@parliament.uk.
+You can follow the Committee on Twitter using @commonstreasury.
+
+Net zero and the Future of Green Finance
+
+1
+
+Contents
+Summary3
+Introduction6
+
+1
+
+The Government’s decision to legislate for net zero
+
+6
+
+Our inquiry
+
+6
+
+The economic opportunities and costs of net zero
+
+8
+
+Green finance: an economic opportunity
+
+8
+
+Economic recovery: taking a “green” approach
+
+9
+
+‘Building back greener’ post coronavirus
+
+9
+
+Government decision making and the Net Zero Review
+
+2
+
+3
+
+11
+
+Co-ordination of Government effort
+
+13
+
+Spending reviews
+
+13
+
+Uncertainty of costs
+
+14
+
+Regional impact of transition to net zero on high carbon industries
+
+17
+
+Green finance to support decarbonisation
+
+19
+
+The importance of utilising private finance
+
+19
+
+Long term policy certainty for investors
+
+19
+
+Green gilts
+
+20
+
+Greening central banking
+
+22
+
+Long-term Asset Fund
+
+24
+
+Solvency II
+
+26
+
+National Infrastructure Bank
+
+26
+
+The role of consumers
+
+30
+
+The importance of consumer choice
+
+30
+
+Consumer inertia and a lack of choice
+
+30
+
+Defined contribution pensions
+
+30
+
+Requirements on workplace pension scheme trustees
+
+33
+
+Appropriate transparency for consumers and ‘Greenwashing’
+
+35
+
+Greenwashing35
+
+4
+
+Climate risk labels
+
+36
+
+Passive investments and indices
+
+37
+
+Green product innovation
+
+39
+
+Regulators and regulation
+
+42
+
+Remit of the Prudential Regulation Committee and the Financial Conduct Authority42
+
+Prudential risks and the capital regime
+
+43
+
+TCFD implementation and mainstreaming of green finance
+
+46
+
+Sustainable taxonomy
+
+49
+
+Conclusions and recommendations
+
+52
+
+Formal minutes
+
+56
+
+Witnesses (2017–19 session)
+
+57
+
+Published written evidence (2017–19 session)
+
+58
+
+Witnesses (2019–21 session)
+
+62
+
+Published written evidence (2019–21 session)
+
+63
+
+List of Reports from the Committee during the current Parliament
+
+66
+
+Net zero and the Future of Green Finance
+
+Summary
+Decarbonisation and Net Zero
+The Government has made bold claims that the economic recovery will be a green
+recovery. In order to achieve that, the Government needs to set out in its Net Zero
+Strategy who, at ministerial level, will be responsible for delivering net zero, coordinating
+the roles of different departments, and ensuring that the UK remains on track to meet
+its net zero target in a cost-effective way.
+In the Net Zero Review final report, the Government should set out what mechanisms
+it will put in place to integrate the net zero target within departments’ spending review
+commitments, and how departments will be held to account should they fail to meet
+their targets.
+The Chancellor should publish the Net Zero Strategy as soon as possible and should set
+out, in conjunction with the Net Zero Review final report, the principles upon which
+the UK will fund its transition to net zero carbon emissions by 2050.
+There are a number of different estimates of the cost of achieving net zero by 2050.
+However, the Government has not yet committed to its own cost estimates and should
+set these out as soon as possible. The Government should include in the Net Zero
+Review final report its own methodology on costs; and it should set out clearly where
+the uncertainties lie. The Treasury should also include a range of scenarios on how net
+zero might be achieved, and the associated cost for each scenario.
+The Treasury’s Net Zero Review final report should include clear sectoral pathways
+towards decarbonisation and should address the key policy decisions as to the future
+of high carbon industries. Particular attention should be given to the potential regional
+impact of those decisions and the Government should set out a framework and strategy
+for supporting those communities which will be most impacted by these changes. This
+is especially important given the Government’s commitment to a Just Transition as part
+of the Paris Agreement.
+Private finance
+The Government has recognised that private finance will need to play a key part in
+funding the transition to net zero. If it is to do so, the Government will need to provide
+long-term certainty in climate-related policy and must ensure that consistent policy
+signals are sent to investors. We are encouraged that the Government acknowledged
+these needs in the 2021 Budget.
+We welcome the announcement in the 2021 Budget of a timetable for the issuance of
+the UK’s first green sovereign bond or ‘green gilt’. However, the UK is lagging behind
+other countries in the issuance of these green bonds. This runs the risk of holding back
+the development of a private sterling green bond market. Although concerns about the
+potential for green bonds to be a more expensive form of debt for the Government
+seem to have dissipated to a degree, the Government should none the less set out its
+tolerance, when issuing such bonds, for them to be more expensive than other forms of
+Government debt.
+
+3
+
+4
+
+Net zero and the Future of Green Finance
+
+The Treasury should, as part of its review of Solvency II, consider reforms that could
+improve the funding of sustainable green infrastructure while maintaining the financial
+stability of insurers.
+In the proposed framework for the new UK Infrastructure Bank, the Chancellor should
+clarify its governance arrangements, how investment decisions will be made, and how it
+will ensure that it attracts sufficient private capital. In particular, it should clearly set out
+how the Bank will meet the Government’s commitment to Net Zero. The Government
+should also set out how it will incorporate lessons learned from the former Green
+Investment Bank, and whether it intends that the UK Infrastructure Bank should
+be funded to offer a lending facility at a level similar to that offered by the European
+Investment Bank before the UK referendum on membership of the EU.
+Consumer choice
+There is a high level of inertia amongst consumers around defined contribution pension
+fund choice, with most remaining in the ‘default’ fund. The Treasury has been robust in
+its view that default funds should not be required to move to more green alternatives, but
+at the same time maintains that consumers should not have to switch out of the default
+to invest sustainably. The Government should resolve this apparent contradiction.
+The Treasury should report regularly on the proportion of pension holders in defined
+contribution pension schemes who remain in the default fund, and the extent to which
+those default funds are aligned with a path to Net Zero.
+Financial products should be clearly labelled to allow consumers to assess the relative
+climate impacts of products and to make choices accordingly. However, allowing every
+firm to create its own consumer sustainability labels may lead to inconsistencies and
+consumer confusion. The Treasury and the Financial Conduct Authority should consult
+on the merits of making climate or carbon labels for consumer financial products
+mandatory, as a means to encourage innovation. The FCA should consult on how best
+to make such labels readily and widely understood.
+We note the concerns expressed about indices, in that the most popular may be carbonintensive, and those that purport to be green may have carbon-intensive constituents.
+The risk remains that many consumers are unaware of the carbon-intensity of the
+indices that their passive investments are tracking. The Treasury and regulators should
+therefore ensure that all indices (whether conventional or climate-friendly) clearly set
+out the overall carbon footprint of the assets included within indices.
+On the concerns around the constituents of indices described as ‘green’, we note
+the requirements under the Benchmarks Regulation, which should be used to help
+consumers make better choices. However, it is clear that in some cases the labels or
+descriptions of ‘green’ or ‘climate-related’ indices do not necessarily match legitimate
+consumer expectations of what they would commonly be understood to mean. The
+Treasury and FCA should review the provisions in the legislative and regulatory
+framework and ensure that the labels and descriptions of indices accurately reflect their
+content, in line with consumer expectations.
+The Government’s Green Finance Strategy noted the need for innovation in green
+finance products and services, yet the evidence we have received suggests that the pace
+
+Net zero and the Future of Green Finance
+
+of innovation could be accelerated and that more could be done to encourage takeup. The Financial Conduct Authority should seriously consider undertaking further
+“green fintech challenges” to encourage innovation. The regulator should also set out
+how it will tackle remaining regulatory barriers which discourage innovative ‘green’
+financial products from coming to market. The Government and the regulators should
+work more closely with the Green Finance Institute to bring innovative ideas which will
+benefit consumers to the market.
+Mainstreaming Green Finance
+The Prudential Regulation Authority and Financial Conduct Authority should move
+quickly to incorporate their revised remits to include climate change. We will continue
+to monitor their progress and ongoing approach to the risks arising from climate change.
+We have heard differing evidence on whether there should be amendments to the
+capital regimes to promote net zero. In light of its new remit letter, the Bank of England
+must now explain its thinking, as to what measures it might consider appropriate for
+the capital regime to better accommodate the climate risk associated with different
+investments. It should set out its views on the options for amending the capital regimes
+to reflect its new remit, taking into account the potential interaction with the other
+aims of prudential policy.
+The Government has moved from a voluntary to a mandatory approach for ensuring
+that firms make climate-related financial disclosures. But the process will be run to
+different timetables for different firms, across different regulators according to the
+Roadmap published by the Joint Government Regulator TCFD Taskforce. The Treasury,
+via the Taskforce, will need to play a key role in ensuring that pressure is maintained for
+a consistent and rapid implementation of these disclosures.
+We also draw the Treasury’s attention to evidence suggesting that the disclosure regime
+could be widened in scope, and that firms might usefully offer fuller disclosures.
+A taxonomy is an important part of identifying what can be considered green
+investment, so the announcement of a UK taxonomy is welcome. The Treasury and
+regulators should work at speed to ensure that there is a clear timetable and legislative
+pathway to deliver a UK taxonomy ahead of COP26 in November 2021. The UK can
+utilise the EU’s taxonomy but can exceed it when it will assist the UK’s goals. The UK
+should seize the opportunity presented by COP26 to use its own work on a taxonomy
+to push for greater international convergence.
+
+5
+
+6
+
+Net zero and the Future of Green Finance
+
+Introduction
+The Government’s decision to legislate for net zero
+1. On 12 June 2019, the Rt Hon. Theresa May MP (then Prime Minister) announced
+that the UK would eradicate its net contribution to greenhouse gas emissions by 2050.1 A
+statutory instrument2 was laid before Parliament on the same day, seeking to amend the
+Climate Change Act 2008 to enshrine this target in legislation. The Government said that
+the UK was therefore the first G7 country to legislate for net zero emissions.3
+2. On 2 July 2019, the Government published its Green Finance Strategy, which had two
+objectives:
+•
+
+To align private sector financial flows with clean, environmentally sustainable
+and resilient growth, supported by Government action.
+
+•
+
+To strengthen the competitiveness of the UK financial sector.4
+
+3. This Report, which is concerned mainly with the development of Green Finance in
+the face of the Government’s legislative Net Zero target, is published with two particular
+catalysts for action in mind. Firstly, in November 2021, the UK will host the 26th UN
+Climate Change Conference (COP 26), which will bring parties together to accelerate
+action towards the goals of the Paris Agreement and the UN Framework Convention
+on Climate Change.5 Secondly, the Treasury has indicated that in 2022 there will be a
+“refresh” of the Green Finance Strategy.6
+
+Our inquiry
+4. The previous Treasury Committee launched an inquiry into the Decarbonisation of
+the UK economy and green finance in June 2019,7 and it published terms of reference8
+seeking evidence on:
+•
+
+the potential economic opportunity offered by decarbonisation,
+
+•
+
+the Treasury’s strategy in facilitating clean growth and its response to the
+Climate Change Committee’s net-zero recommendation, and
+
+•
+
+green finance.
+
+The previous Committee received written evidence from interested parties for this first
+phase of the inquiry and held three oral evidence sessions.
+1
+2
+3
+4
+5
+6
+7
+8
+
+UK Parliament, ‘Government gives details on setting a UK net zero emissions target’, accessed 11 February 2021
+The Climate Change Act 2008 (2050 Target Amendment) Order 2019
+UK Parliament, ‘Government gives details on setting a UK net zero emissions target’, accessed 11 February 2021
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 7
+UK COP 26, ‘UN Climate Change Conference UK 2021’, accessed 19 February 2021
+HM Treasury, A Roadmap towards mandatory climate-related disclosures, November 2020, Para 1.21
+Treasury Select Committee, ‘Committee launch inquiry into decarbonisation of the UK economy’, accessed 11
+February 2021
+Treasury Select Committee, ‘Decarbonisation of the UK economy and Green Finance terms of reference’,
+accessed 11 February 2021
+
+Net zero and the Future of Green Finance
+
+7
+
+5. After the 2019 General Election and the establishment of the present Committee, we
+re-launched the inquiry9 in July 2020 with revised terms of reference, in the light of the
+coronavirus pandemic and our work on the economic impact of coronavirus. We received
+further written evidence from a variety of interested parties, including members of the
+general public, trade associations, the finance industry and businesses. The further four
+oral evidence sessions of the second phase of this inquiry focused on a post-coronavirus
+green recovery, green infrastructure and the way in which private finance could help the
+Government meet its net zero emissions target.
+6. We are grateful to all those who submitted written evidence and those who gave oral
+evidence, including business and financial services experts, economists, representatives
+from the Bank of England, Financial Conduct Authority, the Pensions Regulator,
+the Economic Secretary to the Treasury and the Exchequer Secretary to the Treasury.
+Transcripts of oral evidence and published written evidence can be found on our webpages.
+7. We note also the valuable work of the Environmental Audit Committee in this field,
+most recently through its Third Report of this Session, Growing back better: putting nature
+and net zero at the heart of the economic recovery.10
+
+9
+10
+
+Treasury Select Committee, ‘Decarbonisation of the UK economy and green finance inquiry relaunched’,
+accessed 11 February 2021
+Environmental Audit Committee, Third Report of Session 2019–21, Growing back better putting nature and net
+zero at the heart of the economic recovery, HC 347
+
+8
+
+Net zero and the Future of Green Finance
+
+1 The economic opportunities and costs
+of net zero
+Green finance: an economic opportunity
+8. In the Green Finance Strategy, launched in July 2019, the Government argued that
+“leadership on green finance will enable the UK to maximise the economic opportunities
+of the global and domestic shifts to clean and resilient growth.”11
+9. The previous Committee heard evidence that decarbonising the economy could
+provide the UK with a substantial economic opportunity, both in terms of economic
+advantage that might be gained through new low carbon technologies, and globally,
+if the UK could establish the City of London as a leading centre for green finance and
+other green industries. We use the term “green finance” in this report to encompass the
+mobilisation of private finance for clean and resilient growth, the incorporation of climate
+and environmental factors within investment decisions, and the development of “green”
+financial products.12
+10. Sagarika Chatterjee, Director of Climate Change, Principles for Responsible
+Investment,13 told us that “[…] there is still a very strong opportunity for the UK and the
+City of London to lead on this. There are strong commercial and trading opportunities,
+particularly from the green finance side. The City of London, as well as, more broadly,
+Edinburgh and many other areas of the UK, should be the No. 1 place for green finance”.14
+11. Action to develop “green” finance in the UK could have consequences outside the UK,
+because of the international nature of the City. Positive Money, a not-for-profit research
+and campaigning organisation seeking to “make money and banking work for society”,15
+told the previous Committee that while the UK is responsible for approximately 1% of
+global CO2 emissions, the City of London “hosts and finances companies which account
+for a minimum of around 15% of potential global CO2 emissions, and the financial carbon
+footprint of the UK is 100 times its own fossil fuel reserves”.16
+12. John Glen MP, Economic Secretary to the Treasury, confirmed that there is “a
+significant appetite for people to invest in sustainable financial products”17 and that there
+were “new technologies that give us faster routes to that net zero goal”.18 Similarly, Kemi
+Badenoch MP, Exchequer Secretary to the Treasury, argued that there was also export
+potential: “If we can do this right and become world leaders in carbon capture storage,
+hydrogen and offshore wind, we can export these technologies […] There are benefits to
+making sure we get a march on and can be world leading in this space.”19
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 6
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 7 - 11
+Principles for Responsible Investment is an independent membership body for institutional investors supported
+by the United Nations
+Oral evidence taken on 2 July 2019, HC 2233 (2017–19), Q14 [Sagarika Chatterjee]
+Positive Money, ‘Making money and banking work for society’, accessed 8 April 2021
+Positive Money, (DUE0063) para 4.3
+Q253
+Q253
+Q253
+
+Net zero and the Future of Green Finance
+
+9
+
+Economic recovery: taking a “green” approach
+13. The development of the UK as a centre for green finance is an opportunity which
+could be identified in advance and planned for. The coronavirus pandemic, on the other
+hand, was quite unforeseen; but it has in its way offered a quite different sort of opportunity,
+by forcing policymakers to think about how to build sustainability and “green” spending
+into planning for an economic recovery. This Report now looks at what the Government
+has already done in that respect, and what more it could do to co-ordinate that effort and
+to influence Government departments in planning their activities and spending so as to
+assist in meeting the net zero target.
+‘Building back greener’ post coronavirus
+14. While the Government’s focus over the last year has been the coronavirus pandemic,
+it has also prioritised achieving economic recovery in line with the UK’s net zero target.
+In June 2020, the Prime Minister committed the UK to “build back better, build back
+greener, build back faster”.20 Similarly, in his statement to the House on the Plan for Jobs
+in July 2020, the Chancellor announced that “this will be a green recovery, with concern
+for our environment at its heart, and as part of that, I am announcing today a new £2
+billion green homes grant”.21 He went on to say that he was “releasing £1 billion of funding
+to improve the energy efficiency of public sector buildings, alongside a £50 million fund to
+pilot the right approach to decarbonise social housing”. He argued that this was therefore
+a “£3 billion green jobs plan to save money, cut carbon and create jobs”.22
+15. The Prime Minister’s speech to the Conservative Party Conference in October 2020
+highlighted the Government’s commitment to “the green economy, the green industrial
+revolution that in the next ten years will create hundreds of thousands if not millions of
+jobs” and announced plans for the UK to become a “world leader in low cost clean power
+generation”.23 In November 2020, the Prime Minister published a ‘Ten Point Plan’ for a
+green industrial revolution, which included a focus on “Innovation and finance”.24 The
+Chancellor of the Exchequer supported this commitment to a green industrial revolution
+with a number of ‘green’ spending commitments in the November 2020 joint Autumn
+Statement and Spending Review.25
+16. We heard evidence which supported “green” spending measures as a means of
+supporting the UK’s economic recovery. Professor Nick Robins, Professor in Practice for
+Sustainable Finance, Grantham Research Institute, London School of Economics, noted
+that:
+… through the Covid crisis, we have seen a greater recognition, particularly
+from the financial sector but also from the corporate sector and the world
+of policy, that the way out of this crisis is to move in a more accelerated
+fashion to the economy of the future, one which is net zero, resilient and
+20
+21
+22
+23
+24
+25
+
+“PM: A New Deal for Britain”, Prime Minister’s Office, 10 Downing Street and The Rt Hon Boris Johnson MP,
+press release, 30 June 2020
+HC Deb, 8 July 2020, col 976 [Commons Chamber]
+HC Deb, 8 July 2020, col 976 [Commons Chamber]
+The Conservative Party, ‘Boris Johnson: Read the Prime Minister’s Keynote Speech in full’, accessed 12 February
+2021
+“Prime Minister Boris Johnson outlines his Ten Point Plan for a Green Industrial Revolution for 250,000 jobs”,
+Prime Minister’s Office, 10 Downing Street and The Rt Hon Boris Johnson MP, press release, 18 November 2020
+HM Treasury, Spending Review 2020, CP 330, November 2020, para. 29
+
+10
+
+Net zero and the Future of Green Finance
+
+more inclusive. We have a legal commitment to that in the UK, particularly
+to net zero. That would imply that we would want to see funds that are
+allocated to business in this crisis being done in a way that is consistent
+with net zero.26
+17. Dr Emily Shuckburgh OBE, Director of Cambridge Zero, at the University of
+Cambridge, told us that “the key question is whether it is a cost to the overall economy.
+There is plenty of evidence, looking at past investments, that green investments give you
+a really strong multiplier in exactly these circumstances.”27 Dr Shuckburgh further noted
+that green investments made good economic and fiscal sense because “[…] if we do not
+look at putting in place both the jobs and the infrastructure that are relevant to the future,
+we will be putting money into things that are stranded, in the sense of jobs or assets that
+do not have any future”.28
+18. We also heard evidence supporting the imposition of “green” conditions on the
+provision of recovery financing for businesses. Professor Robins told us that this could
+be done in two ways: either by looking at past performance and the carbon or pollution
+intensity of the business, or by linking to a company’s commitment to net zero and social
+commitments, such as retraining of workers.29
+19. However, when asked about conditionality, Chris Cummings, CEO of the Investment
+Association, was more cautionary. He told us that:
+We are trying to strike the right balance between making sure that the
+businesses we are investing in are responding to climate change, and
+setting a course for correction and improvement where necessary, without
+imposing costs on them, particularly at this time, that could be difficult and
+could make the difference between the long-term sustainability we want
+and too much short-term pain.30
+20. The Government’s main business lending programmes in the coronavirus crisis—
+Bounceback loans, Coronavirus Business Interruption Loan Scheme (CBILS) and
+Coronavirus Large Business Interruption Loan Scheme (CLBILS)—did not have “green”
+conditions attached to them. However, in its support to Celsa Steel (UK), Alok Sharma
+MP, then Secretary of State for Business, Energy and Industrial Strategy, told the House of
+Commons that the Government had agreed legally binding contractual conditions with
+Celsa on employment, climate change and tax.31
+21. At Budget 2021, the Government announced a new “Recovery Loan Scheme” and set
+out how it would operate:32
+The Recovery Loan Scheme is to help businesses of any size access loans
+and other kinds of finance so they can recover after the pandemic and
+transition period.
+26
+27
+28
+29
+30
+31
+32
+
+Q61
+Q63
+Q63
+Q61
+Q64
+Written Ministerial statement, 2 July 2020, HCWS332
+HM Treasury and Department for Business, Energy & Industrial Strategy, ‘Guidance: Recovery Loan Scheme’,
+accessed 9 April 2021
+
+Net zero and the Future of Green Finance
+
+11
+
+Up to £10 million is available per business. The actual amount offered and
+the terms are at the discretion of participating lenders.
+The government guarantees 80% of the finance to the lender. As the
+borrower, you are always 100% liable for the debt.
+The scheme is open until 31 December 2021, subject to review. Loans are
+available through a network of accredited lenders, listed on the British
+Business Bank’s website.33
+22. At present, the Recovery Loan Scheme does not appear to have any green conditionality
+attached to it. However, in its submission to our inquiry, Barclays noted that:
+…via the British Business Bank, the Government already has a number of
+schemes in place designed to stimulate wholesale lending post COVID-19,
+e.g. the ENABLE guarantee, CBILS and CLBILS. With relatively simple
+tweaks, these schemes can be adapted to focus on net zero blended finance
+solutions. As a significant number of businesses focus on bridging their
+short-term needs through the COVID-19 pandemic, now is an ideal time
+for a focused, clear and green COVID-19 recovery program to marry up
+with the closing of the CLBILS/CBILS window in September.34
+23. Although the Government has emphasised the need for a “green” recovery, we
+note it has not, except in limited circumstances, imposed green conditionality on the
+support it has provided during the coronavirus pandemic. Whilst it is clear that support
+schemes were required to be provided without delay the Treasury should set out why it
+did not include green conditionality for the Recovery Loan Scheme announced in the
+2021 Budget.
+
+Government decision making and the Net Zero Review
+24. In November 2019, the Treasury launched its Net Zero Review,35 which will consider
+how the transition to net zero will be funded and will assess options for where the costs
+will fall. The terms of reference set out what this will involve:
+•
+
+Analysing the range of choices for how households, businesses and the taxpayer
+could contribute towards different elements of the transition to net zero.
+
+•
+
+Identifying mechanisms to create an equitable balance of contributions.
+
+•
+
+Maximising opportunities for economic growth as we transition to a green
+economy
+
+•
+
+Evaluating the trade-offs between cost, competitiveness, effects on consumers
+and impacts on the taxpayer.
+
+25. An interim Net Zero Review report was published in December 2020, which sets
+out the analysis undertaken so far, including on uncertainty of cost, policy levers, and
+33
+34
+35
+
+HM Treasury and Department for Business, Energy & Industrial Strategy, ‘Guidance: Recovery Loan Scheme’,
+accessed 9 April 2021
+Barclays (DEC0052) p 2
+HM Treasury, ‘Net Zero Review terms of reference,’ accessed 12 February 2021
+
+12
+
+Net zero and the Future of Green Finance
+
+household exposure, and seeks feedback ahead of the final report.36 The final report, which
+will build on the interim report and which will be published in spring 2021, will look at:
+•
+
+Innovation and growth: How the government can reduce policy uncertainty to
+encourage innovation, technological development and investment. It will look
+at areas where the UK might have comparative advantage and consider how to
+maximise the economic benefits.
+
+•
+
+Competitiveness: The scope for addressing the risks of carbon leakage and
+competitiveness that may arise from the transition to net zero.
+
+•
+
+Household impacts: More detailed analysis of the implications for households
+from the decarbonisation of transport, buildings and power and options for
+managing any adverse impacts, as well as the trade-offs the government may
+face.
+
+•
+
+Embedding the findings: How HM Treasury could incorporate climate
+considerations into spending reviews and fiscal events and how to embed the
+principles of the Net Zero Review into policy making across government.37
+
+26. In 2019, the Treasury also commissioned the Dasgupta review on the Economics of
+Biodiversity, to assess the economic benefits of biodiversity globally; the economic costs
+and risks of biodiversity loss; and to identify a range of actions to enhance biodiversity
+and deliver economic prosperity.38 The review’s final report, published in February 2021,
+covers the impact of human economic growth and development on nature. One of the
+report’s main conclusions is that nature’s importance is not reflected in market prices,
+which has led to underinvestment in the world’s natural assets. The report recommended,
+amongst other things:
+•
+
+Changing measures of economic success to guide policymakers on a more
+sustainable path, including a measure of inclusive wealth which includes natural
+assets; and introducing natural capital into national accounting systems to
+improve decision-making; and
+
+•
+
+Ensuring that the financial system channels investment into economic activities
+that enhance the stock of natural assets.39
+
+27. Separate to the Net Zero Review final report, the Government has also committed
+to providing a Net Zero Strategy40 which it says “will set out the Government’s vision for
+transitioning to a net zero economy, making the most of new growth and employment
+opportunities across the UK”.41
+
+36
+37
+38
+39
+40
+41
+
+HM Treasury, Net Zero Review: Interim report, December 2020, p.3–5
+HM Treasury, Net Zero Review: Interim report, December 2020, p 5–6
+HM Treasury, ‘Collection The Economics of Biodiversity: The Dasgupta Review’, accessed 17 March 2021
+HM Treasury, The Economics of Biodiversity: The Dasgupta Review Headline Messages, February 2021, p 4
+HM Treasury, Net Zero Review interim report, December 2020, para 1.22
+HM Government, The Government Response to the Committee on Climate Change’s 2020 Progress Report to
+Parliament, October 2020, p 6
+
+Net zero and the Future of Green Finance
+
+13
+
+Co-ordination of Government effort
+28. We heard that achieving net zero by 2050 would require the Government to conduct
+joined-up and coherent decision and policy-making, with an important role to be
+played by HM Treasury. Baroness Bryony Worthington, environmental campaigner and
+Crossbench Life peer, told us that an integrated approach to decarbonising was necessary.
+She told us:
+The quality of our policies is imperative and the Treasury plays a central
+role in that, in ensuring we join up the parts of Government. […] we still
+spend a lot of money on certain sectors of the economy, including transport.
+We need to see an integrated strategy of transport infrastructure that hits
+multiple objectives: clean air, no greenhouse gases, and investment into our
+industries with sustaining jobs.42
+She noted though that “some of the lack of joined-up thinking is within Departments. It
+is not just between Departments and the Treasury.”43
+29. Lord Turner of Ecchinswell, Chairman of the Energy Transitions Commission, also
+emphasised the important role of the Treasury, saying that “Treasury is in charge of taxes
+and Treasury is in charge of public expenditure. Although there are many other tools
+of policy required to build a zero-carbon economy, what the tax regime is and what the
+public expenditure regime is are crucially important, so that needs to be integrated with
+the overall strategy.”44
+30. The Government has made bold claims that the economic recovery will be a
+green recovery. In order to achieve that, the Government needs to set out in its Net
+Zero Strategy who, at ministerial level, will be responsible for delivering net zero,
+coordinating the roles of different departments, and ensuring that the UK remains on
+track to meet its net zero target in a cost-effective way.
+Spending reviews
+31. We received evidence that the Government’s net zero target needs to be integrated
+into the Government’s spending decisions. Written evidence from the World Wildlife
+Foundation (WWF) proposed that the Treasury implement a ‘net zero test’ for spending
+decisions, including at spending reviews and annual budgets. WWF also proposed a Fiscal
+Resilience Rule as part of the Treasury’s fiscal framework review, which would “guide the
+decision-making process for the Comprehensive Spending Review”, and ensure “that all
+spending will be aligned with building the UK’s economic resilience”.45 WWF proposed
+that the rule would encourage fiscal policy to address future risks to the UK economy,
+including climate change.
+32. The UK operates a system of carbon budgets: legally binding caps on greenhouse
+emissions over a five-year period.46 Shortly after carbon budgets were introduced under
+the 2008 Climate Change Act, Baroness Worthington wrote in the Guardian that:
+42
+43
+44
+45
+46
+
+Q2
+Q5
+Q3
+World Wildlife Foundation (DEC0054) pp 1, 4, para 30
+Climate Change Committee, ‘Advice on reducing the UK’s emissions’, accessed 9 April 2021
+
+14
+
+Net zero and the Future of Green Finance
+
+The principle behind carbon budgeting is simply that emissions must stay
+within a pre-determined limit or compensating actions, such as payment
+for emission reductions elsewhere, must be taken. This was meant to
+engender the feeling that every tonne counts, since allowing an emission
+to take place creates a liability against the budget, whereas, investing in
+emissions savings effectively creates an asset.47
+However, Baroness Worthington told us that in the implementation of carbon budgets
+“one element that never really got implemented was that, if we are facing a deficit, as in we
+are not meeting our targets, there is a potential monetary value to that […]”.48 Baroness
+Worthington explained that “the point is getting the Treasury’s minds to think about this
+in terms of liabilities, as in if we do not meet our targets we are creating a liability, and
+assets, as in investments now that decrease that liability over time.”49
+33. Kemi Badenoch MP, Exchequer Secretary to the Treasury, told us that it was her
+intention to hold departments to account for their net zero spending: “We cannot have a
+plan for net zero without Departments being fully engaged. It is a strategic priority […] All
+of the various Departments need to take account of which actions help us reduce emissions.
+This will be important to consider in the spending review. It will be an important part of
+wider fiscal strategy.”50
+34. It remains unclear to us, however, what mechanisms are in place within the spending
+review process to provide incentives to departments to design their activity and spending
+so as to meet the Government’s net zero target; nor was it clear to us what the consequences
+would be for departments that did not do so.
+35. In the Net Zero Review final report, the Government should set out what
+mechanisms it will put in place to integrate the net zero target within departments’
+spending review commitments, and how departments will be held to account should
+they fail to meet their targets.
+
+Uncertainty of costs
+36. While a range of different estimates of the cost of achieving net zero have been
+produced, the overall cost remains uncertain. In June 2019, it was reported that the Rt
+Hon. Philip Hammond MP, then Chancellor, had suggested that the cost of net zero would
+reach £1 trillion, and that analysis by the Department of Business, Energy and Industrial
+Strategy had estimated the cost at £70 billion per year.51
+37. We heard from Nick Mohlo, Director of Aldersgate Group, that:
+it is difficult to comment on the precise figure because of the uncertainty
+of looking 30 years out. There are obviously quite big uncertainties around
+what the cost of finance would be, which would have a big bearing on the
+overall cost.52
+47
+48
+49
+50
+51
+52
+
+The dawn of carbon budgeting: now every tonne counts”, The Guardian, 14 July 2009
+Q28
+Q28
+Q275
+“UK net zero emissions target will ‘cost more than £1tn”, The Financial Times, 5 June 2019
+Q6
+
+Net zero and the Future of Green Finance
+
+15
+
+Mr Mohlo added that his understanding of the Climate Change Committee’s analysis was
+that the UK “would be looking at an actual resource cost of 1% to 2% of GDP to get to net
+zero”. He explained that while there would be an increase in cost for some sectors, such
+as low-carbon heating, costs would fall in other areas of the economy, such as transport,
+where the Climate Change Committee estimated an annual reduction in cost of around
+£5 billion.53
+38. Lord Turner of Ecchinswell told us that “it is not completely absurd” that the cost to
+achieve net zero by 2050 might be £1 trillion, but he noted that “by setting that figure up,
+you are making people think, “I have to find £1 trillion in the Budget to pay for that”.54
+In his view, the cost would be apportioned across the time period “at the end of which,
+by 2050, people might have to accept being 1.5% worse off than they otherwise would be,
+which if we are growing our economy at 1.75%, means that they will reach, in December
+2050, the living standard that they would otherwise have reached in February 2050”.55
+39. We also received written evidence from the Global Warming Policy Foundation
+which set out concerns about the Government’s projected reliance on off-shore wind and
+its associated costs, and particularly that “no official costings of the net zero project have
+been published”.56 The Global Warming Policy Foundation called for the Treasury “to
+prepare and publish a detailed and publicly accessible costing of the project”57 and noted
+that the Foundation’s own calculations indicated costs approaching £4 trillion, or around
+£150,000 per household.
+40. The Climate Change Committee now estimates in its Sixth Carbon Budget published
+in December 2020 that the annualised resource cost will be less than 1% of GDP per
+annum until 2050 but that this would not “necessarily reduce GDP by an equivalent
+amount”, as modelling suggested that the level of UK GDP “would be around 2% higher
+than it would have been by 2035 as resources are redirected from fossil fuel imports to UK
+investment”.58 The Sixth Carbon Budget outlines three possible scenarios which reflect
+uncertainties over “how far people will change their behaviours, how quickly technology
+will develop and the balance between options where credible alternatives exist”.59
+41. The Treasury recognised the uncertainty of cost estimates in its Net Zero Review
+interim report, published in December 2020:
+… [the] amount of investment required to reach net zero and the
+consequential impacts on operating costs are difficult to estimate. They
+are affected by a range of factors, including the precise path of transition,
+changes in behaviour and the rate at which technology costs fall and
+efficiency gains made, all of which are subject to significant uncertainty.60
+42. We received evidence on the difficulties of economic modelling and of estimating
+the costs. When asked whether the Treasury’s economic modelling facilitates the effective
+funding of environmental policies, Chris Stark, Chief Executive of the Committee on
+53
+54
+55
+56
+57
+58
+59
+60
+
+Q6
+Q8
+Q8
+Global Warming Policy Foundation (DEC0009) pp 1–2
+Global Warming Policy Foundation (DEC0009) p 2
+Climate Change Committee, The Sixth Carbon Budget The UK’s path to Net Zero, (December 2020), p 21
+Climate Change Committee, The Sixth Carbon Budget The UK’s path to Net Zero, (December 2020), p 24
+HM Treasury, Net Zero Review interim report, December 2020, p 4
+
+16
+
+Net zero and the Future of Green Finance
+
+Climate Change, told the previous Committee that “the Treasury has several ways of
+modelling the economy. Some of those models are extremely appropriate and some are
+not.” He noted that the Treasury had considered net zero in recent years as a “spending
+pressure”; but in his view, this was not the most appropriate way to look at the issue, as
+the policies needed to get the UK to net zero were likely to be long-term. He argued that
+“if you view the policies that are necessary to get us to net zero in three or four-yearly
+periods as spending pressures, it is going to be extremely difficult to consistently make the
+arguments for those policies to be in place”.61 He said that the Treasury needed “to lift its
+horizons slightly”.62
+43. Professor Nick Robins, Professor in Practice of Sustainable Finance at the London
+School of Economics, was critical of current modelling of both costs and benefits, and told
+the previous Committee:
+[…] the current economic models, potentially including the Treasury’s,
+really underestimate the scale of the challenge around climate change in
+two profound ways. First, they underestimate the costs, because often they
+only price things that are measurable and we know that many of these
+things are hard to measure. Secondly, they have consistently underestimated
+the benefits of an innovation-led process of growth. […] that leads to
+unnecessary caution, both in viewing the challenge of climate change as
+smaller than it is and in downsizing the potential opportunity for the wider
+economy.63
+44. We raised uncertainties about costs with Ministers. The Exchequer Secretary for the
+Treasury, Kemi Badenoch MP, recognised the inherent tension between achieving the
+UK’s net zero goal by 2050, and ensuring that it was achieved in a cost-effective way,
+saying that “the Government’s priority is that we do this in a way that is sustainable and
+not in a way that loses people their jobs or their livelihoods”.64 She also told us that the
+Treasury was still assessing where the costs for achieving net zero would lie, but she did
+say that “between businesses, taxpayers, and consumers, it is about making sure that the
+balance is fair”.65 When asked about the costs of not taking action, Ms Badenoch told us
+that while she recognised that the physical impact of climate change required action, “we
+have not got to a point where we have been putting a figure on it. That is something that
+we will be looking to do very soon in the future”.66
+45. While Ms Badenoch committed to providing the methodology around the calculation
+of cost estimates of the transition to net zero, she noted that “I am not sure whether that
+is something that would be in the review itself. It would be quite difficult. I think we can
+provide in other forums ways of explaining the methodology”.67 However, Ms Badenoch
+committed to going “as far as we possibly can to show the working and be as transparent
+as we possibly can”,68 acknowledging that the “consequences could be catastrophic if we
+do not accurately estimate what the costs are going to be”.69
+61
+62
+63
+64
+65
+66
+67
+68
+69
+
+Oral evidence taken on 2 July 2019, HC (2017–19) 2233, Q12 [Mr Chris Stark]
+Oral evidence taken on 2 July 2019, HC (2017–19) 2233, Q12, [Mr Chris Stark]
+Oral evidence taken on 2 July 2019, HC (2017–19) 2233, Q12, [Professor Nick Robins]
+Q247
+Q248
+Q254
+Q266
+Q266
+Q267
+
+Net zero and the Future of Green Finance
+
+17
+
+46. The Chancellor should publish the Net Zero Strategy as soon as possible and should
+set out, in conjunction with the Net Zero Review final report, the principles upon which
+the UK will fund its transition to net zero carbon emissions by 2050.
+47. There are a number of different estimates of the cost of achieving net zero by
+2050. However, the Government has not yet committed to its own cost estimates and
+should set these out as soon as possible. The Government should include in the Net Zero
+Review final report its own methodology on costs; and it should set out clearly where the
+uncertainties lie. The Treasury should also include a range of scenarios on how net zero
+might be achieved, and the associated cost for each scenario.
+
+Regional impact of transition to net zero on high carbon industries
+48. The 2015 Paris Agreement, to which the UK is a signatory, states that signatories
+would “tak[e] into account the imperatives of a just transition of the workforce and the
+creation of decent work and quality jobs in accordance with nationally defined development
+priorities”.70 This was followed at COP24 in 2018, when the then Prime Minister signed
+the Solidarity and Just Transition Declaration Silesia, which reaffirmed the “imperatives
+of a just transition of the workforce and the creation of decent work and quality jobs” and
+recognised that “the circumstances of economic sectors, cities and regions that are most
+likely to be affected by the transition vary from country to country”.71
+49. The Government’s Net Zero Review interim report, published in December 2020,
+recognised the likely differing regional impact of a transition, observing that it would
+“lead to significant changes in the structure of the economy” and that these changes
+would “have knock-on impacts on sectors, jobs and regions.”72 It acknowledged that
+“employment losses concentrated in high carbon sectors are possible if these sectors
+cannot adapt or absorb the costs of decarbonisation”.73
+50. Some of our witnesses expanded on this point. Professor Robins, Professor in Practice
+of Sustainable Finance, Grantham Research Institute at the London School of Economics,
+told us that:
+Just transition is already part of the Paris agreement. We can translate that
+commitment in a policy sense, for example, when we come forward with
+the national infrastructure strategy, when we think about the skills and
+retraining that is going to be required. In terms of the regional dimension,
+the transition is not going to happen equally across the country. The country
+is very differentiated between rural, post-industrial and urban.74
+51. Dr Daniel Klier, Group Head of Sustainable Finance at HSBC, observed that financial
+institutions were now running scenarios on their lending exposures to identify which
+geographies and sectors were most affected. Dr Klier said that “We need to do the same
+for the UK economy, to identify exactly what we mean, which industries and which parts
+of the economy are affected, and then launch a cluster strategy for those. Investors, banks
+and the wider community here will be able to act only if we point fingers at where we have
+concerns”.75
+70
+71
+72
+73
+74
+75
+
+United Nations, Paris Agreement, (December 2015), p 2
+COP 24 Katowice 2018, Solidarity and Just Transition Silesia Declaration, 2018
+HM Treasury, Net Zero Review interim report, December 2020, para 2.27
+HM Treasury, Net Zero Review interim report, December 2020, para 2.30
+Q95
+Q95
+
+18
+
+Net zero and the Future of Green Finance
+
+52. For the Government’s part, Niva Thiruchelvam, Deputy Director, Head of Net Zero
+Review at the Enterprise and Growth Unit in HM Treasury, told us that “The Net Zero
+Review is looking specifically at climate change mitigation and the optimal path to get
+to net zero by 2050. As part of that, we are looking at distributional issues [...], and a just
+transition is very much part and parcel of that”.76
+53. The Treasury’s Net Zero Review final report should include clear sectoral pathways
+towards decarbonisation and should address the key policy decisions as to the future of
+high carbon industries. Particular attention should be given to the potential regional
+impact of those decisions, and the Government should set out a framework and strategy
+for supporting those communities which will be most impacted by these changes. This is
+especially important given the Government’s commitment to a Just Transition as part
+of the Paris Agreement.
+
+76
+
+Q312
+
+Net zero and the Future of Green Finance
+
+19
+
+2 Green finance to support
+decarbonisation
+The importance of utilising private finance
+54. The Government’s Green Finance Strategy, published in 2019, was clear that private
+finance would have an important role to play in achieving the decarbonisation of the UK
+by 2050.77 It noted that:
+A strategy to green the financial system as a whole needs to be combined
+with specific actions to mobilise and accelerate flows of private finance into
+key clean growth and environmental sectors at home and abroad.78
+The 2021 Budget reinforced that view, noting that the Government expects the private
+sector to provide the majority of investment needed to achieve net zero.79
+55. The Government has acknowledged that the transition to net zero will require
+significant private finance. Witnesses endorsed this view,80 and we heard that the industry
+should be able to provide that finance.81 This Report now considers what will be needed to
+ensure that provision is as smooth and effective as possible, including:
+•
+
+Long term policy certainty for investors;
+
+•
+
+Greening central banking;
+
+•
+
+Facilitating private investment through: green sovereign bonds; long term asset
+funds; proposed reforms to Solvency II; and the new UK infrastructure bank.
+
+Long term policy certainty for investors
+56. It has been suggested that in the past, Government policies have changed frequently,
+deterring low-carbon investment. Nick Mohlo, Executive Director of Aldersgate Group,
+a membership organisation promoting a competitive and environmentally sustainable
+economy, told us that:
+If you go back to some of the policy developments between 2010 and 2016,
+we saw a fairly high level of uncertainty across low-carbon investments. The
+levy control framework, which was the overall pot of funding allocated to
+renewable energy funding, was delayed on multiple occasions. The fourth
+carbon budget had been reviewed quite prematurely. The zero-carbonhomes requirement was cancelled in 2015, and that had very negative knockon impacts on the feeling of investment confidence, but also on the work
+of other Government Departments that had put a considerable amount of
+time into developing those policies in co-ordination with business.82
+77
+78
+79
+80
+81
+82
+
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, pp 2, 9
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 9
+HM Treasury, Build Back Better: our plan for growth, CP 401, March 2021, p 91
+Oral evidence taken on 2 July 2019, HC (2017–19) 2233, Q14, [Sagarika Chatterjee] ; Q101
+Q101 [Dr Daniel Klier], Q85 [Chris Cummings]
+Q4
+
+20
+
+Net zero and the Future of Green Finance
+
+Mr Mohlo added that more of the off-shore wind infrastructure supply chain could
+have been based in Britain had it not been for that uncertainty. He told us that “a lot
+of the investment uncertainty of the time definitely had some negative impact on their
+perception of the UK as an investable market and it resulted in a smaller number of supply
+chain investments than we would otherwise have seen.”83
+57. Chris Cummings, Chief Executive Officer of the Investment Association, also
+emphasised the importance of policy certainty to attract investment, adding:
+As the investment management industry, the one thing we love to invest in
+is infrastructure: long-term projects with known investment horizons. It
+is exactly the type of thing we get excited about. Successive Governments,
+unfortunately, have changed the policy direction, rules, incentives and
+so on, which makes it much harder for UK pension funds to invest in
+infrastructure.84
+Mr Cummings further noted that “Policy certainty underpins all of this, making sure that
+Government are thinking long term, especially when thinking about green infrastructure
+and green investment.”85
+58. The Government announced in Budget 2021 that the Treasury’s Net Zero Review is
+looking at how the UK Government can reduce policy uncertainty in order to encourage
+investment, alongside innovation and technological development.86
+59. The Government has recognised that private finance will need to play a key part in
+funding the transition to net zero. If it is to do so, the Government will need to provide
+long-term certainty in climate-related policy and must ensure that consistent policy
+signals are sent to investors. We are encouraged that the Government acknowledged
+these needs in the 2021 Budget.
+
+Green gilts
+60. At the November 2020 Spending Review, the Chancellor of the Exchequer announced
+that the UK would issue its first green sovereign bond or ‘green gilt’.87 Green sovereign
+bonds can be defined as debt securities issued by governments where the proceeds raised
+are used to finance clearly defined projects which have environmental benefits.88 Following
+this commitment, the Treasury noted at Budget 2021 that:
+The government will issue its first sovereign green bond—or green gilt—
+this summer, with a further issuance to follow later in 2021 as the UK looks
+to build out a ‘green curve’. Green gilt issuance for the financial year will
+total a minimum of £15 billion. The green gilt framework, to be published
+in June, will detail the types of expenditures that will be financed to help
+meet the government’s green objectives. The government also commits to
+reporting the contributions of green gilt spending towards social benefits
+such as job creation and levelling up.89
+83
+84
+85
+86
+87
+88
+89
+
+Q4
+Q79
+Q108
+HM Treasury, Build Back Better: our plan for growth, CP 401, March 2021, p 91
+HM Treasury, “Chancellor sets out ambition for future of financial services”, accessed 12 February 2021
+BMO Global Asset Management, Should the UK Debt Management Office issue green gilts? (August 2020), p 1
+HM Treasury, Budget 2021, HC 1266, March 2021, Para 2.144, p 63
+
+Net zero and the Future of Green Finance
+
+21
+
+61. Despite the Government’s announcements on green gilts, in comparison to other
+European governments, the UK is lagging behind. Germany raised 6.5 billion euros from
+its first green sovereign bond in September 2020,90 while France issued its first green
+sovereign bond in January 2017 raising 7 billion euros. France’s green sovereign bonds are
+used to fund the government’s ‘Invest for the Future’ programme to “fight climate change,
+adapt to climate change, protect biodiversity and fight pollution”.91
+62. This delay in the issuance of a green gilt may have come at a cost in developing other
+green bond issuance markets in the UK. Dr Daniel Klier, Group Head of Sustainable
+Finance at HSBC, highlighted that there was not yet a strongly growing sterling green
+bond market, as there is in dollars and euros, and noted that a benchmark bond issued by
+the Government was likely to be needed to unlock the sterling market.92
+63. While we heard evidence from finance industry experts, including Chris Cummings,
+Chief Executive Officer of the Investment Association, that there would be investor
+appetite for a UK green gilt issuance,93 the Debt Management Office has also previously
+suggested to us that green gilts may mean raising finance at a premium compared with
+conventional gilts.94
+64. However, some of our witnesses disagreed with this analysis. Professor Nick Robins,
+Professor in Practice for Sustainable Finance, Grantham Research Institute at the London
+School of Economics, told us that “it would be very plausible to issue something that could
+raise money at lower cost for the state”.95 Chris Cummings added that “having spoken to
+our members, I am not convinced that there would be a premium for these investments”.96
+Dr Klier agreed, telling us that “at the moment, especially in Germany, we come in at
+prices that are below the market curve. I do not see any evidence for why we should be at
+a premium”.97
+65. While John Glen MP, Economic Secretary to the Treasury, confirmed that there had
+previously been value for money considerations around sovereign green bonds, he noted
+that “market conditions have materially changed, […] and that is why we announced it.”98
+66. We welcome the announcement in the 2021 Budget of a timetable for the issuance
+of the UK’s first green sovereign bond or ‘green gilt’. However, the UK is lagging behind
+other countries in the issuance of these green bonds. This runs the risk of holding back
+the development of a private sterling green bond market. Although concerns about the
+potential for green bonds to be a more expensive form of debt for the Government seem
+to have dissipated to a degree, the Government should none the less set out its tolerance,
+when issuing such bonds, for them to be more expensive than other forms of Government
+debt.
+
+90
+91
+92
+93
+94
+95
+96
+97
+98
+
+“Germany raises 6.5 billion euros from first ever green bond”, Reuters, 2 September 2020
+Agence France Trésor, ‘Green OATs’, accessed 12 February 2021
+Q109
+Q65 [Chris Cummings], also Q109
+Oral Evidence taken on 24 June 2020 HC (2019–21) 496, Q55–58 [Alison Thewliss, Sir Robert Stheeman]
+Q95
+Q109
+Q109
+Q243
+
+22
+
+Net zero and the Future of Green Finance
+
+Greening central banking
+67. As part of its monetary policy operations, the Bank of England operates a Corporate
+Bond Purchase Scheme (CBPS). The Bank describes the CBPS as follows:
+The Corporate Bond Purchase Scheme (CBPS or “the Scheme”) was launched
+in August 2016. It imparts monetary stimulus by lowering the yields on
+corporate bonds, thereby reducing the cost of borrowing for companies. It
+does this by triggering portfolio rebalancing into riskier assets by sellers of
+assets, and by stimulating new issuance of corporate bonds.99
+The Asset Purchase Facility (APF) currently holds £20 billion of corporate bonds under
+the CBPS. This represents a small fraction of the total holdings of the APF, which is
+currently planned to reach £895 billion, and the total market of corporate bonds eligible
+for the Scheme, which amounts to £160 billion.100
+68. These corporate bond purchases by the Bank may be being used to fund carbonintensive activity. This can be seen in the Bank’s own published Taskforce on Climaterelated Financial Disclosures (TCFD)-compliant disclosures.101 In his foreword to those
+disclosures, the Governor of the Bank of England noted that:
+…the carbon intensity of our holdings of UK sterling corporate bonds (2%
+of the portfolio) reflects the position of the UK market generally. However,
+there remains a gap between the associated carbon outputs of these holdings
+and the Paris goals. This demonstrates the additional work needed to meet
+the UK’s goal of net-zero emissions by 2050.102
+69. Positive Money, a campaign group seeking to “make money and banking work for
+society”,103 noted what the impact of these holdings meant for the net zero target:
+‘Greening’ the Bank of England remains a key step in facilitating the
+transition to a Net Zero economy by ensuring financial flows are aligned
+with the government’s climate targets. As Britain’s central bank, the Bank
+of England is currently overseeing a financial system which is significantly
+out of step with the UK’s legally binding commitments under the Paris
+Agreement. As former Bank of England governor Mark Carney told the
+Treasury Committee in October 2019, the global financial system may be
+funding temperature rises of more than 4C, more than double the 1.5C
+aimed for in the Paris Agreement. Indeed, the Bank of England’s own asset
+purchases are currently aligned with a 3.5C increase in temperatures by
+the end of the century, which the Bank has defended as simply mirroring
+the market, which the MSCI Reference Portfolio suggests is funding 3.7C
+warming.104
+99
+100
+
+101
+102
+103
+104
+
+Bank of England, ‘Asset Purchase Facility (APF): Additional Corporate Bond Purchases - Market Notice 2 April
+2020’, accessed 9 April 2021
+Bank of England, Bonds eligible for the Corporate Bond Purchase Scheme as at 3 September 2020’ (September
+2020); Bank of England, Monetary Policy Summary and Minutes of the Monetary Policy Committee meeting
+ending on 17 March 2021 (March 2021), p 1
+Bank of England, The Bank of England’s climate related financial disclosure 2020, (June 2020)
+Bank of England, The Bank of England’s climate related financial disclosure 2020, (June 2020), p 1
+Positive Money, ‘Making money and banking work for society (positivemoney.org)’, accessed 17 March 2021
+Positive Money (DEC0060) para 3.1
+
+Net zero and the Future of Green Finance
+
+23
+
+70. In his appointment hearing in March 2020 with us for the role of Governor of the
+Bank of England, we asked Andrew Bailey about excluding fossil fuels from future bonds
+purchases. He told us:
+The original policy with the corporate bond programme was to hold
+essentially a portfolio that mimicked the corporate bond markets—in
+other words, it was a neutral portfolio. That was done deliberately. The
+Bank of England is not in there, picking companies; it is completely neutral.
+Whatever the market is, we hold the neutral portfolio. The question you
+rightly raise is whether we should shift that to say, “Given the public interest
+in climate change, we should shift the make-up of the portfolio to being one
+that is on the way to net neutral,” or however you want to define it. I think
+there is a very strong argument for doing that.105
+71. Sarah Breedon, Executive Director for UK Deposit Takers Supervision at the Bank
+of England and its executive sponsor for work on climate change, emphasised this point.
+She told us that “what we have said we will do—and we will do—is think about how
+best to attach conditionality, working with Treasury, which needs to agree it, given that it
+decides our remit, for the corporate bonds we purchase as part of our quantitative easing
+approach.”106
+72. At Budget 2021, the Chancellor provided the Monetary Policy Committee of the
+Bank of England with a new remit letter, in which he amended its remit to reflect the
+importance of environmental sustainability and the transition to net zero: “I am today
+updating the MPC’s remit to reflect the government’s economic strategy for achieving
+strong, sustainable and balanced growth that is also environmentally sustainable and
+consistent with the transition to a net zero economy.”107 In response to this new remit
+letter, the Bank made the following announcement:
+In the coming months we will provide more information about our proposed
+approach to adjusting the Corporate Bond Purchase Scheme (CBPS) to
+account for the climate impact of the issuers of the bonds we hold, with a
+view to adapting our approach by the time of our next scheduled round of
+reinvestment operations in 2021 Q4.108
+73. There has been criticism of this change of remit. Lord King, a former Governor of the
+Bank of England, told the House of Lords on 12 March 2021 that:
+When asset purchases commenced in 2009, the framework was established
+to ensure that the Bank did not become the arbiter of credit allocation
+among different sectors and different companies. But the new remit requires
+the bank to do just that, and to “reflect the importance of environmental
+sustainability and the transition to net zero”109 in its purchases of corporate
+bonds. Some may argue that this is a harmless gesture; after all, given
+the inflation outlook, it is far from obvious that there will be new asset
+purchases by the Bank. But what seems a harmless gesture today may prove
+105
+106
+107
+108
+109
+
+Oral evidence taken on 4 March 2020, HC (2019–21) 122, Q63 [Julie Marson, Andrew Bailey]
+Q117
+HM Treasury, Remit for the Monetary Policy Committee (MPC), March 2021, p 1
+Bank of England, ‘MPC Remit statement and letter and FPC Remit letter, accessed 12 March 2021
+HC Deb, 3 March 2021, col 259 [Commons Chamber]
+
+24
+
+Net zero and the Future of Green Finance
+
+damaging tomorrow. I know that climate change arouses passions, but
+that is no reason to embroil the Bank of England in what should be the
+responsibility of government. Climate change and declining biodiversity are
+serious issues that merit proper debate. Fiddling with the Bank of England’s
+remit, while at the same time taking no action on a carbon tax and freezing
+fuel duty again, are gestures, not a coherent policy. More importantly, they
+are the first steps on a slippery slope to undermining the independence of
+the Bank, and we cannot afford to lose that.110
+74. We note the new remit provided to the Monetary Policy Committee, which will
+allow it to rebalance its Corporate Bond Purchase Scheme to take account of the
+climate impact of the bonds it holds. We will continue to scrutinise this process and
+will examine how any changes are enacted, and how those changes impact on the other
+policy objectives and the independence of the Monetary Policy Committee.
+
+Long-term Asset Fund
+75. We heard a proposal for reform to facilitate green finance from Chris Cummings,
+CEO of the Investment Association, who told us that his major recommendation for
+regulatory change was to create a new ‘long-term asset fund’:
+This is a new fund vehicle that we have been spending a lot of time talking to
+our friends at the Treasury and the FCA about, which allows retail investors
+and particularly DC pension funds to invest in infrastructure. […] It is a
+new fund structure, which is specifically designed to address the long-term
+investment issues.111
+76. Sheldon Mills, then Interim Executive Director for Strategy and Competition at the
+Financial Conduct Authority, told us that:
+We are working closely with the Investment Association in relation to
+long-term asset funds and trying to ensure that we have the right balance
+of enabling that innovation in the market, getting coalition from asset
+managers and others around this new type of vehicle and having the right
+level of consumer protection and risk in relation to that, so that we have
+the right badges on it and, when those funds are potentially distributed,
+the right types of investors can come into them. I am not saying that they
+are made to be risky, but they are a different type of investment than retail
+investors might be used to. We are working very closely with the Investment
+Association, and we hope to finalise that as quickly as we can.112
+77. In November 2020, the Chancellor announced the launch of a new type of ‘long-term
+asset fund’ which would allow pension savers to invest in infrastructure assets.113 In the
+same month, the Treasury, the Bank of England and the FCA convened a working group
+to facilitate investment in productive finance. The minutes of The Productive Finance
+Working Group Steering Committee note that:
+110
+111
+112
+113
+
+HL Deb, 12 March 2021, col 1914 [Lords Chamber]
+Q77
+Q175
+HM Treasury, “Chancellor sets out ambition for future of financial services”, accessed 19 February 2021
+
+Net zero and the Future of Green Finance
+
+25
+
+The Working Group should draw on a large amount of existing work on the
+barriers to investment in productive finance. Its focus should be to identify
+practical ways to address both the operational and demand side barriers,
+and set out a clear roadmap for their implementation. This would support
+the Chancellor’s public commitment to set up a Long-Term Asset Fund
+(LTAF) later this year.
+The minutes also note that “a successful outcome for the Working Group would be to have
+facilitated the launch of at least one LTAF, with capital having been committed from a
+broad range of investors”.114
+78. While in his proposal, Mr Cummings argued that such a long-term asset fund might
+be available to retail investors, this has been subject to debate at the Productive Finance
+Working Group Steering Committee. The January 2021 minutes note that:
+The Steering Committee discussed the intended target market for the LTAF
+[Long Term Asset Fund]. This will be an important question for the TEG
+[Technical Expert Group] to explore ahead of future Steering Committee
+meetings. Some members, whilst recognising that the LTAF was unlikely
+to be a product for the mass retail market, nonetheless, wanted an LTAF
+to be available to sophisticated segments of the retail market, as well as
+institutional investors. Others commented that, as this was a new product
+which would be investing in asset classes not traditionally available to retail
+investors in an open-ended structure, and which might require notice
+periods exceeding a year, it would not be suitable for most retail investors.
+Careful consideration, along with input from the advisory community,
+would be required about how it conforms to tax wrappers (for example,
+ISAs, SIPPs). One member noted that listings on exchanges can help provide
+access to retail investors.
+Given the challenges of distributing a new product to the retail market,
+some members thought the initial focus should be on delivering an LTAF
+for institutional investors (most notably large DC pension schemes), before
+facilitating access to retail investors at a later stage.115
+79. When the Chancellor announced in November 2020 that this new type of ‘longterm asset fund’ would launch, he explained that it would do so within a year. However,
+the Investment Association recently announced that a regulatory consultation from the
+Financial Conduct Authority was required before any new fund could launch.116
+80. We note the debate at the Productive Finance Working Group Steering Committee
+on retail access to the ‘long term asset fund’ (LTAF). There should be clarity about who
+will have access to the LTAF. The Chancellor and the financial regulators should set out
+the timeframe for the launch of the announced ‘long term asset fund’ to allow pension
+savers to invest in long-term projects. We would expect that such an LTAF would be
+focused on providing a net-zero compliant product.
+114
+115
+116
+
+Bank of England, The Productive Finance Working Group, Minutes of the first Steering Committee meeting,
+(Tuesday 26 January 2021), paras 3 - 4
+Bank of England, The Productive Finance Working Group, Minutes of the first Steering Committee meeting,
+(Tuesday 26 January 2021), paras 20–21
+Pinsent Masons, ‘Details of Long Term Asset Fund Revealed’, accessed 19 February 2021
+
+26
+
+Net zero and the Future of Green Finance
+
+Solvency II
+81. We heard evidence that regulatory restrictions under Solvency II were preventing
+insurance companies from investing in long-term infrastructure assets. Solvency II is
+the European Directive on the taking-up and pursuit of the business of Insurance and
+Reinsurance, which came into force on 1 January 2016.117 The Bank of England describes
+Solvency II as setting out the “regulatory requirements for insurance firms and groups,
+covering financial resources, governance and accountability, risk assessment and
+management, supervision, reporting and public disclosure”.118
+82. Huw Evans, Chief Executive Officer of the Association of British Insurers, told us
+that:
+We have to support the Government and lobby them to change the Solvency
+II framework so that insurers are in a position to invest in a much wider
+range of sustainable ESG assets that fully meet the task of policyholder
+protection and of delivering sustainable returns over the long run, but
+that enable insurers to put their £2 trillion-worth of assets to much more
+sustainable and good use going forward.”119
+This point was also emphasised by Aviva in its evidence to the previous Committee, where
+it argued that:
+Regulators should work to ensure that capital requirements reflect true longterm sustainability risks, and do not disincentivise long term sustainable
+investment. For example, Solvency II should be reformed so that it no longer
+discourages insurers from investing in green infrastructure.120
+83. In October 2020, the Government announced a review of Solvency II and published
+a call for evidence.121 In his foreword to that call for evidence, the Economic Secretary
+noted that “The review will be guided by our objectives: to ensure a vibrant and prosperous
+insurance sector, to provide long-term capital to support growth, and to uphold high
+standards of policyholder protection and promote the safety and soundness of firms.”122
+84. The Treasury should, as part of its review of Solvency II, consider reforms that
+could improve the funding of sustainable green infrastructure while maintaining the
+financial stability of insurers.
+
+National Infrastructure Bank
+85. On 25 November 2020, as part of the launch of the UK’s new National Infrastructure
+Strategy, the Chancellor of the Exchequer (the Rt Hon Rishi Sunak MP) announced a
+new UK Infrastructure Bank which will draw private finance investment into new
+infrastructure projects.123 The National Infrastructure Strategy described what the Bank
+117
+118
+119
+120
+121
+122
+123
+
+Directive of the European Parliament and of the Council on the taking-up and pursuit of the business of
+Insurance and Reinsurance (Solvency II), 09/138/EC
+Bank of England, ‘Solvency II’, accessed 11 March 2021
+Q187
+Aviva Plc (DUE0048) para 3
+HM Treasury, Review of Solvency II: Call for Evidence, October 2020
+HM Treasury, Review of Solvency II: Call for Evidence, October 2020, p 1
+HM Treasury, National Infrastructure Strategy, CP 329, November 2020, p 7
+
+Net zero and the Future of Green Finance
+
+27
+
+would do:
+•
+
+Support the Government’s commitment to ‘levelling up’ and net zero;
+
+•
+
+Lend to local and mayoral authorities for key infrastructure projects; and
+
+•
+
+Provide advice on financing infrastructure, alongside offering debt, equity and
+hybrid products.124
+
+86. Prior to this announcement, some witnesses to our inquiry had broadly supported
+a state-owned national investment or infrastructure bank.125 However, Professor Nick
+Robins, Professor in Practice of Sustainable Finance, Grantham Research Institute at the
+London School of Economics, reflected on the Green Investment Bank, the Government’s
+state-owned investment bank which invested in offshore wind, waste and biomass, energy
+efficiency and small scale renewables from 2012 until its sale in 2017.126 Mr Robins said
+that
+The Green Investment Bank was neither one thing nor the other. It was
+neither a classic, long term public infrastructure bank, like KFW in
+Germany or the European Investment Bank, and it was not a fully profitmaking private sector investor […].127
+He noted that there would not be a role for “a niche green investment bank, but for
+what is called a policy bank, a national investment bank to support development of the
+Government’s economic policy”.128
+87. The National Audit Office found in 2017 that the Green Investment Bank had
+invested in 100 projects, committing £3.4 billion of its own capital, and “had attracted
+£8.6 billion of private capital, equating to around £2.50 for every £1 invested”.129 While
+the Green Investment Bank attracted investment into the green economy, particularly
+into off-shore wind, its impact in other sectors was less certain. The National Audit Office
+recommended that when setting up companies the Government should set out criteria for
+judging success and develop a framework for evaluating performance, and should ensure
+that the company’s capital structure aligns with its objectives, and that there are clear
+arrangements for ongoing financing.130
+88. Regarding the sale of the previous Green Investment Bank, Sir Amyas Morse, the
+former Comptroller and Auditor General said:
+Ultimately the value for money of the Green Investment Bank intervention
+will only be seen over time. A key test will be whether the Government
+needs to intervene again in this way to stimulate growth in the green
+economy and to help it achieve its climate change commitments.131
+124
+125
+126
+127
+128
+129
+130
+131
+
+HM Treasury, National Infrastructure Strategy, CP 329, November 2020, p 70
+Q65 [Professor Nick Robins], Q74, Q211, Qq220–221 [Sandra Boss, Huw Evans]
+Green Finance Institute, The Role of a UK National Infrastructure Bank in a Green Recovery Insights paper,
+(December 2020), p 3
+Q74
+Q74
+Report by the Comptroller and Auditor General, National Audit Office, The Green Investment Bank, HC (2017–
+19) 619, para. 8
+Report by the Comptroller and Auditor General, National Audit Office, The Green Investment Bank, HC (2017–
+19) 619, para. 20
+Report by the Comptroller and Auditor General, National Audit Office, The Green Investment Bank, HC (2017–
+19) 619, para. 19
+
+28
+
+Net zero and the Future of Green Finance
+
+Only three years on from the sale of the GIB, the Government has decided it does again
+need to intervene in order to stimulate growth.
+89. At Budget 2021, the Chancellor provided more detail on how the UK Infrastructure
+Bank would operate. He said that it:
+will have £22 billion of financial capacity to deliver on its objectives,
+consisting of £12 billion of equity and debt capital and the ability to issue
+£10 billion of guarantees. It will draw capital from HM Treasury and be able
+to borrow from private markets. It will also grow through recycling and
+retention of return on investments. The government will allocate capital to
+the Bank in phases in line with its institutional development.132
+90. However, the Office for Budget Responsibility (OBR) noted in its forecast that:
+As an EU member state, the UK received almost €120 billion (or £89 billion)
+in loans and equity from the EIB between 1973 and 2019. In the five years
+prior to the EU referendum in 2016, EIB lending averaged £5 billion a year,
+but it fell sharply in 2017 and was less than £1 billion a year in 2018 and
+2019. The Government forecasts that the UKIB will lend and invest around
+£1½ billion a year (net of lending to local authorities that would otherwise
+have taken place through the Public Works Loans Board). This would be
+equivalent to around a third of the financing that was provided by the EIB
+prior to the EU referendum.133
+91. While the Government acknowledged that the EIB had previously provided support
+to UK projects, it noted that an assessment from Vivid Economics for the National
+Infrastructure Commission134 “showed that a portion of EIB activity crowded out private
+investment” and that respondents to the Infrastructure Finance Review echoed this point.
+The Government’s view therefore is that “where the EIB provided support in well-financed
+areas, the government anticipates that the private sector will step in without public sector
+support”.135
+92. Witnesses to our post-Budget 2021 evidence session were in agreement that the UK
+Infrastructure Bank’s proposed funding position was not big enough. Paul Johnson CBE,
+Director of the Institute for Fiscal Studies, told us that “If it is going to be effective, yes,
+it will need to be bigger. It is considerably smaller than the European Investment Bank,
+in the amount of money that that was making available. If you are serious about this
+in the longer run, it is going to have to be a bit bigger.”136 Rain Newton-Smith, Chief
+Economist at the Confederation of British Industry, agreed with Mr Johnson: “The initial
+pot of capital and equity is small. That will need to be scaled up over time. As you point
+out, it is much smaller than the German equivalent”.137
+93. Mr Johnson also noted that while there might be a case for starting relatively small,
+he emphasised the need to focus on how the money is spent, how the institution is set up,
+and to be clear about the purpose of the UK Infrastructure Bank:
+132
+133
+134
+135
+136
+137
+
+HM Treasury, UK Infrastructure Bank – Policy design, March 2021, p 4
+Office for Budget Responsibility, Economic and fiscal outlook on Budget 2021, March 2021, Box 3.6
+Vivid Economics, The role and impact of the EIB and GIB on UK infrastructure investment (May 2018), p 6
+HM Treasury, UK Infrastructure Bank – Policy design, March 2021, para. 1.7
+Oral evidence taken on 10 March 2021, HC (2019–21) 1196, Q196 [Dame Angela Eagle, Paul Johnson]
+Oral evidence taken on 10 March 2021, HC (2019–21) 1196, Q197 [Dame Angela Eagle, Rain Newton-Smith]
+
+Net zero and the Future of Green Finance
+
+29
+
+We need to be quite clear about quite what the purpose of these organisations
+is. […] which is really about lowering the risk for the private sector
+investment, reducing financing costs, possibly, on the green side, helping to
+create new investable asset classes and, in particular, being able sensibly to
+invest in early-stage long-horizon projects with high upfront costs and risks,
+the sort of things that are particularly important in the green economy.138
+94. While the Government announced at the Spending Review in November 2020 that
+it intended that the UK Infrastructure Bank should be operational in an interim manner
+from spring 2021, and that it would legislate to put the Bank on a statutory footing,139
+the Chancellor’s announcement at Budget 2021 suggested that a framework document
+providing further details on its operations would be published in the spring ahead of the
+UK Infrastructure Bank’s launch.140
+95. In the proposed framework for the new UK Infrastructure Bank, the Chancellor
+should clarify its governance arrangements, how investment decisions will be made,
+and how it will ensure that it attracts sufficient private capital. In particular, it should
+clearly set out how the Bank will meet the Government’s commitment to Net Zero. The
+Government should also set out how it will incorporate lessons learned from the former
+Green Investment Bank, and whether it intends that the UK Infrastructure Bank should
+be funded to offer a lending facility at a level similar to that offered by the European
+Investment Bank before the UK referendum on membership of the EU.
+
+138
+139
+140
+
+Oral evidence taken on 10 March 2021, HC (2019–21) 1196, Q196 [Dame Angela Eagle, Paul Johnson]
+HM Treasury, National Infrastructure Strategy, CP 329, November 2020, p 70
+HM Treasury, UK Infrastructure Bank – Policy design, March 2021, p 3
+
+30
+
+Net zero and the Future of Green Finance
+
+3 The role of consumers
+The importance of consumer choice
+96. Consumer behavioural change, on a voluntary basis, will help to drive the transition to
+net zero, requiring both education and engagement. Consumer choice will be particularly
+important, so that people can make decisions that best suit their particular situation.
+97. Community Energy England—which supports those committed to the community
+energy sector—told us that achieving net zero would require consumer ‘buy-in’,
+acknowledging that while “investment in Green Infrastructure and technology are vital,
+net zero cannot be ‘delivered’, only achieved with the consent and active participation of
+the people, not least because the Climate Change Committee estimates that 62% of all
+the measures it identifies as essential to achieving net zero are dependent on behaviour
+change”.141 In September 2020, the UK Parliament-sponsored Climate Assembly UK,
+which brought together people from all walks of life to discuss how the UK should meet
+the net zero target, published a report highlighting the importance of consumer choice in
+combating climate change, as it allows individuals to choose the best solution for them.142
+98. The Treasury has also noted that interventions can make it easier for consumers to
+choose low-carbon options. In its Net Zero Review Interim Report, the Treasury states that:
+Facilitative levers seek to change the structure of the market or the way
+people make decisions in order to make it easier for households and firms
+to choose low-carbon options. These levers can complement carbon pricing
+by addressing the other market failures that hold back the process of
+decarbonisation. This can lower the overall costs of the transition, change
+who pays and who is able to cover the necessary costs.143
+99. We consider below three elements that may have an impact on consumer choices
+around green finance:
+•
+
+Consumer inertia or an inability to choose
+
+•
+
+Appropriate transparency and ‘Greenwashing’
+
+•
+
+Innovation
+
+Consumer inertia and a lack of choice
+Defined contribution pensions
+100. Consumer choice can only work as a lever if consumers utilise the choices available to
+them. Yet within pensions, consumers may not have choices, or where they do, they may
+not use them. We heard evidence that 96% of pension savers144 in defined contribution145
+pension schemes are invested in their pension’s ‘default’ fund.146
+141
+142
+143
+144
+145
+
+146
+
+Community Energy England (DEC0091) para. 2.5
+Climate Assembly UK, The path to Net Zero - Climate Assembly UK Final Report, (September 2020), p.6
+HM Treasury, Net Zero Review: Interim report, December 2020, p 49, para 4.15
+Q188
+Defined contribution pension scheme definition: “Defined contribution pensions build up a pension pot using
+your contributions and your employers contributions (if applicable) plus investment returns and tax relief”,
+Money Advice Service, accessed 15 February 2021
+“A ‘default’ fund is the fund that members see their contributions invested in should they fail to make an
+alternative investment choice”, Default fund design in DC, accessed on 15 February 2021
+
+Net zero and the Future of Green Finance
+
+31
+
+101. Huw Evans, Chief Executive of the Association of British Insurers, told us that one
+of the key challenges in relation to ‘default’ funds was that of low consumer financial
+capability and the need for clear explanations about the options available to consumers.147
+Mr Evans hoped that part of the solution might come from fintech,148 through the
+“development of more consumer-facing apps and opportunities for customers to engage
+with how their pension funds are managed”.149
+102. Mr Evans, however, also highlighted a potential policy barrier against offering
+sustainable funds as a ‘default’ fund option for auto-enrolled pensions:
+The charge cap that we currently have in place for auto-enrol pension
+schemes is set at 0.75%. Nearly all ESG funds150 are above that because they
+involve active management, so they are more expensive to run. As long as
+you have a charge cap that does not allow for any exceptions, for example
+for ESG, you will find it hard to shift that. I would argue that there is a
+strong case in public policy terms for the charge cap having an exemption
+if there is an ESG component, to give people who are auto-enrolled in those
+funds to have the option to go above it.151
+103. However, recent government announcements may mitigate this charge cap restriction
+to Environmental, Social, and Governance (‘ESG’) fund take-up in auto-enrolled pensions.
+In its Budget document Budget 2021, the Treasury noted that:
+The government will consult within the next month on whether certain costs
+within the charge cap affect pension schemes’ ability to invest in a broader
+range of assets. This is to ensure pension schemes are not discouraged from
+such investments and are able to offer the highest possible returns for savers.
+DWP will also come forward with draft regulations to make it easier for
+schemes to take up such opportunities within the charge cap by smoothing
+certain performance fees over a multi-year period.152
+104. Anthony Raymond, General Counsel and Director of Legal Services, Policy and
+Advisory Directorate at the Pensions Regulator, told us that transparency would be “really
+important” in tackling default fund inertia, noting that defined contribution schemes now
+had to publish a statement of investment principles. Mr Raymond considered though that
+in the case of a default fund in an occupational pension scheme153 “to effect real change
+in this space, it is about ensuring that the trustee is doing the right things and considering
+the right issues”.154 Sheldon Mills, then Interim Executive Director of Strategy and
+Competition at the Financial Conduct Authority, took a similar view:
+147
+148
+
+149
+150
+
+151
+152
+153
+
+154
+
+Q188
+“Fintech” or Financial Technology is defined by the Bank of England as “technology-enabled financial
+innovation, which is changing the way financial institutions provide - and consumers and businesses use financial services”.
+Q190
+Environmental, Social and Governance (‘ESG’) funds are defined by Robeco as: “portfolios of equities and/
+or bonds for which environmental, social and governance factors have been integrated into the investment
+process”, accessed 15 February 2021
+Q190
+HM Treasury, Budget 2021, HC 1266, March 2021, para 2.147, p 64
+Occupational pension scheme definition: “Workplace pension schemes or workplace pensions are pension
+schemes that are set up by employers to provide their employees with retirement benefits”, Pensions Advisory
+Service, accessed 15 February 2021
+Q126
+
+32
+
+Net zero and the Future of Green Finance
+
+… what we need to think about, […] is whether the right mechanisms are in
+place so that that demand filters through into the choice sets that people have
+in things like pensions, and whether the right products are available […]
+that can go into default funds, so that either the mechanism demonstrates
+through transparency to pension holders that there is something there for
+them, or you can have greater choice at the point of entry. We need to think
+more closely about that with trustees.155
+105. Mr Mills also explained that the Financial Conduct Authority had already taken
+some action in requesting Independent Governance Committees156 for workplace
+personal pensions schemes to ensure that Environmental, Social, and Governance (ESG)
+considerations were included in their assessment of investment mandates.157 However, Mr
+Mills acknowledged that with the increasing demand for ESG-related investments, “there
+must be more that we can now start to do to match this increasing demand, but also filter
+into the overall challenge of net zero”.158
+106. When asked about the high proportion of consumers in default funds, the Economic
+Secretary to the Treasury told us that:
+… The pensions world is changing rapidly, and the Pensions Bill going
+through Parliament is going to make some progress, but the real challenge
+for the immediate term is to define what that green investment is and
+progress that at a wholesale and at a retail level, so that we can get more
+clarity on that. We will then make progress as the opportunities to invest
+a higher proportion in sustainable investments become clearer and more
+apparent.159
+107. In a follow-up letter in December 2020, the Economic Secretary noted the interventions
+the Government had made in this area, and he told us that “whilst we welcome pension
+saver engagement and consumer choice, it should never be necessary to switch out of the
+default to invest sustainably”. However, he did not advocate mandatory targets, telling us
+that:
+Mandatory climate targets would mean that pension scheme governance
+bodies would be in a position where they are forced to choose between
+making the right investment decision for their members and breaching
+legislation. The easiest way to protect themselves in this situation—and,
+under threat of penalty, the most likely action—is divestment. However,
+uncoordinated divestment will not help us reach our net zero goal, as the
+stock could be bought up by other investors and emissions will not be
+curbed. Pension scheme trustees and savers will remain exposed to the
+consequences of those high emissions whilst having less ability to hold the
+emitters to account.
+155
+156
+
+157
+158
+159
+
+Q126
+Independent Governance Committee definition: Financial Conduct Authority rules “require that firms that
+operate workplace personal pensions schemes to establish and maintain Independent Governance Committees
+(IGCs). IGCs have a duty to scrutinise the value for money of the provider’s workplace personal pension schemes,
+taking into account transaction costs, raising concerns and making recommendations to the provider’s board
+as appropriate. IGCs must act solely in the interests of relevant scheme members; act independently of the
+provider.”, Financial Conduct Authority, accessed 15 February 2021
+Q126
+Q126
+Q306
+
+Net zero and the Future of Green Finance
+
+33
+
+Rather, the Government supports a whole economy transition, where duties
+land equally on all participants in the investment chain. Pension schemes
+and pension savers—many on low to moderate incomes—should not be
+singled out for blunt targets in an ineffective effort to fund the transition.
+This is a much less equitable outcome than the use of disclosure, regulation,
+and public investment which Government is already committed to.160
+108. There is a high level of inertia amongst consumers around defined contribution
+pension fund choice, with most remaining in the ‘default’ fund. The Treasury has been
+robust in its view that default funds should not be required to move to more green
+alternatives, but at the same time maintains that consumers should not have to switch out
+of the default fund to invest sustainably. The Government should resolve this apparent
+contradiction. At present the Treasury is relying on a blend of disclosure, regulation and
+public investment to foster a transition towards more sustainable investment. For now,
+we support that approach, but the Treasury should report regularly on the proportion
+of pension holders in defined contribution pension schemes who remain in the default
+fund, and the extent to which those default funds are aligned with a path to Net Zero.
+Requirements on workplace pension scheme trustees
+109. Consumers with Defined Benefit pensions are unable to choose how their assets are
+invested, creating an absence of consumer choice as a driver of change. They are therefore
+reliant on the pension scheme trustees to consider material climate-related financial risks,
+and to invest sustainably.
+110. The Pension Schemes Act 2021161 (‘the Act’) is intended to support the Government’s
+expectation, set out in the Green Finance Strategy, that all large asset owners will make
+disclosures in line with the recommendations of the Task Force on Climate-related
+Financial Disclosures (TCFD) by 2022.162 Section 124 of the Act amends the Pensions
+Act 1995 so as to provide for regulations which “may impose requirements on the trustees
+or managers of an occupational pension scheme of a prescribed description with a view
+to securing that there is effective governance of the scheme with respect to the effects of
+climate change”.163
+111. In September 2020, Anthony Raymond, General Counsel and Director of Legal
+Services, Policy and Advisory Directorate at the Pensions Regulator, told us that the Act
+would make a real difference, as the TCFD requirements would be put on a statutory
+footing. He noted that the Act would also include regulation-making powers which would
+be an area of focus for the regulator.164
+112. We note that the UK Sustainable Investment and Finance Association (UKSIF) found
+large-scale non-compliance among trustees with the previous regulatory expectations
+on Environmental, Social, and Governance (ESG) considerations set by the Pensions
+Regulator.165 Although Mr Raymond told us that of the schemes reviewed by UKSIF “only
+160
+161
+162
+163
+164
+165
+
+HM Treasury, Letter to the Chair of the Treasury Committee from the Economic Secretary, Decarbonisation of
+the UK economy and green finance inquiry, 16 December 2020, paras 11 - 13
+Pension Schemes Act 2021 received Royal Assent on 11 February 2021
+Explanatory Notes to the Pension Schemes Bill [HL], 16 July 2020 [Bill 165 (2020)-EN], para 29
+Pension Schemes Act 2021, Section 124(2)
+Q118
+Q134; UK Sustainable Investment and Finance Association, ‘Changing course: how pension trustees are
+responding to climate change and ESG’, accessed 15 February 2021
+
+34
+
+Net zero and the Future of Green Finance
+
+nine of the 45 schemes were within the purview of the legislation at that point”,166 he
+acknowledged that the Pensions Regulator needed to be clear with the industry and engage
+with them. However, Mr Raymond also noted that supervisors had been trained on “the
+sorts of things they need to be looking out for when they are engaging with schemes, and
+where necessary, enforcement”.167
+113. Mr Raymond explained that although the governance of larger pension schemes
+tended to be better, and were better equipped to deal with ESG issues, “we have systemic
+issues across the pensions landscape in terms of large numbers of small DC [Defined
+Contribution] schemes […] over 30,000, with 6,000 or so DB [Defined Benefit] schemes”.168
+114. The Department of Work and Pensions first consulted on ‘Taking action on climate
+risk: improving governance: improving governance and reporting by occupational
+pension schemes’ in August 2020.169 In its follow-on consultation in early 2021, on the new
+regulations to be made under the Pension Schemes Act 2021, the Government confirmed
+that primarily larger pension schemes would initially be subject to mandatory climate
+change governance and TCFD reporting requirements:
+(a) trust schemes with £1 billion or more in relevant assets
+(b) authorised master trusts; and
+(c) authorised schemes providing collective money purchase benefits.170
+115. The Government acknowledges that industry responses to the first consultation most
+commonly “suggested that the asset threshold should move down rapidly to below £1bn”
+and that a significant number of respondents suggested that “smaller schemes might be
+encouraged to implement the climate governance requirements voluntarily in the first
+instance, or perhaps on a comply or explain basis.”171
+116. The Government has confirmed that it will consult again in 2024 before deciding
+whether to extend the regulations to pension schemes with less than £1 billion in assets.172
+However, in the interim this will leave smaller pension schemes outside the scope of the
+regulations and these pension savers outside the trustee obligations envisaged by the
+Pension Schemes Act 2021.
+117. Consumers who hold defined benefits pensions have no choice as to how their
+assets are allocated. They rely upon their trustees. We note that previous attempts to
+get defined benefit schemes to acknowledge Environmental Social and Governance
+concerns have not been entirely successful. In its phased approach to implementing
+the regulations, the Pensions Regulator will need to consider how to reach smaller
+pension schemes. The draft regulations appear to exclude the smallest trust schemes.
+166
+167
+168
+169
+170
+171
+172
+
+Q134
+Q134
+Q134
+Department for Work and Pensions, ‘Taking action on climate risk: improving governance and reporting by
+occupational pension schemes’, accessed 11 April 2021
+Department for Work and Pensions, Taking action on climate risk: improving governance: improving governance
+and reporting by occupational pension schemes, January 2021, p.19–21, 26, para 8
+Department for Work and Pensions, Taking action on climate risk: improving governance: improving governance
+and reporting by occupational pension schemes, January 2021, p.27–28, paras. 18–19
+Department for Work and Pensions, Taking action on climate risk: improving governance: improving governance
+and reporting by occupational pension schemes, January 2021, p.21
+
+Net zero and the Future of Green Finance
+
+35
+
+However, when their effects are aggregated, they may still have an impact on meeting
+the net zero target. In responding to this Report, the Government should set out how
+these smaller funds will be encouraged to integrate climate governance and reporting
+requirements.
+
+Appropriate transparency for consumers and ‘Greenwashing’
+Greenwashing
+118. For consumers to make effective choices they will need clear information to be able to
+do so, and such information will need to be appropriate for all consumers. In its Net Zero
+Review: Interim Report, the Treasury observed that:
+Measures to improve information about low-carbon choices can help drive
+consumer and producers towards alternative products. Examples include
+information and educational campaigns; government advice centres and
+online support services; and mandating improved labelling to help drive
+consumer and producer choices towards low-carbon alternatives. They
+usually come at low fiscal costs and can increase businesses’ accountability
+to consumers for their emissions. However, they can come with high
+compliance costs for businesses.173
+119. However, we heard evidence that ‘greenwashing’—where products or funds are
+labelled as ‘green’ or sustainable but may not be so—may be an issue, with the potential to
+mislead consumers and cause capital misallocation.
+120. The industry itself appeared aware of the danger that ‘greenwashing’ presented. Chris
+Cummings, representing the Investment Association, told us that:
+From that reputational point of view, ours is an industry that takes its
+responsibilities incredibly seriously on this. We understand completely
+the dangers of being accused of greenwashing. Part of the challenge is
+finding investible projects, investible companies, that have a good story to
+tell and are committed to transitioning. The danger we are all aware of is
+greenwashing: finding something that looks a bit green and promoting it as
+a green success story. That undermines everything we are trying to achieve.174
+121. Dr Daniel Klier, Group Head of Sustainable Finance at HSBC, outlined the dangers
+that ‘greenwashing’ may pose. He drew our attention to an annual investor survey that
+suggested that 80% of respondents considered that lack of disclosure and consistent
+definitions held back further investment into sustainability and the energy transition.175
+Professor Nick Robins, Professor in Practice of Sustainable Finance, Grantham Research
+Institute at the London School of Economics, agreed that data would allow investors to
+distinguish between assets and understand “which investments and assets are aligned to
+the transition”176 to net zero.
+
+173
+174
+175
+176
+
+HM Treasury, Net Zero Review: Interim Report, December 2020, p 50, para 4.15
+Q67
+Q68
+Q68
+
+36
+
+Net zero and the Future of Green Finance
+
+122. However, Saker Nusseibeh, Chief Executive Officer of Federated Hermes
+International,177 took a more optimistic view of what ‘greenwashing’ might represent and
+told us that:
+… greenwashing is at least an acknowledgement by the industry that it is
+important, that society thinks it is important, and that the regulator thinks
+it is important to reduce carbon footprint. That must be a first step. The
+second step is to have the taxonomy and the regulation to winnow away the
+truth from that which is less true.178
+123. When asked about the importance of greenwashing, Sheldon Mills, Interim Executive
+Director of Strategy and Competition at the FCA, replied:
+We do focus on greenwashing, quite a lot from the consumer perspective,
+in terms of what is being delivered to consumers and the types of products
+or funds they are investing in. There are two ways we interact with either
+funds or products within our system. One is through our authorisations
+work. If a fund is being authorised with us and it pertains to be an ESGrelated fund, we will look at that to see whether that is going to be clear, fair
+or misleading. Is it what it says on the tin? We have seen instances where
+what the fund says it is investing in does not really stack up with it being
+ESG.179
+However, he also noted the limits of the FCA’s remit:
+In one sense, it is absolutely apposite to say that, if ESG is so broad that
+funds go into things like greening fossil fuel companies a little bit, we might
+not necessarily meet some of the goals, if the funds are not going into new
+and innovative businesses that are really driving change in relation to those
+goals. That is not entirely our role. Our role is, in a sense, to look to make
+sure that the fund does what it says on the tin, and that has been our focus.180
+124. The financial services industry broadly accepts that ‘greenwashing’ is detrimental
+to good consumer outcomes and to the achievement of the net zero goal. The Treasury
+must work with the FCA to ensure that the regulator has the appropriate remit, powers
+and priorities, and uses its powers, to prevent ‘greenwashing’ of financial products
+available to consumers.
+125. We consider later in this Report, at paragraph 184, what steps might be taken to
+implement a UK ‘green’ taxonomy, which could help to give more assurance that financial
+products which are marketed as “green” are indeed contributing to the transition to net
+zero.
+Climate risk labels
+126. In line with the potential for mandating improved labelling cited by Treasury in
+its Net Zero Interim Review “…to help drive consumer and producer choices towards
+177
+178
+179
+180
+
+Federated Hermes International is an asset manager
+Q196
+Q119
+Q120
+
+Net zero and the Future of Green Finance
+
+37
+
+low-carbon alternatives”,181 Huw Evans, Director General of the Association of British
+Insurers, told us that “if we are talking about retail investors as opposed to institutional
+investors, we have to have a very straightforward set of explanations that do not mislead
+and that enable those customers to fully understand the potential risks as well as the
+potential rewards, to go alongside their motivation.”182
+127. Some firms are already providing carbon labels on their products. Sandra Boss,
+Global Head of Investment Stewardship at BlackRock told us that:
+“[…], all our EMEA183 funds are now labelled with their carbon intensity.
+That is something we are doing worldwide. We are really trying to help
+people see the sustainability content of the product they are buying. That
+will help as well. Hopefully, ultimately, they will also get those long-term
+savings goals.”184
+128. In February 2020, Andrew Bailey, then Chief Executive of the Financial Conduct
+Authority, told us that a ‘visual rating system’ to disclose the carbon footprint of financial
+products could be considered, but he believed that a “comprehensive approach would
+currently be challenging”. He identified data and methodological limitations, such as
+difficulties in sourcing appropriate data inputs; insufficient and inconsistent issuer-level
+disclosure; and the lack of an agreed set of standards, metrics and criteria for defining
+sustainable activities. Mr Bailey then referred to other product label initiatives, including
+the EU’s development of an ‘eco label’, and UK industry plans by the Investment
+Association and the British Standards Institution to consider product labels.185
+129. We asked the Economic Secretary to the Treasury, John Glen MP, whether labelling
+of funds or indices should distinguish between ‘green’ funds investing only in renewables
+and those focused on transition finance which could include polluting companies. He
+responded that “To what extent signposting and labelling of funds would need to be
+adjusted is a technical matter and you would need to look very carefully at what industry
+says”.186
+130. Financial products should be clearly labelled to allow consumers to assess the
+relative climate impacts of products and to make choices accordingly. However,
+allowing every firm to create its own consumer sustainability labels may lead to
+inconsistencies and consumer confusion. The Treasury and the Financial Conduct
+Authority should consult on the merits of making climate or carbon labels for consumer
+financial products mandatory, as a means to encourage innovation. The FCA should
+consult on how best to make such labels readily and widely understood.
+Passive investments and indices
+131. Indices, such as the FTSE 100, are an important part of the investment landscape.
+They sit at the heart of passive tracker funds (in which investments simply track an index),
+which have risen in popularity.187 However, we heard two concerns related to indices in
+181
+182
+183
+184
+185
+186
+187
+
+HM Government, Net Zero Review Interim Report, December 2020, para. 4.15
+Q188
+Europe, Middle East, and Africa (EMEA)
+Q195
+Financial Conduct Authority, Letter from CEO of FCA to Chair regarding Climate Risk, 24 February 2020, p 3
+Q310
+“Passive funds’ share of European investment market jumps to 20%”, Financial Times, 8 December 2020
+
+38
+
+Net zero and the Future of Green Finance
+
+terms of green finance, and which reflect the concerns already discussed in this report
+around consumer choice. They are that:
+•
+
+popular indices such as the FTSE 100 may contain high carbon assets;188 and
+
+•
+
+Indices that purport to be ‘green’ or ESG compliant may have constituents that
+appear not to match that label.
+
+132. On the importance of indices, the previous Committee heard evidence from Simon
+Howard, Chief Executive of the UK Sustainable Investment and Finance Association, in
+which he explained that this was also an issue for pension funds as most “will benchmark
+their fund manager’s performance against a benchmark index, so indices are vitally
+important”.189
+133. In December 2019, the Guardian reported that the FTSE4Good indices, designed as
+sustainable investment indices with clearly defined ESG criteria, had added oil companies
+including Rosneft Oil and ConocoPhillips (13th and 15th largest oil companies by market
+capitalisation) to the FTSE4Good index. The Guardian noted that the public factsheets
+showed that 65 oil and gas companies were present on FTSE4Good’s emerging and
+developed markets indices.190
+134. Rachel Haworth, UK Policy Manager at ShareAction, a charity promoting responsible
+investment, told the previous Committee that:
+We need to ensure that we are promoting fossil fuel free indices. They need to
+be mainstreamed. They need to be the default option, because otherwise, as
+long as we have these kinds of small technical issues that completely change
+the way markets are functioning, nothing is going to change substantially.191
+135. We put to Sheldon Mills, Executive Director of Competition and Consumers at the
+Financial Conduct Authority, concerns around investment indices, and in particular the
+FTSE4Good index. He replied:
+We do not have significant concerns, other than that from a general
+viewpoint we would expect the indices to seek to ensure that they are
+transparent as to what is on them. I cannot speak to that specific index,
+but there should be a level of transparency so that people can take the right
+choice based on the information available to them.192
+136. On whether indices should be clearly marked, the Economic Secretary to the Treasury,
+while noting the role of transparency and the education of finance professionals, told us
+that:
+The Benchmarks Regulation (the regulation governing investment fund
+indices) includes disclosure requirements concerning how benchmark
+administrators take into account Environmental, Social and Governance
+factors. In 2019, two new categories of “climate-related benchmarks” were
+188
+189
+190
+191
+192
+
+“FTSE trackers expose investors to ‘stranded assets’, Citywire, 1 November 2016,
+Oral evidence taken on 8 October 2019, HC (2017–19) 2233, Q91 [Mr Baker, Simon Howard]
+‘FTSE leaves coal and oil firms and G4S on ethical investment list’, The Guardian, 22 December 2019
+Oral evidence taken on 8 October 2019, HC (2017–19) 2233, Q93 [Mr Baker, Rachel Haworth]
+Q121
+
+Net zero and the Future of Green Finance
+
+39
+
+also introduced under the Benchmarks Regulation. “Climate Transition
+Benchmarks” (CTBs) must be constructed so that the underlying assets are
+on a decarbonisation trajectory, while “Paris-Aligned Benchmarks” (PABs)
+must be constructed so that the underlying assets are aligned with the
+objectives of the Paris Climate Agreement. Together, these standards will
+enhance the transparency and comparability of “low carbon” benchmarks
+to enable investors to make more informed decisions.193
+137. We note the concerns expressed about indices, in that the most popular may
+be carbon-intensive, and those that purport to be green may have carbon-intensive
+constituents. The risk remains that many consumers are unaware of the carbonintensity of the indices that their passive investments are tracking. The Treasury and
+regulators should therefore ensure that all indices (whether conventional or climatefriendly) clearly set out the overall carbon footprint of the assets included within indices.
+138. On the concerns around the constituents of indices described as ‘green’, we note
+the requirements under the Benchmarks Regulation, which should be used to help
+consumers make better choices. However, it is clear that in some cases the labels or
+descriptions of ‘green’ or ‘climate-related’ indices do not necessarily match legitimate
+consumer expectations of what they would commonly be understood to mean. The
+Treasury and FCA should review the provisions in the legislative and regulatory
+framework and ensure that the labels and descriptions of indices accurately reflect their
+content, in line with consumer expectations.
+
+Green product innovation
+139. One of the ways consumer choice might be improved within Green Finance may be
+through innovation. One of the aims set out by the Government for its Green Finance
+Strategy was to “position the UK at the forefront of green financial innovation and data and
+analytics”. It would do this by “creat[ing] an environment that catalyses UK innovation in
+green finance products and services, including data and analytics, in collaboration with
+regulators, industry, and academia”.194
+140. The Green Finance Strategy also provided the following description of the UK’s record
+in this area:
+The UK has a strong record in green financial innovation ranging from
+Yieldcos, green bonds and environmental, social and governance (ESG)
+Exchange Traded Funds listed on the London Stock Exchange Group to
+green mortgages and retail investment platforms.195
+141. In July 2019, the Government implemented a key recommendation of the Green
+Finance Taskforce and launched the Green Finance Institute (GFI). Envisaged as the “UK’s
+principal forum for collaboration between the public and private sector with respect to
+green finance”, it is intended to form an integral part in delivering the Government’s
+193
+194
+195
+
+HM Treasury, Letter from Economic Secretary relating to Decarbonisation and Green Finance, 16 December
+2020, para. 14 -17
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, pp 10, 55
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 10
+
+40
+
+Net zero and the Future of Green Finance
+
+Green Finance Strategy.196 The GFI states that it works with policymakers, industry and
+academics, and that “in convening and leading action-focused coalitions, we foster the
+design and promote the launch of innovative financial mechanisms that create commercial
+revenue opportunities”.197
+142. The Government has shown recent innovation, in announcing at Budget 2021 that
+the Government will offer a green retail National Savings & Investment product in the
+summer of 2021. The product will “give all UK savers the opportunity to take part in the
+collective effort to tackle climate change […]”.198
+143. Dr Daniel Klier, Group Head of Sustainable Finance at HSBC, provided this
+description of when public money should be used to stimulate innovation:
+The place where public money is needed is in technologies that are not yet
+ready for market. Wind is a very good example where the UK was a world
+leader by creating a framework that made the technology market ready and
+then it was time to withdraw any subsidies.
+If we think about the long list of technologies—hydrogen and electric
+vehicles, and at some point we can talk about lowemission aviation and
+the like—those are technologies where public money is needed to bring
+them to the place where they are commercially viable. At the moment,
+private money does not flow, unless you are an extraordinary risk taker
+who seeks an extraordinary return at the end. Those are the technologies
+where public money is needed, and the public also needs to be educated
+enough to withdraw subsidies at the point when it is ready for commercial
+application.199
+144. Bruce Davis, Chief Executive Officer of Abundance Energy,200 told the previous
+Committee that it had taken his company two years to become authorised by the Financial
+Services Authority [predecessor to the Financial Conduct Authority] and that green
+finance innovation was difficult. Mr Davis explained that this was because “It is long
+term, it requires understanding of assets […] We are not seeing the credit knowledge and
+expertise spread as widely as it could be, to bring down the costs of capital and speed the
+flow.”201
+145. Mr Davis also noted that although Barclays’ green mortgage product had
+retrospectively shown “that people who make that decision are a better credit risk”,202
+this knowledge had not been developed to create a “green Experian [Credit Reference
+Agency]”.203 Mr Davis similarly noted that residential retrofits (such as installing solar
+panels or insulation) did not yet signal a higher market value on the housing market and
+“do not provide the sort of returns that you can get from […] a kitchen refurbishment”.204
+196
+197
+198
+199
+200
+201
+202
+203
+204
+
+Department for Business, Energy & Industrial Strategy, ‘Guidance Green finance Transition to a green financial
+system and mobilising investment in clean and resilient growth’, accessed 18 March 2021
+Green Finance Institute, ‘Our work’, accessed 18 March 2021
+HM Treasury, Budget 2021, HC 1226, March 2021, para 2.145
+Q85
+Abundance Energy is an investment platform facilitating investments in sustainable projects
+Oral evidence taken on 8 October 2019, HC (2017–19) 2233, Q85 [Mr Streeting, Bruce Davis]
+Oral evidence taken on 8 October 2019, HC (2017–19) 2233, Q85 [Mr Streeting, Bruce Davis]
+Oral evidence taken on 8 October 2019, HC (2017–19) 2233, Q85, [Mr Streeting, Bruce Davis]
+Oral evidence taken on 8 October 2019, HC (2017–19) 2233, Q85, [Mr Streeting, Bruce Davis]
+
+Net zero and the Future of Green Finance
+
+41
+
+146. In relation to insurance, Huw Evans, Chief Executive Officer of the Association of
+British Insurers, told us that the industry was beginning to make more use of ‘resilient
+repair’, in which homes in high flood risk areas are repaired in a way that is resilient
+to future flood incidents, and suggested that “use of apps, greater knowledge, and more
+specific data modelling about incidents of flooding”205 would enable customers to buy
+products that were more responsive to their flood risk.
+147. The pace of innovation still appeared laggardly to some who gave evidence. Legal
+and General told us that “green financial products for retail customers (eg mortgages,
+though we have recently launched an equity release product with additional cashback
+for green housing modifications) have not developed quickly enough.”206 Barclays, when
+considering business investment, noted that:
+There are already a number of green products available in the marketplace
+that are contributing to the net zero goal, including ‘use of proceeds’ loans
+which are relatively easy to identify (e.g. for Wind, Solar etc.). However, more
+needs to be done in the corporate space, where an appropriate incentive
+structure is required to encourage small, medium and large corporates to
+select projects that will advance net zero (e.g. opting for electric vehicles or
+sustainable supply chains, or focusing on the reduction of emissions).207
+148. In its October 2018 Discussion Paper Climate Change and Green Finance, the FCA
+noted that “the FCA has a clear role to ensure markets for green finance are open to new
+entrants and innovation, enabling successful firms to thrive and deliver better outcomes
+for consumers.”208 Sheldon Mills, Interim Executive Director of Strategy and Competition
+at the Financial Conduct Authority, told us that:
+To excite consumers you need exciting products. If you want to excite the
+youth, you need apps that tell you how your investments might relate to
+ESG, et cetera. We, in 2019, had our green fintech challenge. We selected
+nine products. Some of them have even gone to market, which is fantastic.
+We are encouraging innovation to come in through the door, and working
+through how we can remove regulatory barriers, so we can have ESGrelated financial services products growing up.209
+149. The Government’s Green Finance Strategy noted the need for innovation in green
+finance products and services, yet the evidence we have received suggests that the pace
+of innovation could be accelerated and that more could be done to encourage take-up.
+The Financial Conduct Authority should seriously consider undertaking further “green
+fintech challenges” to encourage innovation. The regulator should also set out how it
+will tackle remaining regulatory barriers which discourage innovative ‘green’ financial
+products from coming to market. The Government and the regulators should work more
+closely with the Green Finance Institute to bring innovative ideas which will benefit
+consumers to the market.
+205
+206
+207
+208
+209
+
+Q203
+Legal and General (DEC0120) p 5
+Barclays (DEC0052) p 2
+Financial Conduct Authority, Climate Change and Green Finance Discussion Paper DP18/8, (October 2018), p9,
+para 4.4
+Q161
+
+42
+
+Net zero and the Future of Green Finance
+
+4 Regulators and regulation
+150. Regulation will play a key role in meeting the net zero target. In this chapter, we
+consider:
+•
+
+The remit of the regulators;
+
+•
+
+Prudential risks and the capital regime;
+
+•
+
+Climate-related financial disclosures and a suitable taxonomy to encourage
+transparency.
+
+Remit of the Prudential Regulation Committee and the Financial
+Conduct Authority
+151. The Government’s Green Finance Strategy in 2019 recognised the role that the financial
+regulators—Bank of England, Financial Conduct Authority (FCA), and the Pensions
+Regulator (TPR)—will play in greening the UK financial system.210 In that Strategy, the
+Government made the following commitment:
+For the Prudential Regulation Authority and Financial Conduct Authority,
+we will ensure that the need to have regard to the COP21 Paris Agreement
+when considering how to advance their objectives and discharge their
+functions is reflected in the next Letter of Recommendations that HM
+Treasury issues to each authority.211
+152. Witnesses supported amending the remit letters to the Financial Conduct Authority
+and the Prudential Regulation Authority, to take account of climate change.212 Following
+our query as to the delay behind issuing updated remit letters to the regulators, the
+Economic Secretary to the Treasury confirmed in November 2020 that the remit letters
+for the Financial Conduct Authority and the Prudential Regulation Authority would be
+updated, and that it was “an urgent priority for us to get this right”.213
+153. We therefore welcome the Chancellor of the Exchequer’s recent letters to the Financial
+Conduct Authority214 and to the Prudential Regulation Committee215 amending their
+remits to “have regard to the government’s commitment to achieve a net-zero economy by
+2050 under the Climate Change Act 2008 (Order 2019) when considering how to advance
+its objectives and discharge its functions”.
+154. The Prudential Regulation Authority and Financial Conduct Authority should
+move quickly to incorporate their revised remits to include climate change. We will
+continue to monitor their progress and ongoing approach to the risks arising from
+climate change.
+210
+211
+212
+213
+214
+215
+
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 8
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 22
+Qq232–234
+Qq278–279
+HM Treasury, Letter of Recommendations for the Financial Conduct Authority, 23 March 2021
+HM Treasury, Letter of Recommendations for the Prudential Regulation Committee, 23 March 2021
+
+Net zero and the Future of Green Finance
+
+43
+
+Prudential risks and the capital regime
+155. We heard evidence about the underlying prudential risks from financial firms’
+continued investment in fossil fuels and the associated ‘stranded assets’ risk. Stranded
+assets is a term for assets which turn out to be worth less than expected as a result of changes
+linked to the transition to a low-carbon economy.216 The FCA’s Handbook identifies
+prudential risks as “those that can reduce the adequacy of its financial resources, and as a
+result may adversely affect confidence in the financial system or prejudice consumers”. It
+offers examples of key prudential risks: credit risk, market risk, liquidity risk, operational
+risk, insurance risk and group risk.217
+156. In March 2020, the Governor of the Bank of England, Andrew Bailey, told us that
+the market was not accurately ‘pricing in’ climate risks.218 The significance of this point is
+that the potential financial consequences of climate-related risks could create a systemic
+risk with implications for financial stability. The Bank of International Settlements (BIS)
+describes these risks as comprising:
+•
+
+physical risks which affect the value of financial assets;
+
+•
+
+transition risk which may result from the adjustment of asset prices towards a
+low-carbon economy; and
+
+•
+
+liability risks arising from increased compensation paid out as a result of climate
+change.219
+
+157. Mark Carney, former Governor of the Bank of England, wrote to us in early 2020,
+noting that:
+If commitments to net-zero are realised, many carbon-related assets will
+not be viable. At one extreme, the IPCC 1.5 degree report finds that no more
+than 349 Gt220 of carbon can be emitted, assuming a target probability of
+66% for limiting the rise in global temperatures to 1.5°C. In contrast, proven
+oil and gas reserves contain approximately 510 Gt of carbon, and coal
+reserves another 425 Gt221—meaning that the combustion of developed oil
+and gas reserves alone would exceed the budget for 1.5 degrees of warming.
+According to a frequently cited academic study,222 80% of the world’s
+known coal reserves, 30% of oil, and 50% of gas reserves are unburnable
+if emissions are to be consistent with keeping temperature rises below 2
+degrees.223
+158. Positive Money, a research and campaign organisation, submitted evidence which
+suggests that financial loss from the drop in value of fossil fuels is already underway. It
+216
+217
+218
+219
+220
+221
+222
+223
+
+Carbon Tracker, ‘Stranded Assets’, accessed 18 March 2021
+Financial Conduct Authority, ‘PRU 1.4.3’, accessed 12 April 2021
+Oral evidence taken on 4 March 2020, HC (2019–21) 122 Q62 ([Julie Marson, Andrew Bailey]
+Bank of International Settlements, ‘Research on climate-related risks and financial stability: An “epistemological
+break”?’, accessed 12 April 2021
+Gigatonnes (Gt)
+Global Gas and Oil Network, Oil, Gas and The Climate: An analysis of Oil and Gas Industry Plans for Expansion
+and Compatibility with Global Emission Limits, December 2019, p 3
+McGlade and Ekins, “The geographical distribution of fossil fuels unused when limiting global warming to 2C”
+Nature, vol 517, 187–190 (2015)
+Bank of England, Letter from Governor to Chair regarding Climate Risk, February 2020, p.2
+
+44
+
+Net zero and the Future of Green Finance
+
+cited a report by Carbon Tracker224 showing that the EU’s largest five power generators
+had lost over 37% of their value between 2008 and 2013. It also drew our attention to
+projections by Mercer225 suggesting that the annual returns from coal could decline by
+an amount in a range from 18 per cent to 74 per cent over the next 35 years.226 Mark
+Carney also told us that market prices had begun to adjust, noting that “the transition
+away from coal has resulted in the combined market capitalisation of the top four US coal
+producers falling by over 99% since the end of 2010”227 and cited research228 which found
+that undeveloped reserves have a negative impact oil firms’ value.
+159. Ms Sarah Breedon, Executive Director for UK Deposit Takers Supervision at the Bank
+of England, acknowledged that the mispricing of the market was a “potentially systemic
+risk” to the UK financial system. She told us that this was why the Bank of England was
+stress testing the largest banks and insurers, in order to get visibility of how the value of
+real and financial assets might change “in order to drive different decisions today, so that
+the transition we see is an early and orderly one”.229
+160. Ms Breedon also told us that in order for the market to price climate risk correctly, two
+things were required: the market needed the right information and a better understanding
+of what might happen in terms of climate outcomes and climate policy. Ms Breedon
+considered that improved disclosure and scenario analysis would help resolve both of
+these issues.230 She also pointed out that the volatile experience of asset prices during the
+pandemic “will have made financial institutions much more sensitised to the possibility of
+these risks and these stranded assets”.231
+161. However, while acknowledging the risk of stranded assets, some witnesses to the
+inquiry were unwilling to divest from fossil fuel assets, arguing that there is an appropriate
+investment strategy in oil and gas companies. Sandra Boss, representing BlackRock, told
+us that many of these oil and gas companies are:
+[…] managing the transition very well. Those that are not managing it as
+well are increasingly finding their cost of capital goes up, so over time our
+clients’ assets are ever so gradually shifting towards the superior performers
+on sustainability.232
+162. Similarly, Steve Waygood, Chief Responsible Investment Officer at Aviva Investors,
+argued that investors would have more influence over companies that needed to transition,
+such as BP, by remaining invested: “The divestment calls to action are not calls to action
+at all. We need to use our voice and our vote, […] to power that transition by correcting
+the market”.233 Mr Waygood further noted that investors would only cease to fund oil and
+gas once the Government had made it a bad investment by “doing the transition plans
+towards net zero effectively, soon, and internalising the cost of capital where it should
+belong.”234
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+
+A think tank that carries out analysis of the impact of the energy transition on capital markets and the potential
+investment in high-cost, carbon-intensive fossil fuels.
+An asset management firm
+Positive Money (DUE0062) submission
+Bank of England, Letter from Governor to Chair regarding Climate Risk, February 2020, p.2
+Atanasova and Schwartz, ‘Stranded fossil fuel reserves and firm value’, NBER Working Papers 26497 (2015)
+Q136
+Q135
+Q135
+Q231
+Q231
+Q231
+
+Net zero and the Future of Green Finance
+
+45
+
+163. Given these risks, some witnesses raised possible regulatory options around the
+capital regime, such as a “brown penalising factor” or a “green supporting factor”. Simon
+Howard, Chief Executive of the UK Sustainable Investment and Finance Association, told
+the previous Committee in 2019 that “my bank members are increasingly warm to the
+idea that a change is being made to the capital regime to make it easier to lend to green
+stuff and to steer money away from brown stuff, but they all say that we need data, we need
+understanding and we need to prove that it is long-term sustainable.”235
+164. Dr Daniel Klier, Group Head of Sustainable Finance at HSBC, told us that “there is
+a very live discussion about anticipating the expected lower risk of green investments in
+some form of a green supporting factor. […] We all believe that green investments are
+lower risk. […]”.236 Dr Klier continued by saying that HSBC had analysed a very large
+population and found that outperformance versus the market was 10% over six months.237
+165. Rather than supporting a brown penalising factor or a green supporting factor, Steve
+Waygood proposed a scaling factor that took into account the underlying asset’s alignment
+with the Paris Agreement, particularly the 1.5C scenario.238
+166. Mark Carney, former Governor of the Bank of England, commented in his February
+2020 letter that where there was evidence that green assets were less risky, this could be
+factored into the internal models used by banks to calculate capital requirements. He cited
+Bank of England analysis which had found mortgages against energy-efficient properties
+were 18% less likely to default.239 However, Mr Carney concluded that “absent explicit
+direction in its remit, the Bank would not advantage green lending in its risk-based
+supervision” as to do otherwise “would be to mix climate policy with prudential policy”.
+He also noted that the Bank of England was “examining the case for a brown-penalising
+factor that introduces additional capital charges on polluting and potentially risky
+activities”, but he observed that a lack of an accepted definition of ‘brown’, the possibility
+of activities transitioning from ‘brown’ to ‘green’, and the absence of data to measure
+the riskiness of an asset, remained impediments to implementing such a measure. Mr
+Carney added that the Bank of England was addressing the issue by contributing research
+to the Network on Greening the Financial System’s240 review of the quantification of risk
+differentials, and that the 2021 climate stress test would provide additional data.241
+167. When we subsequently invited Sarah Breedon to comment on the option of a “brown
+penalising factor”, she suggested that the Bank needed to gain visibility of assets through
+its proposed climate stress test before it could consider the matter.242 The Economic
+Secretary to the Treasury told us that a “brown penalising factor” was not something
+he had considered specifically, and he suggested that what was needed, was to price in
+risk and have transparency around capital allocation. However, he added that all issues
+235
+236
+237
+238
+239
+240
+
+241
+242
+
+Oral evidence taken on 8 October 2019 HC (2017–19) 2233, Q85, [Wes Streeting, Simon Howard]
+Q75
+Q76
+Q209
+Guin and Korhonen, Does energy efficiency predict mortgage performance?, Bank of England Staff Working
+Paper No.852, (2020)
+Network of Central Banks and Supervisors for Greening the Financial System (NGFS) was established in
+December 2017 by eight central banks and supervisors, to strengthen the global response needed to meet the
+goals of the Paris agreement. The NGFS promotes best practices and conducts or commissions analytical work on
+green finance.
+Bank of England, Letter from Governor to Chair regarding Climate Risk, February 2020, p.2
+Q145
+
+46
+
+Net zero and the Future of Green Finance
+
+remained under review.243
+168. We have heard differing evidence on whether there should be amendments to the
+capital regimes to promote net zero. In light of its new remit letter, the Bank of England
+must now explain its thinking, as to what measures it might consider appropriate for
+the capital regime to better accommodate the climate risk associated with different
+investments. It should set out its views on the options for amending the capital regimes
+to reflect its new remit, taking into account the potential interaction with the other aims
+of prudential policy.
+
+TCFD implementation and mainstreaming of green finance
+169. In December 2015, the Financial Stability Board, an international body that
+monitors and makes recommendations about the global financial system, announced the
+establishment of a Task Force on Climate-related Financial Disclosures (TCFD).244 Mark
+Carney, then FSB Chair, outlined what the FSB hoped the taskforce would achieve, telling
+the COP21 Paris Climate Change Conference that:
+The FSB is asking the Task Force on Climate-related Financial Disclosures
+to make recommendations for consistent company disclosures that will
+help financial market participants understand their climate-related risks.
+Access to high quality financial information will allow market participants
+and policymakers to understand and better manage those risks, which are
+likely to grow with time.245
+170. The TCFD published its recommendations in June 2017 on voluntary climate-related
+financial disclosures across four areas: governance, strategy, risk management, and
+metrics and targets, alongside 11 recommended disclosures.246 The TCFD also developed
+a tool to provide transparency around firms’ assets and carbon emissions, in order to
+allow businesses and investors to make sustainable investment choices more easily and to
+hold firms accountable.
+171. In its July 2019 Green Finance Strategy, the Government set out its expectation that all
+listed companies and large asset holders disclose in line with TCFD recommendations by
+2022, and it established a joint taskforce with UK regulators to explore the most effective
+way to approach disclosure and the appropriateness of mandatory reporting.247
+172. We heard evidence which suggested that, in the absence of a mandatory approach,
+there was an appetite in the industry for a wider and faster roll-out of TCFD-aligned
+disclosures. Sandra Boss, representing BlackRock, acknowledged that the Financial
+Conduct Authority had consulted on TCFD disclosures from premium listed issuers but
+noted that:
+243
+244
+245
+246
+247
+
+Q327
+FSB to establish Task Force on Climate-related Financial Disclosures, Financial Stability Board, press release, 4
+December 2015
+FSB to establish Task Force on Climate-related Financial Disclosures, Financial Stability Board, press release, 4
+December 2015
+Task Force on Climate-related Financial Disclosures, Recommendations of the Taskforce on Climate-related
+Financial Disclosures Final Report, (June 2017), p iv
+HM Treasury and Department for Business, Energy & Industrial Strategy, Green finance strategy; Transforming
+Finance for a Greener Future, July 2019, p 8
+
+Net zero and the Future of Green Finance
+
+47
+
+We think it could go faster. We would like it to ask for them in 2021. We
+would like to see it making this a requirement for all listed companies, not
+just the premium listed, and we want to make sure it is a requirement, not
+just a soft “comply and explain”.248
+173. Similarly, Chris Cummings, Chief Executive Officer at the Investment Association,
+supported TCFD disclosures by listed companies and pointed out that the Investment
+Association had asked its members to insist that FTSE-listed investee companies report
+against TCFD; and he noted that “the majority of FTSE companies have now signed up to
+that.”249 Dr Daniel Klier, Group Head of Sustainable Finance at HSBC, agreed that twothirds of the FTSE 100 provides some level of TCFD disclosure, but he noted that the level
+of disclosure was very inconsistent, with only 4% of companies following the full TCFD
+guidelines.250
+174. We also heard evidence that disclosures would form part of witnesses’ strategies
+for shareholder votes at company AGMs. Sandra Boss told us that BlackRock had asked
+companies to report using the TCFD framework:
+We identified 400 companies that we thought were the most carbonintensive in our portfolio. […] Immediately, in this voting season, we did
+two things. First, we took 61 votes. It was 55 companies. We said, “These
+companies are not yet doing as much as we think they should be doing”,
+and either we voted against directors or we voted in favour of shareholder
+proposals.”251
+175. Steve Waygood supported shareholder votes on TCFD, and he proposed that in
+addition “the TCFD report itself should be an advisory vote on a standing basis at company
+AGMs”.252 He believed that if the TCFD report were to be buried within wider reporting
+requirements, its impact might be limited.
+176. In November 2020, the UK’s Joint Government Regulator TCFD Taskforce published
+its interim report and roadmap setting out the Government’s intention to introduce
+mandatory climate-related financial disclosure requirements across the UK economy by
+2025. The report concluded that “given the urgency of the climate threat, a voluntary
+approach to climate-related financial disclosure may not be sufficient”.253
+177. The Taskforce roadmap sets out an indicative path illustrating how disclosures
+could cover seven categories of organisation over the next five years: listed commercial
+companies, UK-registered companies, banks and building societies, insurance companies,
+asset managers, life insurers and FCA-regulated pension schemes, and occupational
+schemes.254 The roadmap also noted that initial steps have been made to introduce TCFDaligned disclosures for certain listed companies, banks and building societies, insurance
+companies and occupational pension schemes.255 It also points out that the Financial
+Conduct Authority is proposing further measures for asset managers, life insurers, and
+248
+249
+250
+251
+252
+253
+254
+255
+
+Q234
+Q68
+Q68
+Q222
+Q235
+HM Treasury, Interim Report UK Joint Government Regulator TCFD Taskforce, 9 November 2020, p 9, para 1.18
+HM Treasury, Interim Report UK Joint Government Regulator TCFD Taskforce, 9 November 2020, p 11, para 2.2
+HM Treasury, Interim Report UK Joint Government Regulator TCFD Taskforce, 9 November 2020, p 12, para 2.9
+
+48
+
+Net zero and the Future of Green Finance
+
+FCA-regulated pension schemes.256
+178. Looking ahead, the Roadmap states that:
+In the coming years, UK Taskforce member organisations will take forward
+the strategies outlined in the Roadmap, subject to consultation and other
+statutory requirements. The UK Taskforce will continue to monitor the
+progress of the cross-sectoral implementation strategy to ensure that a
+coordinated approach is maintained. The Government will provide an
+update on progress in the 2022 refresh of the Green Finance Strategy.257
+179. We took oral evidence from the Economic Secretary to the Treasury following the
+publication of the Roadmap. When we put it to him that the voluntary approach had not
+been working, he replied:
+We consulted considerably. We know there is a massive appetite. We made
+progress with large financial institutions. We are doing this in alignment
+with them but it is necessary to say that there is an expectation that we
+make progress here. There is staging around what a lot will do by 2023. It
+was a balance and there has not been significant dissent from this decision.
+It is seen as being in line with the direction in which we were moving, and
+others would criticise us for not doing this sooner. It is about getting that
+balance right.258
+180. When the Economic Secretary was pressed on the differing timelines for
+implementation, he said:
+It is about the appropriateness of the rigidity of those timeframes, based
+on the size of businesses and sectors. […] but it is about saying what is
+accommodatable in different sectors in different timeframes. As I say, there
+is a conversation that has been going on to make sure that this is sustainable
+and achievable by a vast majority, and that is what has guided us.259
+181. Steve Waygood, Chief Responsible Investment Officer at Aviva Investors, warned us
+that TCFD disclosure reporting might be insufficient:
+It does not require that we align our portfolios with net zero. We should
+require all financial institutions saying they support [the] Paris [accord] to
+do more than just the TCFD report. They need science-based targets, to set
+out what capital they will put towards financing the transition and to set
+out their engagement strategy.”260
+Dr Emily Shuckburgh, Director of Cambridge Zero at Cambridge University argued that
+TCFD reporting could be expanded to include Scope 3 emissions—tracing emissions
+through supply chains—which would be “influential in moving TCFD from something
+that just the larger firms are focused on and broadening it throughout the economy, in an
+efficient way”.261
+256
+257
+258
+259
+260
+261
+
+HM Treasury, Interim Report UK Joint Government Regulator TCFD Taskforce, 9 November 2020, p. 12 para 2.10
+HM Treasury, A Roadmap towards mandatory climate-related disclosures, November 2020, p 9 , para 1.21
+Q287
+Q288
+Q213
+Q105
+
+Net zero and the Future of Green Finance
+
+49
+
+182. The Government has moved from a voluntary to a mandatory approach for
+ensuring that firms make climate-related financial disclosures. But the process will
+be run to different timetables for different firms, across different regulators according
+to the Roadmap published by the Joint Government Regulator TCFD Taskforce. The
+Treasury, via the Taskforce, will need to play a key role in ensuring that pressure is
+maintained for a consistent and rapid implementation of these disclosures.
+183. We also draw the Treasury’s attention to evidence suggesting that the disclosure
+regime could be widened in scope, and that firms might usefully offer fuller disclosures.
+
+Sustainable taxonomy
+184. In November 2020, the Chancellor confirmed that the UK would implement a green
+taxonomy—a common framework for determining which activities can be defined as
+environmentally sustainable. The UK taxonomy would “take the scientific metrics in the
+EU taxonomy as its basis” and a UK Green Technical Advisory Group would be established
+“to review these metrics to ensure they are right for the UK market”.262
+185. When asked on the timeline for the implementation of a green taxonomy, the
+Economic Secretary told us that:
+Regarding implementation of the green taxonomy, you will be aware that
+the government has made the necessary amendments to retained EU law to
+ensure that the UK has an effective framework for implementation of the
+taxonomy after the end of the EU exit transition period.263 As part of that
+legislation, the government is required to publish the technical screening
+criteria for climate change adaptation and mitigation by the end of 2021, and
+for the remaining four environmental objectives by 2023. The Government
+will be launching a Green Technical Advisory Group in 2021 to advise, on
+an ongoing basis, on improvements that could be made to the taxonomy to
+better facilitate the UK’s environmental goals.264
+186. Several witnesses told us of the need for such a taxonomy. Huw Evans, Director
+General of the Association of British Insurers, told us that “we have to have a common
+language that we talk about when we talk about what options are available to customers”.265
+Similarly, Sandra Boss, Global Head of Investment Stewardship at BlackRock, referencing
+the EU taxonomy, saw an opportunity for the UK to design its own solution and noted
+that a product taxonomy for ESG investing was very important.266 Sheldon Mills, Interim
+Executive Director of Strategy and Competition of the FCA, outlined the importance of a
+taxonomy when thinking about the implementation of the TCFD. He noted that:
+It is not sufficient for us just to have a rule that says, “Disclose against these
+11 principles under TCFD.” … There is no common approach; there is no
+common taxonomy that underlies that and allows for comparability and
+262
+263
+264
+265
+266
+
+HM Treasury, “Chancellor sets out ambition for future of financial services”, accessed 18 February 2021
+The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020
+(SI 2020/1385)
+HM Treasury, Letter from Economic Secretary relating to Decarbonisation and Green Finance, 16 December
+2020, para. 18
+Q188
+Q191
+
+50
+
+Net zero and the Future of Green Finance
+
+so on. In terms of the EU sustainable work, even though we will not be
+applying that rule, because it will come into force after we have exited, we
+will naturally be working with Government as to how they think about the
+UK’s approach to taxonomy and those sorts of issues.267
+187. Chris Cummings, Chief Executive Officer at the Investment Association, did though
+point to work which the Investment Association had done on a “responsible investment
+framework”. He explained that:
+The framework we have published goes beyond what we have seen in the
+European Union. It goes to the point I made about the UK’s pre-eminence
+and our desire to be recognised as world leaders and build on that position.
+Ultimately, it is about bringing consistency of language and approach, so
+that investors can have real confidence that the money they are investing
+is being put to good use, in the way they would expect, and we can report
+back on that.268
+188. As noted above, the UK is not alone in developing such a taxonomy. An EU taxonomy
+for sustainable activities was developed269 and came into force on 12 July 2020, following
+the recommendation of the ‘Commission action plan on financing sustainable growth’.
+The EU taxonomy establishes six environmental objectives, and tasks the Commission
+with establishing the actual list of environmentally sustainable activities through
+delegated acts. So far, the first delegated act on sustainable finance is due to be adopted
+in April 2021, and the taxonomy for the remaining environmental objectives should be
+established by the end of 2021 and will apply by end 2022. The first company reports and
+investor disclosures using the EU taxonomy are due at the start of 2022, covering the
+financial year 2021.270
+189. The Economic Secretary to the Treasury wrote to the House of Commons European
+Scrutiny Committee in June 2020, recognising that the EU taxonomy will play an
+“important role in the development of Green Finance and in preventing greenwashing,
+an important UK objective”; and he confirmed the Government’s commitment to “at least
+match the ambition of the objectives of the EU Sustainable Finance Action Plan”.271
+190. Inconsistencies may arise if different jurisdictions develop their own taxonomies
+independently. Mr Sheldon Mills, Interim Executive Director of Strategy and Competition
+at the FCA, told us that the Financial Conduct Authority was working with IOSCO
+[International Organisation of Securities Commissions] ahead of COP 26 to create “some
+sort of international framework which would allow for some sort of common taxonomy
+across these disclosures”.272 Anthony Raymond, General Counsel and Director of
+Legal Services, Policy and Advisory Directorate at the Pensions Regulator, agreed that
+“international parity, the taxonomy and that level playing field will be really important in
+the future”.273
+
+267
+268
+269
+270
+271
+272
+273
+
+Q123
+Q68
+Commission Regulation (EU) No. 2020/852
+European Commission, ‘Implementing and delegated acts’, accessed 19 February 2021
+HM Treasury, EST letter to Sir William Cash MP, 28 May 2020
+Q161
+Q166
+
+Net zero and the Future of Green Finance
+
+51
+
+191. The Economic Secretary to the Treasury recognised the need for international
+consensus to avoid conflicting taxonomies, and he told us that in relation to the UK’s
+taxonomy and climate-related disclosures there was “a lot of discussion in different
+jurisdictions about exactly what the taxonomy should be, and we need to be very clear
+about that so that the regulators are in a position to enforce that.”274 The Economic
+Secretary recognised that the UK’s presidency of the G7 and COP 26 “gives us a real
+opportunity to set frameworks and work collaboratively to drive forward the clarity that
+we need”.275
+192. A taxonomy is an important part of identifying what can be considered green
+investment, so the announcement of a UK taxonomy is welcome. The Treasury and
+regulators should work at speed to ensure that there is a clear timetable and legislative
+pathway to deliver a UK taxonomy ahead of COP26 in November 2021. The UK can
+utilise the EU’s taxonomy but can exceed it when it will assist the UK’s goals. The UK
+should seize the opportunity presented by COP26 to use its own work on a taxonomy to
+push for greater international convergence.
+
+274
+275
+
+Q279
+Q282
+
+52
+
+Net zero and the Future of Green Finance
+
+Conclusions and recommendations
+The economic opportunities and costs of net zero
+1.
+
+Although the Government has emphasised the need for a “green” recovery, we note
+it has not, except in limited circumstances, imposed green conditionality on the
+support it has provided during the coronavirus pandemic. Whilst it is clear that
+support schemes were required to be provided without delay the Treasury should
+set out why it did not include green conditionality for the Recovery Loan Scheme
+announced in the 2021 Budget. (Paragraph 23)
+
+2.
+
+The Government has made bold claims that the economic recovery will be a green
+recovery. In order to achieve that, the Government needs to set out in its Net
+Zero Strategy who, at ministerial level, will be responsible for delivering net zero,
+coordinating the roles of different departments, and ensuring that the UK remains
+on track to meet its net zero target in a cost-effective way. (Paragraph 30)
+
+3.
+
+In the Net Zero Review final report, the Government should set out what mechanisms
+it will put in place to integrate the net zero target within departments’ spending
+review commitments, and how departments will be held to account should they fail
+to meet their targets. (Paragraph 35)
+
+4.
+
+The Chancellor should publish the Net Zero Strategy as soon as possible and should set
+out, in conjunction with the Net Zero Review final report, the principles upon which
+the UK will fund its transition to net zero carbon emissions by 2050. (Paragraph 46)
+
+5.
+
+There are a number of different estimates of the cost of achieving net zero by 2050.
+However, the Government has not yet committed to its own cost estimates and should
+set these out as soon as possible. The Government should include in the Net Zero
+Review final report its own methodology on costs; and it should set out clearly where
+the uncertainties lie. The Treasury should also include a range of scenarios on how
+net zero might be achieved, and the associated cost for each scenario. (Paragraph 47)
+
+6.
+
+The Treasury’s Net Zero Review final report should include clear sectoral pathways
+towards decarbonisation and should address the key policy decisions as to the future
+of high carbon industries. Particular attention should be given to the potential
+regional impact of those decisions, and the Government should set out a framework
+and strategy for supporting those communities which will be most impacted by these
+changes. This is especially important given the Government’s commitment to a Just
+Transition as part of the Paris Agreement. (Paragraph 53)
+Green finance to support green decarbonisation
+
+7.
+
+The Government has recognised that private finance will need to play a key part in
+funding the transition to net zero. If it is to do so, the Government will need to provide
+long-term certainty in climate-related policy and must ensure that consistent policy
+signals are sent to investors. We are encouraged that the Government acknowledged
+these needs in the 2021 Budget. (Paragraph 59)
+
+Net zero and the Future of Green Finance
+
+53
+
+8.
+
+We welcome the announcement in the 2021 Budget of a timetable for the issuance of
+the UK’s first green sovereign bond or ‘green gilt’. However, the UK is lagging behind
+other countries in the issuance of these green bonds. This runs the risk of holding back
+the development of a private sterling green bond market. Although concerns about
+the potential for green bonds to be a more expensive form of debt for the Government
+seem to have dissipated to a degree, the Government should none the less set out its
+tolerance, when issuing such bonds, for them to be more expensive than other forms of
+Government debt. (Paragraph 66)
+
+9.
+
+We note the new remit provided to the Monetary Policy Committee, which will
+allow it to rebalance its Corporate Bond Purchase Scheme to take account of the
+climate impact of the bonds it holds. We will continue to scrutinise this process and
+will examine how any changes are enacted, and how those changes impact on the
+other policy objectives and the independence of the Monetary Policy Committee.
+(Paragraph 74)
+
+10.
+
+We note the debate at the Productive Finance Working Group Steering Committee on
+retail access to the ‘long term asset fund’ (LTAF). There should be clarity about who
+will have access to the LTAF. The Chancellor and the financial regulators should set
+out the timeframe for the launch of the announced ‘long term asset fund’ to allow
+pension savers to invest in long-term projects. We would expect that such an LTAF
+would be focused on providing a net-zero compliant product. (Paragraph 80)
+
+11.
+
+The Treasury should, as part of its review of Solvency II, consider reforms that could
+improve the funding of sustainable green infrastructure while maintaining the
+financial stability of insurers. (Paragraph 84)
+
+12.
+
+In the proposed framework for the new UK Infrastructure Bank, the Chancellor
+should clarify its governance arrangements, how investment decisions will be made,
+and how it will ensure that it attracts sufficient private capital. In particular, it should
+clearly set out how the Bank will meet the Government’s commitment to Net Zero.
+The Government should also set out how it will incorporate lessons learned from the
+former Green Investment Bank, and whether it intends that the UK Infrastructure
+Bank should be funded to offer a lending facility at a level similar to that offered by
+the European Investment Bank before the UK referendum on membership of the EU.
+(Paragraph 95)
+The role of consumers
+
+13.
+
+There is a high level of inertia amongst consumers around defined contribution
+pension fund choice, with most remaining in the ‘default’ fund. The Treasury has
+been robust in its view that default funds should not be required to move to more
+green alternatives, but at the same time maintains that consumers should not have
+to switch out of the default fund to invest sustainably. The Government should
+resolve this apparent contradiction. At present the Treasury is relying on a blend
+of disclosure, regulation and public investment to foster a transition towards more
+sustainable investment. For now, we support that approach, but the Treasury should
+report regularly on the proportion of pension holders in defined contribution pension
+schemes who remain in the default fund, and the extent to which those default funds
+are aligned with a path to Net Zero. (Paragraph 108)
+
+54
+
+Net zero and the Future of Green Finance
+
+14.
+
+Consumers who hold defined benefits pensions have no choice as to how their assets
+are allocated. They rely upon their trustees. We note that previous attempts to get
+defined benefit schemes to acknowledge Environmental Social and Governance
+concerns have not been entirely successful. In its phased approach to implementing
+the regulations, the Pensions Regulator will need to consider how to reach smaller
+pension schemes. The draft regulations appear to exclude the smallest trust schemes.
+However, when their effects are aggregated, they may still have an impact on meeting
+the net zero target. In responding to this Report, the Government should set out how
+these smaller funds will be encouraged to integrate climate governance and reporting
+requirements. (Paragraph 117)
+
+15.
+
+The financial services industry broadly accepts that ‘greenwashing’ is detrimental to
+good consumer outcomes and to the achievement of the net zero goal. The Treasury
+must work with the FCA to ensure that the regulator has the appropriate remit, powers
+and priorities, and uses its powers, to prevent ‘greenwashing’ of financial products
+available to consumers. (Paragraph 124)
+
+16.
+
+Financial products should be clearly labelled to allow consumers to assess the
+relative climate impacts of products and to make choices accordingly. However,
+allowing every firm to create its own consumer sustainability labels may lead to
+inconsistencies and consumer confusion. The Treasury and the Financial Conduct
+Authority should consult on the merits of making climate or carbon labels for
+consumer financial products mandatory, as a means to encourage innovation. The
+FCA should consult on how best to make such labels readily and widely understood.
+(Paragraph 130)
+
+17.
+
+We note the concerns expressed about indices, in that the most popular may be
+carbon-intensive, and those that purport to be green may have carbon-intensive
+constituents. The risk remains that many consumers are unaware of the carbonintensity of the indices that their passive investments are tracking. The Treasury and
+regulators should therefore ensure that all indices (whether conventional or climatefriendly) clearly set out the overall carbon footprint of the assets included within
+indices. (Paragraph 137)
+
+18.
+
+On the concerns around the constituents of indices described as ‘green’, we note
+the requirements under the Benchmarks Regulation, which should be used to help
+consumers make better choices. However, it is clear that in some cases the labels
+or descriptions of ‘green’ or ‘climate-related’ indices do not necessarily match
+legitimate consumer expectations of what they would commonly be understood
+to mean. The Treasury and FCA should review the provisions in the legislative and
+regulatory framework and ensure that the labels and descriptions of indices accurately
+reflect their content, in line with consumer expectations. (Paragraph 138)
+
+19.
+
+The Government’s Green Finance Strategy noted the need for innovation in green
+finance products and services, yet the evidence we have received suggests that the
+pace of innovation could be accelerated and that more could be done to encourage
+take-up. The Financial Conduct Authority should seriously consider undertaking
+further “green fintech challenges” to encourage innovation. The regulator should also
+set out how it will tackle remaining regulatory barriers which discourage innovative
+‘green’ financial products from coming to market. The Government and the regulators
+
+Net zero and the Future of Green Finance
+
+55
+
+should work more closely with the Green Finance Institute to bring innovative ideas
+which will benefit consumers to the market. (Paragraph 149)
+20.
+
+The Prudential Regulation Authority and Financial Conduct Authority should
+move quickly to incorporate their revised remits to include climate change. We will
+continue to monitor their progress and ongoing approach to the risks arising from
+climate change. (Paragraph 154)
+
+21.
+
+We have heard differing evidence on whether there should be amendments to the
+capital regimes to promote net zero. In light of its new remit letter, the Bank of England
+must now explain its thinking, as to what measures it might consider appropriate for
+the capital regime to better accommodate the climate risk associated with different
+investments. It should set out its views on the options for amending the capital regimes
+to reflect its new remit, taking into account the potential interaction with the other
+aims of prudential policy. (Paragraph 168)
+
+22.
+
+The Government has moved from a voluntary to a mandatory approach for ensuring
+that firms make climate-related financial disclosures. But the process will be run
+to different timetables for different firms, across different regulators according to
+the Roadmap published by the Joint Government Regulator TCFD Taskforce. The
+Treasury, via the Taskforce, will need to play a key role in ensuring that pressure
+is maintained for a consistent and rapid implementation of these disclosures.
+(Paragraph 182)
+
+23.
+
+We also draw the Treasury’s attention to evidence suggesting that the disclosure
+regime could be widened in scope, and that firms might usefully offer fuller
+disclosures. (Paragraph 183)
+
+24.
+
+A taxonomy is an important part of identifying what can be considered green
+investment, so the announcement of a UK taxonomy is welcome. The Treasury and
+regulators should work at speed to ensure that there is a clear timetable and legislative
+pathway to deliver a UK taxonomy ahead of COP26 in November 2021. The UK can
+utilise the EU’s taxonomy but can exceed it when it will assist the UK’s goals. The UK
+should seize the opportunity presented by COP26 to use its own work on a taxonomy
+to push for greater international convergence. (Paragraph 192)
+
+56
+
+Net zero and the Future of Green Finance
+
+Formal minutes
+Wednesday 14 April 2021
+Members present:
+Mel Stride, in the Chair
+Rushanara Ali
+
+Dame Angela Eagle
+
+Harriett Baldwin
+
+Julie Marson
+
+Anthony Browne
+
+Siobhain McDonagh
+
+Felicity Buchan
+
+Alison Thewliss
+
+Draft Report (Net zero and the Future of Green Finance), proposed by the Chair, brought
+up and read.
+Ordered, That the draft Report be read a second time, paragraph by paragraph.
+Paragraphs 1 to 192 read and agreed to.
+Summary agreed to.
+Resolved, That the Report be the Thirteenth Report of the Committee to the House.
+Ordered, That the Chair make the Report to the House.
+Ordered, That embargoed copies of the Report be made available (Standing Order No.
+134).
+[Adjourned till Monday 19 April at 3.00 pm.
+
+Net zero and the Future of Green Finance
+
+57
+
+Witnesses (2017–19 session)
+The following witnesses gave evidence. Transcripts can be viewed on the inquiry publications
+page of the Committee’s website.
+
+Tuesday 2 July 2019
+Chris Stark, Chief Executive, Committee on Climate Change; Professor Nick
+Robins, Professor in Practice for Sustainable Finance, Grantham Research
+Institute on Climate Change and the Environment, London School of Economics;
+and Sagarika Chatterjee, Director of Climate Change, Principles for Responsible
+Investment
+
+Q1–66
+
+Wednesday 8 October 2019
+Rachel Haworth, UK Policy Manager, ShareAction, Bruce Davis, Joint Managing
+Director, Abundance Investment, and Simon Howard, Chief Executive, UK
+Sustainable Investment and Finance Association
+
+Q67–115
+
+58
+
+Net zero and the Future of Green Finance
+
+Published written evidence (2017–19
+session)
+The following written evidence was received by the Treasury Committee in the previous
+Parliament (2017–19 session) and can be viewed on the inquiry publications page of the
+Committee’s website.
+1
+
+Aberdeen Standard Investments (DUE0041)
+
+2
+
+ADS Group (DUE0021)
+
+3
+
+Airlines UK (DUE0051)
+
+4
+
+Aldersgate Group (DUE0018)
+
+5
+
+Anaerobic Digestion and Bioresources Association (DUE0014)
+
+6
+
+Anglian Water Services (DUE0038)
+
+7
+
+Anglo American (DUE0077)
+
+8
+
+Association for Decentralised Energy (DUE0033)
+
+9
+
+Association of British Insurers (DUE0070)
+
+10
+
+Aviva plc (DUE0048)
+
+11
+
+Bank of England (DUE0093)
+
+12
+
+Barclays (DUE0045)
+
+13
+
+Biofuelwatch (DUE0091)
+
+14
+
+Hartwell, Christopher A., Professor of Financial Systems Resilience, Bournemouth
+University (DUE0005)
+
+15
+
+Building Societies Association (DUE0084)
+
+16
+
+BYD UK Co Ltd (DUE0032)
+
+17
+
+Cadent (DUE0022)
+
+18
+
+Campaign for Better Transport (DUE0116)
+
+19
+
+Carbon Tracker Initiative (DUE0008)
+
+20
+
+CDP (DUE0086)
+
+21
+
+Centre for Energy Policy, University of Strathclyde (DUE0007)
+
+22
+
+ChargePoint (DUE0088)
+
+23
+
+Chemical Industries Association (DUE0043)
+
+24
+
+Christian Aid (DUE0031)
+
+25
+
+CIMA (DUE0098)
+
+26
+
+City of London Corporation (DUE0063)
+
+27
+
+ClientEarth (DUE0036)
+
+28
+
+Community Energy England (DUE0059)
+
+29
+
+Cyan Finance (DUE0054)
+
+30
+
+DNV GL (DUE0053)
+
+31
+
+Drax Group plc (DUE0050)
+
+32
+
+E.ON (DUE0055)
+
+Net zero and the Future of Green Finance
+
+33
+
+E3G (DUE0101)
+
+34
+
+Eaton (DUE0026)
+
+35
+
+EDF Energy (DUE0075)
+
+36
+
+Electricity North West Limited (DUE0024)
+
+37
+
+Energy and Utilities Alliance (DUE0049)
+
+38
+
+Energy Efficiency Infrastructure Group (DUE0083)
+
+39
+
+Energy Networks Association (DUE0066)
+
+40
+
+Energy UK (DUE0028)
+
+41
+
+Extinction Rebellion Oxford (DUE0030)
+
+42
+
+Finance & Leasing Association (DUE0108)
+
+43
+
+Financial Conduct Authority (DUE0099)
+
+44
+
+Glennmont Partners (DUE0016)
+
+45
+
+Global Witness (DUE0019)
+
+46
+
+Global Witness (DUE0064)
+
+47
+
+Grantham Research Institute on Climate Change and the Environment, London
+School of Economics (DUE0076)
+
+48
+
+Greater London Authority (DUE0109)
+
+49
+
+Green Alliance (DUE0039)
+
+50
+
+Greenpeace, Friends of the Earth, RSPB (DUE0027)
+
+51
+
+Highview Power (DUE0069)
+
+52
+
+HSBC Holdings (DUE0079)
+
+53
+
+Dunn, Hugo (DUE0087)
+
+54
+
+ICAEW (DUE0065)
+
+55
+
+Institute and Faculty of Actuaries (DUE0029)
+
+56
+
+Institute for Strategy, Resilience & Security, University College London (DUE0040)
+
+57
+
+The Independent Renewable Energy Generators Group (DUE0042)
+
+58
+
+ISS ESG (DUE0009)
+
+59
+
+Kingspan Insulation Ltd (DUE0025)
+
+60
+
+Liquid Gas UK (DUE0056)
+
+61
+
+Lloyd’s (DUE0103)
+
+62
+
+Loan Market Association (DUE0037)
+
+63
+
+London Stock Exchange Group (DUE0058)
+
+64
+
+Low Carbon (DUE0104)
+
+65
+
+Mineral Products Association (DUE0046)
+
+66
+
+Mirova/Natixis Investment Managers (DUE0106)
+
+67
+
+Scharf, Mr Daniel (DUE0003)
+
+68
+
+Haas, Ms Jill (DUE0006)
+
+69
+
+National Energy Action (DUE0035)
+
+59
+
+60
+
+Net zero and the Future of Green Finance
+
+70
+
+National Grid (DUE0100)
+
+71
+
+ODI (DUE0080)
+
+72
+
+Oil & Gas UK (DUE0034)
+
+73
+
+Oil Change International (DUE0061)
+
+74
+
+Orsted (DUE0073)
+
+75
+
+OVO Group (DUE0012)
+
+76
+
+Oxford Climate Lobby (DUE0013)
+
+77
+
+Oxford Sustainable Finance Programme, University of Oxford (DUE0060)
+
+78
+
+PIMFA (DUE0081)
+
+79
+
+Platform (DUE0010)
+
+80
+
+Plenitude (DUE0015)
+
+81
+
+Positive Money (DUE0062)
+
+82
+
+Principles for Responsible Investment (DUE0089)
+
+83
+
+Grubb, Professor Michael (DUE0114)
+
+84
+
+Jackson, Professor Tim (DUE0074)
+
+85
+
+Project Heather (DUE0082)
+
+86
+
+RBS (DUE0057)
+
+87
+
+ROCKWOOL Ltd (DUE0020)
+
+88
+
+Ruffer LLP (DUE0094)
+
+89
+
+Ryse Hydrogen (DUE0095)
+
+90
+
+ScottishPower (DUE0090)
+
+91
+
+SGN (DUE0067)
+
+92
+
+ShareAction (DUE0096)
+
+93
+
+Shell UK Ltd (DUE0047)
+
+94
+
+Solar Trade Association (DUE0092)
+
+95
+
+Storelectric Ltd (DUE0001)
+
+96
+
+Storelectric Ltd (DUE0002)
+
+97
+
+Sustainable Aviation (DUE0112)
+
+98
+
+Sustainable Energy Association (DUE0078)
+
+99
+
+The Confederation of British Industry (DUE0110)
+
+100
+
+The Crown Estate (DUE0115)
+
+101
+
+The Grantham Research Institute on Climate Change and the Environment
+(DUE0105)
+
+102
+
+The Investment Association (DUE0071)
+
+103
+
+The Mineral Wool Insulation Manufacturers Association (MIMA) (DUE0097)
+
+104
+
+The Natural History Museum (DUE0017)
+
+105
+
+UK Finance (DUE0011)
+
+106
+
+UK Green Building Council (DUE0023)
+
+Net zero and the Future of Green Finance
+
+107
+
+UK Power Networks (DUE0072)
+
+108
+
+UK Sustainable Investment and Finance Association (DUE0044)
+
+109
+
+Veolia (DUE0085)
+
+110
+
+WWF (DUE0068)
+
+111
+
+Zurich Insurance (DUE0052)
+
+61
+
+62
+
+Net zero and the Future of Green Finance
+
+Witnesses (2019–21 session)
+The following witnesses gave evidence. Transcripts can be viewed on the inquiry publications
+page of the Committee’s website.
+
+Tuesday 10 March 2020
+Libby Peake, Head of Resource Policy, Green Alliance; The Baroness Worthington,
+Crossbench Life Peer; Nick Molho, Executive Director, Aldersgate Group; The
+Lord Turner of Ecchinswell, Chairman, Energy Transitions Commission
+
+Q1–59
+
+Wednesday 9 September 2020
+Professor Nick Robins, Professor in Practice for Sustainable Finance, Grantham
+Research Institute, LSE; Dr Emily Shuckburgh OBE, Director, Cambridge Zero,
+University of Cambridge; Chris Cummings, CEO, Investment Association; Daniel
+Klier, Group Head of Sustainable Finance, HSBC
+
+Q60–109
+
+Wednesday 30 September 2020
+Sheldon Mills, Interim Executive Director of Strategy and Competition, Financial
+Conduct Authority; Sarah Breeden, Executive Director for UK Deposit Takers
+Supervision, Prudential Regulation Authority; Anthony Raymond, General
+Counsel and Director of Legal Services, Policy and Advisory Directorate, The
+Pensions Regulator
+
+Q110–182
+
+Wednesday 14 October 2020
+Saker Nusseibeh, CEO, Federated Hermes International; Sandra Boss, Global
+Head of Investment Stewardship, BlackRock; Huw Evans, Director General,
+Association of British Insurers; Steve Waygood, Chief Responsible Investment
+Officer, Aviva
+
+Q183–235
+
+Monday 16 November 2020
+John Glen MP, Economic Secretary, HM Treasury; Kemi Badenoch MP, Exchequer
+Secretary, HM Treasury; Niva Thiruchelvam, Deputy Director, Head of Net Zero
+Review, Enterprise and Growth Unit, HM Treasury; Richard Knox, Director,
+Financial Services Group, HM Treasury
+Q236–330
+
+Net zero and the Future of Green Finance
+
+63
+
+Published written evidence (2019–21
+session)
+The following written evidence was received and can be viewed on the inquiry publications
+page of the Committee’s website.
+DEC numbers are generated by the evidence processing system and so may not be complete.
+1
+
+361 Community Energy (DEC0090)
+
+2
+
+ACTion on Climate for Teignbridge (DEC0106)
+
+3
+
+ADS Group (DEC0022)
+
+4
+
+Airlines UK (DEC0021)
+
+5
+
+Alstom UK & Ireland (DEC0116)
+
+6
+
+Anaerobic Digestion and Bioresources Association (ADBA) (DEC0056)
+
+7
+
+Angel Trains (DEC0049)
+
+8
+
+Anonymous (DEC0111)
+
+9
+
+Anonymous (DEC0105)
+
+10
+
+Anonymous (DEC0100)
+
+11
+
+Anonymous (DEC0008)
+
+12
+
+Arcadis (DEC0113)
+
+13
+
+Association of British Insurers (DEC0121)
+
+14
+
+Association of British Insurers (DEC0067)
+
+15
+
+Aviva (DEC0086)
+
+16
+
+Barclays (DEC0052)
+
+17
+
+Barraclough, Mr Chris (Property director, Hutton Estates Consultancy Limited)
+(DEC0025)
+
+18
+
+Baxi Heating UK (DEC0110)
+
+19
+
+BlackRock (DEC0123)
+
+20
+
+Budweiser Brewing Group (DEC0118)
+
+21
+
+CIA (DEC0018)
+
+22
+
+Campaign for Better Transport (DEC0082)
+
+23
+
+Chargepoint (DEC0012)
+
+24
+
+Chemical Industries Association (DEC0028)
+
+25
+
+ClientEarth (DEC0016)
+
+26
+
+Community Energy England (DEC0091)
+
+27
+
+Community Union (DEC0102)
+
+28
+
+Confederation of British Industry (DEC0015)
+
+29
+
+E.ON (DEC0030)
+
+30
+
+E3G (DEC0051)
+
+31
+
+EDF (DEC0010)
+
+64
+
+Net zero and the Future of Green Finance
+
+32
+
+Energy Networks Association (DEC0098)
+
+33
+
+Energy UK (DEC0101)
+
+34
+
+Federated Hermes International (DEC0124)
+
+35
+
+Federation of Master Builders (DEC0044)
+
+36
+
+Finance & Leasing Association (DEC0029)
+
+37
+
+Glennmont Partners (DEC0027)
+
+38
+
+Global Warming Policy Foundation (DEC0009)
+
+39
+
+Global Witness (DEC0059)
+
+40
+
+Grantham Research Institute, LSE (DEC0117)
+
+41
+
+Greener practice (DEC0085)
+
+42
+
+Greenpeace UK (DEC0013)
+
+43
+
+Ground Source Heat Pump Association (GSHPA) (DEC0042)
+
+44
+
+HSBC (DEC0119)
+
+45
+
+HSBC Holdings plc (DEC0066)
+
+46
+
+Haringey Labour Climate Action (HLCA) (DEC0043)
+
+47
+
+Heat Pump Federation; and Ground Source Heat Pump Association (DEC0040)
+
+48
+
+Hydrogen Strategy Now campaign (DEC0047)
+
+49
+
+Icebreaker One (DEC0048)
+
+50
+
+Institution of Civil Engineers (DEC0019)
+
+51
+
+Institutional Investors Group on Climate Change (DEC0035)
+
+52
+
+Investment Association (DEC0074)
+
+53
+
+Kensa Group (DEC0064)
+
+54
+
+Kingdom (DEC0039)
+
+55
+
+Kingspan Insulation (DEC0078)
+
+56
+
+Knight, Cedric (DEC0092)
+
+57
+
+Legal and General Group Plc (DEC0120)
+
+58
+
+Liquid Gas UK (DEC0061)
+
+59
+
+Local Authority Pension Fund Forum (DEC0033)
+
+60
+
+Local Government Association (DEC0070)
+
+61
+
+London Councils (DEC0097)
+
+62
+
+London Sustainable Development Commission (DEC0063)
+
+63
+
+Mineral Products Association (DEC0036)
+
+64
+
+Mineral Wool Insulation Manufacturers Association (MIMA) (DEC0055)
+
+65
+
+Muswell Hill & Hornsey Friends of the Earth; Central Lancashire Friends of the Earth;
+East Dorset Friends of the Earth; Hammersmith & Fulham Friends of the Earth;
+Sheffield Friends of the Earth; Tottenham and Wood Green Friends of the Earth;
+Sustainable Thornbury; Transition Black Isle; Transition Highbury; and Transition
+Exmouth (DEC0108)
+
+66
+
+National Grid (DEC0080)
+
+Net zero and the Future of Green Finance
+
+67
+
+North Devon cycling campaign group (DEC0057)
+
+68
+
+Nuclear Industry Association (DEC0073)
+
+69
+
+OGUK (DEC0094)
+
+70
+
+Octopus Group (DEC0017)
+
+71
+
+ONeill, Dr Finola and Ms Zoe Griffiths (DEC0076)
+
+72
+
+Oxford Climate Lobby (DEC0007)
+
+73
+
+Peiser, Dr Benny (Director, Global Warming Policy Foundation) (DEC0122)
+
+74
+
+Pension and Lifetime Savings Association (DEC0002)
+
+75
+
+Positive Money (DEC0060)
+
+76
+
+Price, Dr Martin (DEC0032)
+
+77
+
+Responsible Finance (DEC0031)
+
+78
+
+Riggulsford, Mr Myc (DEC0096)
+
+79
+
+Royal Institute of British Architects (DEC0020)
+
+80
+
+SERA Devon (DEC0041)
+
+81
+
+SSE plc (DEC0046)
+
+82
+
+Scharf, Daniel (Consultant, PfT Planning) (DEC0006)
+
+83
+
+ScottishPower (DEC0112)
+
+84
+
+ShareAction (DEC0079)
+
+85
+
+Solar Trade Association (DEC0034)
+
+86
+
+Standard Life Aberdeen (DEC0095)
+
+87
+
+Storelectric Limited (DEC0005)
+
+88
+
+Sunswap (DEC0109)
+
+89
+
+Sustain: the alliance for better food and farming (DEC0072)
+
+90
+
+Sustainable Crediton (DEC0103)
+
+91
+
+Tetra Pak (DEC0075)
+
+92
+
+The Financial Conduct Authority (DEC0001)
+
+93
+
+UCL Institute for Innovation and Public Purpose (IIPP) (DEC0065)
+
+94
+
+UK Finance (DEC0068)
+
+95
+
+UK Sustainable Investment & Finance Association (DEC0093)
+
+96
+
+UK Women’s Budget Group (DEC0011)
+
+97
+
+UKHospitality (DEC0062)
+
+98
+
+WWF UK (DEC0054)
+
+99
+
+Walker, Mrs Glynis (DEC0089)
+
+100
+
+Watson, John (DEC0104)
+
+101
+
+Westcott, Dr Gill (Co-Chair, Transition Exeter) (DEC0115)
+
+102
+
+Yarrow, Ms Stella; Ms Alexandra Munns; and 745 additional Extinction Rebellion
+activists (DEC0114)
+
+103
+
+Yeoh, Benjamin (DEC0037)
+
+65
+
+66
+
+Net zero and the Future of Green Finance
+
+List of Reports from the Committee
+during the current Parliament
+All publications from the Committee are available on the publications page of the
+Committee’s website.
+
+Session 2019–21
+Number
+
+Title
+
+Reference
+
+1st
+
+Appointment of Andrew Bailey as Governor of the Bank
+of England
+
+HC 122
+
+2nd
+
+Economic impact of coronavirus: Gaps in support
+
+HC 454
+
+3rd
+
+Appointment of Richard Hughes as the Chair of the Office
+for Budget Responsibility
+
+HC 618
+
+4th
+
+Appointment of Jonathan Hall to the Financial Policy
+Committee
+
+HC 621
+
+5th
+
+Reappointment of Andy Haldane to the Monetary Policy
+Committee
+
+HC 620
+
+6th
+
+Reappointment of Professor Silvana Tenreyro to the
+Monetary Policy Committee
+
+HC 619
+
+7th
+
+Appointment of Nikhil Rathi as Chief Executive of the
+Financial Conduct Authority
+
+HC 622
+
+8th
+
+Economic impact of coronavirus: the challenges of
+recovery
+
+HC 271
+
+9th
+
+The appointment of John Taylor to the Prudential
+Regulation Committee
+
+HC 1132
+
+10th
+
+The appointment of Antony Jenkins to the Prudential
+Regulation Committee
+
+HC 1157
+
+11th
+
+Economic impact of coronavirus: gaps in support and
+economic analysis
+
+HC 882
+
+12th
+
+Tax after coronavirus
+
+HC 664
+
+1st Special
+
+IT Failures in the financial services sector: Government and
+Regulators’ Response to the Committee’s Second Report
+of 2019
+
+HC 114
+
+2nd Special
+
+Economic Crime: Consumer View: Government and
+Regulators’ Responses to Committee’s Third Report of
+Session 2019
+
+HC 91
+
+3rd Special
+
+Economic impact of coronavirus: Gaps in support:
+Government Response to the Committee’s Second Report
+of Session 2019–21
+
+HC 662
+
+4th Special
+
+Economic impact of coronavirus: Gaps in support: Further
+Government Response
+
+HC 749
+
+5th Special
+
+Economic impact of coronavirus: the challenges of
+recovery: Government Response to the Committee’s
+Eighth Report of Session 2019–21
+
+HC 999
+
+

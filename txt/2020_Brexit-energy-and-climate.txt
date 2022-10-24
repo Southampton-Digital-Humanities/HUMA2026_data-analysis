@@ -1,0 +1,3325 @@
+BRIEFING PAPER
+Number CBP 8394, 19 June 2020
+
+Brexit: Energy and
+Climate Change
+
+By Suzanna Hinson and
+Sara Priestley
+
+Contents:
+1. Introduction
+2. Civil Nuclear - Euratom
+3. Energy
+4. Implications for the island of
+Ireland
+5. Climate Change
+6. Annex: Previous material on
+preparations for a possible
+“no deal” scenario (2017January 2020)
+
+www.parliament.uk/commons-library | intranet.parliament.uk/commons-library | papers@parliament.uk | @commonslibrary
+
+2
+
+Brexit: Energy and Climate Change
+
+Contents
+Summary
+
+3
+
+1.
+
+Introduction
+
+5
+
+2.
+2.1
+
+Civil Nuclear - Euratom
+Background on Civil Nuclear
+Nuclear Safeguards
+Nuclear Cooperation Agreements for trade
+Radioisotopes
+Research
+Negotiating positions for the Future Relationship
+Commentary
+
+7
+7
+7
+7
+8
+9
+10
+11
+
+3.
+3.1
+3.2
+3.3
+3.4
+
+Energy
+The Internal Energy Market (IEM)
+Considerations for the Future Relationship
+Other energy impacts
+Negotiating positions for the Future Relationship
+Commentary
+
+13
+13
+18
+20
+21
+24
+
+4.
+4.1
+
+Implications for the island of Ireland
+The Single Electricity Market (SEM)
+Considerations for the Future Relationship
+Negotiating positions for the Future Relationship
+Commentary
+
+27
+27
+28
+28
+31
+
+Climate Change
+Negotiating positions of the EU and the UK Government
+2017-18
+2019
+2020
+Further information
+International framework
+The Kyoto Protocol
+The Paris Agreement
+The future relationship
+Commentary
+Carbon pricing
+The UK’s participation in the EU ETS
+The future relationship
+Commentary
+
+33
+34
+34
+35
+35
+37
+37
+37
+38
+39
+40
+42
+42
+44
+47
+
+Annex: Previous material on preparations for a possible “no deal”
+scenario (2017-January 2020)
+Civil Nuclear
+Energy trading and the IEM
+The island of Ireland
+Other energy
+Climate change
+
+49
+49
+50
+51
+53
+55
+
+2.2
+
+4.2
+5.
+5.1
+
+5.2
+
+5.3
+
+6.
+6.1
+6.2
+6.3
+6.4
+6.5
+
+Contributing Authors:
+
+Paul Bolton and Noel Dempsey
+
+Cover page image copyright: Attribution: Satellite view of Europe at night / image
+cropped. Licensed under CC0 Creative Commons – no copyright required.
+
+3
+
+Commons Library Briefing, 19 June 2020
+
+Summary
+The UK left the European Union (EU) on 31 January 2020. The UK is currently in the
+transition period as set out in the Withdrawal Agreement, which entered into force with
+the UK’s departure. Until the transition period ends (expected to be at the end of 2020),
+the UK will continue to have the same relationship with regards to rules, including on
+energy and climate change, as when the UK was a Member State of the EU.
+This paper sets out the existing relationship between the UK and EU in relation to energy
+and climate change and the position of both parties regarding these areas in the
+negotiations for the future relationship.
+Energy
+Member States of the EU are ultimately responsible for the energy supply to their citizens,
+and for deciding on the most appropriate energy mix. However, the UK and EU energy
+sectors remain integrated through trade, legislation, and interconnection of energy supply,
+as well as sharing joint research and development aims.
+Civil nuclear - Euratom
+The European Atomic Energy Community (Euratom) provides the basis for the regulation
+of civilian nuclear activity in its members. Euratom’s roles include implementing a system
+of safeguards to monitor the use of civil nuclear materials, controlling the supply of
+nuclear materials, and funding research.
+The UK left Euratom as part of its departure from the EU, though the arrangements
+between Euratom and the UK will continue through the transition period. Both the UK
+Government and EU negotiating directives for the future relationship refer to an intention
+for “cooperation” on civil nuclear.
+The UK Government has already legislated to replicate Euratom’s nuclear safeguards
+regime and negotiated agreements for nuclear trade with certain countries. More
+information is available in the Library paper on Euratom.
+Energy trading
+The UK has five electricity interconnectors with continental Europe and the island of
+Ireland and more are either under construction or planned. As part of the transition
+period, the UK remains a member of the EU internal energy market (IEM) which allows
+harmonised, tariff-free trading of gas and electricity across Europe through
+interconnectors. This harmonised market makes trading more efficient and can reduce
+costs to consumers.
+The future of the UK relationship with the IEM is subject to the negotiations. Both parties
+have published draft texts detailing provisions on cooperation on trade in electricity and
+gas. While there are areas of overlap, there are also differences between the positions
+including on the details of energy trading, membership of bodies, and governance.
+Implications for the island of Ireland
+The island of Ireland operates a Single Electricity Market (SEM) which allows free trade of
+power across the island. A new Integrated Single Electricity Market designed closely
+around the rules of the IEM, launched in 2018.
+Provisions to allow the continued functioning of the SEM were set out in the Protocol on
+Ireland/Northern Ireland in the Withdrawal Agreement. The UK’s future relationship with
+
+4
+
+Brexit: Energy and Climate Change
+
+the IEM may have an impact on the operation of the SEM as currently the only
+connections between the island of Ireland and mainland Europe are through
+interconnectors via Great Britain. The Withdrawal Agreement did not cover trading
+between the island of Ireland and GB; stakeholders have called for the future relationship
+negotiations to consider arrangements to facilitate this trading.
+Climate change
+The UK Government is committed to domestic and international efforts to tackle climate
+change, neither of which have been impacted by leaving the EU. However, the level of the
+UK’s involvement, future cooperation and alignment with EU climate change efforts
+remains subject to ongoing negotiation. As an example, on carbon pricing, the UK
+Government and devolved Administrations have designed a new UK emissions trading
+scheme for 2021 onwards, which may or may not be linked to the EU emissions trading
+scheme. The inclusion of enforceable climate change obligations, including those at an
+international level such as the Paris Agreement, within the UK-EU trade agreement also
+remains subject to ongoing negotiations.
+
+5
+
+Commons Library Briefing, 19 June 2020
+
+1. Introduction
+The UK left the European Union (EU) on 31 January 2020. The UK is
+currently in the transition period as set out in the Withdrawal
+Agreement which entered into force with the UK’s departure. Until the
+transition period ends (currently expected to be at the end of 2020) the
+UK will continue to have the same relationship with regards to rules,
+including on energy and climate change, as when the UK was a
+Member State of the EU.
+The UK’s energy and climate change sectors are largely governed by
+domestic policy, but aspects are also integrated with the EU, meaning
+the future relationship could affect several energy and climate change
+policies. This remains subject to the outcome of the ongoing
+negotiations.
+On energy, although Member States remain ultimately responsible for
+security of energy supply to citizens, and for deciding their energy mix,
+the UK and EU energy sectors remain integrated through trade,
+legislation and interconnection of energy supply. Consequently, the
+future relationship between the UK and EU has the potential to affect
+the UK’s civil nuclear industry, including nuclear power and research,
+and the trade of electricity and gas through interconnectors. Additional
+areas that may be affected include the island of Ireland’s energy market,
+energy efficiency regulations, and general energy infrastructure through
+wider changes to trade and the movement of people.
+On climate change, the UK has standalone domestic legislation in the
+form of the Climate Change Act 2008 including a net zero by 2050
+target. The UK is also part of an international effort to combat climate
+change, which, until the end of the transition period, is intertwined to
+some extent with the EU, including contributing to the EU’s
+international commitments and direct participation in the EU emissions
+trading scheme. The UK’s future alignment with EU climate change
+mechanisms is subject to negotiations, but there will be some domestic
+changes including a new UK emissions trading scheme which is due to
+be put in place by 2021.
+The Withdrawal Agreement contains technical information relating to
+the civil nuclear industry. The Ireland/Northern Ireland protocol within
+the Withdrawal Agreement will come into force at the end of the
+transition period and provide for the continued operation of the Irish
+Single Electricity Market including Northern Ireland’s continued
+participation in the EU ETS. The Political Declaration includes references
+to future cooperation on a number of areas, including energy trading,
+nuclear cooperation, and tackling climate change in international fora
+and under international agreements.
+In relation to the future relationship negotiations, the UK Government
+has not included energy or climate change in its proposed
+comprehensive free trade agreement. Instead it has proposed a separate
+
+6
+
+Brexit: Energy and Climate Change
+
+draft energy agreement 1 which includes provisions on trading in gas
+and electricity, as well as proposals on climate change co-operation,
+climate change laws and policies and carbon pricing. The UK has also
+published a separate draft civil nuclear agreement. 2
+In contrast, the EU has included energy, climate change, and civil
+nuclear within its draft treaty. 3 The draft treaty includes measures to
+facilitate nuclear cooperation, promote energy efficiency and renewable
+energy, maintain competitive markets and use gas and electricity
+interconnectors “efficiently”. The EU includes the fight against climate
+change as an “essential element” of the partnership as well as within its
+proposed level playing field provisions.
+This paper focuses on the EU and UK Government positions. The
+Northern Ireland Executive, 4 Scottish Government 5 and Welsh
+Government 6 have all made statements setting out their position on the
+future relationship negotiations. The research services in Northern
+Ireland, Scotland, and Wales, have also published briefings on the
+negotiations and the specific implications for each of the devolved
+nations.
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+UK Negotiating Team, Draft working text for an agreement on energy, 19 May 2020
+UK negotiating team, Draft working text for an agreement […] on Cooperation in
+the Peaceful Uses of Nuclear Energy, 19 May 2020
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, 18 March 2020
+The Executive Office, Statement from the First Minister and deputy First Minister on
+the publication of the UK negotiating mandate, 27 February 2020
+Scottish Government, EU-UK future relationship negotiations: statement by the
+Cabinet Secretary for Constitution, Europe and External Affairs, 3 June 2020
+Welsh Government, Written Statement: Welsh Government’s analysis of the UK
+Government’s negotiating mandate for the Future Relationship with the EU, 28
+February 2020
+
+7
+
+Commons Library Briefing, 19 June 2020
+
+2. Civil Nuclear - Euratom
+The European Atomic Energy Community, better known as Euratom,
+was established in the 1950s as part of the creation of the European
+Community. The UK became a member of Euratom on 1 January 1973 7
+and left on 31 January 2020 as it entered the transition period in line
+with the Withdrawal Agreement.
+Euratom provides the basis for the regulation of civil nuclear activity
+(meaning non-military uses of nuclear such as power production and
+medicine). Euratom’s role includes implementing a system of safeguards
+to monitor the use of civil nuclear materials, controlling the supply of
+fissile materials within EU member states, and funding leading
+international research such as the Culham Centre of Fusion Energy in
+Oxfordshire.
+For more information, see the Library’s briefing paper on Euratom.
+
+2.1 Background on Civil Nuclear
+The UK’s future relationship with Euratom could have implications for
+the UK’s current nuclear operations, including fuel supply, waste
+management, cooperation with other nuclear states, and research. The
+UK Government has said it wants a “close” and “effective” future
+relationship with Euratom. 8
+
+Nuclear Safeguards
+Nuclear Safeguards are measures to verify that countries comply with
+their international obligations not to use civil nuclear materials for
+nuclear weapons. 9
+The Nuclear Safeguards Act 2018 provided for a new domestic
+safeguard regime to replace the Euratom regime. Before the UK left
+Euratom, funding was allocated to the UK’s existing body, the Office of
+Nuclear Regulation, to implement the new regime. 10 As such, there was
+not a disruptive impact on nuclear safeguards as part of the UK’s exit
+from Euratom.
+The Library Briefing on the Nuclear Safeguards Act 2018 provides
+further detail.
+
+Nuclear Cooperation Agreements for trade
+Nuclear Cooperation Agreements (NCAs) facilitate trade, for example, in
+nuclear materials including fuel. An NCA is not a legal requirement for
+trade in many countries (where export licences can be used) but is a
+requirement in Australia, Canada, Japan and the US. The UK already
+had an agreement with Japan, and agreed new NCAs with the US in
+7
+8
+
+9
+
+10
+
+Treaty of Accession of Denmark, Ireland and the United Kingdom, 1972
+
+HM Government, The Future Relationship between the United Kingdom and the
+European Union, 12 July 2018, Cm 9593, para 144
+Office for Nuclear Regulation, What are nuclear safeguards? [accessed 16 June
+2020]
+Written Statement [Energy Policy], HCWS445, 2 February 2018 and Written Statement
+[Energy Policy], HCWS617, 16 April 2018
+
+8
+
+Brexit: Energy and Climate Change
+
+May 2018, with Australia in August 2018; 11 and with Canada in
+November 2018. 12
+
+Radioisotopes
+The Euratom treaty not only manages the movement of nuclear material
+for power production, but also for medical uses. Radioactive isotopes 13
+are used in medicine for the diagnosis and treatment of various
+diseases, including cancers, cardiovascular and brain disorders. 14 In the
+UK, around 700,000 nuclear medicine procedures using radioisotopes
+are carried out each year. 15
+Medical isotopes are imported into the UK; mainly sourced from a few
+research reactors. 16 Many of these reactors are in EU countries such as
+the Netherlands, Poland, Belgium, France, Germany and the Czechia. 17
+Although radioisotopes can be sourced from beyond the EU, the
+materials often have short half-lives meaning they can decay rapidly and
+cannot be stored. This creates the need for constant supply which has
+failed in the past, creating global shortages. 18
+Prior to the UK’s departure from Euratom, some health specialists 19 and
+MPs 20 expressed concern that any changes to import arrangements as a
+result of leaving Euratom could impact on the delivery of health
+treatments.
+In a letter to Prime Minister Johnson on 1 August 2019, three groups
+who procure and use radioisotopes (the Royal College of Radiologists,
+the British Nuclear Medicine Society, and the UK Radiopharmacy Group)
+said they were “encouraged” by the work being undertaken by the
+Government to secure supplies of radioisotopes after Brexit (at the time
+various Brexit scenarios were possible). However, they continued that
+they “remain[ed] apprehensive” about supplier readiness and the
+impact of supply changes on patients. They asked the Prime Minister for
+clarity on issues including supplies in relation to a no deal Brexit which
+was a possibility at the time (see Section 6) but also on what action
+would be taken to address the “increased costs caused by Brexit”. 21
+In response to a parliamentary question concerned with the supply of
+radioisotopes if the UK ends the transition period on 31 December
+
+11
+12
+
+13
+14
+15
+16
+17
+18
+
+19
+
+20
+
+21
+
+HCWS983, Energy Policy, 10 October 2018
+Gov.uk, [CS Canada No.1/2018] UK/Canada: Agreement for Cooperation in the
+Peaceful Uses of Nuclear Energy, 12 November 2018
+POSTnote 558, Supply of medical Radioisotopes, July 2017
+European Commission, Supply of medical radioisotopes, [accessed 16 June 2020]
+Supply of Medical Radioisotopes, POSTnote 558, July 2017
+Some radioisotopes can also be produced in particle accelerators.
+World Nuclear News, Radioisotopes in Medicine, May 2017
+British Nuclear Medicine Society and Science & Technology Facilities Council, Future
+Supply of Medical Radioisotopes for the UK, December 2014
+For example, Dr Nicola Strickland, RCR statement on the potential impact of leaving
+the Euratom treaty, Royal College of Radiologists, 10 July 2017
+Jonathon Prynn and Joe Murphy, Tory rebellion goes nuclear: nine MPs oppose plan
+to quit body that would ‘threaten supply of key cancer treatment material, Evening
+Standard, 10 July 2017
+Royal College of Radiologists, Prime Minister urged to clarify queries on radioisotope
+transport and costs, 1 August 2019
+
+9
+
+Commons Library Briefing, 19 June 2020
+
+without a trade agreement, the Government said that in addition to its
+objective of negotiating an agreement:
+The Department will continue to work closely with the
+pharmaceutical industry, the National Health Service and others in
+the supply chain to help ensure patients can access the medicines
+they need, and precautions are in place to reduce the likelihood of
+future shortages. 22
+
+For more information on radioisotopes, see the Library briefing paper on
+Brexit and medicines regulation.
+
+Research
+The UK collaborates with the EU on a number of nuclear research
+projects.
+Horizon 2020
+Euratom’s research and training (R&T) programme is aligned with
+Horizon 2020. Horizon 2020 is the biggest EU Research and Innovation
+programme to date with nearly €80 billion of funding available over 7
+years (2014 to 2020) in addition to private investment – this is for many
+sectors, not just nuclear. 23
+Before Brexit, in August 2016 the Government announced it would
+underwrite funding for approved Horizon 2020 projects applied for
+before the UK left the EU, this included Euratom R&T funds. 24 In July
+2018, the Treasury extended the Government’s guarantee to underwrite
+the UK’s allocation for funding until the end of 2020. 25
+Fusion: JET and ITER
+The UK is also involved in EU nuclear fusion research as part of the JET
+(Joint European Torus) and ITER (International Thermonuclear
+Experimental Reactor) projects.
+JET is a magnetic fusion device, designed to prove the feasibility of
+fusion as an energy source. The project is based at Culham in
+Oxfordshire. Euratom provides 87.5% of the funding for the project and
+the UK Government provides the rest. 26
+JET is helping to inform a larger fusion reactor – ITER - which is being
+built in France. The UK’s future involvement in JET and ITER remain
+subject to the negotiation. Government guidance states that from the
+end of the transition period in January 2021, JET operations will
+continue, but the UK will not be a member of the European
+contribution to ITER. 27
+A contract extension announced in March 2019 means the EU and UK
+funding for JET will continue until the end of 2020. The UK Government
+press release also stated that the contract “leaves open the option of a
+22
+23
+24
+
+25
+26
+
+27
+
+PQ HL4534, 20 May 2020
+European Commission, What is Horizon 2020? [accessed 16 June 2020]
+Gov.uk, Chancellor Phillip Hammond guarantees EU funding beyond date UK leaves
+EU, 13 August 2016
+HCWS926, HM Government’s Guarantee, 24 July 2018
+Department for Business, Energy and Industrial Strategy, Euratom Exit Factsheet,
+Research and Development, June 2018
+Gov.uk, Nuclear research from 1 January 2021, 13 August 2019
+
+10 Brexit: Energy and Climate Change
+
+further extension to JET’s operations until 2024, which would enable it
+to support ITER in the run-up to its launch in 2025”. 28
+ITER has members beyond Europe (China, India, Korea, Russia, and the
+United States). The ITER council has acknowledged “for decades, the UK
+has been a leader in the global fusion research community” in a
+statement on the possibility of future UK involvement in ITER. 29 UK
+Government guidance states the UK will leave the European
+contribution to ITER at the end of the transition period, but the
+guidance doesn’t mention whether the UK will seek to rejoin as a nonEuropean member. In the short term, the ITER council and UK
+Government have confirmed that current contracts with UK nationals
+and operators will be considered valid until their contractually agreed
+end date. 30
+
+2.2 Negotiating positions for the Future
+Relationship
+Withdrawal agreement and Political declaration
+The Withdrawal Agreement includes civil nuclear provisions relating to
+nuclear safeguards, the ownership of materials and equipment, and
+nuclear waste. 31 Detail on these provisions is set out in Section 4.12 in
+the Library briefing paper on The UK’s EU Withdrawal Agreement (April
+2019).
+The Political Declaration on the Framework for Future EU-UK relations
+includes references to nuclear safety, trade, research, and the supply of
+radioisotopes. Detail on these provisions is set out in Section 4.13 in the
+Library briefing paper on The Political Declaration on the Framework for
+Future EU-UK Relations (December 2018).
+
+EU and UK Future Relationship Negotiating
+Positions
+On 18 March 2020, the EU published a draft treaty 32 which included
+provisions on civil nuclear. On 19 May 2020, the UK Government
+published a series of documents setting out its approach to the
+negotiations on the future relationship with the EU, including a draft
+civil nuclear agreement. 33
+There are broad areas of overlap between the two draft documents:
+•
+
+28
+29
+30
+31
+
+32
+
+33
+
+Safeguards: Within the current published draft texts, there is no
+substantial difference between the positions on the safeguards
+that will apply to the UK and EU as part of the future relationship.
+
+Gov.uk, Future of JET secured with new European contract, 29 March 2019
+ITER, Brexit – What should ITER expect?, 3 February 2020
+Gov.uk, Nuclear research from 1 January 2021, 13 August 2019
+The provisions on civil nuclear were unchanged between the May and Johnson
+Withdrawal Agreements.
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, 18 March 2020
+UK negotiating team, Draft working text for an agreement […] on Cooperation in
+the Peaceful Uses of Nuclear Energy, 19 May 2020
+
+11 Commons Library Briefing, 19 June 2020
+
+•
+
+Radioisotopes: Both texts include provisions on cooperation on
+radioisotopes, in particular in relation to exchanging information
+on the supply of radioisotopes.
+
+•
+
+Research: Both texts include provisions on cooperation on
+nuclear research and development. The EU draft treaty states that
+the UK may participate in Euratom programmes such as ITER, with
+specific terms and conditions (such as financial contributions) to
+be determined in accordance with the Treaty’s provisions for
+Union programmes.
+
+•
+
+Other provisions: There is also overlap on technical provisions
+such as enrichment and intellectual property.
+
+The fourth round of negotiations were completed in June 2020. Both
+Michel Barnier (representing the EU) 34 and David Frost (representing the
+UK) 35 said overall progress had been limited.
+Michel Barnier referred to civil nuclear cooperation as an area where he
+considered the UK was seeking to “distance themselves” from the
+“common basis” of the Political Declaration. Specifically, Barnier
+referred to distance from the objective of “maintain[ing] existing high
+standards of nuclear safety” (paragraph 66 of the Political
+Declaration). 36
+David Frost did not mention nuclear or energy in his statement after the
+fourth round of negotiations. 37 However in a letter to Barnier in May
+2020, Frost said that the UK’s legal texts “draw on precedent where
+relevant precedents exist” and included the example of nuclear, “ our
+draft civil nuclear agreement is very close to similar cooperation
+agreements that Euratom (and indeed the UK) has concluded with other
+third countries”. 38
+
+Commentary
+Most commentary on the UK’s relationship with Euratom was published
+before the UK’s departure from Euratom. In December 2017, the House
+of Commons Business, Energy and Industrial Strategy (BEIS) Committee
+published its report on ‘Leaving the EU: implications for the civil nuclear
+sector’. The report concluded:
+The UK’s departure from Euratom is an apparently necessary but
+unwanted consequence of exiting the European Union. The
+Government’s task is to minimise the potential adverse impacts of
+this departure. 39
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+European Commission, Statement by Michel Barnier following Round 4 of
+negotiations for a new partnership between the European Union and the United
+Kingdom, 5 June 2020
+Gov.uk, No 10 media blog, David Frost’s statement following the conclusion of
+round 4 of negotiations with the EU, 5 June 2020
+European Commission, Statement by Michel Barnier following Round 4 of
+negotiations for a new partnership between the European Union and the United
+Kingdom, 5 June 2020
+Gov.uk, No 10 media blog, David Frost’s statement following the conclusion of
+round 4 of negotiations with the EU, 5 June 2020
+Letter from David Frost to Michel Barnier regarding UK draft legal texts, 19 May
+2020
+House of Commons BEIS Committee, Leaving the EU: Implications for the civil
+nuclear sector, Second Report of Session 2017-19, 12 December 2017, para. 4
+
+12 Brexit: Energy and Climate Change
+
+Overall the Committee recommended an association with Euratom that
+replicates the existing functions. 40 The Government responded that it
+wanted a “close and effective association with Euratom” but that the
+nature of the relationship would be different, and subject to the
+negotiations on the future relationship. 41
+The Library briefing paper on Euratom includes more information on the
+preparations the UK made for its departure from Euratom (in January
+2020) along with details and commentary on the Government’s position
+on the future relationship with Euratom.
+
+40
+
+41
+
+House of Commons BEIS Committee, Leaving the EU: Implications for the civil
+nuclear sector, Second Report of Session 2017-19, 12 December 2017, para. 43
+House of Commons BEIS Committee, Leaving the EU: Implications for the civil
+nuclear sector: Government response to the Committee’s Second Report, Sixth
+Special Report of Session 2017-19, 6 March 2018, para 30
+
+13 Commons Library Briefing, 19 June 2020
+
+3. Energy
+Numerous aspects of the UK energy sector could be affected by the
+future relationship between the UK and EU. One of the key aspects, is
+the trading of energy across interconnectors operating in the EU’s
+internal energy market (IEM). Other aspects include energy efficiency,
+and cooperation on renewable development.
+This section sets out background on energy issues and provides the
+positions of each party to these areas in the future relationship
+negotiations.
+Some of these areas, specifically the UK’s relationship with the IEM,
+have implications for energy trading on the island of Ireland. This is
+considered in Section 4.
+
+3.1 The Internal Energy Market (IEM)
+As part of the transition period, the UK remains part of the EU’s internal
+energy market (IEM). The IEM allows harmonised, tariff-free trading of
+gas and electricity across Europe (through interconnectors), leading to
+lower prices and greater security of supply. 42
+The UK Government has been “a leading advocate for the development
+of the IEM and has heavily influenced the EU-wide rules, which draw on
+UK practice.” 43 Energy trading, and the degree of UK participation in
+the IEM, is being considered as part of the negotiations on the future
+relationship.
+
+Development of the IEM
+During the 1990s, the EU and its Member States decided to liberalise
+energy markets, opening them to competition gradually. The EU-led
+changes, which have been developed through a series of legislative
+packages affecting the gas and electricity sectors, initially followed the
+more advanced liberalised status of the UK market:
+•
+
+The first liberalisation Directives were adopted in 1996 (electricity)
+and 1998 (gas) and transposed into Member States' legal systems
+by 1998 (electricity) and 2000 (gas).
+
+•
+
+The second liberalisation Directives were adopted in 2003 with
+transposition of the Directives into national law by Member States
+in 2004. In the UK, these Directives were transposed into law
+largely by the Energy Act 2004.
+
+•
+
+Further measures have been introduced since to improve the
+functioning of the market. This includes the what was known as
+the third energy package, 44 transposed into UK law through the
+Electricity and Gas (Internal Markets) Regulations 2011 for Great
+Britain and separate regulations for Northern Ireland.
+
+42
+
+43
+
+44
+
+DexEU The United Kingdom’s exit from and new partnership with the European
+Union White Paper, C9417, 2 February 2017, p. 43
+House of Commons Exiting the EU Committee, Electricity and Renewables Sector
+Report, 21 December 2017
+European Commission, Third energy package, updated 16 March 2020
+
+14 Brexit: Energy and Climate Change
+
+•
+
+A further update to EU energy policy was completed in 2019 with
+the ‘Clean energy for all Europeans’ package. In addition to
+provisions on energy performance in buildings, renewable energy,
+and energy efficiency, the package also contained elements
+relating to electricity market design with the aim of making the
+market “more flexible, more market-orientated, and better placed
+to integrate a greater share of renewables”. 45
+
+Whether and to what extent these and future EU regulations will apply
+to the UK as part of the future relationship are subject to the outcome
+of the negotiations.
+
+UK energy trading
+Interconnectors can operate in both directions, meaning they can
+import and export electricity and gas. The UK exports some gas and
+electricity through interconnectors at various points during the year, but
+overall the UK is a net importer of both gas and electricity. The extent of
+these imports has varied over time as the UK used to be a net exporter
+of gas, but has been a net importer for more than a decade. Trends
+over the last two decades are shown in the graph below.
+In 2018, the UK imported 5.4% of its electricity through interconnectors
+with EU or EEA countries (Norway, which is part of the IEM as an EEA
+member), and 40.7% of its gas. The gas comes from both EU or EEA
+interconnectors (85% of total gas imports) and LNG imports (4% of
+LNG imports from Norway and the rest from non-EU/EEA countries). 46,47
+
+Source: DBEIS, Digest of UK Energy Statistics 2019. Tables 5.5, 4.2 and G.5
+
+45
+
+46
+47
+
+European Commission, Clean energy for all Europeans package, updated 12 March
+2020
+Net imports as a percentage of total supply
+Department for Business, Energy and Industrial Strategy, Digest of UK Energy
+Statistics 2019. Tables 5.5 and G.5
+
+15 Commons Library Briefing, 19 June 2020
+
+Electricity interconnectors and the IEM
+Great Britain has five completed electricity interconnectors with
+mainland Europe and the island of Ireland providing around 5GW of
+electricity interconnector capacity:
+•
+
+2GW to France (IFA);
+
+•
+
+1GW to the Netherlands (BritNed);
+
+•
+
+500MW to Northern Ireland (Moyle);
+
+•
+
+500MW to the Republic of Ireland (East West) and
+
+•
+
+1GW to Belgium (NEMO).
+
+These are shown in the Figure below (reproduced with permission from
+National Grid - the 1GW link to Belgium is now completed).
+
+Source: Provided to the Library by National Grid, reproduced with permission.
+
+In 2018, 67% of net electricity imports came from France, 32% from
+the Netherlands and 1% from the interconnectors with Ireland. The
+UK’s trading with the island of Ireland has fluctuated over time; in 2018
+the island was a net importer of electricity from the UK. 48
+Electricity interconnection capacity is due to nearly double by 2022 with
+numerous projects under construction, and further projects have sought
+regulatory approval. 49 The May Government’s 2017 Clean Growth
+Strategy set out the Government’s support for 9GW more capacity than
+was currently operational or under construction at the time. 50
+The IEM facilitates harmonised tariff-free trade across these electricity
+interconnectors (see Box 1). The flow of electricity between
+48
+49
+50
+
+Department for Business, Energy and Industrial Strategy, Energy Trends. Table 5.6
+Ofgem, Electricity interconnectors, [accessed: 15 June 2020]
+HM Treasury, Autumn Statement 2016, 23 November 2016; and HM Government,
+Clean Growth Strategy, October 2017
+
+16 Brexit: Energy and Climate Change
+
+interconnected markets is driven by cost differentials. When the price of
+electricity is lower in one market, energy will flow from that market to
+the higher priced market. The effect of this is to make the prices in each
+converge – i.e. they increase in the exporting market and decrease in
+the importing market.
+As wholesale gas and electricity prices in the UK are generally higher
+than elsewhere in Europe, interconnection has caused a reduction in
+wholesale prices, and hence consumer prices, in the UK. 51
+Interconnector cables also provide flexibility that can help to integrate
+intermittent renewable sources of electricity into power systems. This is
+because they prevent the need to curtail (i.e. disconnect from the grid)
+this power when supply is greater than demand by exporting any excess
+power. 52
+Box 1: The IEM and Market Coupling
+As part of the development of the IEM, trade across electricity interconnectors is increasingly
+integrated via ‘market coupling’. Market coupling uses an algorithm to set prices and trading
+volumes across interconnected markets. Markets are said to be coupled when interconnector
+capacity and electricity are sold in a single market transaction, whereas in uncoupled markets
+these are sold separately. 53 Market coupling is a more efficient means of trading, which
+reduces system costs. Decoupling markets can therefore increase the costs of imports.
+Great Britain is currently coupled to north-west Europe and the island of Ireland in the ‘dayahead market’ (referring to electricity that is bought and sold a day ahead of delivery). Several
+EU countries are also coupled on the ‘intraday’ markets (for electricity that is sold between an
+hour and 24 hours ahead of delivery) 54 and work is underway for further countries to couple
+with the EU intraday market.
+The UK has set out its position on maintaining and extending its market coupling in its draft
+energy agreement (see section 3.4).
+
+More information on electricity interconnectors is available from the
+Parliamentary Office of Science and Technology’s note on Overseas
+Electricity Interconnection (February 2018).
+
+Gas interconnectors
+The UK imports natural gas via pipelines from Norway, the Netherlands
+and Belgium (all IEM members) and by ship in the form of Liquefied
+Natural Gas (LNG). As most LNG comes from outside the EU (from
+countries such as Qatar), this section discusses interconnectors (with EU
+and EEA countries) only.
+As domestic gas production from the North Sea has declined, imports
+have risen. In the years from 2012 the UK has imported 25-40% of its
+51
+
+52
+53
+
+54
+
+Parliamentary Office of Science and Technology, Overseas Electricity Interconnection,
+February 2018.
+Library briefing paper, Electricity grids, 8 January 2019
+Antony Froggatt et al, Staying Connected: Key Elements for UK–EU27 Energy
+Cooperation After Brexit, Chatham House, May 2017
+Antony Froggatt et al, Staying Connected: Key Elements for UK–EU27 Energy
+Cooperation After Brexit, Chatham House, May 2017
+
+17 Commons Library Briefing, 19 June 2020
+
+gas supply via interconnectors. 55 Trends in imports from each country
+are illustrated in the graph below.
+
+Source: DBEIS, Digest of UK Energy Statistics 2019. Table G.5
+
+Not all of this gas originates in those countries, some may have first
+been imported from other countries, such as Russia, as the figure below
+shows. There are no market coupling mechanisms for gas, but it is still
+regulated in accordance with EU Legislation.
+
+Source: Reproduced from Department for Business, Energy and Industrial
+Strategy, Digest of UK Energy Statistics, 2018
+
+IEM regulation and governance
+55
+
+Department for Business, Energy and Industrial Strategy, Digest of UK Energy
+Statistics 2019. Table G.5
+
+18 Brexit: Energy and Climate Change
+
+The rules of the IEM (known as European Network Codes - ENCs) are
+determined by European Network Transmission Systems Operators
+(ENTSOs), European Agency for the Cooperation of Energy Regulators
+(ACER) and the European Commission (see Box 2).
+ENCs are ultimately upheld by the Court of the European Union (ECJ).
+Ending the jurisdiction of the ECJ in the UK has been a key part of the
+UK Government’s approach to Brexit. 56 The UK Government has
+proposed alternative governance and dispute arbitration mechanisms
+for the future relationship (see section 3.4).
+Integration with the IEM could require the UK’s compliance with current
+and future EU energy market rules, as well as some EU environmental
+legislation. 57
+Box 2: IEM governing bodies
+A number of European bodies coordinate national energy institutions at the European level to help the
+IEM function.
+ACER
+Regulation (EC) No 713/2009 established the Agency for Cooperation of Energy Regulators (ACER),
+which has been fully operational since March 2011. ACER is largely responsible for promoting
+cooperation between national regulatory authorities at regional and European level and for monitoring
+development of the network and the internal electricity and gas markets.
+Ofgem (the GB energy regulator) 58 and the Utility Regulator (the Northern Ireland energy regulator) are
+currently members of ACER.
+ENTSO
+Two EU Regulations created structures of cooperation for European Network Transmission Systems
+Operators (ENTSOs): Regulation EC/714/2009 for electricity; and Regulation EC/715/2009 for gas. The
+ENTSOs, together with ACER, form detailed network access rules and technical codes, and ensure
+coordination of grid operation through the exchange of operational information and the development
+of common safety and emergency standards and procedures.
+UK Transmission System Operators, such as National Grid, are currently members of ENTSO-E and
+ENTSO-G. 59
+
+3.2 Considerations for the Future
+Relationship
+The UK’s future participation in the IEM remains subject to the outcome
+of the future relationship negotiations (see section 3.4). It is important
+to note that whatever the outcome, interconnector trading is expected
+to continue: a number of countries outside of the EU currently trade
+energy through interconnectors with the EU. The EU does not currently
+apply tariffs to these imports. 60
+56
+
+57
+
+58
+59
+
+60
+
+Gov.uk, The government’s negotiating objectives for exiting the EU: PM speech, 17
+January 2017
+Lords EU Committee, Brexit: energy security, 10th Report of Session 2017-19, HL
+Paper 63, 29 January 2018, para. 70
+Ofgem, Ofgem and Europe, [accessed: 16 June 2020]
+A full listing of Member Transmission System Operators is available on the ENTSO- E
+website and the ENTSO-G website.
+Gustav Frederiksson, Alexander Roth, Simone Tagliapietra, Georg Zachmann, The
+Impact of Brexit on the EU Energy System, 23 November 2017, p. 25
+
+19 Commons Library Briefing, 19 June 2020
+
+However there may be other costs to a different relationship with the
+IEM. These costs have the potential to impact EU countries, who either
+export or import energy from the UK, as well as the UK itself.
+Cost of Energy
+Leaving the IEM may cause an increase in the cost of energy imports.
+One estimate given by National Grid to the House of Commons
+Business, Energy and Industrial Strategy (BEIS) Committee, in 2017, was
+that “UK consumers could face £500 million a year of costs by the early
+2020s as a result of being outside the IEM”. This estimate was described
+by Paul Hallas, Director of Regulation and Strategy at Centrica, as “at
+the bleak end of the plausible envelope of possible outcomes. 61
+Any extra cost is largely due to the likelihood the UK would need to be
+de-coupled from the EU market, making trading less efficient and more
+expensive (see Box 1).
+Energy security
+The Department for Business, Energy and Industrial Strategy (BEIS) and
+the energy regulator Ofgem produce an annual Statutory Security of
+Supply report. The 2019 report said leaving the EU did not pose an
+energy security threat:
+The UK’s exit from the EU will not alter the fact that our energy
+system is resilient and secure and drawn from a number of
+sources. GB has one of the most reliable energy systems in the
+world and we remain confident in maintaining our secure energy
+supply. 62
+
+However, it is possible that in future, in the event of leaving the IEM,
+the UK’s plans for further interconnectors could be more difficult. 63
+More interconnectors are of benefit to the UK to increase the flexibility
+and resilience of grids, especially with increasing supply from
+intermittent renewable energy sources. For more information, see the
+Library briefing paper on Electricity grids.
+Influence on rules
+Depending on the relationship the UK negotiates with the EU in relation
+to the IEM, the UK’s influence on future rules may change (see Box 2).
+In May 2017, the BEIS Committee recommended that the Government
+“seek continued UK influence over the rules of the IEM [and] explore
+continued full membership of the technical institutions for developing
+the detailed rules of the Internal Energy Market.” 64
+In January 2018, the Lords EU environment and energy sub-committee’s
+report on Energy Security said, “there is strong support across the
+energy industry for the UK to continue to participate in the Internal
+Energy Market (IEM) post-Brexit.” However, witnesses stated that if
+61
+
+62
+63
+
+64
+
+BEIS Committee, Leaving the EU: negotiation priorities for energy and climate
+change policy, Fourth Report of Session 2016–17, HC 909, 2 May 2017, p. 12
+BEIS and Ofgem, Statutory Security of Supply Report 2019, 2019
+Andrew Ward, Our friends electric: interconnection and Brexit, Financial Times, 15
+January 2018
+BEIS Committee, Leaving the EU: negotiation priorities for energy and climate
+change policy, Fourth Report of Session 2016–17, HC 909, 2 May 2017, para. 39
+
+20 Brexit: Energy and Climate Change
+
+remaining in the IEM required the UK to comply with all EU standards,
+and potentially losing their representation ability to influence the IEM,
+then the UK would need to review the pros and cons of remaining in
+the IEM in that situation. 65
+
+3.3 Other energy impacts
+While trade over interconnectors is a key part of the energy aspects
+under consideration in the future relationship negotiations, there may
+also be implications for some other areas of energy policy.
+
+Energy efficiency
+Energy efficiency regulations limit the amount of energy that products
+consume which can reduce costs for consumers and reduce energyrelated emissions. Before the Brexit referendum, there were press
+reports that supported the case to leave the EU, as it would allow the
+UK to remove EU energy efficiency laws on household items such as
+vacuum cleaners and lightbulbs. 66
+Existing EU energy efficiency directives have been implemented into UK
+law and so continue to apply now the UK has left the EU. The UK
+Government’s domestic policy, before Brexit and at present, is to keep
+costs down for consumers, and also to meet emissions targets (see
+section 5 below). The Government has said that after the transition
+period ends, the UK will meet or exceed existing product standards:
+From 1 January 2021, the UK will uphold common high product
+standards wherever possible and appropriate, or even exceed
+them where it is in the UK’s interest to do so.
+All EU ecodesign and energy labelling requirements which enter
+into force and apply before 31 December 2020 will have effect in
+the UK. Further legislation is being prepared to ensure that all of
+these requirements continue to function in the UK from 1 January
+2021. 67
+
+Trade
+There has been some concern that Brexit could affect investor
+confidence, the movement of industry specialists, or the import/export
+of materials linked to renewable energy technologies. 68
+The House of Lords EU Energy and Environment sub-Committee has
+cautioned that any possible tariffs on products used in the construction
+and maintenance of the energy system could affect the energy
+industry. 69 This possible impact on new energy infrastructure has also
+
+65
+
+66
+
+67
+68
+
+69
+
+Lords EU Committee, Brexit: energy security, 10th Report of Session 2017-19, HL
+Paper 63, 29 January 2018
+20 reasons you should vote to leave the European Union, The Telegraph, 22 June
+2016
+BEIS, Meeting climate change requirements from 1 January 2021, 28 April 2020
+Jonathan Gaventa, The impact of Brexit on Europe’s energy and climate transition,
+E3G, 30 June 2017
+Lords EU Committee, Brexit: energy security, 10th Report of Session 2017-19, HL
+Paper 63, 29 January 2018, para. 85
+
+21 Commons Library Briefing, 19 June 2020
+
+been reported in the media, with concerns raised about projects such as
+Hinkley Point in relation to general trade and movement of labour. 70
+The impact of these potential issues will depend on any trade
+arrangements agreed as part of the future relationship negotiations.
+The professional services firm EY’s 2018 Renewable Energy Country
+Attractiveness Index, which ranks 40 countries based on the
+attractiveness of their clean energy markets to investors, saw the UK slip
+one place from 7th to 8th, with Brexit referred to as being one of the
+possible causes. 71 However in the most recent Index (May 2020), the UK
+rose to 6th place with new policies on renewable energy credited for the
+rise. 72
+
+3.4 Negotiating positions for the Future
+Relationship
+2018 White Paper and previous Withdrawal
+Agreement
+The May Government’s July 2018 White Paper on the Future
+Relationship between the UK and the EU made no commitment on the
+IEM and contained options to either leave or remain in the market. The
+paper said the UK was seeking “broad energy cooperation with the EU”
+and wanted to “explore the options” on the IEM. This included options
+of leaving and maintaining trading or retaining access and using a
+common rulebook for certain technical rules, though not, in the UK’s
+view, for wider environmental and climate change rules. 73
+The Withdrawal Agreement negotiated by the May Government was
+not ratified and was superseded by the 2019 Withdrawal Agreement
+(below). The provisions on energy trading were the same in both texts.
+
+Withdrawal Agreement and Political Declaration
+While the Withdrawal Agreement did not mention the IEM (other than
+in the Northern Ireland Protocol – see section 4 below) the Political
+Declaration setting out the framework for the future relationship
+between the EU and the UK stated there should be mechanisms to
+ensure “security of supply” and “efficient trade over interconnectors
+over different timeframes”. 74
+More information on the provisions relating to energy in these
+documents are available in Section 8.6 of the Library briefing paper on
+The UK’s EU Withdrawal Agreement (April 2019) and 4.13 of the paper
+70
+
+71
+
+72
+
+73
+
+74
+
+Rob Davies, Energy projects including Hinkley Point threatened by Brexit, experts
+warn, The Guardian, 5 April 2017
+EY, Renewable Energy Country Attractiveness Index, Issue 52. The UK remained in
+8th place in 2019.
+Jillian Ambrose, Renewable energy investors increasingly look to UK, says report, The
+Guardian, 19 May 2020
+HM Government, The Future Relationship between the United Kingdom and the
+European Union, 12 July 2018, Cm 9593, para 137-142
+The Political Declaration also made specific reference to ENTSO but omitted ACER
+while the latter is included in the Northern Ireland Protocol of the Withdrawal
+Agreement relating to the Single Electricity Market (see below) but the former is not.
+
+22 Brexit: Energy and Climate Change
+
+on The Political Declaration on the Framework for Future EU-UK
+Relations (December 2018).
+
+EU and UK Future Relationship Negotiating
+Positions
+On 25 February 2020, the EU published negotiating directives for the
+future relationship, 75 including on electricity and gas. Detailed provisions
+building on these principles were included in the EU draft treaty
+published on 18 March 2020 76 (these texts refer to energy with raw
+materials, this paper focuses on energy).
+While the EU negotiating directives state clearly that “the UK will leave
+the internal market in energy”, the EU documents suggest a future
+partnership covering areas such as investment in renewable and energy
+efficiency technologies, measures to maintain competitive markets, and
+the efficient use of interconnectors.
+The UK Government published its approach to the negotiations in
+February 2020. 77 On 19 May 2020, the UK Government published a
+series of documents setting out its approach to the negotiations on the
+future relationship with the EU, including a draft energy agreement. 78
+The UK position has some areas of broad overlap with the EU position,
+such as promoting renewable energy and energy efficiency, maintaining
+market-based prices, and some provisions relating to the efficient
+trading on interconnectors.
+However there are some areas of difference, including on the detail of
+IEM integration, cooperation and membership of relevant bodies
+(ENTSO and ACER), and governance. 79 Some of the key areas in the
+texts are:
+•
+
+Renewable energy and energy efficiency: Both texts refer to
+support for renewable and energy efficiency technologies. The UK
+text has provisions on climate change (see section 5 below) which
+includes cooperation on trade and investment in renewable
+energy and energy efficiency goods. The EU text is more detailed,
+including a requirement to establish targets for renewable energy
+and energy efficiency in line with those that the UK already has as
+an EU member, promote, and cooperate on regulation and
+research on energy efficiency and renewable energy.
+
+•
+
+Efficient use of interconnectors: While both texts include
+provisions for gas and electricity balancing and trading, including
+avoiding barriers to cross-border trading, they differ on detail.
+Both include provisions on interconnector capacity allocation,
+
+75
+
+Council of the European Union, Directives for the negotiation of a new partnership
+with the United Kingdom of Great Britain and Northern Ireland, 25 February 2020
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, 18 March 2020
+HM Government, The Future Relationship with the EU – The UK’s Approach to
+Negotiations, February 2020
+UK Negotiating Team, Draft working text for an agreement on energy, 19 May 2020
+Detailed information on the provisions in the UK draft energy agreement are
+available in the Scottish Parliament Information Centre’s (SPICe) paper on EU-UK
+Future Relationship Negotiations – UK Legal Text Special, 2 June 2020
+
+76
+
+77
+
+78
+79
+
+23 Commons Library Briefing, 19 June 2020
+
+congestion management, no network charges, and participating
+in compensation mechanisms. The UK text also contains technical
+provisions for trade in electricity which are not included in the EU
+text, including the use of balancing platforms and market
+coupling over different timeframes (see Box 1). The draft
+agreement includes an Annex of the Regulations that would
+continue to apply in GB as requirements for the UK’s balancing
+and trading proposals.
+•
+
+Participation in bodies: The UK text states that UK bodies will
+participate as observers in meetings of ENTSO-G and ACER and
+members of ENTSO-E. The EU text states the parties will develop
+working arrangements for cooperation with ENSTO-E, ENTSO-G
+and ACER though states clearly that this shall not involve
+membership of these bodies (see Box 2).
+
+•
+
+Offshore energy: Both texts refer to cooperation in development
+of offshore energy. The UK text refers to the parties supporting
+the other’s “full participation” in voluntary structures established
+for such cooperation between the North Sea Countries. This may
+refer to The North Sea Energy Cooperation which the UK
+reportedly wished to attend after its departure as part of EU
+Withdrawal. The EU text refers only to cooperation on such
+projects through “sharing best practice” and “facilitating the
+development” of specific projects.
+
+•
+
+Governance: The UK text includes provisions for a framework for
+consultation and dispute resolution, including the use of a Panel
+of Experts, and the establishment of an Energy Cooperation
+Group to administer the Agreement. The EU text does not include
+either proposal. Instead for all sectors, the EU proposes a joint EUUK governing body (the Partnership Council) with specialised
+sectoral committees. More information on the differing
+negotiating positions on Governance and other areas is available
+in the Library briefing paper on The UK-EU future relationship
+negotiations: summary of positions.
+
+•
+
+Other provisions: there is also broad overlap between the two
+texts on some further provisions of energy trading. Both include
+commitments on the exchange of information, market-based
+prices, and non-discriminatory access to energy transport
+infrastructure, and requirements for transparent system operators
+and independent regulatory authorities. The EU text contains
+further provisions not covered by the UK text, such as on the
+exploration and production of energy goods, offshore risk and
+safety, gas preventative action plans and emergency plans, and
+electricity risk preparedness.
+
+Statements from the negotiating parties have indicated that there may
+be differences of opinion regarding energy in the negotiations. In his 15
+May remarks following Round 3 of negotiations, EU chief negotiator
+Michel Barnier included electricity interconnectors in a list of what he
+regarded as the “many areas [where the UK is] looking to maintain the
+benefits of being a Member State, without the obligations”. Specifically,
+Barnier said the UK’s demands included “to obtain electricity
+
+24 Brexit: Energy and Climate Change
+
+interconnection mechanisms equivalent to the Single Market – ‘existing
+arrangements’ as the UK says.” 80
+From the UK side, in a 24 April 2020 Statement in response to the
+second round of negotiations, the UK Government listed energy as a
+core area of a Free Trade Agreement where that had been some
+“promising convergence”. 81
+The fourth round of negotiations were completed in June 2020. While
+neither Michel Barnier (representing the EU) 82 nor David Frost
+(representing the UK) 83 specifically mentioned energy in their respective
+statements, both said overall progress had been limited.
+Examples of energy agreements between the EU and other non-EU
+members are set out in Box 3 below.
+
+Commentary
+Before the UK’s departure from the European Union, stakeholders
+expressed support for continued participation in the IEM. In January
+2018, the Lords EU environment and energy sub-committee’s report on
+Energy Security said “none of our witnesses expressed a desire to leave
+the IEM” and concluded “there is strong support across the energy
+industry for the UK to continue to participate in the Internal Energy
+Market (IEM) post-Brexit.” The key benefits cited by witnesses were the
+efficiency savings made from market coupling and options to exchange
+information. 84
+In response to the publication of the February 2020 draft EU treaty and
+May 2020 draft UK energy agreement on the future relationship, EU
+and UK energy trade bodies released a statement calling for “an
+efficient future energy EU-UK relationship”. This commented on several
+areas of the texts, including calling or cooperation and collaborating
+between regulators and system operators through UK participation of
+bodies such as ACER, ENTSO, and further details on maintaining
+collaboration on offshore projects in the North Sea. On electricity and
+gas trading, this stated further details were needed on how to maintain
+efficient trading:
+Efficient cross-border trading, supported by harmonised trading
+rules and regulatory cooperation, supports security of supply and
+low energy bills for all consumers, while helping to balance the
+penetration of renewable generation. So we welcome that both
+sides agree on the need and the benefits of efficient and costeffective trading over interconnectors. Further details are needed
+on how this can be achieved with clear and transparent rules that
+do not discriminate. We would suggest that the framework
+
+80
+
+81
+82
+
+83
+
+84
+
+European Commission, Remarks by Michel Barnier following Round 3 of
+negotiations for a new partnership between the EU and the UK, 15 May 2020
+No 10 media blog, Statement on Round Two of UK-EU negotiations, 24 April 2020
+European Commission, Statement by Michel Barnier following Round 4 of
+negotiations for a new partnership between the European Union and the United
+Kingdom, 5 June 2020
+Gov.uk, No 10 media blog, David Frost’s statement following the conclusion of
+round 4 of negotiations with the EU, 5 June 2020
+Lords EU Committee, Brexit: energy security, 10th Report of Session 2017-19, HL
+Paper 63, 29 January 2018
+
+25 Commons Library Briefing, 19 June 2020
+
+presented in the UK legal text is more likely to achieve such an
+outcome. 85
+
+Box 3: Existing energy agreements
+The EU states clearly in its negotiating directives Q&A that there are no other countries that have energy
+relationship models with the EU that are directly comparable with what is being sought by the UK:
+In the area of electricity and gas, there is no precedent for this type of arrangement.
+The Parliamentary Office of Science and Technology’s note on Overseas Electricity Interconnection set
+out that some non-Member states participate in the IEM, to varying levels of integration. For example,
+EEA members participate fully. They must adopt and automatically update a substantial amount of EU
+energy and environment legislation to do so. The IEM’s legal framework falls under the jurisdiction of
+the European Court of Justice.
+The House of Lords EU Committee’s 2018 report on Brexit and Energy Security, considered the models
+for Norway and Switzerland:
+•
+•
+
+Norway, as an EEA and EFTA member, is also a member of the IEM. The Committee said a similar
+agreement would bring benefits but noted the Government had ruled it out.
+Switzerland has access to European energy markets through bilateral agreements, though it is
+excluded from market coupling (see Box 1). As part of this, Switzerland accepts some EU
+regulations, including the jurisdiction of the European Court of Justice. Switzerland sits physically
+at the centre of the EU energy system and is a key transit country for energy trading with over 40
+interconnectors to its neighbours.
+
+The Committee quotes the Head of International Energy Affairs at the Swiss Federal Office of Energy Jean-Christophe Füeg - as saying that Switzerland’s exclusion from market coupling resulted in “trade
+between Switzerland and the rest of is handled in a suboptimal way”. Füeg also reflected on
+participating in the IEM:
+The EU wants to have an internal electricity market as one coherent thing, and either you are in it
+and abide by the rules or you are not in it. [For an exception to be made,] you have to have a
+very strong case that you as a country bring something to the internal electricity market that is
+indispensable to the functioning of the energy market […] I am not aware of the UK having
+anything that I would call a unique selling point; that is, something that you would bring to the
+IEM, both electricity and gas, which in the countervailing scenario of you not bringing it to the
+market would put the IEM in some sort of jeopardy.
+Conversely, the Minister, Richard Harrington MP, highlighted three features unique to the UK:
+The first is bulk—our size relative to the Swiss and, therefore, our importance to the Single
+Market. The second is history—the fact that we helped to form it. Thirdly, there is the fact that we
+are already in it, unlike the Swiss, who are not.
+On the Swiss experience relating to the UK, the Committee concluded that:
+The Swiss experience shows that mutual benefits and a history within the system are no
+guarantee of EU energy market access. While the Government appears confident that a postBrexit energy relationship with the EU will favour the UK, we are concerned that this confidence
+is based on a misplaced expectation of pragmatism and that broader political considerations may
+affect the degree to which the UK can engage with the IEM post-Brexit.
+
+85
+
+Energy UK, EU and UK trade bodies call for an efficient future energy EU-UK
+relationship, 3 June 2020
+
+26 Brexit: Energy and Climate Change
+
+Other agreements also exist, such as the Energy Community, a multilateral framework between nine
+Southeast and East European countries and the EU to integrate their energy markets. However, the key
+objective of the Energy Community is to extend the EU internal energy market rules and principles
+beyond on the basis of a legally binding framework called the Energy Community Acquis.
+
+27 Commons Library Briefing, 19 June 2020
+
+4. Implications for the island of
+Ireland
+Energy policy is largely devolved to the Northern Ireland Executive, and
+the sector has different characteristics to those in Great Britain. This
+means there are specific energy policy issues. Some issues have been
+addressed in the Withdrawal Agreement, but there are also possible
+impacts from the UK’s relationship with the IEM (above) which will be
+addressed as part of the future relationship negotiations.
+Background information is available in the Northern Ireland Assembly
+Research and Information Service Briefing paper on Withdrawal
+Agreement, Protocol and Political Declaration – potential implications
+for the Single Electricity Market in Northern Ireland (May 2020).
+
+4.1 The Single Electricity Market (SEM)
+Since 2007, the island of Ireland has operated with a Single Electricity
+Market (SEM). This allows free trade of power across the island, with all
+generators and suppliers trading through a central mandatory wholesale
+market. It is regulated jointly by the Commission for Energy Regulation
+(CER) from the Republic of Ireland, and the Utility Regulator from
+Northern Ireland. 86 The decision-making body which governs the market
+is the SEM Committee. This body consists of the CER, the Utility
+Regulator as well as an independent member (who also has a deputy).
+The SEM is established in national law in both the UK and Ireland, and is
+not the result of laws transposed directly from any EU-level legislation.
+However, the SEM has undergone significant change in order to comply
+with wider EU legislation and existing arrangements have (as of October
+2018) been replaced by an enhanced wholesale market. This market has
+been called the Integrated Single Electricity Market or I-SEM, though as
+the enhanced market is still commonly referred to as the SEM, this
+paper will use the terms interchangeably. 87
+I-SEM is designed closely around the rules of the Internal Energy Market
+(IEM), meaning it uses market coupling for trading energy established by
+the European Network Codes, as described above.
+The imports and exports of electricity between GB, Northern Ireland and
+Ireland (ROI) have fluctuated over time. In 2018, the island of Ireland
+was a net importer of electricity from the UK: the ROI is a net importer
+of electricity from Northern Ireland but is overall a net exporter to the
+UK through the Wales interconnector and Northern Ireland is a net
+importer of electricity from the Scottish Moyle Link even though it also
+exports to ROI. 88
+
+86
+87
+
+88
+
+CER Factsheet on the Single Electricity Market, April 2011
+Information note, Proposed Amendment to the Electricity Regulation (Amendment)
+(Single Market) Act 2007
+Department for Business, Energy and Industrial Strategy, Energy Trends. Table 5.6
+
+28 Brexit: Energy and Climate Change
+
+Considerations for the Future Relationship
+The Protocol on Ireland/Northern Ireland in the Withdrawal Agreement
+provides for the continuation of the SEM after the transition period
+ends, including continued participation by Northern Ireland operators in
+the EU emissions trading scheme. More detail on the provisions in the
+Protocol is set out in section 4.2 below
+While the Protocol facilitates the continued operation of the SEM, the
+UK’s future relationship with the IEM could impact the SEM. As the
+island of Ireland’s only physical connections for gas and electricity to
+mainland Europe are via GB, the future of energy trading between the
+UK and the EU is key for the future of electricity import efficiency and
+security on the island. The Northern Ireland Assembly Research and
+Information service summarise the issue in their May 2020 paper on the
+SEM:
+The UK Government [states] that from 1 January 2021 cross
+border flows into and out of GB will no longer be governed by EU
+legislation. This means that new trading relationships may be
+required for trade between the GB market and the SEM via
+interconnectors. The extent to which new arrangements are
+necessary will depend on the outcome of the future relationship
+negotiations between the UK and the EU and any agreement
+reached on electricity trade. The UK Government, however, has
+stated that “trade on interconnectors may be less efficient” after
+the transition period. 89
+
+Unlike the electricity sector, the gas markets of the Republic of Ireland
+and Northern Ireland are separate. The Republic of Ireland’s gas sector
+relies on imports of gas through Great Britain. This reliance on imports
+highlights that any future relationship on energy will be important not
+only for the UK’s demand for energy, but also the flow of energy from
+the UK to EU countries such as Ireland. 9091 Gas trading was not covered
+in the Withdrawal Agreement, but is referred to in the UK’s draft energy
+agreement 92 (see below).
+
+4.2 Negotiating positions for the Future
+Relationship
+Following the EU referendum vote, representatives from both Northern
+Ireland and Ireland stressed that energy, and the SEM, should be a
+priority in the Brexit negotiations to prevent any risks to the market. 93‘ 94
+
+89
+
+90
+
+91
+
+92
+93
+
+94
+
+Northern Ireland Assembly Research and Information Service Briefing paper,
+Withdrawal Agreement, Protocol and Political Declaration – potential implications for
+the Single Electricity Market in Northern Ireland, May 2020
+Department for the Economy, Northern Ireland Executive (BES0059), November
+2017
+Irish Government, Ireland and the negotiations on the UK’s withdrawal from the
+European Union The Government’s Approach, May 2017, p. 38
+UK Negotiating Team, Draft working text for an agreement on energy, 19 May 2020
+Northern Ireland Executive Office, Letter to Prime Minister from First Minister and
+Deputy First Minister, 10 August 2016
+Irish Government, Ireland and the negotiations on the UK’s withdrawal from the
+European Union The Government’s Approach, May 2017, p. 38
+
+29 Commons Library Briefing, 19 June 2020
+
+2018 White Paper and previous Withdrawal
+Agreement
+The May Government’s July 2018 White Paper on the Future
+Relationship between the UK and the EU said the Government was
+“committed to facilitating the continuation of the SEM” and would
+“work with the EU to ensure the SEM is maintained in any scenario.” 95
+The 2018 Withdrawal Agreement negotiated between the May
+Government and the EU included a reference to the SEM in the
+Ireland/Northern Ireland Protocol. The Protocol stated that some EU law
+governing wholesale electricity markets would continue to apply, should
+the protocol come into force. The legislation related to the generation,
+transportation and wholesale and cross-border trading of electricity, but
+not retail markets or consumer protection. The legislation included the
+rules for the IEM, the Directive that established ACER, the industrial
+emissions Directive on pollution prevention and control, and the
+Directive establishing the EU emissions trading scheme (EU ETS). This
+Withdrawal Agreement was not ratified and was superseded by the
+2019 Withdrawal Agreement.
+More information on the approach to energy in the previous
+Withdrawal Agreement is available in Section 8.6 of the Library briefing
+paper on The UK’s EU Withdrawal Agreement (April 2019)
+
+The Withdrawal Agreement and Political
+Declaration
+The Johnson Government renegotiated the Withdrawal Agreement in
+2019. This new Withdrawal Agreement was ratified by both Parties and
+entered into force on 1 February 2020.
+The provisions relating to the SEM remained the same as the previous
+Withdrawal Agreement, but the implementation of the Ireland/Northern
+Ireland Protocol changed. Under the May Government, the protocol was
+described as a “back-stop” and was a temporary position in the case of
+no agreement at the end of the transition period. The Johnson
+renegotiation means the protocol will come into force at the end of the
+transition period and be the permanent end state for Northern Ireland,
+unless the Northern Ireland Assembly votes to change it. This means the
+SEM will continue to operate across the island of Ireland at the end of
+the transition period and Northern Ireland will remain subject to certain
+EU rules. 96
+The Political Declaration does not specifically mention the SEM, though
+contains general provisions on “cooperation” on electricity and gas
+trading between the parties (see section 3.4).
+Both the EU and UK have published documents on the implementation
+of the Protocol. The EU document urges the UK to provide details and
+95
+
+96
+
+HM Government, The Future Relationship between the United Kingdom and the
+European Union, 12 July 2018, Cm 9593, para 138
+Background information on the Northern Ireland protocol is available in the Library
+insight on Brexit and the Northern Ireland border.
+
+30 Brexit: Energy and Climate Change
+
+timelines for implementation. 97 The UK document states the Protocol
+will be implemented by the Northern Ireland Executive with support
+from the UK Government, though does not give timelines. 98
+The House of Lords EU Select Committee published a report on The
+Protocol on Ireland/Northern Ireland in May 2020 stating:
+We welcome the commitment in Article 9 and Annex 4 of the
+Protocol to the continuation of the Single Electricity Market on the
+island of Ireland. This will benefit Northern Ireland and Ireland in
+terms of energy security, decarbonisation and energy prices. 99
+
+EU and UK Future Relationship Negotiating
+Positions
+On 18 March 2020, the EU published a draft treaty including provisions
+on energy trading. 100 On 19 May 2020, the UK Government published a
+series of documents setting out its approach to the negotiations on the
+future relationship with the EU, including a draft energy agreement. 101
+The Single Electricity Market is not specifically mentioned in either the
+EU draft treaty, or the UK draft agreement on energy. However, as
+explained further above, as the island’s only physical connections for gas
+and electricity to mainland Europe are via GB, the provisions related to
+the IEM (section 3 above) will likely be relevant to the SEM.
+The UK’s approach to the negotiations, published in February 2020,
+does refer to the SEM:
+The UK has undertaken domestic preparations to enable trade in
+electricity and gas over the interconnectors to continue from 1
+January 2021 without an energy agreement. Existing
+arrangements, including work carried out with regulators and
+Transmissions System Operators, will ensure security of energy
+supply is unaffected. In Northern Ireland, the Ireland/Northern
+Ireland Protocol to the Withdrawal Agreement provides the basis
+for the continued operation of the Single Electricity Market.
+An energy agreement covering electricity and gas trading could
+improve these baseline arrangements by:
+a. facilitating efficient cross-border electricity and gas trade;
+b. facilitating technical cooperation between electricity and
+gas network operators and organisations in the planning
+and use of energy infrastructure connecting their systems;
+and
+c. supporting the integration of renewable power and
+investment in decarbonisation projects in the north seas.
+
+The UK draft energy agreement does make a reference to the
+continuation of supply of natural gas, stating its provisions apply
+“without prejudice to the obligations that apply between the United
+European Commission, Technical note on the implementation of the Protocol on
+Ireland/Northern Ireland, 30 April 2020
+98
+Cabinet Office, The UK’s Approach to the Northern Ireland Protocol, May 2020
+99
+House of Lords European Union Committee, The Protocol on Ireland/Northern
+Ireland, 1 June 2020, para 208
+100
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, 18 March 2020
+101
+UK Negotiating Team, Draft working text for an agreement on energy, 19 May 2020
+97
+
+31 Commons Library Briefing, 19 June 2020
+
+Kingdom and Ireland under the United Kingdom and Ireland natural gas
+treaties.” 102
+The fourth round of negotiations were completed in June 2020. While
+neither Michel Barnier (representing the EU) 103 nor David Frost
+(representing the UK) 104 specifically mentioned energy in their respective
+statements, both said overall progress had been limited.
+
+Commentary
+In response to the publication of EU and UK texts on the future
+relationship, EU and UK energy trade bodies released a statement,
+including concerns for the SEM:
+While the Northern Ireland Protocol protects the SEM on the
+island of Ireland, it is limited to the functioning on the island and
+does not cover the trading between the SEM and Great Britain.
+This means that as it stands there are no arrangements in place to
+maintain the Day-ahead market between GB and Ireland and no
+mechanisms to enable the collaboration of GB and SEM regulators
+on cross-border matters. The Energy deal will need to address
+these deficiencies to ensure that Ireland continues to function
+according the IEM rules and to ensure that customers on the
+island of Ireland are not penalised with higher prices resulting
+from lesser levels of efficiency and segmented, less liquid markets.
+The wind resources that can be activated in Ireland are greater
+than are likely to be used in Ireland, so the decarbonisation of
+Europe overall is advanced by enabling integration and
+cooperation. 105
+
+The Northern Ireland Assembly Research and Information Service
+briefing paper on the SEM (May 2020) prepared for the NI Committee
+for the Economy, identified numerous questions on the implementation
+of the Protocol for the SEM. These included possible impacts on security
+of supply and end user prices from potential inefficient interconnection,
+implementation of EU law in Northern Ireland, and scrutiny of future
+cooperation. 106
+Before the UK left the EU, a number of select committees assessed the
+potential impact of Brexit on the SEM. The House of Commons
+Northern Ireland Affairs Committee 107 and BEIS Committee each
+recommended that the Government protect the continued operation of
+SEM. 108 The House of Lords EU and Environment Sub-Committee
+concluded that the “complexity of maintaining the I-SEM will increase
+significantly” if the UK leaves the IEM and said the UK should plan for
+UK Negotiating Team, Draft working text for an agreement on energy, 19 May 2020
+European Commission, Statement by Michel Barnier following Round 4 of
+negotiations for a new partnership between the European Union and the United
+Kingdom, 5 June 2020
+104
+Gov.uk, No 10 media blog, David Frost’s statement following the conclusion of
+round 4 of negotiations with the EU, 5 June 2020
+105
+Energy UK, EU and UK trade bodies call for an efficient future energy EU-UK
+relationship, 3 June 2020
+106
+Northern Ireland Assembly Research and Information Service Briefing paper,
+Withdrawal Agreement, Protocol and Political Declaration – potential implications for
+the Single Electricity Market in Northern Ireland, May 2020
+107
+Northern Ireland Affairs Committee, Electricity sector in Northern Ireland, Third
+Report of Session 2016–17, HC 51, 26 April 2017
+108
+BEIS Committee, Leaving the EU: negotiation priorities for energy and climate
+change policy, Fourth Report of Session 2016–17, HC909, 2 May 2017
+102
+103
+
+32 Brexit: Energy and Climate Change
+
+this eventuality, including by considering whether to devolve additional
+powers to Northern Ireland. 109
+
+109
+
+Lords EU Committee, Brexit: energy security, 10th Report of Session 2017-19, HL
+Paper 63, 29 January 2018, para.149-150
+
+33 Commons Library Briefing, 19 June 2020
+
+5. Climate Change
+The UK is part of an international effort to combat climate change.
+Both the UK and the EU are parties to the United Nations Framework
+Convention on Climate Change (UNFCCC) and as such have signed up
+to international climate change obligations, such as the Kyoto Protocol
+and the Paris Agreement.
+As part of its contributions to international efforts, the UK has domestic
+legislation and policies in place to reduce greenhouse gas emissions. The
+Climate Change Act 2008 originally established long term statutory
+targets for the UK to achieve an 80% reduction in greenhouse gases by
+2050 against a 1990 baseline (translated into five-yearly carbon
+budgets). In June 2019, the Government amended this headline target
+to a 100% reduction (compared to 1990 levels) by 2050 (otherwise
+known as net zero). Since 1990, the UK has cut greenhouse gas
+emissions by 40%. 110 Further discussion of the UK carbon budgets and
+the Climate Change Act 2008 (as amended) is set out in the Library
+Briefing on UK Carbon Budgets and the Library Briefing on Legislating
+for Net Zero.
+The UK also contributes to international efforts by participating in EU
+mechanisms such as the EU emissions trading system (EU ETS); and
+meeting EU targets, for example under the “effort sharing” legislation.
+The House of Lords Library briefing on Leaving the European Union: UK
+Climate Change Policy (July 2017) provides further background on
+climate change policies.
+In December 2019 the European Commission published a
+communication called The European Green Deal. 111 It is described as
+resetting “the Commission’s commitment to tackling climate and
+environmental-related challenges that is this generation’s defining
+task.” 112 It presented an initial roadmap of the key policies and
+measures needed to achieve a number of goals. The European
+Commission presented a proposal for a European Climate Law on 4
+March 2020, which included a net zero by 2050 target. 113 The European
+Green Deal also includes proposals for a carbon border adjustment
+mechanism, which would apply a price to the carbon content of goods
+imported into the EU market. 114
+During the transition period, the UK must continue applying and
+implementing EU law that falls within the scope of the Withdrawal
+
+Committee on Climate Change, Reducing UK emissions, 2019 Progress Report to
+Parliament, 10 July 2019
+111
+European Commission website, A European Green Deal [accessed 26 February 2020]
+112
+European Commission, Communication from the Commission, The European Green
+Deal, COM(2019) 640 final, 11 December 2019
+113
+European Commission proposal for a regulation: European Climate law, 4 March
+2020; and Europa pages on European Climate Law [accessed 16 March 2020]
+114
+European Commission website, A European Green Deal [accessed 11 June 2020]
+110
+
+34 Brexit: Energy and Climate Change
+
+Agreement. This includes remaining a full participant in the EU
+emissions trading scheme (see below). 115
+
+5.1 Negotiating positions of the EU and the
+UK Government
+The precise nature of the future relationship between the UK and EU on
+climate change policies is unclear as negotiations are ongoing. Both the
+EU and the UK Government have set out their general positions and
+proposals on climate change at various points in the negotiation
+process. Some of the key positions are summarised below. Further detail
+on the latest negotiating positions is included with the relevant policy
+sections of this chapter.
+
+2017-18
+
+The Clean Growth Strategy (October 2017) explained the Government’s
+view of the potential impact of leaving the EU on climate change
+policies, stating that domestic commitments would not be affected, but
+that the exact nature of the UK’s future relationship with the EU,
+including in areas such as the EU ETS were “still to be determined”:
+Leaving the EU will not affect our statutory commitments under
+our own domestic Climate Change Act and indeed our domestic
+binding emissions reduction targets are more ambitious than
+those set by EU legislation. The exact nature of the UK’s future
+relationship with the EU and the long-term shape of our
+involvement in areas like the EU Emissions Trading System are still
+to be determined. There are also emerging opportunities to drive
+more action – for example by putting emission reductions and
+land stewardship at the heart of a post EU agricultural support
+policy. We will therefore carefully examine each area of common
+interest with our EU partners and work to deliver policies and
+programmes that are at least as beneficial as the current
+arrangements. 116
+
+The European Council’s guidelines on the framework for future EU-UK
+relations (23 March 2018) 117 included a new Article requiring continued
+“close cooperation” in relation to global challenges, “in particular in the
+areas of climate change and sustainable development, as well as crossborder pollution”. 118 This approach was reflected in the subsequently
+agreed Political Declaration on the Framework for the Future
+Relationship, as below.
+The May Government’s White Paper on the Future Relationship
+between the UK and the EU (12 July 2018) 119 committed to
+“maintaining high standards on climate change” and continuing to
+
+Gov.uk, Meeting climate change requirements from 1 January 2021, 28 April 2020
+[accessed 3 June 2020]
+116
+Gov.uk, Clean Growth Strategy, 12 October 2017
+117
+European Council, Article 50 Guidelines, 23 March 2018
+118
+European Council, Article 50 Guidelines, 23 March 2018. See Library Briefing on
+Brexit: new guidelines on the framework for future EU-UK relations (19 April 2018)
+for further discussion of the Council’s guidelines.
+119
+HM Government, The Future Relationship between the United Kingdom and the
+European Union, 12 July 2018, Cm 9593
+115
+
+35 Commons Library Briefing, 19 June 2020
+
+meet the UK’s international obligations in this area. 120 The May
+Government’s November 2018 Withdrawal Agreement did not include
+any explicit climate change provisions, with the exception of within the
+‘backstop’ in the Ireland / Northern Ireland Protocol which committed
+the UK to maintaining a level playing field with the EU in relation to
+environmental protection, including climate change, should the
+‘backstop’ come into force. This was superseded by the 2019
+Withdrawal Agreement and was not ratified.
+
+2019
+In a May 2019 consultation document on the Future of UK Carbon
+Pricing, the UK Government and devolved Administrations stated that
+(rather than remaining in the EU ETS) securing a linking agreement with
+the EU for a linked UK ETS was their preferred option. Alternative
+carbon pricing options were also consulted on to address a scenario
+where a linking agreement cannot be secured with the EU. 121 The
+consultation closed on 12 July 2019 and the Government published its
+response on 1 June 2020. 122 It confirmed that the Government would
+establish a UK ETS and was open to it being linked to the EU ETS.
+On 19 August 2019, Prime Minister Johnson wrote to the President of
+the European Council (Donald Tusk) stating that:
+Although we will remain committed to world-class environmental,
+product and labour standards, the laws and regulations to deliver
+them will potentially diverge from those of the EU. That is the
+point of our exit and our ability to enable this is central to our
+future democracy. 123
+
+2020
+The ratified Withdrawal Agreement came into force on 1 February
+2020. It does not contain any specific provisions or exceptions on
+climate change. The Protocol on Ireland/Northern Ireland contained
+within the Withdrawal Agreement does not contain the level playing
+field provisions (including in relation to climate change) of the May
+Government’s Withdrawal Agreement. Article 9 of the Protocol the
+continues the operation of the Single Electricity Market in Northern
+Ireland from the end of the transition period, which includes Northern
+Ireland remaining in the EU emissions trading scheme (see more in
+section 4.2 above).
+The Political Declaration commits the parties to global cooperation on
+climate change and reaffirming commitments to international
+agreements such as the Paris Agreement. It also includes commitments
+from both parties to ensure a ‘level playing field’ in the future
+relationship with regard to a number of different matters including
+climate change. 124 This remains the same as the May Government’s
+Political Declaration. More information on the Ireland/Northern Ireland
+HM Government, The Future Relationship between the United Kingdom and the
+European Union, 12 July 2018, Cm 9593, Paras 107 and 108, 119 and 120
+121
+Gov.uk, Consultation on the Future of UK Carbon Pricing, 2 May 2019
+122
+Gov.uk, Consultation outcome, The future of UK carbon pricing, 1 June 2020
+[accessed 3 June 2020]
+123
+Gov.uk, PM letter to His Excellency Mr Donald Tusk, 19 August 2019
+124
+HM Government, New Political Declaration, 19 October 2019, Articles 13 and 14
+120
+
+36 Brexit: Energy and Climate Change
+
+Protocol is available in the Library Briefing Paper on the October 2019
+EU UK Withdrawal Agreement and the Library Insight on Brexit and the
+Northern Ireland Border.
+The Prime Minister’s written statement on 3 February 2020 stated that
+the Government would not agree to measures in climate change policy
+and other level playing field areas going “beyond those typically
+included in a comprehensive free trade agreement”. The statement set
+out the Government’s belief that the two parties should recognise their
+respective commitments to maintaining high standards, agreeing to
+avoid using trade distorting measures and “confirm that they will
+uphold their international obligations”. 125
+The EU’s negotiating directives were adopted on 25 February 2020. 126
+The envisaged partnership included the “fight against climate change”
+as a key objective, specifically mentioning that the Paris Agreement
+should constitute an essential element. In section 15 on level playing
+field and sustainability, climate change is included as an area in which
+the envisaged partnership should “uphold common high standards, and
+corresponding high standards over time with Union standards as a
+reference point”. 127 More information on the level playing field is
+available in the Library Briefing Paper on the UK-EU future relationship
+negotiations: level playing field
+The UK Government’s policy paper: the future relationship with the EU,
+the UK’s approach to negotiations (27 February 2020) 128 did not include
+climate change within the proposals for a comprehensive free trade
+agreement. Instead, climate change and carbon trading were included
+under a proposed Agreement on Energy (the text of which was
+published by the Government later in May 2020). It stated that “the UK
+is open to considering an agreement on energy if it reflects its interests
+and as long as it respects the fact that the UK will make independent
+decisions on its energy policies”.
+The European Commission published a draft treaty text on 18 March
+2020. 129 In line with the negotiating directives, the EU included the fight
+against climate change as an “essential element” of the partnership as
+well as within the level playing field provisions.
+The UK Government published the ten draft treaty texts it had tabled in
+the negotiations on 19 May 2020. In line with its approach to date, it
+included climate change within its draft energy agreement text, rather
+than in its draft comprehensive free trade agreement. The draft energy
+agreement includes draft provisions on “the fight against climate
+change” in line with the Government’s command paper and a
+placeholder on carbon pricing rather than detailed legal provisions
+HCWS86 [on UK / EU relations] 3 February 2020
+Council of the EU, ANNEX to COUNCIL DECISION authorising the opening of
+negotiations with the United Kingdom of Great Britain and Northern Ireland for a
+new partnership agreement, 25 February 2020
+127
+EU negotiating directives, para 94
+128
+HM Government, The future relationship with the EU, the UK’s approach to
+negotiations, 27 February 2020, CP211
+129
+European Commission, Draft text of the Agreement on the New Partnership with
+the United Kingdom, 18 March 2020
+125
+126
+
+37 Commons Library Briefing, 19 June 2020
+
+(noting that it will be subject to further discussions). The energy
+agreement has separate governance arrangements to the trade
+agreement (see section 3.4 above).
+The UK’s chief negotiator, David Frost, wrote to Michel Barnier on 19
+May 2020 stating that the UK is committed to high standards but could
+not accept the EU’s level playing field proposals:
+We have been clear that the UK will have high standards and, in
+many cases, higher standards than those in the EU. However, we
+cannot accept any alignment with EU rules, the appearance of EU
+law concepts, or commitments around internal monitoring and
+enforcement that are inappropriate for an FTA. 130
+
+Reports from the fourth round of negotiations in June 2020 was that no
+significant progress was made in reaching an agreement. 131
+
+Further information
+For more information on the UK and EU’s negotiating positions, see:
+•
+
+Library Briefing paper on The UK-EU future relationship: summary
+of positions
+
+•
+
+Library Briefing paper on The UK-EU future relationship: the
+March 2020 EU draft treaty and negotiations update, 27 May
+2020
+
+•
+
+Library Briefing paper on The UK-EU future relationship: Level
+playing field
+
+Some key areas of climate change policy subject to ongoing
+negotiations between the UK and EU are discussed below.
+
+5.2 International framework
+The United Nations Framework Convention on Climate Change
+(UNFCCC) was adopted during the 1992 Earth Summit, held in Rio de
+Janeiro, Brazil. It entered into force in 1994 and has been ratified by
+196 States (including both the EU and the UK) which constitute the
+“Parties” to the Convention. The objective of the Treaty, set out in
+article 2 of the Convention, is to “stabilize greenhouse gas
+concentrations in the atmosphere at a level that would prevent
+dangerous anthropogenic interference with the climate system.” Every
+year a Conference of the Parties takes place (known as COPs).
+The UK will host COP26 in November 2021 and Italy will host the preCOP events. COP26 was postponed from 2020 due to the Covid-19
+pandemic. For more information see the Library Briefing Paper on
+COP26: the international climate change conference, Glasgow, UK.
+
+The Kyoto Protocol
+The Kyoto Protocol was adopted at COP3 in Kyoto in 1997 and entered
+into force in February 2005, with two commitment periods (2008-2012
+and 2013-2020). Its main goal is to reduce certain greenhouse gas
+
+130
+131
+
+Gov.uk Letter to Michel Barnier, 19 May 2020
+Politico, No significant progress in Brexit talks, 6 May 2020 [accessed 16 June 2020]
+
+38 Brexit: Energy and Climate Change
+
+emissions 132 and parties to the Protocol (including the UK) must meet
+their targets primarily through national measures. An additional means
+by which Parties can meet their targets is through the market-based
+mechanisms established by the Protocol: the clean development
+mechanism; joint implementation; and emissions trading. The UK’s
+national Kyoto Protocol Registry is located within the Consolidated
+System of European Registries and facilitates the trading of Kyoto
+Protocol emissions units. 133
+Under the Kyoto Protocol, EU countries (and Iceland) have agreed a joint
+commitment to meet a 20% reduction target compared to 1990 levels.
+This is in line with the EU’s own 2020 targets. 134 EU countries meet
+these targets through the EU ETS and, for sectors not in the EU ETS,
+through the “effort sharing decision” which sets binding annual
+national emission reduction targets. 135
+The UK is a party to the UNFCCC and has ratified the Kyoto Protocol
+separately to the EU. The Government has confirmed it remains
+committed to meeting its international climate change obligations. 136
+Subject to any extension, the end of the transition period (31 December
+2020) will align with the end of the second commitment period under
+the Kyoto Protocol. The Withdrawal Agreement ensures that certain
+reporting obligations relating to 2019 and 2020 continue to apply to
+the UK until the end of the second commitment period of the Kyoto
+Period (2013-20). 137 During the transition period, UK businesses
+continue to have access to the Kyoto Protocol National Registry within
+the UK section of the Consolidated System of European Registries, and
+can continue to access their accounts.
+
+The Paris Agreement
+In December 2015, agreement was reached at COP21 in Paris to keep a
+global temperature rise this century well below 2°C above pre-industrial
+levels and to pursue efforts to limit the temperature increase even
+further to 1.5°C. 138 Both the EU and the UK are signatories to the Paris
+Agreement.
+The Paris Agreement requires each Party to prepare, communicate and
+maintain successive (every 5 years) nationally determined contributions
+(NDCs) of the emissions reductions that it intends to achieve. NDCs
+were first submitted by Parties in 2015. Parties are expected to put
+forward enhanced or updated NDCs in 2020. The EU currently has an
+
+Six greenhouse gases for the first commitment period; seven greenhouse gases for
+the second commitment period.
+133
+More information on the mechanisms is available on the UNFCCC pages:
+Mechanisms under the Kyoto Protocol.
+134
+European Commission, Climate Action, Kyoto 2nd commitment period (2013-2020)
+[accessed 8 November 2018]
+135
+See: European Commission, Climate Action, Effort sharing: Member States’
+emissions targets [accessed 8 November 2018]
+136
+See: Gov.uk Meeting climate change requirements if there’s no Brexit deal, updated
+12 April 2019 [accessed 26 July 2019]
+137
+Article 96
+138
+UNFCCC, The Paris Agreement [accessed 3 August 2017]
+132
+
+39 Commons Library Briefing, 19 June 2020
+
+overall NDC on behalf of its Member States (including the UK), acting
+jointly.
+COP25 was held in Madrid, Spain with a key aim to finalise the “Paris
+rulebook” in order to ensure full implementation from 2020. However,
+the talks did not reach the consensus hoped for with some of the more
+technical elements pushed out to COP26 in the UK.
+Further information is available in the Library Briefing Paper on Chile
+Madrid Climate change conference: COP25; and the Library Briefing
+Paper on COP26: the international climate change conference,
+Glasgow, UK.
+Background information is available in the House of Commons Library
+Briefing Papers on the Paris Climate Change Conference (27 September
+2016) and the Paris Agreement and Marrakech Climate Conference (25
+November 2017).
+
+The future relationship
+The UK is a party to the UNFCCC and has ratified the Paris Agreement
+separately from the EU. 139 The Government has confirmed it remains
+committed to the Paris Agreement and that it will continue to be bound
+by the Paris Agreement as an individual party under international law.
+The Government guidance states:
+The UK will also remain a Party to international climate change
+agreements, including the Paris Agreement. Its commitment to
+them will remain as strong as ever and will be unaffected by
+leaving the EU. 140
+
+The UK has confirmed it will submit “its own increased NDC” in
+advance of COP26:
+Following our departure from the EU, the UK will be bringing
+forward its own, increased NDC well ahead of COP26. The UK
+NDC will be built on the foundations of well-established UK
+analysis and policy development for domestic climate change
+mitigation, used to set the UK’s fifth carbon budget (2028-32)
+and described in the Clean Growth Strategy. In its Net Zero
+advice, the Committee on Climate Change was clear that the
+Clean Growth Strategy continues to offer the right framework for
+the ambitious action needed to deliver net zero. 141
+
+The EU has been silent on the possibility of formally requesting the UK
+to continue to participate in joint fulfilment of a new NDC. It has said:
+In 2020, the EU will update its NDC as agreed in Paris, taking into
+account the need to increase clarity, transparency and
+understanding of its NDC. 142
+
+An independent climate change think tank, E3G, published a report on
+Climate change in the Brexit negotiations (May 2020) which explains
+the impact of the UK leaving the EU on the EU’s NDC ambitions:
+Gov.uk news story, UK ratifies the Paris Agreement, 18 November 2016 [accessed
+30 August 2018]
+140
+Gov.uk, Meeting climate change requirements from 1 January 2021, 28 April 2020
+[accessed 3 June 2020]
+141
+PQ 12820 [on climate change] 14 February 2020
+142
+Council of the EU, Preparations for UNFCCC meetings, 4 October 2019
+139
+
+40 Brexit: Energy and Climate Change
+
+The withdrawal of the UK from the EU effort sharing regulation
+makes increasing EU ambition more difficult. The UK, like other
+larger and richer countries, took on a more ambitious share of the
+EU target than the EU average. Privately several EU Member States
+and Parliamentarians have expressed concern that the UK’s
+absence may limit the ability to agree an ambitious new target,
+especially the 55% reduction at the top end of the considered
+range. 143
+
+Negotiating positions
+The latest negotiating positions from each party in relation to
+international climate change obligations and the Paris Agreement, and
+their interaction with domestic law and policy, are set out below.
+UK position
+
+EU position
+
+Within its draft Energy Agreement
+(published May 2020), the UK
+proposals include that:
+•
+the Parties each affirm their
+commitment to effectively
+implement the Paris
+Agreement;
+•
+each Party retains the right to
+establish its own climate
+change priorities and to adopt
+or modify its laws and policies
+accordingly
+•
+each Party shall seek to ensure
+[…] high levels of climate
+protection, and shall strive to
+continue to improve such laws
+and policies
+
+The EU draft treaty text (March
+2020) proposals include as ”essential
+elements” to the agreement, that:
+•
+each Party shall respect the
+Paris Agreement and the
+process set by UNFCCC, and
+refrain from any acts or
+omissions that would
+undermine its adherence to or
+materially defeat the object
+and purpose of the Paris
+Agreement
+•
+the Parties shall advocate the
+fight against climate change
+in international fora, including
+by engaging with other
+countries and regions to
+increase their level of ambition
+in the reduction of
+greenhouse emissions
+Within the Level Playing Field
+Provisions, the EU includes:
+•
+each Party shall effectively
+implement the UNFCCC and
+the Paris Agreement.
+
+Commentary
+In September 2018, businesses and industry bodies called on the then
+UK Prime Minister and President of the European Commission to agree
+to cooperate on implementing the Paris Agreement as one of several
+negotiating priorities on energy and climate change set out in an open
+letter. 144 A report from E3G (a climate change think tank) on Brexit and
+
+Climate cooperation, Implications for the Paris Agreement and net zero
+E3G Briefing Paper, Climate change in the Brexit negotiations, Shane Tomlinson, May
+2020 [accessed 16 June 2020]
+144
+Open letter to Jean-Claude Juncker and Theresa May, Prioritising EU27 / UK
+cooperation on climate change and energy, 4 September 2018, signed by British
+Irish Chamber of Commerce, EDF, Electricity Association of Ireland, Energy UK, Earth
+Capital Partners, Renewable UK, Unilever, WHEB, WindEurope, Loftbergs [accessed
+5 September 2018]
+143
+
+41 Commons Library Briefing, 19 June 2020
+
+(October 2018) made a number of recommendations, including that the
+EU and the UK should agree a broad scope for climate cooperation and
+that a decision by the UK to set out an independent NDC would still be
+compatible with high levels of climate cooperation with the EU (see
+more below). 145
+On 6 May 2020, the Financial Times reported that the EU desire to
+include commitment to the Paris Agreement among the essential
+elements of the future partnership was a source of disagreement with
+the UK in the negotiations. 146 The EU indicated that it wants such a
+commitment in all its future trade deals. A Government spokesperson
+said the UK was “absolutely committed to tackling climate change” but
+that it was opposed to embedding legally binding pledges into any deal
+with the EU:
+“The agreements we reach with the EU should reaffirm both
+parties’ commitments to the Paris agreement and recognise both
+sides’ right to decide their own regulation to meet our respective
+climate goals,” the spokesperson said. “This does not require an
+additional binding international legal commitment.” 147
+
+In June 2020, a group of EU and UK energy trade bodies welcomed the
+commitments of both parties to international and domestic climate
+change goals:
+We welcome that both negotiating Parties remain fully committed
+to the goals of the Paris Agreement and to their own domestic
+legislations and climate targets. We are confident that considering
+the commitments in law and from governments, reaching zero
+emissions by 2050 remains the priority. 148
+
+A blog by an environmental law lecturer at Sussex University argued
+that the EU’s proposal “poses virtually no threat unless the UK
+withdraws altogether from the Paris Agreement”
+Another potential area of concern is that the EU has listed
+upholding the Paris Agreement as an essential element of the
+Agreement (Article 5 of the ‘Common Provisions’ in the EU draft
+FTA), meaning that it could suspend the Agreement for noncompliance. This is not specific to the UK, and poses virtually no
+threat unless the UK withdraws altogether from the Paris
+Agreement, particularly considering that it allows countries to
+determine their own contributions to mitigating climate change.
+Indeed, as a climate leader, the UK might well advocate the
+inclusion of such conditionalities in its own FTAs. 149
+
+An E3G report on Climate change in the Brexit negotiations (May 2020)
+identified the UK’s narrower approach to climate change (limiting it to
+references within the Energy Agreement) versus the EU’s wider
+E3G, Brexit and Climate cooperation, Implications for the Paris Agreement and net
+zero, 2 October 2019 [accessed 1 November 2018]
+146
+Financial Times, Brussels and Britain clash over climate conditions in trade deal, Jim
+Brunsden, 6 May 2020 [accessed 16 June 2020] [subscription needed]
+147
+Financial Times, Brussels and Britain clash over climate conditions in trade deal, Jim
+Brunsden, 6 May 2020 [accessed 16 June 2020] [subscription needed]
+148
+Energy UK, EU and UK trade bodies call for an efficient future energy EU-UK
+relationship, 3 June 2020 [accessed 12 June 2020]
+149
+UK Trade Policy Observatory, Environment and climate change in the EU-UK
+negotiations: Arguing the toss over nothing, blog by Dr Emily Lydgate [accessed 16
+June 2020]
+145
+
+42 Brexit: Energy and Climate Change
+
+approach in its main trade agreement. E3G argue that the UK should
+broaden its approach:
+The UK negotiating position on climate also needs revision. The
+current texts limit climate change and references to the Paris
+Agreement within the proposed energy agreement. This ignores
+the role of climate within transport, industry, agriculture and the
+environment. The UK should revise its position to include a climate
+change chapter and direct reference to the Paris Agreement in its
+main free trade agreement proposal as well as the separate
+energy agreement. 150
+
+5.3 Carbon pricing
+There are two main types of carbon pricing: carbon taxes and emissions
+trading systems. 151
+
+The UK’s participation in the EU ETS
+One of the main carbon pricing mechanisms in the UK is the EU
+emissions trading system (EU ETS). The UK also has a carbon price floor
+to support the EU ETS price (see Box 4). The UK remains a full
+participant in the EU ETS during the transition period.
+The EU ETS is described as the “largest multi-country, multi-sector
+greenhouse gas emissions trading system in the world” covering more
+than 11,000 power stations and industrial plants across the EU with
+around 1,000 of these in the UK. 152 153
+The mandatory cap-and-trade scheme was launched in 2005 and has
+since undergone a number of reforms. It is central to the EU’s climate
+change target of reducing greenhouse gas emissions by 40% by 2030
+compared to 1990 levels.
+The EU ETS sets an EU-wide cap on the total amount of greenhouse gas
+emissions from energy intensive sectors including power stations and
+industrial plants. The cap decreases over time (1.74% each year) to
+reduce overall emissions. 154 Airlines operating between the 31 countries
+are covered within the EU ETS but via a separate cap. Approximately
+140 UK-administered aircraft operators take part in the EU ETS. 155
+Companies either receive allowances (EU Allowances or EUAs) free or
+purchase them during auctions of allowances issued by Governments. 156
+Surplus allowances can also be traded on the carbon market. The
+number of allowances held by the company at the end of an EU ETS
+E3G Briefing Paper, Climate change in the Brexit negotiations, Shane Tomlinson,
+May 2020 [accessed 16 June 2020]
+151
+\More information is available on The World Bank, Pricing Carbon [accessed 16 June
+2020]
+152
+BEIS, Participating in the EU Emissions Trading System (EU ETS), 31 July 2017
+153
+The greenhouse gases covered by EU ETS are carbon dioxide (CO2), nitrous oxide
+(N2O) and perfluorocarbons (PFCs).
+154
+European Commission, Climate Action, ‘Emissions cap and allowances’, [accessed:
+20 February 2018]
+155
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, 12 October
+2018
+156
+Each allowance gives the holder the right to emit one tonne of carbon dioxide or the
+equivalent of nitrous oxide and perfluorocarbons. (EU Commission, Climate Action,
+‘Emissions cap and allowances’, accessed 20 October 2016
+150
+
+43 Commons Library Briefing, 19 June 2020
+
+year must be equal to, or more than, the total volume of emissions from
+its installation. Compliance is assessed and verified by an independent
+third party, and the company must surrender its allowances for the
+preceding calendar year by no later than 30 April the following year.
+The EU ETS is currently in Phase III (2013-2020), which aims for an
+overall emissions reduction of 21% compared to 2005 emissions for
+power stations and industrial plants.
+In Phase III, power stations purchase all their allowances whereas other
+industries still receive some of their EUAs via free allocation. Both
+sectors can also buy international credits from emission-saving projects
+around the world. 157 At the end of each year, if a company does not
+have enough EUAs to cover all its emissions it is required to pay a
+fine. 158
+The market price of EUAs fell dramatically after the financial crisis in
+2008 and stayed low for several years. From late 2011 until 2017, EUAs
+cost less than €10 per tonne 159 although in 2018 the price started to
+rise and reached over €28 in 2019. 160 In the earlier years, several
+Member States and various EU ETS stakeholders considered the EU
+carbon price to be too low to create a strong enough incentive for
+polluters to undertake the required investment in low-carbon
+technologies and to drive low-carbon innovation.
+As a result of the low prices, the EU introduced several measures to
+reduce the supply of allowances going forward, including removing
+surplus allowances from the market. The UK also responded to the issue
+of the low cost of carbon in 2013 by introducing the Carbon Price Floor
+(CPF), a UK-only carbon tax which supplements the price of carbon
+through the EU ETS (see Box 2). Since it was introduced, the CPF has
+increased the price of carbon for UK customers and helped to drive coal
+almost completely out of the UK energy mix. 161 There is no EU-wide
+floor price for EUA auctions.
+Box 4: Carbon price floor
+The Carbon Price Floor (CPF) is a UK Government policy implemented to support the EU ETS. The CPF
+taxes fossil fuels used to generate electricity via Carbon Price Support rates. The price floor consists of
+two components which are paid for by energy generators in two different ways: (i) the EU ETS
+allowance price; and (ii) the Carbon Price Support (CPS), which tops up the EU Allowance prices, as
+projected by the Government, to the carbon price floor target.
+The Treasury confirms the target carbon price and CPS rates three years in advance of delivery at each
+Budget, and all revenue from the CPF is retained by the Treasury.
+When the CPF was introduced, it was due to rise every year until 2020 (to a price of £30/tCO2). At
+Budget 2014 the Government announced that the CPS component of the floor price would be capped
+
+European Commission, Climate Action, ‘Free allocation’, [accessed: 20 February
+2018]
+158
+European Commission, Climate Action, ‘The EU Trading System (EU ETS)’, [accessed:
+20 February 2018]
+159
+CarbonBrief, Q&A will the reformed EU ETS raise carbon prices? 6 December 2017
+[accessed 3 September 2018]
+160
+EUAs were at EUR 21.06 on 31 August 2018 and EUR 28.99 on 26 July 2019
+according to ICE EUA futures via Sandbag and Quandl.
+161
+BEIS, Coal Generation In Great Britain The pathway to a low-carbon future:
+consultation document, November 2016
+157
+
+44 Brexit: Energy and Climate Change
+
+at a maximum of £18/tCO2 from 2016 to 2020 to limit the competitive disadvantage faced by business
+and reduce energy bills for consumers. This price freeze was extended to 2021 in Budget 2016. Budget
+2018 stated that from 2021-22 the Government will seek to reduce the CPS if the total carbon price
+remains high.
+Background information on the carbon price floor is available in the House of Commons Library
+briefing: Carbon Price Floor (CPF) and the price support mechanism (8 January 2018),
+
+The future relationship
+The UK will leave the EU ETS at the end of the transition period.
+Northern Ireland operators will remain in the EU ETS by virtue of the
+Ireland/Northern Ireland Protocol in the Withdrawal Agreement in
+relation to the continued operation of the Single Electricity Market in
+Ireland (see more in section 4 above). 162
+The May Government committed in its Clean Growth Strategy (October
+2017) to carbon pricing as a means of driving decarbonisation. 163 This
+has been reiterated by the current Government and the devolved
+Administrations throughout the negotiation process:
+The UK government and the devolved administrations are firmly
+committed to carbon pricing as an effective tool for achieving our
+carbon emissions reductions targets for net zero. 164
+
+However, until June 2020, the type of carbon pricing the Government
+planned to implement at the end of the transition period was not
+known. Whether or not the UK’s future carbon pricing will be linked to
+the EU emissions trading system (EU ETS) remains subject to
+negotiations and is not yet known. The UK Government has said it
+“would be open to considering a link between a UK ETS and the EU
+ETS, if it suits both sides’ interests”. 165
+In May 2019, the UK Government and the devolved Administrations
+launched a 12-week joint consultation on the “future of UK carbon
+pricing” (12 May-12 July 2019), which sought views on the approach to
+UK carbon pricing following Brexit. 166 The consultation set out a number
+of carbon pricing options. It identified the establishment of a UK
+national emissions trading system (UK ETS) linked to the EU ETS
+following the end of Phase III as the preferred option of the UK
+Government and the devolved Administrations. This approach is not
+without precedent. Although Switzerland is not a participant in the EU
+ETS, in November 2017 it signed an agreement (subject to ratification)
+to link its emissions trading system with the EU ETS.167 The agreement
+entered into force on 1 January 2020. Linking a UK ETS with the EU
+Article 9 and Annex 4 of the Ireland / Northern Ireland Protocol help to maintain the
+continued operation of the Single Electricity Market by providing for Northern
+Ireland power generators to continue to participate in the EU ETS after the transition
+Period.
+163
+HM Government, Clean Growth Strategy, October 2017, p. 45
+164
+Gov.uk, Meeting climate change requirements from 1 January 2021, 28 April 2020
+[accessed 3 June 2020]
+165
+Gov.uk, Consultation outcome, The future of carbon pricing, 1 June 2020
+166
+Gov.uk consultation, The future of UK carbon pricing, 21 May 2019
+167
+EU, EU and Switzerland sign agreement to link emissions trading systems, 23
+November 2017
+162
+
+45 Commons Library Briefing, 19 June 2020
+
+ETS would require agreement between both parties and be subject to
+negotiation. Overall the process to link the Swiss ETS to the EU ETS took
+10 years. 168
+If the UK remained part of, or linked to, the EU ETS, the EU would
+continue to be responsible for developing and enforcing the rules. The
+Swiss Government will cede some regulatory control to Brussels as part
+of linking its ETS market to that of the EU ETS. Subject to the outcome
+of negotiations, the UK Government may therefore have limited ability
+to bring about any major reforms of the EU ETS. However, in March
+2018 evidence to a House of Lords Committee, the then BEIS Minister
+noted that the UK has been part of the current negotiations for Phase 4
+(up to 2030) and much of the final detail will happen during the period
+when the UK is still an active participant, thus giving some clarity up to
+2030. 169
+The 2019 consultation provided the following explanation on linking
+agreements:
+Any linking agreement requires a UK ETS to which the EU ETS
+could link. It is therefore necessary to develop a UK ETS in the first
+instance. When two ETSs are linked, each system recognises the
+allowances of the other. This has the effect of creating a single
+carbon price across both systems. Linking carbon markets can lead
+to more efficient emissions reduction, since allowances are
+tradable across a larger pool of participants. This results in a larger
+number of cost-effective abatement opportunities, as well as
+greater market liquidity for trading purposes, ensuring lower
+transactional costs and minimising the risk of market abuse. As
+well as increasing the efficiency of the system, a link between a
+UK ETS and the EU ETS would ensure a smooth transition for the
+relevant sectors. Given that a linking agreement would be subject
+to negotiation, it is not possible to outline the precise details of
+such an agreement at this stage. 170
+
+The UK’s proposed scope of a UK ETS is that it matches the scope of the
+EU ETS both in respect of sectors and greenhouse gases covered. The
+consultation also sought views on the potential to expand scope in later
+years of UK ETS operation.
+The UK Government and the devolved Administrations also wrote to the
+Government’s independent advisers, the Committee on Climate Change
+(CCC), on 2 May 2019 to request advice on a UK emissions trading
+scheme applying to the power, industry and aviation sectors, which
+would either be a standalone UK ETS or a UK ETS linked to the EU
+ETS. 171 In response, the CCC supported the Government’s preference
+for a linked UK-EU ETS, although it noted that carbon pricing alone will
+not provide sufficient decarbonisation and needs to be used as part of a
+suite of policy instruments. The Committee also recommended that the
+
+Council of the EU press release, Linking of Switzerland to the EU emissions trading
+system - entry into force on 1 January 2020, 9 December 2019 [accesse
+169
+House of Lords Select Committee on the European Union, Oral evidence: Minister of
+State for Energy and Clean Growth, 21 March 2018, Q8
+170
+Gov.uk consultation, The future of UK carbon pricing, 21 May 2019, p. 16
+171
+Gov.uk, letter to CCC on UK ETS, 2 May 2019
+168
+
+46 Brexit: Energy and Climate Change
+
+cap of the linked UK ETS be set based on the cost-effective path to the
+UK’s new net zero target. 172
+The House of Lords EU Energy and Environment Sub-Committee
+concluded an inquiry on Post-Brexit carbon pricing which examined the
+options of a UK ETS linked to the EU ETS and a carbon emissions tax. It
+did not publish a report but wrote a number of letters to ministers on
+this topic.
+A UK ETS
+The UK Government and devolved Administrations published the
+response to the carbon pricing consultation on 1 June 2020. 173 It set out
+plans for a new UK emissions trading scheme to replace the EU ETS,
+which was designed by the UK Government jointly with the Scottish
+Government, Welsh Government and Northern Ireland Executive. Key
+elements of the UK ETS include:
+•
+
+Phase I of the new UK ETS would run from 2021 to 2030
+
+•
+
+the UK ETS could operate as a linked or standalone system
+
+•
+
+the UK ETS will apply to energy intensive industries, power
+generators and aviation.
+
+•
+
+A proportion of allowances will be allocated for free; auctioning
+will continue to be the primary means of getting allowances. The
+auction reserve price will be £15 (nominal), with a mechanism in
+place to address any high price spikes or adjustments needed.
+
+•
+
+The cap will initially be set 5% below the UK’s notional share of
+the EU ETS cap for Phase IV of the EU ETS. This will be reviewed
+following the CCC’s advice on the sixth carbon budget and net
+zero later in 2020. The Government’s aim is that any changes
+needed as a result of this will be implemented by 2023 if possible
+and by no later than January 2024.
+
+The UK Government will also publish a consultation in late 2020 on the
+design of a carbon emissions tax as an alternative to a UK ETS “to
+ensure a carbon price remains in place in all scenarios”.
+Negotiating positions
+The latest negotiating positions from each party in relation to carbon
+pricing are set out below.
+UK position
+
+EU position
+
+The UK draft energy agreement
+(published in May 2020) includes a
+placeholder on carbon pricing rather
+than proposed legal drafting.
+It states that the UK is open to
+linking any UK ETS with the EU ETS if
+it suited both sides’ interests but that
+it would need to recognise both
+
+The EU draft treaty (March 2020)
+includes carbon pricing within the
+Level Playing Field Provisions:
+•
+The UK shall implement a
+system of carbon pricing of at
+least the same scope and
+effectiveness as that provided
+by the EU ETS.
+
+172
+173
+
+CCC, letter to the Rt Hon Kwasi Kwarteng MP, BEIS, 7 August 2019
+Gov.uk, Consultation outcome, The future of carbon pricing, 1 June 2020
+
+47 Commons Library Briefing, 19 June 2020
+
+parties as sovereign equals with their
+own domestic laws.
+
+•
+
+Should the UK create its own
+emissions trading system and
+request it to be linked to the
+EU ETS, the Union shall give
+serious consideration to such
+request, provided that it does
+not risk affecting the integrity
+of the EU ETS, in particular its
+balance of rights and
+obligations, and that an
+increase in scope and
+effectiveness is ensured.
+
+Commentary
+The Committee on Climate Change wrote to the Government in March
+2020 in response to a formal request from the UK Government, Scottish
+Government, Welsh Government and Northern Ireland Assembly
+regarding the future of carbon pricing in UK, specifically in relation to
+the successor to the EU Emissions Trading Systems (ETS) after EU exit.
+The Committee made a number of recommendations including that
+leaving the EU provides the UK with an opportunity to match the
+ambition of its own approach to an emissions trading scheme to the
+UK’s own circumstances, in particular its net zero target:
+Leaving the EU presents an opportunity for the UK to align the
+ambition of its trading scheme to the UK’s own circumstances.
+Ultimately, that requires a tightening of the cap of the scheme in
+line with a trajectory consistent with the UK’s Net Zero target for
+2050. 174
+
+The Committee went onto say that:
+We also note a change in language over linking to the EU ETS […]
+It is now described as an option at a later date, and if desired. The
+Committee remains of the view that a UK ETS should link to the
+EU ETS as soon as is practicable. 175
+
+The industry trade body, Energy UK’s interim chief executive welcomed
+the Government’s approach:
+We strongly support Government establishing a UK ETS linked to
+the EU ETS and back its efforts to agree this approach with the
+EU. This is the best long-term carbon pricing mechanism to
+continue driving decarbonisation at the lowest cost to consumers,
+which will allow us to benefit from the liquidity of the world’s
+largest carbon market and help us meet our net zero target by
+2050.
+In the event that a linking agreement cannot be secured in time
+for 1 January 2021, we welcome Government’s decision to
+introduce stability measures such as an Auction Reserve Price
+(ARP) to protect a newly-established stand-alone UK ETS from
+market shocks and volatility due to its smaller size. It is positive to
+have clarity on the level of the ARP (£15), however, we urgently
+need clarity from the Treasury of the level of the Carbon Emission
+CCC letter, The future of carbon pricing to The Rt Hon Kwasi Kwarteng MP, dated
+March 2020, published 1 June 2020
+175
+CCC letter, The future of carbon pricing to The Rt Hon Kwasi Kwarteng MP,
+published 1 June 2020
+174
+
+48 Brexit: Energy and Climate Change
+
+Tax (CET) or at least the methodology in July. This will ensure that
+power operators have full visibility of the total carbon price,
+whether via a standalone UK ETS or CET fallback, in January
+2021. 176
+
+The E3G report on Climate change in the Brexit negotiations (May
+2020) noted that although both the UK and EU seem to have significant
+alignment in their approach, linking trading systems can take years of
+negotiation:
+However, although many of the high-level objectives have
+significant alignment the pathway to achieving this is far from
+automatic. The experience of linking the Swiss emissions trading
+system to the EU-ETS required years of negotiation to work
+through all the detail. It is therefore vital that substantive
+negotiations on these issues begin as soon as possible. 177
+
+176
+177
+
+Energy UK, Energy UK responds to UK Government's ETS proposal, 2 June 2020
+E3G Briefing Paper, Climate change in the Brexit negotiations, Shane Tomlinson,
+May 2020 [accessed 16 June 2020]
+
+49 Commons Library Briefing, 19 June 2020
+
+6. Annex: Previous material on
+preparations for a possible “no
+deal” scenario (2017-January
+2020)
+Before the UK left the EU on 31 January 2020, both parties put in place
+contingency plans in case of a “no deal” scenario where a withdrawal
+agreement was not agreed. Although no longer required, the following
+sections set out the plans that were made for this purpose for
+background information. This text therefore refers in part to issues
+resolved by the Withdrawal Agreement or subsequent policy
+developments.
+
+6.1 Civil Nuclear
+As discussed in more detail above, the UK prepared for leaving Euratom,
+by passing the Nuclear Safeguards Act 2018 and negotiating
+replacement Nuclear Cooperation Agreements for trade. This
+preparation meant a no deal Brexit would not have had a disruptive
+impact on those aspects of the UK’s civil nuclear industry.
+For other functions of Euratom, such as supply arrangements, import
+licences, and nuclear research, a no deal Brexit may have affected the
+continuation of existing arrangements, and required management
+through proposed changes in funding or practice:
+•
+
+Nuclear trade: Before the UK’s departure from the EU and
+Euratom, the Government published a number of guidance
+documents on trade of nuclear related materials after Brexit.
+Import licences for certain nuclear materials from EU countries,
+were not required before Brexit, but would have been required if
+there was no deal, and some supply contracts for nuclear material
+which involved a Euratom member may have needed to be reapproved. Shipping operators also needed to ensure they had
+applied for the correct authorisations and used the correct
+documentation when shipping radioactive waste and spent
+fuel. 178
+
+•
+
+Radioisotopes: In preparation for the possibility of the UK
+leaving the EU with no Brexit deal, the Government announced
+plans to stockpile medicines, but as radio-isotopes have short halflives, they cannot be stockpiled. Due to concerns of possible
+custom delays on road and rail routes, the May Government
+asked suppliers “to ensure they have plans in place to air freight
+[radioisotopes] to avoid any border delays that may arise”. 179
+
+See also Gov.uk, Civil nuclear regulation if there’s no Brexit deal, guidance
+withdrawn on 12 August 2019
+179
+PQ 176162, [on Radioisotopes], 11 October 2018
+178
+
+50 Brexit: Energy and Climate Change
+
+Some stakeholders questioned whether the air freight plans
+would be an efficient replacement for current arrangements. 180 In
+June 2019, the Department of Health and Social Care announced
+it would tender to secure an “express freight service” to provide
+“end-to-end” transport for medicines including radioisotopes in
+the case of no deal. 181 An article in the Pharmaceutical Journal
+quotes Layla McCay, director of international relations at the NHS
+confederation as saying the new express freight plans where
+[medicines are] tracked all the way” would be “more reliable”. 182
+In a letter to Prime Minister Johnson on 1 August 2019, three
+groups who procure and use radioisotopes (the Royal College of
+Radiologists, the British Nuclear Medicine Society, and the UK
+Radiopharmacy Group) said they were “encouraged” by the work
+being undertaken on radioisotopes, but continued that they
+“remain[ed] apprehensive” about supplier readiness and the
+impact of supply changes on patients. They asked the Prime
+Minister for clarity on three issues: custom delays at airports, the
+need for qualified drivers, and what action would be taken to
+address the “increased costs caused by Brexit”. 183
+•
+
+Research: In the event of no-deal, the UK Government issued
+guidance (now withdrawn) on nuclear research after Brexit, which
+stated:
+The UK will leave Euratom (the European Atomic Energy
+Community) and will no longer be:
+•
+
+a member of the Euratom Research & Training (R&T)
+programme
+
+•
+
+a member of Fusion for Energy
+
+•
+
+able to collaborate on the International Thermonuclear
+Experimental Reactor (ITER) project through the EU 184
+
+In relation to a no deal scenario, the Government’s Nuclear research
+after Brexit guidance stated on ITER:
+The UK will no longer be a member of Fusion for Energy and UK
+businesses will not be able to bid for International Thermonuclear
+Experimental Reactor (ITER) contracts through Fusion for Energy.
+However, the UK government is exploring alternative options to
+maintain UK participation in ITER. 185
+
+6.2 Energy trading and the IEM
+Before the UK’s departure from the EU, the Government published a
+number of technical notices on how to prepare for Brexit if there was
+
+Caroline Wickware, Plans for importing medical isotopes changed after government
+review of no-deal Brexit proposals, The Pharmaceutical Journal, 13 August 2019
+181
+Department for Health and Social Care, New Service to deliver urgent medicines and
+medical products in the UK, 15 August 2019
+182
+Caroline Wickware, Plans for importing medical isotopes changed after government
+review of no-deal Brexit proposals, The Pharmaceutical Journal, 13 August 2019
+183
+Royal College of Radiologists, Prime Minister urged to clarify queries on radioisotope
+transport and costs, 1 August 2019
+184
+Gov.uk, Nuclear research after Brexit, 13 August 2019
+185
+Gov.uk, Nuclear research after Brexit, 13 August 2019
+180
+
+51 Commons Library Briefing, 19 June 2020
+
+no deal (since withdrawn). 186 The guidance on trading gas and electricity
+stated the UK would leave the IEM in the event of no deal:
+European energy law will no longer apply to the UK and the UK’s
+electricity markets will be decoupled from the Internal Energy
+Market. 187
+
+The gas guidance also stated the EU law would no longer apply. The
+implications for electricity trading were that new agreements would
+need to be developed:
+Cross-border flows across electricity interconnectors will no longer
+be governed by EU legislation which provides for efficient trade
+and cross-border cooperation in operating the electricity system.
+Without these arrangements, alternative trading arrangements
+will need to be developed. Regulators in the UK and EU will need
+to ensure that new access rules, which set the terms and
+conditions for this trade, are in place. 188
+
+The guidance set out a number of actions that would need to be taken,
+such as market participants registering with EU regulators, changes to
+domestic industry codes and licences, and also stated that the
+Government had published statutory instruments, to come into effect
+on exit day in the event of no deal, to ensure energy laws continued to
+work. Similar requirements were laid out in the gas trading guidance.
+
+6.3 The island of Ireland
+The SEM is based on a bilateral co-operation agreement between UK
+and Irish Governments, rather than on EU legislation. If the UK were to
+leave the IEM as a result of no deal, trading across the SEM was
+expected to be able to continue. However due to the fact the island of
+Ireland’s only physical connections with the IEM are through GB, trading
+between the SEM and IEM was expected to be uncoupled. Decoupling
+can lead to reduced efficiency as Box 1 explains, potentially leading to
+more expensive imports and higher energy bills for customers across the
+island of Ireland.
+The SEM committee, the decision-making committee for the market,
+published a technical note on 28 March 2019, explaining the
+differences in trading in the event of no-deal:
+This all-island trade will continue in the event of a ‘no deal’ Brexit.
+Trade between the all-island market and Great Britain, through
+the interconnectors, will continue although this trade may be less
+efficient, as some platforms operated under EU rules may not be
+used in the same way as today.
+In the SEM, generators and suppliers can trade electricity in a
+number of timeframes. Electricity can be traded the day before it
+is expected to be used (known as the Single Day Ahead Coupling
+- SDAC) and can be traded on the day itself (known as the
+Intraday Markets). Currently the SDAC operates as part of a panEuropean market, with the SEM connected through Great Britain.
+Electricity is traded across almost all the EU Member States
+Gov.uk, UK government’s preparations for a no deal scenario, last updated 23
+August 2018
+187
+Gov.uk, Trading electricity if there’s no Brexit deal, updated 25 March 2019
+188
+Gov.uk, Trading electricity if there’s no Brexit deal, updated 25 March 2019
+186
+
+52 Brexit: Energy and Climate Change
+
+simultaneously in this market. For the Intraday Market electricity is
+traded at a regional level between SEM and Great Britain.
+In the event of a ‘no deal’ Brexit, Great Britain will no longer be
+part of the pan-EU Day Ahead Market which will impact on the
+SEM’s ability to connect with the pan-EU market. In this situation,
+the SEM will continue to operate as an isolated, all-island market
+within the SDAC but with no connection between the SEM, GB
+and the wider EU market. 189
+
+However the Government’s no deal guidance on Electricity Trading
+covered the issues for the SEM in the event of no deal, including the
+possibility that “the SEM cannot be maintained”:
+EU rules will cease to apply in Northern Ireland, leaving key
+elements of the Single Electricity Market without any legal basis.
+In the event of a no-deal, there will be implications for trade
+between Great Britain and the Single Electricity Market through
+interconnectors. […]
+Given the benefits to consumers and the economy of the more
+efficient, shared market, it is strongly in the interests of all parties
+to agree to a means to avoid the split of the market. Recognising
+this, the government will therefore take all possible measures to
+maintain the Single Electricity Market. The government will
+continue to work with the Irish Government and European
+Commission to seek agreement that the Single Electricity Market
+will continue.
+However, if such an agreement cannot be reached, there is a risk
+that the Single Electricity Market will be unable to continue, and
+the Northern Ireland market would become separated from that
+of Ireland. Separate Ireland and Northern Ireland markets will be
+less efficient, with potential effects for producers and consumers
+on both sides of the border.
+If this situation arises, government, the Northern Ireland Utility
+Regulator and SONI, the Northern Ireland Transmission System
+Operator, will take action to mitigate the risks in Northern Ireland.
+Contingency planning work is considering how best to transition
+to new arrangements if the Single Electricity Market cannot be
+maintained. 190
+
+On 23 October 2018, during an evidence session for the House of Lords
+Energy and Environment Sub Committee, the then Minister Claire Perry
+MP and Jonathon Holyoak (Director for EU Energy and Climate Change
+at BEIS) were asked about no deal planning for Northern Ireland:
+Lord Rooker: Is your department responsible for making sure
+that, in Northern Ireland, portable generators are available in case
+things go wrong, or is it some other department? Are the
+generators being manufactured in the UK?
+Claire Perry: This is worst-case contingency planning.
+Jonathan Holyoak: In almost all the bad-case scenarios, the
+Utility Regulator in Northern Ireland will talk to the companies
+about ensuring that capacity is available. With us on the GB side,
+it will make sure that the interconnector between Scotland and
+
+189
+190
+
+SEM Committee, Notice to Industry in the event of a ‘no deal’ Brexit, 28 March 2019
+Gov.uk, Trading electricity if there’s no Brexit deal, 25 March 2019
+
+53 Commons Library Briefing, 19 June 2020
+
+Northern Ireland works efficiently to secure Northern Irish supply
+as well.
+Claire Perry: To reassure you, there are conversations on that and
+other points, on an incredibly open-book basis, between my
+department and the Northern Ireland Office. It is a shame that we
+do not have a functioning Executive, but there are plenty of
+people on the ground who are very keen to help us not get to
+that scenario. 191
+
+Both the Irish and UK Governments passed legislation in preparation for
+no deal. The Irish Government’s Withdrawal of the United Kingdom
+from the European Union (Consequential Provisions) Act 2019 was an
+omnibus Act which included provisions to protect electricity trading. The
+changes allow the Commission for Regulation of Utilities (CRU) to
+quickly modify (on a temporary basis) licences of Irish-based SEM
+participants in the event of no deal.
+The UK Government, under the powers of the European Union
+(Withdrawal) Act 2018, made several Statutory Instruments in order to
+”remove inoperabilities” 192 relating to EU exit in relation to the SEM in a
+no deal scenario.
+However, the British Irish Chamber of Commerce and the trade body
+Energy UK, who held roundtables on the UK-Ireland energy relationship,
+warned that this legislation did not remove all risks for the SEM:
+It was agreed that this legislation, although welcome, should not
+be considered a panacea for the SEM in the event of a ‘No Deal’
+Brexit. While the Irish Government does have some reserved
+competences in Energy policy, the majority of energy and climate
+legislation is derived from the EU under the auspices of the
+Internal Energy Market (IEM). 193
+
+6.4 Other energy
+Guarantees of Origin
+Guarantees of Origin (GOOs) are certificates used to track and account
+for electricity generated by renewable energy sources or to identify the
+origin of generated electricity from combined heat and power (CHP).
+They are issued in Member States and recognised EU wide. 194
+In the case of a no deal Brexit, UK guidance said the UK would continue
+to accept EU GOOs, but that UK GOOs would no longer be valid in the
+EU which may have impacted trading:
+In a ‘no deal’ scenario, the government will ensure that Great
+Britain will continue to recognise Guarantees of Origin issued in
+Northern Ireland and EU countries. This will allow electricity
+suppliers in Great Britain to continue to use EU and Northern
+House of Lords Select Committee on the European Union, Energy and Environment
+Sub-Committee, Uncorrected oral evidence: No deal preparations: energy and
+environment, 23 October 2018, Q37
+192
+Gov.uk, The Electricity and Gas etc. (Amendent etc.) (EU Exit) Regulations 2019, 17
+December 2018
+193
+British Irish Chamber of Commerce and Energy UK, Discussion Paper on ‘The impact
+of Brexit on the Single Electricity Market (SEM) and the Future of the Internal Energy
+Market (IEM) [accessed 5 September 2019]
+194
+The power to issue Guarantee of Origin certificates is devolved to Northern Ireland.
+191
+
+54 Brexit: Energy and Climate Change
+
+Ireland Guarantees of Origin to comply with their fuel mix
+disclosure obligations and ensure that existing supply contracts
+are not compromised, in so far as these contracts depend upon
+Guarantee of Origin.
+[…]
+Guarantees of Origin from combined heat and power [and for
+renewable energy] issued in Great Britain and Northern Ireland
+will no longer be recognised in the EU. This will mean that existing
+contracts with EU countries’ electricity suppliers or traders may be
+compromised if the contract terms require the transfer of a
+Guarantee of Origin recognised by the EU. 195
+
+On 23 October 2018, during an evidence session for the House of Lords
+Energy and Environment sub-committee, the then Minister for Energy
+and Clean Growth Claire Perry said there was likely to be little impact
+on CHP generators, but did not mention renewable generators:
+To date, no UK-based CHP generators have applied for those EUissued CHP Guarantees of Origin, so we do not expect any
+electricity trade to be affected under a ’no deal’ scenario. 196
+
+Energy efficiency
+Energy efficiency regulations limit the amount of energy that products
+consume which can reduce costs for consumers and reduce energyrelated emissions. Before the referendum, there were press reports that
+supported the case to leave the EU, as it would allow the UK to remove
+EU energy efficiency laws on household items such as hoovers and
+lightbulbs. 197
+The Government’s domestic policy, before Brexit and at present, has
+been to keep costs down for consumers, and also to meet emissions
+targets (see sections below). The Government’s no deal guidance on
+‘Meeting climate change requirements if there’s no Brexit deal’ stated
+that these regulations would continue to be met:
+For Ecodesign and energy labelling regulations which entered into
+force and applied before 29 March 2019, regulatory alignment
+was maintained by bringing relevant EU regulations into domestic
+law.
+Following the extension of Article 50 and the UK’s new departure
+date of 31 October, further legislation is being prepared to ensure
+any new EU laws that have come into force between 29 March
+and 31 October continue to function in the UK after Brexit.
+After the point of Brexit, the UK will keep step with equivalent
+standards wherever possible and appropriate, or even exceed
+them where it is in the UK’s interest to do so. 198
+
+Gov.uk, Generating low-carbon electricity if there’s no Brexit deal, 24 September
+2018
+196
+House of Lords Select Committee on the European Union, Energy and Environment
+Sub-Committee, Uncorrected oral evidence: No deal preparations: energy and
+environment, 23 October 2018, Q31
+197
+20 reasons you should vote to leave the European Union, The Telegraph, 22 June
+2016
+198
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, 29 July 2019
+195
+
+55 Commons Library Briefing, 19 June 2020
+
+6.5 Climate change
+In preparation for a possible no deal scenario at the time, the then
+Government published a technical notice on Meeting climate change
+requirements if there’s no Brexit deal on 12 October 2018 199 which
+focused on the EU Emissions Trading Scheme, the consolidated system
+of European Registries (of emissions units), and the geological storage
+of carbon dioxide. The European Commission also issued a number of
+Notices to Stakeholders on climate action, including on the “Withdrawal
+of the UK and the EU Emissions Trading System” and “Fluorinated
+gases” on 19 December 2018. The Library Briefing on EU Preparations
+for a no-deal Brexit (30 June 2019) provides further background.
+
+Kyoto Protocol
+In a no deal scenario, the European Commission stated that accounts
+administered by the UK in the EU ETS Registry and the UK’s Kyoto
+Protocol National Registry would have been inaccessible. With regard to
+the Kyoto Protocol National Registry, the Government stated that its
+“preferred solution” was to retain access to the Consolidated System of
+European Registries but that this could not be guaranteed. The
+Government said that it was exploring options including retaining access
+to the existing Kyoto Protocol registry and the procurement of an
+alternative registry system with a view to establishing a new system by
+early 2021. It conceded that if access could not be retained in the event
+of a no deal scenario, there was “likely to be a gap in service”. 200
+
+Carbon pricing: EU ETS and a carbon tax
+The Government’s guidance on meeting climate change requirements if
+there’s no Brexit deal (now archived) stated that it was “discussing with
+the Commission the implication of our exit from the EU on the EU ETS”.
+In relation to the EU ETS, the Government confirmed that it would
+remove requirements relating to the surrender of EUAs in a no deal
+scenario, but that it intended to maintain the monitoring, reporting and
+verification (MRV) arrangements. 201 In evidence to the House of Lords
+EU Energy and Environment Sub-Committee, the then Energy Minister
+referred to this outcome as “a mirror system linked to the ETS”. 202
+To accomplish this, the Government laid the Greenhouse Gas Emissions
+Trading Scheme (Amendment) (EU Exit) Regulations 2019 on 25 January
+2019 to maintain the MRV elements of the scheme in the UK, and to
+amend the other elements of retained EU law to reflect the fact that the
+UK would no longer be part of the EU ETS and to ensure that the
+199
+
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, 12 October
+2018 [archived]
+
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, updated 29
+July 2019 [archived]
+201
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, 12 October
+2018 [archived]
+202
+House of Lords Select Committee on the European Union, Energy and Environment
+Sub-Committee, Uncorrected oral evidence: No deal preparations: energy and
+environment, 23 October 2018, Q25
+200
+
+56 Brexit: Energy and Climate Change
+
+retained law operated effectively in a domestic no deal scenario. Further
+Regulations were laid in April 2019 to update and amend the MRV
+elements to reflect changes in EU law. 203 Further information is available
+in the accompanying explanatory memorandum.
+A no deal scenario would have had practical consequences for the
+overall EU ETS market and both EU and UK participants as the UK would
+have left the EU ETS part way through a trading phase (Phase 3).
+Participants who were UK operators of installations would have no
+longer been part of the EU ETS and flights within the UK and between
+the UK and the EU would not have been covered by the scheme. There
+would have been no requirement for UK operators to surrender EU
+allowances to comply with the EU ETS. In the short term, these
+operators would have moved to a UK carbon tax regime, with the
+monitoring, reporting and verification elements of the EU ETS retained.
+In December 2018, the European Commission confirmed that as of exit
+day in a no deal scenario:
+No more auctions by the United Kingdom, no more allocation of
+free allowances to the accounts administered by the United
+Kingdom can take place and no exchanges of international credits
+can be performed by installation and aircraft operators
+administered by the UK. 204
+
+As part of its contingency measures, the European Commission
+suspended these processes from 1 January 2019 until the day after
+ratification instruments concerning the Withdrawal Agreement were
+deposited. This suspension notification prevented the UK Government
+from issuing any 2019 allowances unless and until the suspension was
+lifted (i.e. until a deal was agreed and formally approved). In a no deal
+scenario, the suspension would have remained. Furthermore, the
+European Commission’s Notice to Stakeholders confirmed that the UK
+would no longer have been able to administer accounts in the EU ETS
+Union Registry.
+Prior to this, in contemplation of a then potential 29 March 2019 exit
+day, both the EU and the UK took action to ensure that 2018 UK
+allowances retained their value but did not completely flood the market
+should the UK have left with no deal at the end of March 2019 (see Box
+5). In this case, as Article 50 was extended, these measures were not
+needed, and all 2018 UK allowances were valid for EU ETS compliance
+and indistinguishable from allowances issued by other EU member
+states.
+Box 5: 2018 EUAs – planning for a 29 March 2019 no deal Brexit
+As Article 50 was extended, these measures were not needed, and all 2018 UK allowances
+were valid for EU ETS compliance and indistinguishable from allowances issued by other EU
+member states. This information is included for background information only.
+
+203
+
+204
+
+Greenhouse Gas Emissions Trading Scheme (Amendment) (EU Exit) (No.2)
+Regulations 2019.
+
+European Commission Notice to Stakeholders, Withdrawal of the UK and the EU
+ETS, 19 December 2018 [accessed 23 August 2019]
+
+57 Commons Library Briefing, 19 June 2020
+
+If the UK had left the EU ETS on exit day (then expected to be 29 March 2019), a key risk identified
+during 2017 was that UK participants could flood the market with a mass sell-off of EU Allowances
+which would result in a big crash in the price of carbon. In October 2017, the International Emissions
+Trading Association (IETA) was reported to explain that:
+A hard Brexit scenario poses a risk of approximately 220 million allowances issued by the United
+Kingdom to be offloaded onto the market between 1 January 2018 and 29 March 2019. 205
+To safeguard against this, both the EU and the UK amended legislation 206 aiming to avoid a mismatch
+between the functioning of the EU ETS compliance timing (April 2019 for 2018 EUAs) and the timing of
+exit day (then March 2019). The purpose of the amendments was to ensure that 2018 UK allowances
+retained their value while also ensuring that they did not flood the market upon exit of the UK from the
+EU.
+The EU amended the EU ETS Registry Regulation to provide for marking and restricting the use of
+allowances issued by the UK from 1 January 2018 i.e. automatically voiding any such UK allowances
+and thus avoiding a flooding of the market. However, the amended Regulation provided that any EUAs
+for 2018 would not be voided in the following circumstances:
+•
+if EU law does not cease to apply in the UK by 30 April 2019; or
+•
+where it is sufficiently ensured that the surrender of allowances must take place by no later than
+15 March 2019 in a legally enforceable manner. 207
+The UK Government laid the Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations
+2017 in December 2017 to ensure UK-issued ETS allowances would keep their value. The regulations
+changed the EU ETS compliance deadline for 2018 emissions so that UK allowances will be validated
+and surrendered before 15 March 2019, and so (as per bullet point 2 above) UK-issued 2018 ETS
+allowances would keep their value and not be voided as a result of Brexit.
+The resulting situation is explained further by the European Commission as follows:
+The revised Regulation provides for marking and restricting the use of allowances issued by the
+United Kingdom as of 1 January 2018, unless Union law would not cease to apply in the United
+Kingdom by 30 April 2019 or it is sufficiently ensured that the surrender of allowances takes
+place in a legally enforceable manner by no later than 15 March 2019.
+Since the United Kingdom had informed the Committee of the adoption of a law on 27
+December 2017 by which the compliance deadline for 2018 emissions has been advanced
+to 15 March 2019, allowances issued by the United Kingdom for the calendar year 2018
+are however not marked and are accepted for surrender. 208
+
+A UK-wide carbon tax
+The Government first published a technical notice on Meeting climate
+change requirements if there’s no Brexit deal on 12 October 2018, to
+set out arrangements for carbon pricing in the event that the UK had
+left the EU on 31 October 2019 without a deal. 209
+The Government planned that, in a no deal scenario, the UK would
+have initially met its existing carbon pricing commitments via the tax
+system. 210 Following the extension of Article 50, the commencement
+Reuters, EU measures to safeguard carbon market from Brexit, Julia Fioretti, 18
+October 2017 [accessed 9 August 2018]
+206
+The EU amended the EU ETS Registry Regulation; the UK amended the Greenhouse
+Gas Emissions Trading Scheme Regulations 2012 by passing the Greenhouse Gas
+205
+
+Emissions Trading Scheme (Amendment) Regulations 2017
+
+European Commission, Commission Regulation amending Commission Regulation
+No 389/2013 of 2 May 2013, Article 1
+208
+European Commission press release: Update on safeguard measures for EU ETS (13
+February 2018)
+209
+Gov.uk Carbon Emissions Tax technical note, 3 September 2019 [accessed 5
+September 2019]
+210
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, 12 October
+2018 [accessed 8 November 2018]
+207
+
+58 Brexit: Energy and Climate Change
+
+date for the UK carbon emissions tax was amended from 15 April 2019
+to 4 November 2019. 211 The tax would not have applied to the aviation
+sector.
+At Budget 2018, a UK-wide carbon emissions tax rate of £16/tCO2 was
+announced which would have applied to EU ETS sectors for emissions
+over and above an installation’s allowance (based on the EU ETS free
+allowance) in the event of such a no deal scenario:
+3.51 Carbon pricing following EU exit – The government
+continues to plan for all scenarios as it prepares for EU exit. In the
+unlikely event no mutually satisfactory agreement can be reached
+and the UK departs from the EU ETS in 2019, the government
+would introduce a Carbon Emissions Tax to help meet the UK’s
+legally binding carbon reduction commitments under the Climate
+Change Act. The tax would apply to all stationary installations
+currently participating in the EU ETS from 1 April 2019. A rate of
+£16 would apply to each tonne of carbon dioxide emitted over
+and above an installation’s emissions allowance, which would be
+based on the installation’s free allowances under the EU ETS. The
+government is also legislating so it can prepare for a range of
+long-term carbon pricing options. 212
+
+This rate was broadly in line with the EU ETS pricing at that time,
+although the EUA price rose to over EUR 28 in July 2019. 213 The rate for
+2019 was reconfirmed at £16 per tonne by the Government in
+September 2019. 214 Further information on this proposal is available in
+the Government policy paper on the Carbon Emissions Tax which was
+published alongside Budget 2018.
+The Finance Act 2019 (Part 3) contains provisions to implement the
+carbon emissions tax, to be brought into force in the event of a no deal
+scenario only. Following the extension of Article 50, these provisions
+were not brought into force and the carbon emissions tax was not
+commenced.
+
+Gov.uk, Meeting climate change requirements if there’s no Brexit deal, updated 29
+July 2019 [accessed 29 July 2019]
+212
+HM Treasury, Budget 2018, HC 1629, October 2018
+213
+EUAs were at EUR 16 on 31 October 2018 and EUR 28.99 on 26 July 2019
+according to ICE EUA futures via Sandbag and Quandl.
+214
+Gov.uk Carbon Emissions Tax technical note, 3 September 2019 [accessed 5
+September 2019]
+211
+
+About the Library
+The House of Commons Library research service provides MPs and their staff
+with the impartial briefing and evidence base they need to do their work in
+scrutinising Government, proposing legislation, and supporting constituents.
+As well as providing MPs with a confidential service we publish open briefing
+papers, which are available on the Parliament website.
+Every effort is made to ensure that the information contained in these publicly
+available research briefings is correct at the time of publication. Readers should
+be aware however that briefings are not necessarily updated or otherwise
+amended to reflect subsequent changes.
+If you have any comments on our briefings please email papers@parliament.uk.
+Authors are available to discuss the content of this briefing only with Members
+and their staff.
+If you have any general questions about the work of the House of Commons
+you can email hcenquiries@parliament.uk.
+
+Disclaimer
+This information is provided to Members of Parliament in support of their
+parliamentary duties. It is a general briefing only and should not be relied on as
+a substitute for specific advice. The House of Commons or the author(s) shall
+not be liable for any errors or omissions, or for any loss or damage of any kind
+arising from its use, and may remove, vary or amend any information at any
+time without prior notice.
+
+BRIEFING PAPER
+Number CBP 8394
+19 June 2020
+
+The House of Commons accepts no responsibility for any references or links to,
+or the content of, information maintained by third parties. This information is
+provided subject to the conditions of the Open Parliament Licence.
+
+

@@ -1,0 +1,550 @@
+Threats Presented by Climate Change
+Debate on 24 January 2019
+Summary
+On 24 January 2019, the House of Lords is scheduled to debate a motion moved by Lord Teverson
+(Liberal Democrat) on the “threats presented by climate change”.
+This briefing considers risks arising from climate change—identified as increasing at both global and
+national level—and summarises recent coordination efforts and programmes intended to mitigate them.
+International bodies charged with examining the scientific evidence have identified risks associated with:
+•
+•
+•
+•
+
+changing weather;
+rising sea levels;
+land and marine-based biodiversity and ecosystems; and
+human systems such as health, security and the economy.
+
+Negotiations on how to meet these challenges have continued, most recently at a United Nations
+summit in Katowice, Poland, held in December 2018.
+The UK has identified several priority climate risk areas including:
+•
+•
+•
+•
+•
+•
+
+flooding and coastal change;
+health, wellbeing and productivity;
+water supply shortages;
+natural ecosystems, soils and biodiversity;
+food production and trade; and
+new and emerging pests and diseases.
+
+A selection of recommended reading, including detailed evidence reports, is identified at the end of the
+briefing for further information on this broad and evolving subject.
+Introduction
+It is widely held within the scientific and international policy-making communities that emissions
+generated from human activity have affected the Earth’s climate in recent decades. The
+Intergovernmental Panel on Climate Change (IPCC)—the United Nations body charged with assessing
+the science related to climate change—has concluded that there is “clear” evidence that the climate has
+warmed since the 1950s and that the dominant cause of such temperature increases is “extremely
+likely” to have been greenhouse gas emissions resulting from human activity. In a 2014 report
+summarising the scientific evidence available at that time, the IPCC stated:
+Warming of the climate system is unequivocal, and since the 1950s, many of the observed changes
+1
+Thomas Brown | 17 January 2019
+
+2
+
+are unprecedented over decades to millennia. The atmosphere and ocean have warmed, the
+amounts of snow and ice have diminished, and [the] sea level has risen.
+Anthropogenic greenhouse gas emissions have increased since the pre-industrial era, driven largely
+by economic and population growth, and are now higher than ever. This has led to atmospheric
+concentrations of carbon dioxide, methane and nitrous oxide that are unprecedented in at least
+the last 800,000 years. Their effects, together with those of other anthropogenic drivers, have
+been detected throughout the climate system and are extremely likely to have been the
+dominant cause of the observed warming since the mid-20th century.1
+In respect of the scientific consensus behind climate change—widely defined as a large-scale, long-term
+shift in the planet’s weather patterns and average temperatures, including climate system warming—the
+US National Aeronautics and Space Administration (NASA) has observed that “97% of climate scientists
+agree that climate-warming trends over the past century are very likely due to human activities, and
+most of the leading scientific organisations worldwide have issued public statements endorsing this
+position”.2 It should be noted, however, that questions relating to climate change, including in respect of
+causes, remedies or its very existence as a phenomenon, remain contested by some observers and have
+become increasingly politicised in recent years. ‘Climate scepticism’ spans a range of viewpoints, and
+includes individuals or groups of people who are sceptical that the world is warming; the influence of
+humans in climate warming; the pace and extent of the impacts of climate change; and/or whether
+urgent action and spending are necessary to address changes in the climate.3
+Climate Change as a Global Challenge
+The very nature of climate change means that its effects are global in scope. In 2015, an international
+agreement was reached at the 21st Conference of the Parties (COP) of the United Nations Framework
+Convention on Climate Change (UNFCCC) in which 195 nations committed to “‘holding the increase in
+the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to
+limit the temperature increase to 1.5°C above pre-industrial levels”.4 This agreement is widely known as
+the Paris agreement after the city in which the COP21 meeting was held. Following the adoption of the
+Paris agreement, the UNFCCC invited the IPCC to produce a special report on the environmental and
+societal effects of a global temperature rise of 1.5°C above pre-industrial levels.5
+The IPCC agreed and published this special report in October 2018. It noted that human activities were
+estimated to have caused approximately 1°C of global warming above pre-industrial levels and predicted
+that, on current trends, this was likely to reach 1.5°C between 2030 and 2052.6 The authors of the
+report used available scientific evidence and models to identify the impacts that such an elevated rise
+would have globally. They noted that the level of future climate-related risks for natural and human
+systems would depend on the “magnitude and rate of warming, geographic location, levels of
+development and vulnerability, and on the choices and implementation of adaptation and mitigation
+options”.7 Having noted this caveat, the report identified a series of risk factors associated with a 1.5°C
+global warming model, in line with the ambitions outlined in the Paris agreement.
+Differences in Regional Climate Characteristics
+First, the IPCC report identified that a warmer climate was likely to increase the risk of extreme
+weather in different regions. According to the authors of the report, regional climate differences in a
+1.5°C global warming scenario would include higher mean temperatures in most land and ocean regions;
+hot extremes in most inhabited regions; heavy precipitation in several regions; and the probability of
+
+3
+
+drought and precipitation deficits in some regions. In particular, the number of hot days was projected
+to increase in most land regions, with the highest increases in regions located in the tropics.8
+Global Sea Level Rise
+Second, the report noted that an increase in global temperatures was likely to lead to higher sea levels.
+The authors cited projections suggesting that a 1.5°C rise in temperatures would result in a 0.26 to 0.77
+metre global mean sea level rise by 2100. Sea levels were likely to continue to rise beyond this date, and
+marine ice sheet instability in Antarctica and/or an irreversible loss of the Greenland ice sheet “could
+result in multi-metre rise in sea level over hundreds to thousands of years”. The authors contended that
+increased warming “amplifies the exposure of small islands, low-lying coastal areas and deltas to the risks
+associated with sea level rise for many human and ecological systems, including increased saltwater
+intrusion, flooding and damage to infrastructure”.9
+Land-based Biodiversity and Ecosystems
+Third, the report cited estimates, based on studies of 105,000 species, that 6% of insects, 8% of plants
+and 4% of vertebrates were projected to lose over half of their climatically determined geographic range
+in a 1.5°C global warming scenario. Other noted risks from increased temperatures for land-based
+biodiversity and ecosystems included a higher risk of forest fires; spread of invasive species; and
+permafrost thaw. Also noted as a potential risk was the transformation of ecosystems from one type to
+another—with high-latitude tundra and boreal forests identified as at risk of “climate change-induced
+degradation and loss”.10
+Marine Biodiversity, Fisheries, and Ecosystems
+Fourth, the report noted that warming of 1.5°C was expected to result in continued increases in ocean
+temperature as well as associated increases in ocean acidity and decreases in ocean oxygen levels. In a
+1.5°C warming scenario, evidence cited suggested that:
+•
+•
+•
+•
+
+one sea ice-free Arctic summer would be likely per century;
+the ranges of many marine species would move to higher latitudes;
+an increase in damage to many marine ecosystems could be expected, including coral reefs
+and other coastal ecosystems; and
+ocean acidification caused by increasing carbon dioxide concentrations would “amplify” the
+adverse effects of warming, including the relative abundance and/or survival of a broad range
+of species.
+
+In addition, the authors argued that climate change was likely to continue affecting fisheries and
+aquaculture. They cited a model suggesting that the global fisheries catch could decrease by “about
+1.5 million tonnes” should global temperatures rise by 1.5°C.11
+Human Systems
+Fifth, the report observed that climate-related risks to health, livelihoods, food security, water supply,
+human security and economic growth were projected to increase in a 1.5°C global warming scenario.
+The authors added that disadvantaged and vulnerable populations, some indigenous peoples, and local
+communities dependent on agricultural or coastal livelihoods were at a “disproportionately higher risk
+
+4
+
+of adverse consequences”. Additionally, “poverty and disadvantage” were expected to increase in some
+populations as global temperatures increased. Other noted risks included:
+•
+•
+•
+•
+
+potential increases in heat-related morbidity and mortality;
+potential net reductions in yields of crops such as maize, rice and wheat and potential
+reductions in the nutritional quality of rice and wheat;
+climate change-induced increases in water stress; and
+economic growth-related risks, particularly for countries in the tropics and southern
+hemisphere subtropics.12
+
+Limits to Adaptation and Adaptive Capacity
+Lastly, the report noted that a wide range of adaptation options were available to reduce risks in
+particular areas. These included:
+•
+•
+•
+
+ecosystem restoration and biodiversity management for risks associated with natural and
+managed ecosystems;
+coastal defences as a tool to mitigate against rising sea levels; and
+options including efficient irrigation and green infrastructure to address issues relating to
+health, livelihoods, food, water, and economic growth.
+
+However, the authors noted that there was evidence to suggest that limits to adaptive capacity existed
+in a 1.5°C warming scenario, and that such limits, though varying by sector, became “more pronounced
+at higher levels of warming”.13
+Two further IPCC special reports—focused on how climate change affects the oceans and cryosphere
+and the use of land, respectively—are expected to be published later this year.14
+Ongoing International Response
+The October 2018 IPCC report concluded that limiting global warming to 1.5°C with “no or limited
+overshoot” would require “rapid and far-reaching transitions in energy, land, urban and infrastructure
+(including transport and buildings) and industrial systems”.15 Global net human-caused emissions of
+carbon dioxide would need to fall by about 45% from 2010 levels by 2030, reaching “net zero” around
+2050.16 The report added that to achieve this “systems transitions” would have to be “unprecedented in
+terms of scale, but not necessarily in terms of speed, and imply deep emissions reductions in all sectors,
+a wide portfolio of mitigation options and a significant upscaling of investments in those options”.17
+However, the report noted that the international community was not on track to limit warming to
+1.5°C on current plans. It observed forecasts suggesting that those mitigation measures currently
+announced to be in place up to 2030 were likely to lead to significantly higher global warming of about
+3°C by 2100, with further warming continuing afterwards.18
+At the most recent COP—COP24 held in Katowice, Poland, between 2 and 15 December 2018—
+signatories to the UNFCCC sought to secure agreement on how international action to mitigate climate
+change could be strengthened.19 The conference concluded with the adoption by all parties to the
+convention, including the United States and China, of a single rulebook that will apply to all countries in
+relation to emissions reporting and climate targets to facilitate practical implementation of the Paris
+agreement to limit the increase in global average temperatures to below 2°C above pre-industrial
+levels.20 Claire Perry, Minister of State for Energy and Clean Growth at the Department for Business,
+
+5
+
+Energy and Industrial Strategy, summarised the UK Government’s assessment of this outcome in a
+written statement following the conference:
+COP24 was an important moment, representing the culmination of three years of negotiations and
+following shortly after the publication of a landmark scientific report from the Intergovernmental
+Panel on Climate Change that highlighted the severe consequences of failing to limit global
+warming to 1.5°C above pre-industrial levels.
+In the negotiations we succeeded in securing our main objectives by delivering an operational
+rulebook to drive genuine climate action, creating a level-playing field, while allowing for flexibility
+and support for those countries that need it, in light of capacity. Inevitably there is still work to be
+done, particularly on carbon markets, but the overall picture is of a rulebook that enables the Paris
+Agreement to be taken forward in practice, marking a move from negotiation to implementation.21
+In a statement issued at the conclusion of COP24, Lord Stern of Brentford (Crossbench), chair of the
+Grantham Research Institute on Climate Change and the Environment at the London School of
+Economics and Political Science, commented that the conference had “ultimately succeeded in its crucial
+primary task of agreeing the so-called rule book for the Paris agreement”. He added that, in his view,
+countries “must now get on with the crucial implementation of their contributions to the Paris
+agreement” and plan how to “increase their reductions in emissions to allow them to submit stronger
+commitments” ahead of the expected COP26 meeting in 2020. He argued that the progress the world
+was currently making was “inadequate given the scale and urgency of the risks we face”.22
+The UN Secretary General, António Guterres, characterised the COP24 agreement on a rulebook to
+implement the Paris agreement as the “basis for a transformative process which will require
+strengthened ambition from the international community”.23 Mr Guterres will host a climate summit in
+September 2019 to facilitate international efforts to mitigate climate change.24
+Climate Change as a Domestic Challenge
+As well as being global in scope, climate change can affect particular regions and countries in different
+ways. The UK Government’s view is that there is “clear evidence to show that climate change is
+happening” and that the UK is “already affected by rising temperatures”.25
+The Climate Change Act 2008 sets out the framework in which the UK approaches climate change.26
+The act commits the Government to reducing greenhouse gas emissions by at least 80% of 1990 levels
+by 2050 through a system of carbon budgets that restrict the volume of greenhouse gases that can be
+legally emitted over a five-year period.27 The act also established the independent Committee on
+Climate Change, which advises the Government on how to reduce greenhouse gas emissions over
+time.28 The committee is currently chaired by Lord Deben (Conservative). Baroness Brown of
+Cambridge (Crossbench) serves as the committee’s deputy chair and chairs the separate adaptation subcommittee, which provides independent advice on preparing for and adapting to climate change.29 In
+June 2018, the committee cautioned that although emissions had fallen by 43% from 1990 levels, the
+Government was “not on course to meet the legally binding fourth and fifth carbon budgets”.30
+In July 2016, the Committee on Climate Change published a synthesis report produced by its adaptation
+sub-committee, then chaired by Lord Krebs (Crossbench), to inform a government climate change risk
+assessment then due in January 2017.31 The synthesis report concluded that changes to the UK climate
+were “likely to include periods of too much or too little water, increasing average and extreme
+temperatures and sea level rise”.32 The report identified 56 individual risks and opportunities arising
+
+6
+
+from global warming, organised within four urgency categories.33 In particular, it identified six “interrelated” and “urgent” climate change risks facing the UK. These priority risks, together with the
+committee’s headline observation and urgency rating for each, are set out below.34
+Priority Risk Area
+Flooding and coastal change risks
+to communities, businesses and
+infrastructure
+Risks to health, wellbeing and
+productivity from high
+temperatures
+Risk of shortages in the public
+water supply, and for agriculture,
+energy generation and industry,
+with impacts on freshwater
+ecology
+
+Risks to natural capital, including
+terrestrial, coastal, marine and
+freshwater ecosystems, soils and
+biodiversity
+
+Risks to domestic and
+international food production
+and trade
+New and emerging pests and
+diseases, and invasive non-native
+species, affecting people, plants
+and animals
+
+Headline Observation
+“The impacts of flooding and coastal change in
+the UK are already significant and expected to
+increase as a result of climate change”.
+“Heatwaves in the UK like that experienced in
+2003 are expected to become the norm in
+summer by the 2040s”.
+“Climate change is projected to reduce the
+amount of water in the environment that can be
+sustainably withdrawn whilst increasing the
+demand for irrigation during the driest months.
+At the same time the growing population will
+create additional demands on already stretched
+resources in some parts of the country”.
+“Climate change presents a substantial risk to
+the UK’s native wildlife and to the vital goods
+and services provided by natural capital,
+including food, timber and fibre, clean water,
+carbon storage, and the cultural benefits
+derived from landscapes”.
+“The affordability of food for the UK population
+is subject to domestic and international risks
+affecting production and prices”.
+“The impacts of new and emerging pests and
+diseases are potentially high for otherwise
+healthy people, animals and plants. The warmer,
+wetter conditions expected with climate change
+will allow some pests and diseases to extend
+their range”.
+
+Conclusion
+More action needed
+(highest urgency rating)
+More action needed
+(highest urgency rating)
+More action needed
+(highest urgency rating)
+
+More action needed
+(highest urgency rating)
+
+More action needed
+(highest urgency rating)
+Research priority
+(second-highest urgency
+rating)
+
+Government Policy
+In January 2017, the Government published a climate change risk assessment in line with its obligations
+under the Climate Change Act 2008. This drew on the report commissioned from the Committee on
+Climate Change’s adaptation sub-committee. The Government endorsed the six priority risk areas
+identified in this earlier report and broadly endorsed the urgency level given to individual risks identified,
+with the exception of some relating to food security.35 It provided details of actions being taken in each
+risk area, adding that further details of adaptation measures would be published in 2018.36
+Following the 2017 climate change risk assessment, in July 2018 the Government published its most
+recent national adaptation programme (NAP) and strategy for climate adaptation reporting. This
+document set out over 100 “key actions” for the 2018–2023 period, including actions intended to:
+•
+•
+•
+
+protect ecosystems, such as ancient and native woodland and marine areas;
+establish or maintain various environmental schemes and networks; and
+update climate change-related plans and guidance, amongst many other measures.
+
+7
+
+The Government said that the document was “intended to communicate the extent, nature and
+immediacy of different climate risks and what we are doing to address them, which will help inform a
+more mature debate on how we adapt as a society”.37
+The Committee on Climate Change’s adaptation sub-committee is expected to publish a report
+evaluating the Government’s progress on implementing the NAP in June 2019.38 However, in an article
+published on the same day as the NAP was published, Kathryn Brown, Head of Adaptation at the
+Committee on Climate Change Secretariat, contended that the NAP appeared to be only a “partial
+plan” and that it was “hard to say at this stage” whether the programme was “sustainable and
+effective”.39 She added:
+The main risks we have highlighted—flooding and coastal change, high temperatures, water
+shortages and many others—are centre-stage in the opening pages of the new NAP. But only
+some of the relevant urgent risks are dealt with in the list of actions in the report. Of the 56 risks
+and opportunities we have previously identified, a quick count shows that 27 are missing from the
+list of actions, including 16 urgent risks.
+Diving into the content, we have previously raised the risks to the UK from climate change
+impacts abroad. But there are no actions in the NAP to help manage these risks, with the
+exception of an honourable mention of the Food Security Strategy. Another key gap is around
+actions to manage the transition period ahead of the withdrawal of ‘Flood Re’, which helps people
+who live in flood risk areas to get affordable home insurance. The implications of removing this
+scheme are profound for those living in flood risk areas. And in many other cases the actions the
+Government identifies in response to the risks are not new: many are based on work that has
+been underway for several years. In particular, actions to reduce the risks to people from
+overheating in homes, which was one of the highest priority risks identified in the [2017] climate
+change risk assessment, are absent.40
+In a speech delivered in November 2018 to mark the launch of the Met Office’s UK climate projections
+2018 analysis tool, Michael Gove, Secretary of State for Environment, Food and Rural Affairs,
+commented further on the impact of climate change on everyday life and the Government’s climaterelated plans.41 He referred to the UK climate projections tool showing that, in a high emission scenario,
+average summer temperatures could be up to 5.4°C warmer across the UK by 2070. The Environment
+Agency has stated that such an increase would be likely to lead to an increased risk of drought and an
+increase in heat-related morbidity and mortality rates, amongst other effects.42 The projections had also
+shown that average summer rainfall could decrease by up to 47%, while winters could be up to 4.2°C
+warmer and there could be up to 35% more precipitation in winter, resulting in flooding and other
+issues, by the same year.43 Mr Gove stated that flood defence work, amongst other activity, had been
+informed by such projections. In respect of internationally coordinated action, he added that the UK
+was “leading international efforts on climate resilience” ahead of the UN climate summit in 2019.
+The Government has commissioned the Committee on Climate Change to produce a new evidence
+report, due to be published in 2021, to support the next climate change risk assessment. This study is
+expected to be supported by new research, including projects on future water availability; flooding; how
+climate-related risks interact; and how behavioural change can affect climate risks and opportunities.44
+Leaving the European Union
+In 2017, the House of Lords European Union Committee observed that UK climate change policy had,
+in recent years, “become increasingly enmeshed in EU policy”.45 For example, the UK participates in the
+
+8
+
+EU Emissions Trading System (EU ETS) set up in 2005.46 Both the UK and EU are parties to the
+UNFCCC and the Paris agreement.47 However, it is not yet clear whether the UK will continue to
+participate in EU climate mitigation initiatives such as the EU ETS following its withdrawal from the EU,
+and to what extent the UK and EU will cooperate on other climate change-related policies and
+mitigation mechanisms in the future.48
+Further Information
+•
+•
+•
+•
+•
+•
+
+1
+
+United Nations, ‘Climate Change’, accessed 15 January 2019; and ‘Climate Change: A Global
+Issue—Major Reports’, accessed 15 January 2019
+IPCC, ‘Reports’, accessed 15 January 2019
+Committee on Climate Change, ‘Publications’, accessed 15 January 2019; and ‘Implications of
+the Vote to Leave the EU’, accessed 15 January 2019
+House of Commons Library, Brexit: Energy and Climate Change, 9 November 2018
+House of Lords Library, Leaving the European Union: UK Climate Change Policy, 15 June 2017
+House of Lords European Union Committee, Brexit: Environment and Climate Change,
+14 February 2017, HL Paper 109 of session 2016–17; and Government Response, April 2017
+
+Intergovernmental Panel on Climate Change, Climate Change 2014: Synthesis Report—Headline Statements from the Summary
+for Policymakers, 5 November 2014, p 1. Bold in original. See also: IPCC, Climate Change 2014: Synthesis Report—Summary for
+Policymakers, 2014.
+2
+Met Office, ‘What is Climate Change?’, accessed 14 January 2019; and NASA Global Climate Change, ‘Evidence: Climate
+Change—How Do We Know?’, 13 December 2018.
+3
+See, for example: James Painter, Poles Apart: The International Reporting of Climate Scepticism, Reuters Institute for the Study
+of Journalism, November 2011, p 1.
+4
+Intergovernmental Panel on Climate Change, Special Report: Global Warming of 1.5°C—Frequently Asked Questions, 2018, p 5.
+5
+ibid.
+6
+Intergovernmental Panel on Climate Change, Special Report: Global Warming of 1.5°C—Summary for Policymakers, 2018, p 6.
+7
+ibid, p 7.
+8
+ibid, p 9. These risk factors are subject to differing levels of confidence.
+9
+ibid, pp 9–10.
+10
+ibid, p 10.
+11
+ibid, pp 10–11.
+12
+ibid, pp 11–12.
+13
+ibid, p 12.
+14
+Intergovernmental Panel on Climate Change, ‘Summary for Policymakers of IPCC Special Report on Global Warming of
+1.5°C Approved by Governments’, 8 October 2018; ‘The Ocean and Cryosphere in a Changing Climate’, accessed 14 January
+2019; and ‘Climate Change and Land’, accessed 14 January 2019.
+15
+Intergovernmental Panel on Climate Change, Special Report: Global Warming of 1.5°C—Summary for Policymakers, 2018, p 17.
+16
+Intergovernmental Panel on Climate Change, ‘Summary for Policymakers of IPCC Special Report on Global Warming of
+1.5°C Approved by Governments’,
+8 October 2018.
+17
+Intergovernmental Panel on Climate Change, Special Report: Global Warming of 1.5°C—Summary for Policymakers, 2018, p 17.
+18
+ibid, p 20.
+19
+United Nations Climate Change, ‘Katowice Climate Change Conference: December 2018’, accessed 14 January 2019; and
+House of Commons, ‘Written Statement: UNFCCC Twenty Fourth Conference of Parties—Update’, 20 December 2018,
+HCWS1231.
+20
+COP24 Katowice 2018, ‘Success of COP24: We have the Katowice Rulebook’, 15 December 2018; and Leslie Hook, ‘Deal
+Struck at Climate Talks to put Paris Pact into Action’, Financial Times (£), 15 December 2018. US President Donald Trump
+has stated that he intends to withdraw the US from the Paris agreement, but this can only take effect from late 2020 (Brad
+Plumer, ‘Climate Negotiators Reach an Overtime Deal to Keep Paris Pact Alive’, New York Times, 15 December 2018). The
+IPCC special report on 1.5°C warming was not unanimously adopted at COP24 due to opposition from the United States,
+Russia, Saudi Arabia and Kuwait (Matt McGrath, ‘Climate Change: COP24 Fails to Adopt Key Scientific Report’, BBC News,
+8 December 2018).
+
+9
+
+21
+
+House of Commons, ‘Written Statement: UNFCCC Twenty Fourth Conference of Parties—Update’, 20 December 2018,
+HCWS1231.
+22
+LSE Grantham Research Institute on Climate Change and the Environment, ‘Nicholas Stern Comments on the Outcome of
+COP24’, 16 December 2018.
+23
+United Nations, ‘Katowice Climate Conference’, accessed 14 January 2019.
+24
+United Nations, ‘UN Climate Summit 2019’, accessed 14 January 2019.
+25
+Department for Business, Energy and Industrial Strategy, ‘Climate Change Explained’, 31 July 2018.
+26
+Committee on Climate Change, ‘UK Regulations: Climate Change Act’, accessed 15 January 2019; and LSE Grantham
+Research Institute on Climate Change and the Environment, ‘10 Years of the UK Climate Change Act’, 30 March 2018.
+27
+Committee on Climate Change, ‘UK Regulations: Climate Change Act’, accessed 15 January 2019; and House of Lords
+Library, Leaving the European Union: UK Climate Change Policy, 15 June 2017, pp 1–2.
+28
+Committee on Climate Change, ‘About the Committee on Climate Change’, accessed 15 January 2019; and HM
+Government, Climate Change Act 2008: Explanatory Notes, 26 November 2008, pp 1–2.
+29
+Committee on Climate Change, ‘Members of the Committee on Climate Change’, accessed 15 January 2019; and
+‘Members of the Adaptation Committee’, accessed 15 January 2019.
+30
+Committee on Climate Change, Reducing UK Emissions: 2018 Progress Report to Parliament, June 2018, pp 12–14.
+31
+Committee on Climate Change, UK Climate Change Risk Assessment 2017: Synthesis Report—Priorities for the Next Five Years,
+July 2016. National summaries were produced for England, Scotland, Wales and Northern Ireland alongside the evidence
+report: Committee on Climate Change, ‘National Summaries’, accessed 15 January 2019.
+32
+Committee on Climate Change, ‘New Report Provides Authoritative Scientific Assessment of Climate Change Risks to
+UK’, 12 July 2016.
+33
+Department for Environment, Food and Rural Affairs, UK Climate Change Risk Assessment 2017, January 2017, p 9.
+34
+Committee on Climate Change, UK Climate Change Risk Assessment 2017: Synthesis Report—Priorities for the Next Five Years,
+July 2016, pp 4–5. Note: “More action needed” was defined as meaning that “new, stronger or different government policies
+or implementation activities—over and above those already planned—are needed to reduce long-term vulnerability to
+climate change”. “Research priority” was defined as meaning that “research is needed to fill significant evidence gaps or
+reduce the uncertainty in the current level of understanding in order to assess the need for additional action”.
+35
+Department for Environment, Food and Rural Affairs, UK Climate Change Risk Assessment 2017, January 2017, pp 3 and 10.
+36
+ibid, p 21.
+37
+Department for Environment, Food and Rural Affairs, National Adaptation Programme and Third Strategy for Climate
+Adaptation Reporting, July 2018, HC1403 of session 2017–19, p iii. See also ‘Annex 2: Detailed Actions Log’.
+38
+Department for Environment, Food and Rural Affairs, National Adaptation Programme and Third Strategy for Climate
+Adaptation Reporting, July 2018, HC1403 of session 2017–19, p v.
+39
+Kathryn Brown, ‘The New National Adaptation Programme: Hit or Miss?’, Committee on Climate Change, 19 July 2018.
+40
+ibid.
+41
+Department for Environment, Food and Rural Affairs, ‘Michael Gove Speech on UK Climate Change Projections’,
+26 November 2018; and ‘Most Detailed Picture Yet of Changing Climate Launched’, 26 November 2018.
+42
+Environment Agency, Climate Change Impacts and Adaptation, November 2018.
+43
+Met Office, ‘UK Climate Projections’, 26 November 2018.
+44
+Committee on Climate Change, ‘CCC to Advise the Government on its Third Assessment of UK Climate Change Risks’,
+21 December 2018.
+45
+House of Lords European Union Committee, Brexit: Environment and Climate Change, 14 February 2017, HL Paper 109 of
+session 2016–17, p 3.
+46
+European Commission, ‘EU Emissions Trading System’, accessed 16 January 2019.
+47
+United Nations Climate Change, ‘United Kingdom of Great Britain and Northern Ireland’ and ‘European Union’, accessed
+16 January 2019.
+48
+House of Commons Library, Brexit: Energy and Climate Change, 9 November 2018, p 35.
+
+___________________________________________________________________________________
+House of Lords Library briefings are compiled for the benefit of Members of the House of Lords and their
+personal staff, to provide impartial, politically balanced briefing on subjects likely to be of interest to Members of
+the Lords. Authors are available to discuss the contents of the briefings with the Members and their staff but
+cannot advise members of the general public.
+Any comments on briefings should be sent to the Head of Research Services, House of Lords
+Library, London SW1A 0PW or emailed to purvism@parliament.uk.
+
+
