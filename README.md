@@ -9,6 +9,7 @@ This repo contains two directories:
 - one of 17 pdfs [James](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker) found at The House of Commons Library page '[Climate change: an overview](https://commonslibrary.parliament.uk/research-briefings/cbp-8666/), published October 2021.
 - a second of txt files created by James from those pdfs, totalling 65k words.
   - using the [bash command line](https://programminghistorian.org/en/lessons/intro-to-bash) script `for file in *.pdf; do pdftotext "$file" "${file%.*}.txt"; done`.
+  - includes a [zip file for ease of download](https://github.com/Southampton-Digital-Humanities/HUMA2026_data-analysis/blob/main/txt/HUMA2026_climate-docs-txt.zip).
 
 ### Software Setup
 
