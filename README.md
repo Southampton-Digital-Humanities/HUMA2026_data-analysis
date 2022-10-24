@@ -17,7 +17,7 @@ We are using Topics Explorer to analyse this data.
 
 #### Windows
 
-Download and install 'dariah-topics-explorer-2.0.1-windows.zip' at [https://github.com/DARIAH-DE/TopicsExplorer/releases/tag/v2.0](https://github.com/DARIAH-DE/TopicsExplorer/releases/tag/v2.0).
+Download and install `dariah-topics-explorer-2.0.1-windows.zip` at [https://github.com/DARIAH-DE/TopicsExplorer/releases/tag/v2.0](https://github.com/DARIAH-DE/TopicsExplorer/releases/tag/v2.0).
 
 #### Mac
 
