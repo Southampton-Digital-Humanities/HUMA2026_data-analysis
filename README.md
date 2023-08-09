@@ -14,7 +14,7 @@ This repo contains two directories:
 ### Analysis
 
 1. Add the document to your Google Drive account, open it, select 'File' and then 'Save as Google Sheets'
-2. Go to *Topic Modeling for HUMA2026 Wk6 (data analytics for climate justice)* [![Colab](https://colab.research.google.com/drive/1eSxIMh2-WFTE-_-lC_96cO9Betrmnsnq?usp=sharing) on Google Colab, hit 'File' and 'Save a Copy in Drive', then start analysing!
+2. Go to **Topic Modeling for HUMA2026 Wk6 (data analytics for climate justice)** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSxIMh2-WFTE-_-lC_96cO9Betrmnsnq?usp=sharing) on Google Colab, hit 'File' and 'Save a Copy in Drive', then start analysing!
 
 ### Licence
 
