@@ -15,7 +15,7 @@ This repo contains two directories:
 
 1. Download [UK-climate-docs_for-LDA_v4.xlsx](https://github.com/Southampton-Digital-Humanities/HUMA2026_data-analysis/raw/main/txt/UK-climate-docs_for-LDA_v4.xlsx).
 2. Upload this document to your Google Drive account, open it, select 'File' and then 'Save as Google Sheets'
-3. Go to **[Topic Modeling for HUMA2026 Wk6 (data analytics for climate justice)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSxIMh2-WFTE-_-lC_96cO9Betrmnsnq?usp=sharing)** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSxIMh2-WFTE-_-lC_96cO9Betrmnsnq?usp=sharing) on Google Colab, hit 'File' and 'Save a Copy in Drive', then start analysing!
+3. Go to **[Topic Modeling for HUMA2026 Wk6 (data analytics for climate justice)](https://colab.research.google.com/drive/1eSxIMh2-WFTE-_-lC_96cO9Betrmnsnq?usp=sharing)** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSxIMh2-WFTE-_-lC_96cO9Betrmnsnq?usp=sharing) on Google Colab, hit 'File' and 'Save a Copy in Drive', then start analysing!
 
 ### Licence
 
