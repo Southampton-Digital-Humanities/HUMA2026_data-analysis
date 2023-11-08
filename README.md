@@ -6,7 +6,7 @@ Repo for HUMA2026 Data Environmentalism 'ExxonMobil's climate change communicati
 
 This repo contains two directories:
 
-- one of 17 pdfs [James](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker) found at The House of Commons Library page '[Climate change: an overview](https://commonslibrary.parliament.uk/research-briefings/cbp-8666/), published October 2021.
+- one containing 17 pdfs [James](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker) found at The House of Commons Library page '[Climate change: an overview](https://commonslibrary.parliament.uk/research-briefings/cbp-8666/), published October 2021.
 - a second of txt files created by James from those pdfs, totalling 65k words.
   - using the [bash command line](https://programminghistorian.org/en/lessons/intro-to-bash) script `for file in *.pdf; do pdftotext "$file" "${file%.*}.txt"; done`.
   - then combined into one file (with a little descriptive detail at the start of each line) and made into a spreadsheet.
